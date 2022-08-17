@@ -1,0 +1,256 @@
+datWeaponHelp.PTP	0	0	<EMPTY>	@weapon_000	
+datWeaponHelp.PTP	1	0	<EMPTY>	見た目はそれっぽい刀。	；如看上去一样的刀。
+datWeaponHelp.PTP	2	0	<EMPTY>	闇を�う天下の名刀。	；劈开黑暗的天下的名刀。
+datWeaponHelp.PTP	3	0	<EMPTY>	三日月の刃文が浮かぶ名刀。	；有新月形刀刃的名刀。
+datWeaponHelp.PTP	4	0	<EMPTY>	全てを両断する妖剣。	；能把一切劈成两半的妖剑。
+datWeaponHelp.PTP	5	0	<EMPTY>	病を�うと言われる名刀。	；据说能斩杀病魔的名刀。
+datWeaponHelp.PTP	6	0	<EMPTY>	日蓮の愛刀である破邪の刀。	；作为日莲的爱刀的破邪之刀。
+datWeaponHelp.PTP	7	0	<EMPTY>	やや重い、長尺の両手剣。	；稍重的长双手剑。
+datWeaponHelp.PTP	8	0	<EMPTY>	両手で扱う柄が長めの剣。	；两手来握的长柄剑。
+datWeaponHelp.PTP	9	0	<EMPTY>	通常よりかなり長い両手剣。	；比一般的长很多的双手剑。
+datWeaponHelp.PTP	10	0	<EMPTY>	怪しく輝く剣。	；放出奇怪光芒的剑。
+datWeaponHelp.PTP	11	0	<EMPTY>	争いを象徴する剣。	；象征战斗的剑。
+datWeaponHelp.PTP	12	0	<EMPTY>	ジ‒クフリ‒ドの魔剣。	；齐格飞的魔剑。
+datWeaponHelp.PTP	13	0	<EMPTY>	長く細い両手剣。	；细长的双手剑。
+datWeaponHelp.PTP	14	0	<EMPTY>	0x00E	
+datWeaponHelp.PTP	15	0	<EMPTY>	0x00F	
+datWeaponHelp.PTP	16	0	<EMPTY>	つやを消した暗殺剣。	；消去光芒的暗杀剑。
+datWeaponHelp.PTP	17	0	<EMPTY>	ガラハドが使った剣。	；加拉哈德用过的剑。
+datWeaponHelp.PTP	18	0	<EMPTY>	2メ‒トルを超える巨大剣。	；超过两米的巨大剑。
+datWeaponHelp.PTP	19	0	<EMPTY>	基本的な合体両手剣。	；基本的合体双手剑。
+datWeaponHelp.PTP	20	0	<EMPTY>	基本的な合体両手剣。	；基本的合体双手剑。
+datWeaponHelp.PTP	21	0	<EMPTY>	基本的な合体両手剣。	；基本的合体双手剑。
+datWeaponHelp.PTP	22	0	<EMPTY>	釘を打ち込んだバット。	；钉了钉子的球棒。
+datWeaponHelp.PTP	23	0	<EMPTY>	世界を焼き尽くす剣。	；将世界燃烧殆尽的剑。
+datWeaponHelp.PTP	24	0	<EMPTY>	将門公の使った刀。	；将门公用过的刀。
+datWeaponHelp.PTP	25	0	<EMPTY>	色々な事が出来るらしい刀。	；可以做出很多事情的刀。
+datWeaponHelp.PTP	26	0	<EMPTY>	0x01A	
+datWeaponHelp.PTP	27	0	<EMPTY>	刃が太く、重い刀。	；刃厚重的刀。
+datWeaponHelp.PTP	28	0	<EMPTY>	非常に軽く、切れ味鋭い刀。	；非常轻便，锋利的刀。
+datWeaponHelp.PTP	29	0	<EMPTY>	かなりの切れ味を誇る刀。	；因锋利而自豪的刀。
+datWeaponHelp.PTP	30	0	<EMPTY>	0x01E	
+datWeaponHelp.PTP	31	0	<EMPTY>	0x01F	
+datWeaponHelp.PTP	32	0	<EMPTY>	練習で使われる安価な突剣。	；练习使用的便宜的刺剑。
+datWeaponHelp.PTP	33	0	<EMPTY>	突きに特化した剣。	；特化突刺的剑。
+datWeaponHelp.PTP	34	0	<EMPTY>	錆びる事のない剣。	；不会生锈的剑。
+datWeaponHelp.PTP	35	0	<EMPTY>	レイピアを強化した剣。	；强化了的刺剑。
+datWeaponHelp.PTP	36	0	<EMPTY>	防御に特化した小剣。	；特化了防御的小剑。
+datWeaponHelp.PTP	37	0	<EMPTY>	羽の様に軽いレイピア。	；像羽毛一样轻的刺剑。
+datWeaponHelp.PTP	38	0	<EMPTY>	片手でも扱いやすい小剣。	；单手也很容易使用的小剑。
+datWeaponHelp.PTP	39	0	<EMPTY>	"勇気"という名の小剣。	；名为勇气的小剑。
+datWeaponHelp.PTP	40	0	<EMPTY>	銀で作られたサ‒ベル。	；银制作的军刀。
+datWeaponHelp.PTP	41	0	<EMPTY>	太陽の装飾が施された剣。	；加了太阳装饰的剑。
+datWeaponHelp.PTP	42	0	<EMPTY>	0x02A	
+datWeaponHelp.PTP	43	0	<EMPTY>	竜をも倒した名剣。	；连龙都能打倒的名剑。
+datWeaponHelp.PTP	44	0	<EMPTY>	軽くて扱い易い剣。	；轻便易用的剑。
+datWeaponHelp.PTP	45	0	<EMPTY>	鋭い剣先を持つ剣。	；有锋利的尖的剑。
+datWeaponHelp.PTP	46	0	<EMPTY>	刺突に適した小剣。	；适合突刺的小剑。
+datWeaponHelp.PTP	47	0	<EMPTY>	月の装飾が施された剣。	；加了月亮装饰的剑。
+datWeaponHelp.PTP	48	0	<EMPTY>	冷たい光を放つ剣。	；放出寒冷光芒的剑。
+datWeaponHelp.PTP	49	0	<EMPTY>	伝説の聖剣。	；传说中的圣剑。
+datWeaponHelp.PTP	50	0	<EMPTY>	基本的な合体片手剣。	；基本的合体片手剑。
+datWeaponHelp.PTP	51	0	<EMPTY>	基本的な合体片手剣。	；基本的合体片手剑。
+datWeaponHelp.PTP	52	0	<EMPTY>	基本的な合体片手剣。	；基本的合体片手剑。
+datWeaponHelp.PTP	53	0	<EMPTY>	使い古された水道管。	；基本的合体片手剑。
+datWeaponHelp.PTP	54	0	<EMPTY>	ミカエルの持つ金の剣。	；基本的合体片手剑。
+datWeaponHelp.PTP	55	0	<EMPTY>	堕天使の宝石で作られた剣。	；堕天使的宝石制作的剑。
+datWeaponHelp.PTP	56	0	<EMPTY>	0x038	
+datWeaponHelp.PTP	57	0	<EMPTY>	0x039	
+datWeaponHelp.PTP	58	0	<EMPTY>	0x03A	
+datWeaponHelp.PTP	59	0	<EMPTY>	0x03B	
+datWeaponHelp.PTP	60	0	<EMPTY>	0x03C	
+datWeaponHelp.PTP	61	0	<EMPTY>	0x03D	
+datWeaponHelp.PTP	62	0	<EMPTY>	0x03E	
+datWeaponHelp.PTP	63	0	<EMPTY>	0x03F	
+datWeaponHelp.PTP	64	0	<EMPTY>	0x040	
+datWeaponHelp.PTP	65	0	<EMPTY>	軽量化が施されたグラブ。	；进行了轻量化的手套。
+datWeaponHelp.PTP	66	0	<EMPTY>	怒気を含んだ拳。	；包含了怒气的全套。
+datWeaponHelp.PTP	67	0	<EMPTY>	最高技術で作られたグラブ。	；用最高的技术制作的手套。
+datWeaponHelp.PTP	68	0	<EMPTY>	拳闘士が使用するグラブ。	；拳斗士使用的手套。
+datWeaponHelp.PTP	69	0	<EMPTY>	数々の伝説を持つグラブ。	；拥有数个传说的手套。
+datWeaponHelp.PTP	70	0	<EMPTY>	王者のレプリカグラブ。	；王者手套的复制品。
+datWeaponHelp.PTP	71	0	<EMPTY>	安定性を重視した拳武器。	；重视稳定性的拳武器。
+datWeaponHelp.PTP	72	0	<EMPTY>	破壊力を重視した拳武器。	；重视破坏力的拳武器。
+datWeaponHelp.PTP	73	0	<EMPTY>	最もシンプルな拳武器。	；最简单的拳武器。
+datWeaponHelp.PTP	74	0	<EMPTY>	多くの血を吸った拳武器。	；吸了大量血的拳武器。
+datWeaponHelp.PTP	75	0	<EMPTY>	強烈な威力を持つ拳武器。	；拥有强烈威力的拳武器。
+datWeaponHelp.PTP	76	0	<EMPTY>	空気の如き軽さの拳武器。	；像空气一样轻的拳武器。
+datWeaponHelp.PTP	77	0	<EMPTY>	獣の牙を模した拳武器。	；模仿野兽獠牙的拳武器。
+datWeaponHelp.PTP	78	0	<EMPTY>	鋭利な刃を持つ拳武器。	；有锋利刀刃的拳·1武器。
+datWeaponHelp.PTP	79	0	<EMPTY>	名剣を加工した拳武器。	；由名剑加工的拳武器。
+datWeaponHelp.PTP	80	0	<EMPTY>	神罰の如き重みの剛器。	；如神罚般重的刚器。
+datWeaponHelp.PTP	81	0	<EMPTY>	竜の牙を模した拳武器。	；模仿龙牙的拳武器。
+datWeaponHelp.PTP	82	0	<EMPTY>	基本的な合体拳武器。	；基本的合体拳武器。
+datWeaponHelp.PTP	83	0	<EMPTY>	基本的な合体拳武器。	；基本的合体拳武器。
+datWeaponHelp.PTP	84	0	<EMPTY>	基本的な合体拳武器。	；基本的合体拳武器。
+datWeaponHelp.PTP	85	0	<EMPTY>	ジャック兄弟の手袋。	；杰克兄弟的手套。
+datWeaponHelp.PTP	86	0	<EMPTY>	聖なる手の呪物。	；神圣之手的咒物。
+datWeaponHelp.PTP	87	0	<EMPTY>	かの魔王の力を持つ魔手。	；持有魔王之力的魔手。
+datWeaponHelp.PTP	88	0	<EMPTY>	0x058	
+datWeaponHelp.PTP	89	0	<EMPTY>	0x059	
+datWeaponHelp.PTP	90	0	<EMPTY>	0x05A	
+datWeaponHelp.PTP	91	0	<EMPTY>	0x05B	
+datWeaponHelp.PTP	92	0	<EMPTY>	0x05C	
+datWeaponHelp.PTP	93	0	<EMPTY>	0x05D	
+datWeaponHelp.PTP	94	0	<EMPTY>	0x05E	
+datWeaponHelp.PTP	95	0	<EMPTY>	0x05F	
+datWeaponHelp.PTP	96	0	<EMPTY>	"根性注入"と書いてある。	；写了"注入毅力"。
+datWeaponHelp.PTP	97	0	<EMPTY>	0x061	
+datWeaponHelp.PTP	98	0	<EMPTY>	盾ごと破壊するロッド。	；可以摧毁盾牌的棒。
+datWeaponHelp.PTP	99	0	<EMPTY>	0x063	
+datWeaponHelp.PTP	100	0	<EMPTY>	とある殺人鬼の手製武器。	；某个杀人狂的手作武器。
+datWeaponHelp.PTP	101	0	<EMPTY>	とある名工の傑作。	；某个名匠的杰作。
+datWeaponHelp.PTP	102	0	<EMPTY>	0x066	
+datWeaponHelp.PTP	103	0	<EMPTY>	十字を模した打撃武器。	；模仿十字架的打击武器。
+datWeaponHelp.PTP	104	0	<EMPTY>	処刑用の斧。	；处刑用的斧。
+datWeaponHelp.PTP	105	0	<EMPTY>	鎧ごとたたき割る為の斧。	；为了砍碎盔甲的斧子。
+datWeaponHelp.PTP	106	0	<EMPTY>	罪人の狂気を吸った斧。	；吸收了罪人的狂气的斧子。
+datWeaponHelp.PTP	107	0	<EMPTY>	使いやすく殺傷力の高い斧。	；用起来很方便杀伤力高的斧子。
+datWeaponHelp.PTP	108	0	<EMPTY>	0x06C	
+datWeaponHelp.PTP	109	0	<EMPTY>	巨大な槌。	；巨大的锤。
+datWeaponHelp.PTP	110	0	<EMPTY>	地の神の加護を受けた槌。	；受到地神加护的锤。
+datWeaponHelp.PTP	111	0	<EMPTY>	凶悪な破壊力を持った鎚。	；有凶恶破坏力的锤子。
+datWeaponHelp.PTP	112	0	<EMPTY>	妖精が作ったとされる鎚。	；妖精制造的锤子。
+datWeaponHelp.PTP	113	0	<EMPTY>	叩けば地を割ると伝わる鎚。	；敲击可以将地面割裂的锤子。
+datWeaponHelp.PTP	114	0	<EMPTY>	基本的な合体鈍器。	；基本的合体钝器。
+datWeaponHelp.PTP	115	0	<EMPTY>	基本的な合体鈍器。	；基本的合体钝器。
+datWeaponHelp.PTP	116	0	<EMPTY>	基本的な合体鈍器。	；基本的合体钝器。
+datWeaponHelp.PTP	117	0	<EMPTY>	学園前と書いてある。	；写着学校前。
+datWeaponHelp.PTP	118	0	<EMPTY>	ベルゼブブの持つ杖。	；别西卜所持的杖。
+datWeaponHelp.PTP	119	0	<EMPTY>	聖なる力を併せ持つ石鎚。	；持有神圣之力的石锤。
+datWeaponHelp.PTP	120	0	<EMPTY>	クロスロッドを強化した物。	；强化了的十字尺。
+datWeaponHelp.PTP	121	0	<EMPTY>	0x079	
+datWeaponHelp.PTP	122	0	<EMPTY>	0x07A	
+datWeaponHelp.PTP	123	0	<EMPTY>	0x07B	
+datWeaponHelp.PTP	124	0	<EMPTY>	0x07C	
+datWeaponHelp.PTP	125	0	<EMPTY>	0x07D	
+datWeaponHelp.PTP	126	0	<EMPTY>	0x07E	
+datWeaponHelp.PTP	127	0	<EMPTY>	0x07F	
+datWeaponHelp.PTP	128	0	<EMPTY>	オメガパワ‒を秘めた槍。	；含有奥米茄之力的枪。
+datWeaponHelp.PTP	129	0	<EMPTY>	貫通力に長けた槍。	；贯通力好的枪。
+datWeaponHelp.PTP	130	0	<EMPTY>	死を呼ぶと伝わる槍。	；被称作呼唤死亡的枪。
+datWeaponHelp.PTP	131	0	<EMPTY>	軽く強い万能型の槍。	；轻巧强大的万能之枪。
+datWeaponHelp.PTP	132	0	<EMPTY>	ア‒サ‒王の持った名槍。	；亚瑟王的名枪。
+datWeaponHelp.PTP	133	0	<EMPTY>	ク‒·フ‒リンの持つ魔槍。	；库丘林的魔枪。
+datWeaponHelp.PTP	134	0	<EMPTY>	斬る事に特化した長柄武器。	；特化了斩击的长柄武器。
+datWeaponHelp.PTP	135	0	<EMPTY>	反逆者が好んで使用した槍。	；反叛者喜欢用的枪。
+datWeaponHelp.PTP	136	0	<EMPTY>	美しい鋒は全てを魅了する。	；美丽的锋刃令一切着迷。
+datWeaponHelp.PTP	137	0	<EMPTY>	シンプルな形状の長刀。	；形状简单的长刀。
+datWeaponHelp.PTP	138	0	<EMPTY>	毒薬に浸した長刀。	；浸泡过毒药的长刀。
+datWeaponHelp.PTP	139	0	<EMPTY>	関羽が使ったとされる長刀。	；关羽用过的长刀。
+datWeaponHelp.PTP	140	0	<EMPTY>	先が十字に割れた和槍。	；尖头裂成十字的和式枪。
+datWeaponHelp.PTP	141	0	<EMPTY>	0x08D	
+datWeaponHelp.PTP	142	0	<EMPTY>	刃に桜が彫られた十字槍。	；刃上雕刻着樱花的十字枪。
+datWeaponHelp.PTP	143	0	<EMPTY>	長大で美しい名槍。	；长而美丽的名枪。
+datWeaponHelp.PTP	144	0	<EMPTY>	黒田節で有名な名槍。	；因为黑田节而出名的名枪。
+datWeaponHelp.PTP	145	0	<EMPTY>	本多忠勝が愛用した名槍。	；本多忠胜爱用的名枪。
+datWeaponHelp.PTP	146	0	<EMPTY>	基本的な合体槍。	；基本的合体枪。
+datWeaponHelp.PTP	147	0	<EMPTY>	基本的な合体槍。	；基本的合体枪。
+datWeaponHelp.PTP	148	0	<EMPTY>	基本的な合体槍。	；基本的合体枪。
+datWeaponHelp.PTP	149	0	<EMPTY>	清掃用のブラシ。	；扫除用的刷子。
+datWeaponHelp.PTP	150	0	<EMPTY>	ル‒ンの刻まれた銀の槍。	；刻有卢恩字母的银枪。
+datWeaponHelp.PTP	151	0	<EMPTY>	強大な力を持つ三叉の槍。	；拥有强大力量的三叉枪。
+datWeaponHelp.PTP	152	0	<EMPTY>	0x098	
+datWeaponHelp.PTP	153	0	<EMPTY>	0x099	
+datWeaponHelp.PTP	154	0	<EMPTY>	0x09A	
+datWeaponHelp.PTP	155	0	<EMPTY>	0x09B	
+datWeaponHelp.PTP	156	0	<EMPTY>	0x09C	
+datWeaponHelp.PTP	157	0	<EMPTY>	0x09D	
+datWeaponHelp.PTP	158	0	<EMPTY>	0x09E	
+datWeaponHelp.PTP	159	0	<EMPTY>	0x09F	
+datWeaponHelp.PTP	160	0	<EMPTY>	軽量で扱い易い弓。	；轻便易用的弓。
+datWeaponHelp.PTP	161	0	<EMPTY>	金属の装飾が施された弓。	；用金属做装饰的弓。
+datWeaponHelp.PTP	162	0	<EMPTY>	木と皮で作られた弓。	；用木头和皮制成的弓。
+datWeaponHelp.PTP	163	0	<EMPTY>	美しい軌跡で矢を飛ばす弓。	；可以将箭射出美丽轨迹的弓。
+datWeaponHelp.PTP	164	0	<EMPTY>	0x0A4	
+datWeaponHelp.PTP	165	0	<EMPTY>	0x0A5	
+datWeaponHelp.PTP	166	0	<EMPTY>	音を立てて、混乱を促す弓。	；发出声响导致混乱的弓。
+datWeaponHelp.PTP	167	0	<EMPTY>	遠距離用の弓。	；远距离用的弓。
+datWeaponHelp.PTP	168	0	<EMPTY>	かなり大きめの強力な弓。	；很大的强力的弓。
+datWeaponHelp.PTP	169	0	<EMPTY>	羽のように軽い魔法の弓。	；像羽毛一样轻的魔法之弓。
+datWeaponHelp.PTP	170	0	<EMPTY>	雷の如き速さで矢を放つ弓。	；放出的箭速度如雷电的弓。
+datWeaponHelp.PTP	171	0	<EMPTY>	0x0AB	；。
+datWeaponHelp.PTP	172	0	<EMPTY>	練習用の安価な長弓。	；练习用的便宜的长弓。
+datWeaponHelp.PTP	173	0	<EMPTY>	藤を厚く巻いた弓。	；缠着厚藤的弓。
+datWeaponHelp.PTP	174	0	<EMPTY>	竹を用いて強化された弓。	；用竹子强化的弓。
+datWeaponHelp.PTP	175	0	<EMPTY>	大きめに作られた強弓。	；做的很大的强弓。
+datWeaponHelp.PTP	176	0	<EMPTY>	戦場を駆けた女武将の弓。	；在战场上驰骋的女武将的弓。
+datWeaponHelp.PTP	177	0	<EMPTY>	伝説の名人が使った弓。	；传说中的名人使用的弓。
+datWeaponHelp.PTP	178	0	<EMPTY>	基本的な合体弓。	；基本的合体弓。
+datWeaponHelp.PTP	179	0	<EMPTY>	基本的な合体弓。	；基本的合体弓。
+datWeaponHelp.PTP	180	0	<EMPTY>	基本的な合体弓。	；基本的合体弓。
+datWeaponHelp.PTP	181	0	<EMPTY>	吸盤付きの矢を発射する弓。	；发射带有吸盘的箭的弓。
+datWeaponHelp.PTP	182	0	<EMPTY>	太陽の光から作られた弓。	；太阳的光芒制作的弓。
+datWeaponHelp.PTP	183	0	<EMPTY>	あらゆる弓の元となった弓。	；所有弓的来源。
+datWeaponHelp.PTP	184	0	<EMPTY>	0x0B8	
+datWeaponHelp.PTP	185	0	<EMPTY>	0x0B9	
+datWeaponHelp.PTP	186	0	<EMPTY>	0x0BA	
+datWeaponHelp.PTP	187	0	<EMPTY>	0x0BB	
+datWeaponHelp.PTP	188	0	<EMPTY>	0x0BC	
+datWeaponHelp.PTP	189	0	<EMPTY>	0x0BD	
+datWeaponHelp.PTP	190	0	<EMPTY>	0x0BE	
+datWeaponHelp.PTP	191	0	<EMPTY>	0x0BF	
+datWeaponHelp.PTP	192	0	<EMPTY>	0x0C0	
+datWeaponHelp.PTP	193	0	<EMPTY>	0x0C1	
+datWeaponHelp.PTP	194	0	<EMPTY>	帯オルゴン型弾頭を使う銃。	；使用了带奥根能量的弹头的枪。
+datWeaponHelp.PTP	195	0	<EMPTY>	最新式の対シャドウ銃。	；最新型的对阴影枪。
+datWeaponHelp.PTP	196	0	<EMPTY>	その威力、神の接吻。	；威力如同神的接吻。
+datWeaponHelp.PTP	197	0	<EMPTY>	太古の遺産を内蔵した銃。	；内藏了太古遗产的枪。
+datWeaponHelp.PTP	198	0	<EMPTY>	2指連動の発射機構。	；两指连动的发射机构。
+datWeaponHelp.PTP	199	0	<EMPTY>	3指連動の発射機構。	；三指连动的发射机构。
+datWeaponHelp.PTP	200	0	<EMPTY>	全5指連動の発射機構。	；全部五根指头连动的发射机构。
+datWeaponHelp.PTP	201	0	<EMPTY>	銃身6段可変の連射機構。	；枪神六段可变的连射机构。
+datWeaponHelp.PTP	202	0	<EMPTY>	耐熱限界まで連射する機構。	；直到过热极限之前都可以连射的机构。
+datWeaponHelp.PTP	203	0	<EMPTY>	オルギア転用の超連射機構。	；奥尔吉亚用的超连射机构。
+datWeaponHelp.PTP	204	0	<EMPTY>	0x0CC	
+datWeaponHelp.PTP	205	0	<EMPTY>	80ミリの大口径てき弾砲。	；80毫米的大口径炮。
+datWeaponHelp.PTP	206	0	<EMPTY>	電磁誘導で鉄塊を射出。	；通过电磁诱导把铁块发射。
+datWeaponHelp.PTP	207	0	<EMPTY>	0x0CF	
+datWeaponHelp.PTP	208	0	<EMPTY>	体内で対消滅反応が発生。	；在体内发声湮灭反应。
+datWeaponHelp.PTP	209	0	<EMPTY>	全ての汚れを焼き�う業火。	；将一切烧尽的业火。
+datWeaponHelp.PTP	210	0	<EMPTY>	基本的な合体銃。	；基本的合体枪。
+datWeaponHelp.PTP	211	0	<EMPTY>	基本的な合体銃。	；基本的合体枪。
+datWeaponHelp.PTP	212	0	<EMPTY>	基本的な合体銃。	；基本的合体枪。
+datWeaponHelp.PTP	213	0	<EMPTY>	推進式鉄拳制裁兵器。	；推进式铁拳制裁兵器。
+datWeaponHelp.PTP	214	0	<EMPTY>	神の名を与えられた銃。	；被赋予神之名的枪。
+datWeaponHelp.PTP	215	0	<EMPTY>	対シャドウシステム搭載。	；搭哉了对阴影系统。
+datWeaponHelp.PTP	216	0	<EMPTY>	貫通能力を高めたライフル。	；贯通能力强的来福枪。
+datWeaponHelp.PTP	217	0	<EMPTY>	美しきダ‒クマタ‒。	；美丽的暗物质。
+datWeaponHelp.PTP	218	0	<EMPTY>	最新式誘導装置を搭載。	；搭哉了最新型的诱导装置。
+datWeaponHelp.PTP	219	0	<EMPTY>	素粒子を発射機構に転用。	；用于粒子的发射机构。
+datWeaponHelp.PTP	220	0	<EMPTY>	小口径の軽量銃。	；小口径的轻量枪。
+datWeaponHelp.PTP	221	0	<EMPTY>	0x0D2	
+datWeaponHelp.PTP	222	0	<EMPTY>	0x0D3	
+datWeaponHelp.PTP	223	0	<EMPTY>	0x0D4	
+datWeaponHelp.PTP	224	0	<EMPTY>	0x0E0	
+datWeaponHelp.PTP	225	0	<EMPTY>	闇のように黒い苦無。	；如暗夜的黑色苦无。
+datWeaponHelp.PTP	226	0	<EMPTY>	忍者が使う万能武器。	；忍者使用的万能武器。
+datWeaponHelp.PTP	227	0	<EMPTY>	普通の苦無。	；普通的苦无。
+datWeaponHelp.PTP	228	0	<EMPTY>	風の模様が彫られた小刀。	；雕刻风的形状的小岛。
+datWeaponHelp.PTP	229	0	<EMPTY>	殺傷力が強いくない。	；杀伤力不是很强。
+datWeaponHelp.PTP	230	0	<EMPTY>	0x0E6	
+datWeaponHelp.PTP	231	0	<EMPTY>	非常に軽い暗殺用苦無。	；非常轻的暗杀用苦无。
+datWeaponHelp.PTP	232	0	<EMPTY>	ある忍が愛用していた苦無。	；某个忍者爱用的苦无。
+datWeaponHelp.PTP	233	0	<EMPTY>	0x0E9	
+datWeaponHelp.PTP	234	0	<EMPTY>	0x0EA	
+datWeaponHelp.PTP	235	0	<EMPTY>	0x0EB	
+datWeaponHelp.PTP	236	0	<EMPTY>	剣を折る事に特化したナイフ。	；可以砍断剑的特化型小岛。
+datWeaponHelp.PTP	237	0	<EMPTY>	犬用殺傷マスク。	；够用的杀伤面具。
+datWeaponHelp.PTP	238	0	<EMPTY>	風のように軽いナイフ。	；如风一样轻的小刀。
+datWeaponHelp.PTP	239	0	<EMPTY>	特徴的な形のナイフ。	；有特征形状的小刀。
+datWeaponHelp.PTP	240	0	<EMPTY>	かなり厚く、重いナイフ。	；很厚很重的小刀。
+datWeaponHelp.PTP	241	0	<EMPTY>	その残光は白銀の月の如し。	；白银的残光如同月光。
+datWeaponHelp.PTP	242	0	<EMPTY>	基本的な合体小刀。	；基本的合体小刀。
+datWeaponHelp.PTP	243	0	<EMPTY>	基本的な合体小刀。	；基本的合体小刀。
+datWeaponHelp.PTP	244	0	<EMPTY>	カルシウムたっぷり。	；钙质充足。
+datWeaponHelp.PTP	245	0	<EMPTY>	聖仙の骨で作られた法具。	；圣西安的骨制作的法器。
+datWeaponHelp.PTP	246	0	<EMPTY>	基本的な合体小刀。	；基本的合体小刀。
+datWeaponHelp.PTP	247	0	<EMPTY>	0x0F7	
+datWeaponHelp.PTP	248	0	<EMPTY>	0x0F8	
+datWeaponHelp.PTP	249	0	<EMPTY>	0x0F9	
+datWeaponHelp.PTP	250	0	<EMPTY>	0x0FA	
+datWeaponHelp.PTP	251	0	<EMPTY>	0x0FB	
+datWeaponHelp.PTP	252	0	<EMPTY>	0x0FC	
+datWeaponHelp.PTP	253	0	<EMPTY>	0x0FD	
+datWeaponHelp.PTP	254	0	<EMPTY>	0x0FE	
+datWeaponHelp.PTP	255	0	<EMPTY>	0x0FF	

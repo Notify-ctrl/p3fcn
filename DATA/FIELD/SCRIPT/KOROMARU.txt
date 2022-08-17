@@ -1,0 +1,78 @@
+﻿KOROMARU.PTP	0	0	<SELECT>	はい；是
+KOROMARU.PTP	0	1	<SELECT>	いいえ；否
+KOROMARU.PTP	1	0	<SELECT>	装備と状態を確認する；确认装备与状态
+KOROMARU.PTP	1	1	<SELECT>	体力回復を頼む；请求恢复体力
+KOROMARU.PTP	1	2	<SELECT>	何でもない；没什么
+KOROMARU.PTP	2	0	<SELECT>	次に進もう；继续前进吧
+KOROMARU.PTP	2	1	<SELECT>	少し待ってほしい；请稍等一下
+KOROMARU.PTP	3	0	<SELECT>	次の階に進む；去下一层吧
+KOROMARU.PTP	3	1	<SELECT>	まだこの階に留まる；留在这层吧
+KOROMARU.PTP	4	0	<SELECT>	エントランスに戻ろう；回到入口处吧
+KOROMARU.PTP	4	1	<SELECT>	まだ戻らない；先不回去
+KOROMARU.PTP	5	0	<SELECT>	扉の間に戻る；回到门之间
+KOROMARU.PTP	5	1	<SELECT>	まだ戻らない；先不回去
+KOROMARU.PTP	6	0	岳羽 ゆかり	はい、コレ。；这个拿好。
+KOROMARU.PTP	7	0	アイギス	これが集めたものです。；这是搜集到的东西。
+KOROMARU.PTP	8	0	桐条 美鶴	入手したものを渡しておこう。；拿到的东西都给你吧。
+KOROMARU.PTP	9	0	伊織 順平	じゃあ、コレ。；这个拿好。
+KOROMARU.PTP	10	0	真田 明彦	ほらよ。；看吧。	
+KOROMARU.PTP	11	0	天田 乾	コレ、持っててください。；这个，请收下。
+KOROMARU.PTP	12	0	荒垣 真次郎	⋯やるよ。；…我会的。
+KOROMARU.PTP	13	0	メティス	拾得物はこれだけです。；捡到的东西只有这些。
+KOROMARU.PTP	14	0	コロマル	ワン! ；汪！
+KOROMARU.PTP	14	1	コロマル	>コロマルが何かを渡してきた。；虎狼丸递来了什么东西。
+KOROMARU.PTP	15	0	コロマル	ワン!	；汪！
+KOROMARU.PTP	15	1	コロマル	>コロマルが何かを渡してきた。；虎狼丸递来了什么东西。
+KOROMARU.PTP	16	0	<EMPTY>	>{F3 1A 01 01 02 01}を{F2 03 03 01}個、受け取った。；＞得到了{F3 1A 01 01 02 01}个{F2 03 03 01}。
+KOROMARU.PTP	17	0	<EMPTY>	>{F3 1A 01 01 02 01}を{F2 03 03 01}個、受け取った。{0A} {F3 1A 04 01 05 01}を{F2 03 06 01}個、受け取った。；＞得到了{F3 1A 01 01 02 01}个{F2 03 03 01}。{0A}得到了{F3 1A 04 01 05 01}个{F2 03 06 01}。
+KOROMARU.PTP	18	0	コロマル	ワオ~ン!；呜～汪！
+KOROMARU.PTP	18	1	コロマル	>コロマルが階段を見つけたようだ。；虎狼丸好像发现楼梯了。	
+KOROMARU.PTP	19	0	コロマル	ワンワン!；汪汪！
+KOROMARU.PTP	20	0	<EMPTY>	ワン!；汪！
+KOROMARU.PTP	21	0	桐条 美鶴	体力を消耗して動けないメンバ‒と{0A}戦闘中のメンバ‒がいる。；有体力耗尽无法行动的成员{0A}和还在战斗中的成员。
+KOROMARU.PTP	21	1	桐条 美鶴	彼らを残して、先に進むのか?	；留下他们，继续前进吗？
+KOROMARU.PTP	22	0	桐条 美鶴	戦闘中のメンバ‒がいる。{0A}彼らを残して、先に進むのか?	；有成员还在战斗中{0A}让他们留下，继续前进吗？
+KOROMARU.PTP	23	0	桐条 美鶴	体力を消耗して動けないメンバ‒がいる。{0A}彼らを残して、先に進むのか?	；有体力耗尽无法行动的成员{0A}让他们留下，继续前进吗？
+KOROMARU.PTP	24	0	桐条 美鶴	⋯そうか、では次に進むぞ!{0A}残るメンバ‒は自力で帰還しろ!	；是吗...那就继续前进吧！{0A}剩下的成员自行返回！
+KOROMARU.PTP	25	0	山岸 風花	体力を消耗して動けないメンバ‒と、{0A}戦闘中のメンバ‒がいます。；有体力耗尽无法行动的成员、{0A}还在战斗中的成员。
+KOROMARU.PTP	25	1	山岸 風花	このまま先に進むんですか⋯?	；就这样继续前进吗⋯?
+KOROMARU.PTP	26	0	山岸 風花	戦闘中のメンバ‒がいます。{0A}このまま先に進むんですか⋯?	；有成员还在战斗中。{0A}就这样继续前进吗⋯?
+KOROMARU.PTP	27	0	山岸 風花	体力を消耗して動けないメンバ‒がいます。{0A}このまま先に進むんですか⋯?	；有成员还在战斗中。{0A}就这样继续前进吗⋯?
+KOROMARU.PTP	28	0	山岸 風花	⋯はい、わかりました!	；…好的，我知道了！
+KOROMARU.PTP	28	1	山岸 風花	では、次に進みましょう!{0A}残ったメンバ‒は自力で帰還願います!	；那么，继续前进吧！{0A}剩下的成员自行返回！
+KOROMARU.PTP	29	0	コロマル	ワン、ワオ~ン!	；汪、呜汪！
+KOROMARU.PTP	29	1	コロマル	>コロマルが脱出ポイントを見つけたようだ。	；＞虎狼丸好像发现撤离点了。
+KOROMARU.PTP	30	0	コロマル	ワンワン!	；汪汪！
+KOROMARU.PTP	31	0	<EMPTY>	ワンワン!	；汪汪！
+KOROMARU.PTP	32	0	<EMPTY>	キュ‒ン⋯	；呦…
+KOROMARU.PTP	33	0	<EMPTY>	グルルルルル⋯	；咕噜噜噜噜噜…
+KOROMARU.PTP	34	0	<EMPTY>	ワンワン!	；汪汪！
+KOROMARU.PTP	35	0	<EMPTY>	グルルルルル⋯	；咕噜噜噜噜噜…
+KOROMARU.PTP	36	0	<EMPTY>	ワンワン!	；汪汪！
+KOROMARU.PTP	37	0	<EMPTY>	グルルルルル⋯	；咕噜噜噜噜噜…
+KOROMARU.PTP	38	0	<EMPTY>	キャン!	；呜！
+KOROMARU.PTP	39	0	<EMPTY>	キャオ~ン!	；呜哦！
+KOROMARU.PTP	40	0	<EMPTY>	ワワワワワン!	；呜呜汪！
+KOROMARU.PTP	41	0	<EMPTY>	ワワワン!	；呜汪！
+KOROMARU.PTP	42	0	<EMPTY>	キュ‒ン⋯	；呦…
+KOROMARU.PTP	43	0	<EMPTY>	ワォ~ン!	；哇汪！
+KOROMARU.PTP	44	0	<EMPTY>	ワォ~ン!	；哇汪！
+KOROMARU.PTP	45	0	<EMPTY>	ワォ~ン!	；哇汪！
+KOROMARU.PTP	46	0	<EMPTY>	ワォ~ン!	；哇汪！
+KOROMARU.PTP	47	0	<EMPTY>	ワォ~ン!	；哇汪！
+KOROMARU.PTP	48	0	望月 綾時	ここは素直に出てって{0A}謝った方がいいんじゃない?	；坦白来讲{0A}还是道歉比较好吧？
+KOROMARU.PTP	49	0	コロマル	ワン?	；汪？
+KOROMARU.PTP	50	0	コロマル	ワンワン!	；汪汪！
+KOROMARU.PTP	51	0	コロマル	ゼッ⋯ゼッ⋯ブシュン!	；嘘…嘘…噗！
+KOROMARU.PTP	52	0	コロマル	ゼッ⋯ゼッ⋯	；嘘…嘘…
+KOROMARU.PTP	53	0	コロマル	ワォ~ン!	；哇！
+KOROMARU.PTP	54	0	コロマル	グルルルル⋯	；咕噜噜噜噜…
+KOROMARU.PTP	55	0	コロマル	ワン!	；汪！
+KOROMARU.PTP	55	1	コロマル	>コロマルの装備が新しくなっている。；＞虎狼丸的装备更新了。
+KOROMARU.PTP	56	0	コロマル	ワン!	；汪！
+KOROMARU.PTP	56	1	コロマル	>コロマルが前に渡した装備を返してきた。；＞虎狼丸归还了之前给它的装备。
+KOROMARU.PTP	57	0	<EMPTY>	>{F3 1A 01 01 02 01}を受け取った。	；＞{F3 1A 01 01 02 01}到手了。
+KOROMARU.PTP	58	0	<EMPTY>	>{F3 1A 01 01 02 01}を受け取った。{0A} {F3 1A 03 01 04 01}を受け取った。	；＞{F3 1A 01 01 02 01}到手了。{0A}{F3 1A 03 01 04 01}到手了。
+KOROMARU.PTP	59	0	コロマル	ワン!；汪！
+KOROMARU.PTP	59	1	コロマル	>コロマルは嬉しそうだ。	；虎狼丸看起来很开心。
+KOROMARU.PTP	60	0	<EMPTY>	テスト

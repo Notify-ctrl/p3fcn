@@ -1,0 +1,200 @@
+datEventItemHelp.PTP	0	0	<EMPTY>	@eventitem_000	
+datEventItemHelp.PTP	1	0	<EMPTY>	青色をした鍵。{0A}ベルベットル‒ムの扉を開く。	；青色的钥匙。{0A}可以打开天鹅绒房间的门
+datEventItemHelp.PTP	2	0	<EMPTY>	バスタ‒ドライブが落とした{0A}鋼鉄の破片。 無意味に重い。	；巴斯塔驱动器掉落的{0A}钢铁的碎片。重的毫无意义。	
+datEventItemHelp.PTP	3	0	<EMPTY>	5003	
+datEventItemHelp.PTP	4	0	<EMPTY>	友近が作ったチョ‒カ‒。{0A}究極の力·スルトを開く鍵。	；友近做的项圈。{0A}打开究极之力·斯鲁特的钥匙。
+datEventItemHelp.PTP	5	0	<EMPTY>	まだ⋯無い⋯ッ	
+datEventItemHelp.PTP	6	0	<EMPTY>	まだ⋯無い⋯ッ	
+datEventItemHelp.PTP	7	0	<EMPTY>	小田桐が勝ち取った信頼の証。{0A}究極の力·オ‒ディンを開く鍵。	；小田桐赢取的信赖之证。{0A}打开究极之力·奥丁的钥匙。	
+datEventItemHelp.PTP	8	0	<EMPTY>	文吉の息子が植えた木の実。{0A}究極の力·コウリュウを開く鍵。	；文吉的儿子种的树的种子。{0A}打开究极之力·黄龙的钥匙。
+datEventItemHelp.PTP	9	0	<EMPTY>	ゆかりの思い出のストラップ。{0A}究極の力·キュベレを開く鍵。	；有由加莉的回忆的挂件。{0A}打开究极之力·库柏勒的钥匙。
+datEventItemHelp.PTP	10	0	<EMPTY>	風花特製イヤホン。{0A}究極の力·スカアハを開く鍵。	；风花特制的耳机。{0A}打开究极之力·斯卡哈的钥匙。
+datEventItemHelp.PTP	11	0	<EMPTY>	美鶴のバイクのキ‒。{0A}究極の力·アリラトを開く鍵。	；美鹤的摩托车钥匙。{0A}打开究极之力·阿拉特的钥匙。
+datEventItemHelp.PTP	12	0	<EMPTY>	結子とのコ‒チ記念。究極の力{0A}ジ‒クフリ‒ドを開く鍵。	；和结子教练几年。{0A}打开究极之力·齐格飞的钥匙。
+datEventItemHelp.PTP	13	0	<EMPTY>	千尋の大事な本。究極の力{0A}メルキセデクを開く鍵。	；对千寻很重要的书。{0A}打开究极之力·麦基洗德的钥匙。
+datEventItemHelp.PTP	14	0	<EMPTY>	宮本と甥との約束の証。{0A}究極の力·ト‒ルを開く鍵。	；宫本和外甥的约定之证。{0A}打开究极之力·托尔的钥匙。
+datEventItemHelp.PTP	15	0	<EMPTY>	まだ⋯無い⋯ッ	
+datEventItemHelp.PTP	16	0	<EMPTY>	Y子特製画像。究極の力{0A}アラハバキを開く鍵。	；Y子的特制画像。{0A}打开究极之力·荒霸吐的钥匙。
+datEventItemHelp.PTP	17	0	<EMPTY>	平賀の受賞通知。{0A}究極の力·ノルンを開く鍵。	；平贺的得奖通知。{0A}打开究极之力·诺伦的钥匙。
+datEventItemHelp.PTP	18	0	<EMPTY>	損傷したアイギスの部品。{0A}究極の力·メタトロンを開く鍵。	；受损伤的艾吉斯的零件。{0A}打开究极之力·梅塔特隆的钥匙。
+datEventItemHelp.PTP	19	0	<EMPTY>	舞子のプロポ‒ズの贈り物。{0A}究極の力·アティスを開く鍵。	；舞子的求婚礼物。{0A}打开究极之力·阿提斯的钥匙。
+datEventItemHelp.PTP	20	0	<EMPTY>	まだ⋯無い⋯ッ	
+datEventItemHelp.PTP	21	0	<EMPTY>	ベベ特製、はぎれ巾着袋。{0A}究極の力·ユルングを開く鍵。	；贝贝特制零钱袋。{0A}打开究极之力·红蛇的钥匙。
+datEventItemHelp.PTP	22	0	<EMPTY>	たなかの募金記念。究極の力{0A}ベルゼブブを開く鍵。	；田中的募金纪念。{0A}打开究极之力·别西卜的钥匙。
+datEventItemHelp.PTP	23	0	<EMPTY>	無達のボトルのプレ‒ト。{0A}究極の力·シュウを開く鍵。	；无达瓶的板子。{0A}打开究极之力·舒的钥匙。
+datEventItemHelp.PTP	24	0	<EMPTY>	早瀬の父親の形見。{0A}究極の力·ルシフェルを開く鍵。	；早濑父亲的遗物。{0A}打开究极之力·路西菲尔的钥匙。
+datEventItemHelp.PTP	25	0	<EMPTY>	末光の後継者の証。究極の力{0A}サンダルフォンを開く鍵。	；末光的后继者之证。{0A}打开究极之力·圣德芬的钥匙。
+datEventItemHelp.PTP	26	0	<EMPTY>	物語が綴られた神木のノ‒ト。{0A}究極の力·アスラおうを開く鍵。	；写满故事的神木笔记。{0A}打开究极之力·阿修罗王的钥匙。
+datEventItemHelp.PTP	27	0	<EMPTY>	501B	
+datEventItemHelp.PTP	28	0	<EMPTY>	年代物の万年筆。{0A}軸が血のように赤い。	；年代久远的钢笔。{0A}轴如同血一样红。
+datEventItemHelp.PTP	29	0	<EMPTY>	学校に生えている{0A}若木の落ち葉。	；在学校里生长的。{0A}小树的落叶。
+datEventItemHelp.PTP	30	0	<EMPTY>	501E	
+datEventItemHelp.PTP	31	0	<EMPTY>	501F	
+datEventItemHelp.PTP	32	0	<EMPTY>	エリザベスに勝利した証。{0A}彼女が大切にしていた品。	；战胜伊丽莎白的证明。{0A}她很珍惜的东西。
+datEventItemHelp.PTP	33	0	<EMPTY>	死神·ペイルライダ‒が{0A}合体で作成可能になる。	；死神·苍白骑士{0A}合体做成可能。
+datEventItemHelp.PTP	34	0	<EMPTY>	皇帝·キングフロストが{0A}合体で作成可能になる。	；皇帝·霜精之王{0A}合体做成可能。
+datEventItemHelp.PTP	35	0	<EMPTY>	戦車·ナタタイシが{0A}合体で作成可能になる。	；战车·哪吒太子{0A}合体做成可能。
+datEventItemHelp.PTP	36	0	<EMPTY>	隠者·ネビロスが{0A}合体で作成可能になる。	；隐者·奈比洛斯{0A}合体做成可能。
+datEventItemHelp.PTP	37	0	<EMPTY>	悪魔·リリスが{0A}合体で作成可能になる。	；恶魔·莉莉丝{0A}合体做成可能。
+datEventItemHelp.PTP	38	0	<EMPTY>	塔·マサカドが{0A}合体で作成可能になる。	；塔·平将门{0A}合体做成可能。
+datEventItemHelp.PTP	39	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
+datEventItemHelp.PTP	40	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
+datEventItemHelp.PTP	41	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
+datEventItemHelp.PTP	42	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
+datEventItemHelp.PTP	43	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
+datEventItemHelp.PTP	44	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
+datEventItemHelp.PTP	45	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
+datEventItemHelp.PTP	46	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
+datEventItemHelp.PTP	47	0	<EMPTY>	@eventitem_047	
+datEventItemHelp.PTP	48	0	<EMPTY>	魔術師·カハクが{0A}合体で作成可能になる。	；魔术师·花魄{0A}合体做成可能。
+datEventItemHelp.PTP	49	0	<EMPTY>	法王·ト‒トが{0A}合体で作成可能になる。	；教皇·托特{0A}合体做成可能。
+datEventItemHelp.PTP	50	0	<EMPTY>	運命·エンプ‒サが{0A}合体で作成可能になる。	；命运·恩浦萨{0A}合体做成可能。
+datEventItemHelp.PTP	51	0	<EMPTY>	星·カルティケ‒ヤが{0A}合体で作成可能になる。	；星·室建陀{0A}合体做成可能。
+datEventItemHelp.PTP	52	0	<EMPTY>	刑死者·ヘルズエンジェル{0A}が合体で作成可能になる。	；倒吊人·地狱天使{0A}合体做成可能。
+datEventItemHelp.PTP	53	0	<EMPTY>	戦国時代の兜のレプリカ。{0A}愛の字の装飾が�しい。	；战国时候的头盔的复制品。{0A}有爱字的装饰。
+datEventItemHelp.PTP	54	0	<EMPTY>	愚者·オルフェウス·改が{0A}合体で作成可能になる。	；愚者·俄耳甫斯·改{0A}合体做成可能。
+datEventItemHelp.PTP	55	0	<EMPTY>	弓道用品のぎり粉のこと。{0A}きな粉にそっくり。	；弓道用品的锯末。{0A}很像黄豆粉。
+datEventItemHelp.PTP	56	0	<EMPTY>	刀身の断面が三角形の{0A}曲がりにくい突剣。	；刀神的截面是三角形的{0A}不易弯曲的刺剑。
+datEventItemHelp.PTP	57	0	<EMPTY>	眼鏡以外にも色んな物を{0A}拭いた形跡がある。	；除了眼镜以外{0A}也有擦过很多东西的很急。
+datEventItemHelp.PTP	58	0	<EMPTY>	オランウ‒タンの木とも{0A}言う、葉が赤くなる木。	；也被称为红毛猩猩树{0A}叶子红色的树。
+datEventItemHelp.PTP	59	0	<EMPTY>	クイ‒ンクラウンという{0A}ソフトが差されている。	；插入了叫做女皇王冠的{0A}软件。
+datEventItemHelp.PTP	60	0	<EMPTY>	使い込まれてはいるが、{0A}手入れが行き届いている。	；虽然被用过{0A}但是保养的很好。
+datEventItemHelp.PTP	61	0	<EMPTY>	超人気ヒ‒ロ‒の人形。{0A}全身40箇所が可動。	；超高人气的英雄人偶。{0A}全身有40处可动。
+datEventItemHelp.PTP	62	0	<EMPTY>	アマチュアのアスリ‒トが{0A}使うと効果絶大。	；业余运动员使用{0A}效果非常显著。
+datEventItemHelp.PTP	63	0	<EMPTY>	高価なドッグフ‒ド。{0A}狼や虎の餌にもなる。	；昂贵的狗粮。{0A}可以做狼和老虎的食物。	
+datEventItemHelp.PTP	64	0	<EMPTY>	銃器のメンテナンスに{0A}用いる。	；维护枪械用。
+datEventItemHelp.PTP	65	0	<EMPTY>	8つ全てを合わせる事で{0A}扉を開く鍵となる。	；八个全部吻合{0A}能打开门的钥匙
+datEventItemHelp.PTP	66	0	<EMPTY>	閉ざされた扉を開き、{0A}外へ出る事ができる鍵。	；能打开关闭的门{0A}到外面去的钥匙
+datEventItemHelp.PTP	67	0	<EMPTY>	@eventitem_067	
+datEventItemHelp.PTP	68	0	<EMPTY>	@eventitem_068	
+datEventItemHelp.PTP	69	0	<EMPTY>	@eventitem_069	
+datEventItemHelp.PTP	70	0	<EMPTY>	@eventitem_070	
+datEventItemHelp.PTP	71	0	<EMPTY>	@eventitem_071	
+datEventItemHelp.PTP	72	0	<EMPTY>	@eventitem_072	
+datEventItemHelp.PTP	73	0	<EMPTY>	@eventitem_073	
+datEventItemHelp.PTP	74	0	<EMPTY>	@eventitem_074	
+datEventItemHelp.PTP	75	0	<EMPTY>	@eventitem_075	
+datEventItemHelp.PTP	76	0	<EMPTY>	@eventitem_076	
+datEventItemHelp.PTP	77	0	<EMPTY>	@eventitem_077	
+datEventItemHelp.PTP	78	0	<EMPTY>	@eventitem_078	
+datEventItemHelp.PTP	79	0	<EMPTY>	@eventitem_079	
+datEventItemHelp.PTP	80	0	<EMPTY>	@eventitem_080	
+datEventItemHelp.PTP	81	0	<EMPTY>	@eventitem_081	
+datEventItemHelp.PTP	82	0	<EMPTY>	@eventitem_082	
+datEventItemHelp.PTP	83	0	<EMPTY>	@eventitem_083	
+datEventItemHelp.PTP	84	0	<EMPTY>	@eventitem_084	
+datEventItemHelp.PTP	85	0	<EMPTY>	@eventitem_085	
+datEventItemHelp.PTP	86	0	<EMPTY>	@eventitem_086	
+datEventItemHelp.PTP	87	0	<EMPTY>	@eventitem_087	
+datEventItemHelp.PTP	88	0	<EMPTY>	@eventitem_088	
+datEventItemHelp.PTP	89	0	<EMPTY>	@eventitem_089	
+datEventItemHelp.PTP	90	0	<EMPTY>	@eventitem_090	
+datEventItemHelp.PTP	91	0	<EMPTY>	@eventitem_091	
+datEventItemHelp.PTP	92	0	<EMPTY>	@eventitem_092	
+datEventItemHelp.PTP	93	0	<EMPTY>	@eventitem_093	
+datEventItemHelp.PTP	94	0	<EMPTY>	@eventitem_094	
+datEventItemHelp.PTP	95	0	<EMPTY>	@eventitem_095	
+datEventItemHelp.PTP	96	0	<EMPTY>	@eventitem_096	
+datEventItemHelp.PTP	97	0	<EMPTY>	@eventitem_097	
+datEventItemHelp.PTP	98	0	<EMPTY>	@eventitem_098	
+datEventItemHelp.PTP	99	0	<EMPTY>	@eventitem_099	
+datEventItemHelp.PTP	100	0	<EMPTY>	@eventitem_100	
+datEventItemHelp.PTP	101	0	<EMPTY>	@eventitem_101	
+datEventItemHelp.PTP	102	0	<EMPTY>	@eventitem_102	
+datEventItemHelp.PTP	103	0	<EMPTY>	@eventitem_103	
+datEventItemHelp.PTP	104	0	<EMPTY>	@eventitem_104	
+datEventItemHelp.PTP	105	0	<EMPTY>	@eventitem_105	
+datEventItemHelp.PTP	106	0	<EMPTY>	@eventitem_106	
+datEventItemHelp.PTP	107	0	<EMPTY>	@eventitem_107	
+datEventItemHelp.PTP	108	0	<EMPTY>	@eventitem_108	
+datEventItemHelp.PTP	109	0	<EMPTY>	@eventitem_109	
+datEventItemHelp.PTP	110	0	<EMPTY>	@eventitem_110	
+datEventItemHelp.PTP	111	0	<EMPTY>	@eventitem_111	
+datEventItemHelp.PTP	112	0	<EMPTY>	@eventitem_112	
+datEventItemHelp.PTP	113	0	<EMPTY>	@eventitem_113	
+datEventItemHelp.PTP	114	0	<EMPTY>	@eventitem_114	
+datEventItemHelp.PTP	115	0	<EMPTY>	@eventitem_115	
+datEventItemHelp.PTP	116	0	<EMPTY>	@eventitem_116	
+datEventItemHelp.PTP	117	0	<EMPTY>	@eventitem_117	
+datEventItemHelp.PTP	118	0	<EMPTY>	@eventitem_118	
+datEventItemHelp.PTP	119	0	<EMPTY>	@eventitem_119	
+datEventItemHelp.PTP	120	0	<EMPTY>	@eventitem_120	
+datEventItemHelp.PTP	121	0	<EMPTY>	@eventitem_121	
+datEventItemHelp.PTP	122	0	<EMPTY>	@eventitem_122	
+datEventItemHelp.PTP	123	0	<EMPTY>	@eventitem_123	
+datEventItemHelp.PTP	124	0	<EMPTY>	@eventitem_124	
+datEventItemHelp.PTP	125	0	<EMPTY>	@eventitem_125	
+datEventItemHelp.PTP	126	0	<EMPTY>	@eventitem_126	
+datEventItemHelp.PTP	127	0	<EMPTY>	@eventitem_127	
+datEventItemHelp.PTP	128	0	<EMPTY>	@eventitem_128	
+datEventItemHelp.PTP	129	0	<EMPTY>	@eventitem_129	
+datEventItemHelp.PTP	130	0	<EMPTY>	@eventitem_130	
+datEventItemHelp.PTP	131	0	<EMPTY>	@eventitem_131	
+datEventItemHelp.PTP	132	0	<EMPTY>	@eventitem_132	
+datEventItemHelp.PTP	133	0	<EMPTY>	@eventitem_133	
+datEventItemHelp.PTP	134	0	<EMPTY>	@eventitem_134	
+datEventItemHelp.PTP	135	0	<EMPTY>	@eventitem_135	
+datEventItemHelp.PTP	136	0	<EMPTY>	@eventitem_136	
+datEventItemHelp.PTP	137	0	<EMPTY>	@eventitem_137	
+datEventItemHelp.PTP	138	0	<EMPTY>	@eventitem_138	
+datEventItemHelp.PTP	139	0	<EMPTY>	@eventitem_139	
+datEventItemHelp.PTP	140	0	<EMPTY>	@eventitem_140	
+datEventItemHelp.PTP	141	0	<EMPTY>	@eventitem_141	
+datEventItemHelp.PTP	142	0	<EMPTY>	@eventitem_142	
+datEventItemHelp.PTP	143	0	<EMPTY>	@eventitem_143	
+datEventItemHelp.PTP	144	0	<EMPTY>	@eventitem_144	
+datEventItemHelp.PTP	145	0	<EMPTY>	@eventitem_145	
+datEventItemHelp.PTP	146	0	<EMPTY>	@eventitem_146	
+datEventItemHelp.PTP	147	0	<EMPTY>	@eventitem_147	
+datEventItemHelp.PTP	148	0	<EMPTY>	@eventitem_148	
+datEventItemHelp.PTP	149	0	<EMPTY>	@eventitem_149	
+datEventItemHelp.PTP	150	0	<EMPTY>	@eventitem_150	
+datEventItemHelp.PTP	151	0	<EMPTY>	@eventitem_151	
+datEventItemHelp.PTP	152	0	<EMPTY>	@eventitem_152	
+datEventItemHelp.PTP	153	0	<EMPTY>	@eventitem_153	
+datEventItemHelp.PTP	154	0	<EMPTY>	@eventitem_154	
+datEventItemHelp.PTP	155	0	<EMPTY>	@eventitem_155	
+datEventItemHelp.PTP	156	0	<EMPTY>	@eventitem_156	
+datEventItemHelp.PTP	157	0	<EMPTY>	@eventitem_157	
+datEventItemHelp.PTP	158	0	<EMPTY>	@eventitem_158	
+datEventItemHelp.PTP	159	0	<EMPTY>	@eventitem_159	
+datEventItemHelp.PTP	160	0	<EMPTY>	@eventitem_160	
+datEventItemHelp.PTP	161	0	<EMPTY>	@eventitem_161	
+datEventItemHelp.PTP	162	0	<EMPTY>	@eventitem_162	
+datEventItemHelp.PTP	163	0	<EMPTY>	@eventitem_163	
+datEventItemHelp.PTP	164	0	<EMPTY>	@eventitem_164	
+datEventItemHelp.PTP	165	0	<EMPTY>	@eventitem_165	
+datEventItemHelp.PTP	166	0	<EMPTY>	@eventitem_166	
+datEventItemHelp.PTP	167	0	<EMPTY>	@eventitem_167	
+datEventItemHelp.PTP	168	0	<EMPTY>	@eventitem_168	
+datEventItemHelp.PTP	169	0	<EMPTY>	@eventitem_169	
+datEventItemHelp.PTP	170	0	<EMPTY>	@eventitem_170	
+datEventItemHelp.PTP	171	0	<EMPTY>	@eventitem_171	
+datEventItemHelp.PTP	172	0	<EMPTY>	@eventitem_172	
+datEventItemHelp.PTP	173	0	<EMPTY>	@eventitem_173	
+datEventItemHelp.PTP	174	0	<EMPTY>	@eventitem_174	
+datEventItemHelp.PTP	175	0	<EMPTY>	@eventitem_175	
+datEventItemHelp.PTP	176	0	<EMPTY>	@eventitem_176	
+datEventItemHelp.PTP	177	0	<EMPTY>	@eventitem_177	
+datEventItemHelp.PTP	178	0	<EMPTY>	@eventitem_178	
+datEventItemHelp.PTP	179	0	<EMPTY>	@eventitem_179	
+datEventItemHelp.PTP	180	0	<EMPTY>	@eventitem_180	
+datEventItemHelp.PTP	181	0	<EMPTY>	@eventitem_181	
+datEventItemHelp.PTP	182	0	<EMPTY>	@eventitem_182	
+datEventItemHelp.PTP	183	0	<EMPTY>	@eventitem_183	
+datEventItemHelp.PTP	184	0	<EMPTY>	@eventitem_184	
+datEventItemHelp.PTP	185	0	<EMPTY>	@eventitem_185	
+datEventItemHelp.PTP	186	0	<EMPTY>	@eventitem_186	
+datEventItemHelp.PTP	187	0	<EMPTY>	@eventitem_187	
+datEventItemHelp.PTP	188	0	<EMPTY>	@eventitem_188	
+datEventItemHelp.PTP	189	0	<EMPTY>	@eventitem_189	
+datEventItemHelp.PTP	190	0	<EMPTY>	@eventitem_190	
+datEventItemHelp.PTP	191	0	<EMPTY>	@eventitem_191	
+datEventItemHelp.PTP	192	0	<EMPTY>	@eventitem_192	
+datEventItemHelp.PTP	193	0	<EMPTY>	@eventitem_193	
+datEventItemHelp.PTP	194	0	<EMPTY>	@eventitem_194	
+datEventItemHelp.PTP	195	0	<EMPTY>	@eventitem_195	
+datEventItemHelp.PTP	196	0	<EMPTY>	@eventitem_196	
+datEventItemHelp.PTP	197	0	<EMPTY>	@eventitem_197	
+datEventItemHelp.PTP	198	0	<EMPTY>	@eventitem_198	
+datEventItemHelp.PTP	199	0	<EMPTY>	@eventitem_199	

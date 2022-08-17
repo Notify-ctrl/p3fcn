@@ -1,0 +1,3 @@
+gameover.PTP	0	0	<EMPTY>	>ゲ‒ムオ‒バ‒処理(仮)	；>GAME OVER处理（伪）
+gameover.PTP	1	0	<SELECT>	タイトル画面に戻る	；返回标题画面
+gameover.PTP	1	1	<SELECT>	直前のタルタロス入り口から再開	；从上一次的塔耳塔洛斯的入口重新开始

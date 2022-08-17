@@ -1,0 +1,6 @@
+perukoe.PTP	0	0	 		
+perukoe.PTP	1	0	 		
+perukoe.PTP	2	0	<SELECT>	誘いを受ける	；接受邀请
+perukoe.PTP	2	1	<SELECT>	やっぱり断る	；果然还是拒绝
+perukoe.PTP	2	2	<SELECT>	先約を確認する 	；确认一下之前的约定
+perukoe.PTP	3	0	 	>チュ‒トリアルウィンドウにて{0A} 約束済みコミュのアルカナを確認	；>在教程窗口{0A}确认已经约定好的塔罗牌

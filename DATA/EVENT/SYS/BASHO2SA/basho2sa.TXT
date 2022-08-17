@@ -1,0 +1,13 @@
+basho2sa.PTP	0	0	<EMPTY>	>{F2 03 01 01}に誘われた。	；>被{F2 03 01 01}邀请了。
+basho2sa.PTP	1	0	<EMPTY>	>{F2 03 01 01}に誘われた。	；>被{F2 03 01 01}邀请了。
+basho2sa.PTP	2	0	<EMPTY>	>行きますか?  	；>要去吗？
+basho2sa.PTP	3	0	<SELECT>	はい	；是
+basho2sa.PTP	3	1	<SELECT>	いいえ	；否
+basho2sa.PTP	4	0	<EMPTY>	>システムメッセ‒ジ予約	；系统消息预约
+basho2sa.PTP	5	0	ペルソナ使い	じゃあ行こう。	；那么，走吧。
+basho2sa.PTP	6	0	ペルソナ使い	え‒!	；诶！
+basho2sa.PTP	7	0	友近 健一	よ‒し、じゃあすぐ出ようぜ。	；好，那赶紧出来吧。
+basho2sa.PTP	8	0	友近 健一	な‒んだよ、付き合いワリ‒の⋯	；什么呀，有人约了…
+basho2sa.PTP	8	1	友近 健一	ん‒じゃ、またな。	；那，再见啦。
+basho2sa.PTP	9	0	エレガ	じゃあ行こう。	；那么，走吧。
+basho2sa.PTP	10	0	エレガ	え‒!	；诶！
