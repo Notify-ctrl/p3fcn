@@ -21,7 +21,7 @@ DUNGEONAT.PTP	12	0	桐条 美鶴	了解だ。	；明白
 DUNGEONAT.PTP	13	0	山岸 風花	エントランスまで、引き上げますか?	；要返回到入口吗？
 DUNGEONAT.PTP	14	0	山岸 風花	了解しました。{0A}⋯こちらで、待ってますね。	；我明白了{0A}我在这里等着
 DUNGEONAT.PTP	15	0	岳羽 ゆかり	はい、コレ。	；好，这个给你
-DUNGEONAT.PTP	16	0	アイギス	私は、これだけです。	：我只有这些
+DUNGEONAT.PTP	16	0	アイギス	私は、これだけです。	；我只有这些
 DUNGEONAT.PTP	17	0	桐条 美鶴	⋯{F1 0A}、これを頼む。	；⋯{F1 0A}把这个交给你了
 DUNGEONAT.PTP	18	0	伊織 順平	じゃあ、コレな⋯	；那么这个就…
 DUNGEONAT.PTP	19	0	真田 明彦	ほらよ⋯預けとく。	；喂…先放你这
