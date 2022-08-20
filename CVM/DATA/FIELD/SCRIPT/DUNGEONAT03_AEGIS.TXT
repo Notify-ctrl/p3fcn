@@ -1,5 +1,5 @@
 ﻿DUNGEONAT03_AEGIS.PTP	0	0	<SELECT>	はい	；好。
-DUNGEONAT03_AEGIS.PTP	0	1	<SELECT>	いいえ ；还是算了
+DUNGEONAT03_AEGIS.PTP	0	1	<SELECT>	いいえ 	；还是算了
 DUNGEONAT03_AEGIS.PTP	1	0	桐条 美鶴	⋯なんだ、このフロアは?	；这么回事？这层楼
 DUNGEONAT03_AEGIS.PTP	1	1	桐条 美鶴	気をつけろ、敵の数が多い!	；请注意！敌人的数量很多！
 DUNGEONAT03_AEGIS.PTP	2	0	桐条 美鶴	⋯おかしいな。	；好奇怪啊
@@ -11,7 +11,7 @@ DUNGEONAT03_AEGIS.PTP	4	1	山岸 風花	気をつけてください!{0A}敵が�
 DUNGEONAT03_AEGIS.PTP	5	0	山岸 風花	⋯あれ、このフロア、敵がいない⋯	；哎呀？这层楼没有敌人...
 DUNGEONAT03_AEGIS.PTP	5	1	山岸 風花	妙な胸騒ぎがします⋯	；有点不安...
 DUNGEONAT03_AEGIS.PTP	6	0	山岸 風花	⋯あっ!	；啊！
-DUNGEONAT03_AEGIS.PTP	6	1	山岸 風花	階層を移動した際に{0A}バラバラになってしまったようです!；在楼层间移动的时候{0A}队伍似乎被分散开了！	
+DUNGEONAT03_AEGIS.PTP	6	1	山岸 風花	階層を移動した際に{0A}バラバラになってしまったようです!	；在楼层间移动的时候{0A}队伍似乎被分散开了！	
 DUNGEONAT03_AEGIS.PTP	7	0	桐条 美鶴	⋯ん?{0A}この状況はありえないはずだぞ!	；恩？{0A}应该不可能出现这种状况吧！
 DUNGEONAT03_AEGIS.PTP	8	0	山岸 風花	先の階層を探ります⋯	；探索前面的楼层。
 DUNGEONAT03_AEGIS.PTP	8	1	山岸 風花	⋯{F2 14 10 01}⋯{F2 14 10 01}⋯{F2 14 0B 01}!?	；⋯{F2 14 10 01}⋯{F2 14 10 01}⋯{F2 14 0B 01}!?

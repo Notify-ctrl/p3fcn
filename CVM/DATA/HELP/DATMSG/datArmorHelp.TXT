@@ -19,7 +19,7 @@ datArmorHelp.PTP	17	0	<E甚平MPTY>	0x1011	；。
 datArmorHelp.PTP	18	0	<EMPTY>	0x1012	；。
 datArmorHelp.PTP	19	0	<EMPTY>	達人のみに許される胴衣。	；高手才能穿的衣服。
 datArmorHelp.PTP	20	0	<EMPTY>	体を包み込むような服。	；仿佛将身体包裹住的衣服。
-datArmorHelp.PTP	21		0	<EMPTY>	ケプラ‒製のベスト。	；。凯夫拉制成的背心
+datArmorHelp.PTP	21	0	<EMPTY>	ケプラ‒製のベスト。	；凯夫拉制成的背心。
 datArmorHelp.PTP	22	0	<EMPTY>	護符の縫い込まれた鎧。	；缝进了护符的铠甲。
 datArmorHelp.PTP	23	0	<EMPTY>	隙間無く経が書かれた衣。	；密密麻麻的写着经文的衣服。
 datArmorHelp.PTP	24	0	<EMPTY>	風のように軽いマント。	；像风一样轻的斗篷。
