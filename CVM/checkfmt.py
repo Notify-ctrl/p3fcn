@@ -36,6 +36,7 @@ for root, dirs, files in os.walk(dir_path):
               else:
                 orig = secs[4]
                 tr = secs[5]
+                tr = tr.strip()
                 if tr == "":
                   print(fname, "\t- Line", lineno, ": 缺漏翻译")
                   continue
@@ -59,7 +60,7 @@ for root, dirs, files in os.walk(dir_path):
                     print(fname, "\t- Line", lineno, ": 标点不一致 \"", l1, "\"和\"", l2, "\"")
                   elif l2 == "":
                     tr = tr + l1
-                    secs[5] = tr
+                    secs[5] = tr + "\n"
                     print(secs[5])
                     data[lineno] = "\t".join(secs)
                     rewrite = True

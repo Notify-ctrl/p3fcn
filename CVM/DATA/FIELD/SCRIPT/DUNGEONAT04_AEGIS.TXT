@@ -3,13 +3,13 @@ DUNGEONAT04_AEGIS.PTP	0	1	<SELECT>	いいえ	；还是算了
 DUNGEONAT04_AEGIS.PTP	1	0	桐条 美鶴	⋯なんだ、このフロアは?	；怎么回事？这层楼？
 DUNGEONAT04_AEGIS.PTP	1	1	桐条 美鶴	気をつけろ、敵の数が多い!	；注意！敌人的数量很多！
 DUNGEONAT04_AEGIS.PTP	2	0	桐条 美鶴	⋯おかしいな。	；好奇怪啊
-DUNGEONAT04_AEGIS.PTP	2	1	桐条 美鶴	フロアに敵の反応が無いんだが、{0A}妙に胸騒ぎがする⋯	；虽然没有敌人的反应{0A}但是有点奇怪的不安感...
-DUNGEONAT04_AEGIS.PTP	3	0	桐条 美鶴	⋯ん!	；...嗯！
+DUNGEONAT04_AEGIS.PTP	2	1	桐条 美鶴	フロアに敵の反応が無いんだが、{0A}妙に胸騒ぎがする⋯	；虽然没有敌人的反应{0A}但是有点奇怪的不安感⋯
+DUNGEONAT04_AEGIS.PTP	3	0	桐条 美鶴	⋯ん!	；⋯嗯！
 DUNGEONAT04_AEGIS.PTP	3	1	桐条 美鶴	階層を移動した際に{0A}バラバラになってしまったようだ!	；在楼层间移动的时候队伍被打乱了！
 DUNGEONAT04_AEGIS.PTP	4	0	山岸 風花	⋯えっ、このフロアは何?	；唉？这层是？
 DUNGEONAT04_AEGIS.PTP	4	1	山岸 風花	気をつけてください!{0A}敵がいつもより多いです!	；请注意！{0A}敌人的数量比平时多!
-DUNGEONAT04_AEGIS.PTP	5	0	山岸 風花	⋯あれ、このフロア、敵がいない⋯	；...哎呀？这层楼没有敌人。
-DUNGEONAT04_AEGIS.PTP	5	1	山岸 風花	妙な胸騒ぎがします⋯	；有点不安...
+DUNGEONAT04_AEGIS.PTP	5	0	山岸 風花	⋯あれ、このフロア、敵がいない⋯	；⋯哎呀？这层楼没有敌人。
+DUNGEONAT04_AEGIS.PTP	5	1	山岸 風花	妙な胸騒ぎがします⋯	；有点不安⋯
 DUNGEONAT04_AEGIS.PTP	6	0	山岸 風花	⋯あっ!	；啊！
 DUNGEONAT04_AEGIS.PTP	6	1	山岸 風花	階層を移動した際に{0A}バラバラになってしまったようです!	；在楼层间移动的时候队伍被打乱了！
 DUNGEONAT04_AEGIS.PTP	7	0	桐条 美鶴	⋯ん?{0A}この状況はありえないはずだぞ!	；恩？{0A}不应该出现这种状况才对！

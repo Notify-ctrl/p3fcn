@@ -8,8 +8,8 @@ DUNGEONAT03_AEGIS.PTP	3	0	桐条 美鶴	⋯ん!	；虽然楼层里没有敌人�
 DUNGEONAT03_AEGIS.PTP	3	1	桐条 美鶴	階層を移動した際に{0A}バラバラになってしまったようだ!	；在楼层间移动的时候{0A}队伍被分散开了！
 DUNGEONAT03_AEGIS.PTP	4	0	山岸 風花	⋯えっ、このフロアは何?	；唉？这层楼是？
 DUNGEONAT03_AEGIS.PTP	4	1	山岸 風花	気をつけてください!{0A}敵がいつもより多いです!	；请注意！{0A}敌人的数量比平时多！
-DUNGEONAT03_AEGIS.PTP	5	0	山岸 風花	⋯あれ、このフロア、敵がいない⋯	；哎呀？这层楼没有敌人...
-DUNGEONAT03_AEGIS.PTP	5	1	山岸 風花	妙な胸騒ぎがします⋯	；有点不安...
+DUNGEONAT03_AEGIS.PTP	5	0	山岸 風花	⋯あれ、このフロア、敵がいない⋯	；哎呀？这层楼没有敌人⋯
+DUNGEONAT03_AEGIS.PTP	5	1	山岸 風花	妙な胸騒ぎがします⋯	；有点不安⋯
 DUNGEONAT03_AEGIS.PTP	6	0	山岸 風花	⋯あっ!	；啊！
 DUNGEONAT03_AEGIS.PTP	6	1	山岸 風花	階層を移動した際に{0A}バラバラになってしまったようです!	；在楼层间移动的时候{0A}队伍似乎被分散开了！	
 DUNGEONAT03_AEGIS.PTP	7	0	桐条 美鶴	⋯ん?{0A}この状況はありえないはずだぞ!	；恩？{0A}应该不可能出现这种状况吧！
@@ -18,7 +18,7 @@ DUNGEONAT03_AEGIS.PTP	8	1	山岸 風花	⋯{F2 14 10 01}⋯{F2 14 10 01}⋯{F2 1
 DUNGEONAT03_AEGIS.PTP	8	2	山岸 風花	50階付近に強い反応があるようです。{0A}慎重に進んでください。	；在50楼附近似乎有很强的反应{0A}请慎重前进！
 DUNGEONAT03_AEGIS.PTP	9	0	山岸 風花	⋯あれ?{0A}敵の反応、意外に近いかもしれません。	；哎呀？{0A}敌人的反应也许意外的近呢？
 DUNGEONAT03_AEGIS.PTP	9	1	山岸 風花	ちょっと探り直してみます。	；我再试着探查一下
-DUNGEONAT03_AEGIS.PTP	10	0	山岸 風花	敵の雰囲気がまた変わりましたね⋯	；敌人的气氛又变了啊...
+DUNGEONAT03_AEGIS.PTP	10	0	山岸 風花	敵の雰囲気がまた変わりましたね⋯	；敌人的气氛又变了啊⋯
 DUNGEONAT03_AEGIS.PTP	10	1	山岸 風花	上階の強い反応の位置も{0A}確実に近づいてきています。	；确实正在靠近楼上的强烈反应。
 DUNGEONAT03_AEGIS.PTP	10	2	山岸 風花	位置確定は待ってください。{0A}もうちょっとで分かると思います。	；请再稍等一下{0A}我想再过一会就能确定位置了。
 DUNGEONAT03_AEGIS.PTP	11	0	山岸 風花	敵の位置、確定できました!	；能够确定敌人的位置了！
@@ -30,7 +30,7 @@ DUNGEONAT03_AEGIS.PTP	13	0	山岸 風花	敵はこの上で待ち構えている
 DUNGEONAT03_AEGIS.PTP	13	1	山岸 風花	注意してください!	；请注意！
 DUNGEONAT03_AEGIS.PTP	14	0	山岸 風花	先の階層を探ります⋯	；探索前面的楼层。
 DUNGEONAT03_AEGIS.PTP	14	1	山岸 風花	⋯{F2 14 10 01}⋯{F2 14 10 01}⋯	；⋯{F2 14 10 01}⋯{F2 14 10 01}⋯
-DUNGEONAT03_AEGIS.PTP	14	2	山岸 風花	ちょっと遠すぎて{0A}反応が感知できないですね⋯	；距离稍微有点远了{0A}所以无法感知反应...
+DUNGEONAT03_AEGIS.PTP	14	2	山岸 風花	ちょっと遠すぎて{0A}反応が感知できないですね⋯	；距离稍微有点远了{0A}所以无法感知反应⋯
 DUNGEONAT03_AEGIS.PTP	14	3	山岸 風花	もう少し先へ進んでもらえますか?	；能在稍微往前一点吗？
 DUNGEONAT03_AEGIS.PTP	15	0	山岸 風花	敵がどんどん手強くなってきましたね。	；敌人渐渐变厉害了呢。
 DUNGEONAT03_AEGIS.PTP	15	1	山岸 風花	これ、どこまで続くんでしょうか⋯	；这里会延伸到哪里呢？
@@ -47,7 +47,7 @@ DUNGEONAT03_AEGIS.PTP	19	0	山岸 風花	フロアの敵の雰囲気が変わり
 DUNGEONAT03_AEGIS.PTP	19	1	山岸 風花	注意してください。	；请注意
 DUNGEONAT03_AEGIS.PTP	20	0	山岸 風花	強い反応は59階です。	；强烈的反应在59楼
 DUNGEONAT03_AEGIS.PTP	20	1	山岸 風花	大丈夫ですか?{0A}無理はしないでくださいね。	；没事吗？{0A}请不要勉强自己。
-DUNGEONAT03_AEGIS.PTP	21	0	山岸 風花	長いですね⋯	；好长啊...
+DUNGEONAT03_AEGIS.PTP	21	0	山岸 風花	長いですね⋯	；好长啊⋯
 DUNGEONAT03_AEGIS.PTP	21	1	山岸 風花	どこまで登れば終わりなんでしょうか⋯	；要上到什么地方位置才会结束呢？
 DUNGEONAT03_AEGIS.PTP	22	0	山岸 風花	59階が近づいてきました。	；渐渐靠近59层了。
 DUNGEONAT03_AEGIS.PTP	22	1	山岸 風花	大丈夫ですか?{0A}息切れしてませんか?	；没关系吗？要喘口气吗？
@@ -56,6 +56,6 @@ DUNGEONAT03_AEGIS.PTP	23	1	山岸 風花	ピンチの時はもったいぶらず
 DUNGEONAT03_AEGIS.PTP	24	0	山岸 風花	敵がこの上で待ち構えています!	；敌人正在上面等着我们！
 DUNGEONAT03_AEGIS.PTP	24	1	山岸 風花	注意してください!	；请注意！
 DUNGEONAT03_AEGIS.PTP	25	0	山岸 風花	敵の数が極端に減りましたね⋯	；敌人的数量非常少了呢..
-DUNGEONAT03_AEGIS.PTP	26	0	山岸 風花	ここも敵の数が少ないですね⋯	；这里的敌人也很少呢...
+DUNGEONAT03_AEGIS.PTP	26	0	山岸 風花	ここも敵の数が少ないですね⋯	；这里的敌人也很少呢⋯
 DUNGEONAT03_AEGIS.PTP	27	0	山岸 風花	疲れていませんか?{0A}あまり無理はしないでくださいね。	；累了吗？{0A}不要太勉强自己
 DUNGEONAT03_AEGIS.PTP	28	0	山岸 風花	ここも敵の数が少ないですね⋯	；这里敌人也很少呢
