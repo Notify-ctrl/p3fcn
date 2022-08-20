@@ -12,6 +12,7 @@ dir_path = os.path.dirname(os.path.realpath(__file__)) + "/DATA"
 
 for root, dirs, files in os.walk(dir_path):
     ignore0a = True
+    punc = ["。", "?", "？", "!", "！", ",", "，", "…", "⋯"]
     for file in files:
         # change the extension from '.mp3' to
         # the one of your choice.
@@ -32,9 +33,20 @@ for root, dirs, files in os.walk(dir_path):
               else:
                 orig = secs[4]
                 tr = secs[5]
+                if tr == "":
+                  print(fname, "\t- Line", lineno, ": 缺漏翻译")
+                  continue
                 reg = "\{[^\}]+\}"
                 list1 = re.findall(reg, orig)
                 list2 = re.findall(reg, tr)
+                l1 = orig[len(orig) - 1]
+                l2 = tr[len(tr) - 1]
+                if not punc.count(l1):
+                  l1 = ""
+                if not punc.count(l2):
+                  l2 = ""
+                if l1 != l2:
+                  print(fname, "\t- Line", lineno, ": 标点不一致 \"", l1, "\"和\"", l2, "\"")
                 if ignore0a:
                   while list1.count("{0A}"):
                     list1.remove("{0A}")

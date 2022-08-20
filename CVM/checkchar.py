@@ -7,7 +7,7 @@ import os
 
 dic = {}
 dic2 = {}
-fp = open("txt.txt")
+fp = open("txt.TXT")
 p3c = fp.read()
 fp.close()
 for c in p3c:
