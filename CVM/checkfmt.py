@@ -32,13 +32,14 @@ for root, dirs, files in os.walk(dir_path):
               cnc = data[lineno]
               secs = cnc.split('\t')
               if len(secs) < 6:
-                print(fname, "\t- Line", lineno, ": 缺漏翻译")
+                #print(fname, "\t- Line", lineno, ": 缺漏翻译")
+                pass
               else:
                 orig = secs[4]
                 tr = secs[5]
                 tr = tr.strip()
                 if tr == "":
-                  print(fname, "\t- Line", lineno, ": 缺漏翻译")
+                  #print(fname, "\t- Line", lineno, ": 缺漏翻译")
                   continue
                 reg = "\{[^\}]+\}"
                 list1 = re.findall(reg, orig)
@@ -56,14 +57,14 @@ for root, dirs, files in os.walk(dir_path):
                 elif l2 == "…":
                   l2 = "⋯"
                 if l1 != l2:
-                  if l1 == "" or (l1 != "" and l2 != ""):
+                  #if l1 == "" or (l1 != "" and l2 != ""):
                     print(fname, "\t- Line", lineno, ": 标点不一致 \"", l1, "\"和\"", l2, "\"")
-                  elif l2 == "":
-                    tr = tr + l1
-                    secs[5] = tr + "\n"
-                    print(secs[5])
-                    data[lineno] = "\t".join(secs)
-                    rewrite = True
+                  #elif l2 == "":
+                    #tr = tr + l1
+                    #secs[5] = tr + "\n"
+                    #print(secs[5])
+                    #data[lineno] = "\t".join(secs)
+                    #rewrite = True
                 if ignore0a:
                   while list1.count("{0A}"):
                     list1.remove("{0A}")
