@@ -21,12 +21,15 @@ for root, dirs, files in os.walk(dir_path):
             #print(f)
             fname = f.replace(dir_path, "")
             fp = open(f)
-            lineno = 0
+            data = fp.readlines()
+            fp.close()
+            lineno = -1
+            rewrite = False
             while True:
-              cnc = fp.readline()
               lineno = lineno + 1
-              if cnc == '':
+              if lineno >= len(data):
                 break
+              cnc = data[lineno]
               secs = cnc.split('\t')
               if len(secs) < 6:
                 print(fname, "\t- Line", lineno, ": 缺漏翻译")
@@ -45,8 +48,21 @@ for root, dirs, files in os.walk(dir_path):
                   l1 = ""
                 if not punc.count(l2):
                   l2 = ""
+                if l2 == "！":
+                  l2 = "!"
+                elif l2 == "？":
+                  l2 = "?"
+                elif l2 == "…":
+                  l2 = "⋯"
                 if l1 != l2:
-                  print(fname, "\t- Line", lineno, ": 标点不一致 \"", l1, "\"和\"", l2, "\"")
+                  if l1 == "" or (l1 != "" and l2 != ""):
+                    print(fname, "\t- Line", lineno, ": 标点不一致 \"", l1, "\"和\"", l2, "\"")
+                  elif l2 == "":
+                    tr = tr + l1
+                    secs[5] = tr
+                    print(secs[5])
+                    data[lineno] = "\t".join(secs)
+                    rewrite = True
                 if ignore0a:
                   while list1.count("{0A}"):
                     list1.remove("{0A}")
@@ -54,22 +70,6 @@ for root, dirs, files in os.walk(dir_path):
                     list2.remove("{0A}")
                 if set(list1) != set(list2):
                   print(fname, "\t- Line", lineno, ": 原文和翻译控制符不同", list1, list2)
-            fp.close()
-
-'''
-fp = open("5k.txt")
-cnc = fp.read()
-fp.close()
-
-print()
-
-for c in cnc:
-  if not c in dic:
-    print(c, end = "")
-  if not c in dic2:
-    dic2[c] = True
-
-for c in p3c:
-  if not c in dic2:
-    pass#print(c, end = "")
-    '''
+            if rewrite:
+              fp = open(f, "w")
+              fp.writelines(data)

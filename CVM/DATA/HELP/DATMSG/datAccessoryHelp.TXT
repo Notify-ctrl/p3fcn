@@ -114,7 +114,7 @@ datAccessoryHelp.PTP	112	0	<EMPTY>	敵から先制攻撃を{0A}受ける確率�
 datAccessoryHelp.PTP	113	0	<EMPTY>	敵からクリティカルを{0A}受ける確率が低下。	；受到敌人会心一击{0A}的概率下降。
 datAccessoryHelp.PTP	114	0	<EMPTY>	敵にクリティカルを{0A}与える確率が上昇。	；给予敌人会心一击{0A}的概率提升。
 datAccessoryHelp.PTP	115	0	<EMPTY>	回避率が大上昇。	；回避率大幅提升
-datAccessoryHelp.PTP	116	0	<EMPTY>	受けるダメ‒ジが{0A}半分になるが、回避不能。	；	受到的伤害变为一半{0A}但是无法回避。
+datAccessoryHelp.PTP	116	0	<EMPTY>	受けるダメ‒ジが{0A}半分になるが、回避不能。	；受到的伤害变为一半{0A}但是无法回避。
 datAccessoryHelp.PTP	117	0	<EMPTY>	魔法使用時の{0A}SPコストが半減。	；使用魔法时候{0A}SP消耗减半。
 datAccessoryHelp.PTP	118	0	<EMPTY>	物理攻撃使用時の{0A}HPコストが半減。	；使用物理攻击时候{0A}HP减半。
 datAccessoryHelp.PTP	119	0	<EMPTY>	@accessory_3077	；@accessory_3077

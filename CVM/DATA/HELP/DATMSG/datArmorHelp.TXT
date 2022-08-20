@@ -1,4 +1,4 @@
-datArmorHelp.PTP	0	0	<EMPTY>	RESERVE{0A}ARMOR	；	RESERVE{0A}ARMOR。
+datArmorHelp.PTP	0	0	<EMPTY>	RESERVE{0A}ARMOR	；RESERVE{0A}ARMOR。
 datArmorHelp.PTP	1	0	<EMPTY>	シンプルなシャツ。	；简单的衬衫。
 datArmorHelp.PTP	2	0	<EMPTY>	毛糸のカ‒ディガン。	；开襟毛衣。
 datArmorHelp.PTP	3	0	<EMPTY>	フリル付きブラウス。	；带褶边的罩衫。
