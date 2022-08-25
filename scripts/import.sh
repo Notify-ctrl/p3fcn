@@ -20,23 +20,29 @@ find \( -name "*.TMX" -or -name "*.tmx" \) -exec $pe "{}" -impimage -save \;
 
 for f in `find -name '*(NEW)*'`
 do
-  mv $f ${f/\(NEW\)/}
+  mv $f ${f/\(NEW\)/} -f
 done
 
 find \( -name "*.SPR" -or -name "*.spr" \) -exec $pe "{}" -impall -save \;
 
 for f in `find -name '*(NEW)*'`
 do
-  mv $f ${f/\(NEW\)/}
+  mv $f ${f/\(NEW\)/} -f
+done
+
+find -name "*.PNG" -delete
+find -name "*.PTP" -delete
+find -name "*.TXT" -delete
+for f in `find -name '*.spr'`; do
+  for ff in `./spr.py $f`; do
+    rm ${f%/*}/${ff}
+  done
 done
 
 for f in `find -name '*.PAK'`
 do
   fp=${f%.PAK}
-  rm $f
-  $pak pack fp v1 ${fp}/..
-  rm -rf fp
+  $pak replace $f $fp
+  rm -rf $fp
 done
 
-find -name "*.PTP" -delete
-find -name "*.TXT" -delete
