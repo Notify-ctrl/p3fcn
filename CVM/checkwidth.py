@@ -9,6 +9,7 @@ dir_path = os.path.dirname(os.path.realpath(__file__)) + "/DATA"
 
 for root, dirs, files in os.walk(dir_path):
   ignore0a = True
+  punc = ["。", "?", "？", "!", "！", ",", "，", "…", "⋯"]
   for file in files:
     # change the extension from '.mp3' to
     # the one of your choice.
@@ -48,6 +49,9 @@ for root, dirs, files in os.walk(dir_path):
               substr = substr.replace(subreg, '')
               if subreg == '{F1 0A}' or subreg == '{F1 0B}':
                 extralen += 3
+
+            if substr[len(substr) - 1] in punc:
+              extralen -= 1
 
             if len(substr) + extralen > 18:
               err = True
