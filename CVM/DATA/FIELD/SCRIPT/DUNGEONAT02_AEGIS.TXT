@@ -99,7 +99,8 @@ DUNGEONAT02_AEGIS.PTP	40	0	桐条 美鶴	上の階の敵反応にかなり接近
 DUNGEONAT02_AEGIS.PTP	40	1	桐条 美鶴	気をつけてくれ。	；请注意。
 DUNGEONAT02_AEGIS.PTP	41	0	山岸 風花	敵反応、近いです。{0A}注意してください。	；敌人的反应很近{0A}请注意。
 DUNGEONAT02_AEGIS.PTP	42	0	桐条 美鶴	強い反応が近い。{0A}おそらくこの上だ!	；敌人的反应很近{0A}恐怕就在上面！
-DUNGEONAT02_AEGIS.PTP	42	1	桐条 美鶴	気をつけろよ。	；打起精神来！DUNGEONAT02_AEGIS.PTP	43	0	山岸 風花	直上に強い敵反応!{0A}多分、この上の階にいます。	；正上方有很强烈的敌人的反应！{0A}大概就在这上面
+DUNGEONAT02_AEGIS.PTP	42	1	桐条 美鶴	気をつけろよ。	；打起精神来！
+DUNGEONAT02_AEGIS.PTP	43	0	山岸 風花	直上に強い敵反応!{0A}多分、この上の階にいます。	；正上方有很强烈的敌人的反应！{0A}大概就在这上面
 DUNGEONAT02_AEGIS.PTP	43	1	山岸 風花	慎重にお願いします。	；请慎重一点。
 DUNGEONAT02_AEGIS.PTP	44	0	桐条 美鶴	ここは敵の数が少ないな?	；这里敌人的数量很少啊⋯
 DUNGEONAT02_AEGIS.PTP	45	0	山岸 風花	敵の数が減りましたね?	；敌人的数量减少了呢⋯
