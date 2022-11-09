@@ -1,0 +1,20 @@
+# This workflow checks all txt files in the PR
+#  - control chars must be same
+#  - a line must be less than 18 chars
+#
+
+name: Custom P3F CI
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - run: echo Hello
+
