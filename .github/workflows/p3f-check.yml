@@ -18,5 +18,5 @@ jobs:
       run: python CVM/checkfmt.py
 
     - name: 18 char width test
-      run: echo Hello!  # todo
+      run: python CVM/checkwidth.py
 
