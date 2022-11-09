@@ -45,12 +45,13 @@ for root, dirs, files in os.walk(dir_path):
           for substr in trlist:
             extralen = 0
             relist = re.findall(reg, substr)
+
             for subreg in relist:
               substr = substr.replace(subreg, '')
               if subreg == '{F1 0A}' or subreg == '{F1 0B}':
                 extralen += 3
 
-            if substr[len(substr) - 1] in punc:
+            if len(substr) > 1 and substr[len(substr) - 1] in punc:
               extralen -= 1
 
             if len(substr) + extralen > 18:
