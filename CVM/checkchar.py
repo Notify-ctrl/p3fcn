@@ -32,11 +32,29 @@ for root, dirs, files in os.walk(dir_path):
             fp=open(f)
             cnc = fp.read()
             fp.close()
-            for c in cnc:
-              if not c in dic:
-                print(c, end = "")
-              #if not c in dic2:
-                dic[c] = True
+            fname = f.replace(dir_path, "")
+            fp = open(f)
+            data = fp.readlines()
+            fp.close()
+            lineno = 0
+            rewrite = False
+            while True:
+              lineno = lineno + 1
+              if lineno > len(data):
+                break
+              cnc = data[lineno-1]
+              secs = cnc.split('\t')
+              if len(secs) < 6:
+                # print(fname, ":", lineno, ": 缺漏翻译")
+                pass
+              else:
+                cnc = secs[5]
+                for c in cnc:
+                  if not c in dic:
+                    print(c, end = "")
+                  #if not c in dic2:
+                    dic[c] = True
+
 
 '''
 fp = open("5k.txt")
