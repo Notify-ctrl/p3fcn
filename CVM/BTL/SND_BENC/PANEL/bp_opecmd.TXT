@@ -1,0 +1,24 @@
+bp_opecmd.PTP	0	0	美鹤	ん? いま分析中だが、{0A}中止するのか?	；嗯？{0A}现在还在分析中，{0A}要中止现在的分析吗？
+bp_opecmd.PTP	1	0	<SELECT>	はい	；是
+bp_opecmd.PTP	1	1	<SELECT>	いいえ	；否
+bp_opecmd.PTP	2	0	美鹤	了解だ。{0A}この敌の分析は后に回そう。	；了解。{0A}稍后会对这个目标进行分析。
+bp_opecmd.PTP	3	0	风花	え? あの、さっきの敌の{0A}分析は中止ですか?	；诶？那个，要中止现在{0A}这个敌人的分析吗？
+bp_opecmd.PTP	4	0	<SELECT>	はい	；是
+bp_opecmd.PTP	4	1	<SELECT>	いいえ	；否
+bp_opecmd.PTP	5	0	风花	了解。この敌の分析は、{0A}また今度にしましょう。	；了解。那这个敌人的分析{0A}就以后再说吧。
+bp_opecmd.PTP	6	0	风花	あ⋯、今调べてますが、{0A}中止ですか?	；啊...我现在还在调查，{0A}要中止吗？
+bp_opecmd.PTP	7	0	<SELECT>	はい	；是
+bp_opecmd.PTP	7	1	<SELECT>	いいえ	；否
+bp_opecmd.PTP	8	0	风花	分かりました。	；我明白了。
+bp_opecmd.PTP	9	0	美鹤	先ほどの救援要请を{0A}取り消すのか?	；要取消先前的{0A}救援请求吗？
+bp_opecmd.PTP	10	0	<SELECT>	はい	；是
+bp_opecmd.PTP	10	1	<SELECT>	いいえ	；否
+bp_opecmd.PTP	11	0	美鹤	分かった、现在の行动を{0A}继续するよう连络する。	；明白，将通知其他人{0A}继续进行行动。
+bp_opecmd.PTP	12	0	风花	さっきの救援要请は{0A}取り消しますか?	；刚刚的救援请求{0A}要取消吗？
+bp_opecmd.PTP	13	0	<SELECT>	はい	；是
+bp_opecmd.PTP	13	1	<SELECT>	いいえ	；否
+bp_opecmd.PTP	14	0	风花	了解、全员に现状を维持するよう{0A}连络します。	；了解，将联络全员{0A}保持现状。
+bp_opecmd.PTP	15	0	风花	オラクルは止めにしますか?	；要取消发送神谕吗？
+bp_opecmd.PTP	16	0	<SELECT>	はい	；是
+bp_opecmd.PTP	16	1	<SELECT>	いいえ	；否
+bp_opecmd.PTP	17	0	风花	了解しました。{0A}オラクルを中止します。	；明白。{0A}将取消发动神谕。
