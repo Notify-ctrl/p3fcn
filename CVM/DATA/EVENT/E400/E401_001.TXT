@@ -1,4 +1,4 @@
-﻿E401_001.PTP	0	0	<EMPTY>	>物語を始める前に、{0A} バトルの難易度を選択してください。	>开始故事前，{0A}请选择战斗的难易度。
+﻿E401_001.PTP	0	0	<EMPTY>	>物語を始める前に、{0A} バトルの難易度を選択してください。	>开始故事前，{0A} 请选择战斗的难易度。
 E401_001.PTP	1	0	<SELECT>	NORMAL	NORMAL
 E401_001.PTP	1	1	<SELECT>	EASY	；EASY
 E401_001.PTP	1	2	<SELECT>	HARD	；HARD
