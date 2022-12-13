@@ -50,7 +50,7 @@ datEventItemHelp.PTP	48	0	<EMPTY>	魔術師·カハクが{0A}合体で作成可�
 datEventItemHelp.PTP	49	0	<EMPTY>	法王·ト‒トが{0A}合体で作成可能になる。	；教皇·托特{0A}可以合体合成了。
 datEventItemHelp.PTP	50	0	<EMPTY>	運命·エンプ‒サが{0A}合体で作成可能になる。	；命运·恩浦萨{0A}可以合体合成了。
 datEventItemHelp.PTP	51	0	<EMPTY>	星·カルティケ‒ヤが{0A}合体で作成可能になる。	；星·室建陀{0A}可以合体合成了。
-datEventItemHelp.PTP	52	0	<EMPTY>	刑死者·ヘルズエンジェル{0A}が合体で作成可能になる。	；刑死者·地狱天使{0A}可以合体合成了。
+datEventItemHelp.PTP	52	0	<EMPTY>	刑死者·ヘルズエンジェル{0A}が合体で作成可能になる。	；倒吊人·地狱天使{0A}可以合体合成了。
 datEventItemHelp.PTP	53	0	<EMPTY>	戦国時代の兜のレプリカ。{0A}愛の字の装飾が�しい。	；战国时候的头盔的复制品。{0A}有“爱”字的装饰。
 datEventItemHelp.PTP	54	0	<EMPTY>	愚者·オルフェウス·改が{0A}合体で作成可能になる。	；愚者·俄耳甫斯·改{0A}可以合体合成了。
 datEventItemHelp.PTP	55	0	<EMPTY>	弓道用品のぎり粉のこと。{0A}きな粉にそっくり。	；弓道用品的松香粉。{0A}很像黄豆粉。
