@@ -1,7 +1,7 @@
 bp_roothelp.PTP	0	0	<EMPTY>	敌单体に装备武器による{0A}通常攻击を行う。	；使用装备的武器{0A}对单个敌人进行普通攻击。
 bp_roothelp.PTP	1	0	<EMPTY>	装备ペルソナが所持する{0A}特殊能力を使用する。	；使用装备中的人格面具{0A}所拥有的特殊能力。
 bp_roothelp.PTP	2	0	<EMPTY>	现在所持している{0A}アイテムを使用する。	；使用当前持有的{0A}道具。
-bp_roothelp.PTP	3	0	<EMPTY>	仲间やバックアップに{0A}作战指示を行う。	；对队友和战斗支援{0A}进行作战指示。
+bp_roothelp.PTP	3	0	<EMPTY>	仲间やバックアップに{0A}作战指示を行う。	；对队友或战斗支援{0A}进行作战指示。
 bp_roothelp.PTP	4	0	<EMPTY>	装备ペルソナを{0A}付け替える。	；更换装备的{0A}人格面具。
 bp_roothelp.PTP	5	0	<EMPTY>	战闘からの离脱を试みる。	；尝试脱离战斗。
 bp_roothelp.PTP	6	0	<EMPTY>	何もせず行动を终える。	；不进行任何动作，结束当前行动。
