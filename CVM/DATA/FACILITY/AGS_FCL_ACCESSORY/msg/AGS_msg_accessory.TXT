@@ -2,7 +2,7 @@ AGS_msg_accessory.PTP	0	0	<SELECT>	はい	；是
 AGS_msg_accessory.PTP	0	1	<SELECT>	いいえ	；否
 AGS_msg_accessory.PTP	1	0	女性店員	セ‒ル中よ。{0A}色々見ていってね。	；在打折中哦。{0A}多挑挑看吧。
 AGS_msg_accessory.PTP	2	0	女性店員	ごめんなさい。{0A}売り切れちゃったの。	；抱歉。{0A}已经卖光了
-AGS_msg_accessory.PTP	3	0	女性店員	新しい商品を入荷したの。{0A}見ていってね。	；新商品到货了。{0A}看看吧。
+AGS_msg_accessory.PTP	3	0	女性店員	新しい商品を入荷したの。{0A}見ていってね。	；新商品到货了。{0A}来看看吧。
 AGS_msg_accessory.PTP	4	0	女性店員	全部で{F2 03 01 01}円になりますが{0A}よろしいですか?	；一共是{F2 03 01 01}日元。{0A}可以吗？
 AGS_msg_accessory.PTP	5	0	女性店員	ありがとうございます。	；感谢您的惠顾。
 AGS_msg_accessory.PTP	6	0	女性店員	全部で{F2 03 01 01}円になりますが{0A}よろしいですか?	；一共是{F2 03 01 01}日元。{0A}可以吗？
@@ -10,7 +10,7 @@ AGS_msg_accessory.PTP	7	0	女性店員	ありがとうございます。	；感�
 AGS_msg_accessory.PTP	8	0	女性店員	これ以上お金を持てないみたいだけど、{0A}それでも売る?	；已经没有办法持有更多现金了。{0A}即使如此也要卖出吗？
 AGS_msg_accessory.PTP	9	0	女性店員	あら、もう持ちきれないみたいね。{0A}売るか捨てるかして、また来てね。	；哎呀，已经没有办法持有更多的物品了。{0A}卖掉或者丢掉一些再来吧。
 AGS_msg_accessory.PTP	10	0	女性店員	ダメよ。{0A}いまつけてる物は買い取れないわ。	；不行哦。{0A}现在佩戴着的物品无法购入哦。
-AGS_msg_accessory.PTP	11	0	<EMPTY>	>この武器を装備できませんが{0A} よろしいですか?	；>这个武器无法装备。{0A} 没关系吗？ 
+AGS_msg_accessory.PTP	11	0	<EMPTY>	>この武器を装備できませんが{0A} よろしいですか?	；>这件武器无法装备。{0A} 没关系吗？ 
 AGS_msg_accessory.PTP	12	0	<EMPTY>	>購入した武器を装備していきますか?	；>要装备上购入的武器吗？
 AGS_msg_accessory.PTP	13	0	<EMPTY>	>購入した防具を装備していきますか?	；>要装备上购入的防具吗？
 AGS_msg_accessory.PTP	14	0	<EMPTY>	>購入したアクセサリ‒を装備していきますか?	；>要装备上购入的饰品吗？
@@ -21,7 +21,7 @@ AGS_msg_accessory.PTP	17	1	<EMPTY>	でいいかい?	；可以吗？
 AGS_msg_accessory.PTP	18	0	<EMPTY>	でよいかね?	；就行了吗？
 AGS_msg_accessory.PTP	19	0	<EMPTY>	年後にできるから。	；年后就能完成。
 AGS_msg_accessory.PTP	20	0	<EMPTY>	お待たせ。{0A}頼まれていた武器が完成したよ。	；久等了。{0A}委托制作的武器完成了。
-AGS_msg_accessory.PTP	21	0	<EMPTY>	できるのは、{F2 03 01 01}月{F2 03 02 01}日だよ。	；制作完成日在{F2 03 01 01}月{F2 03 02 01}日
+AGS_msg_accessory.PTP	21	0	<EMPTY>	できるのは、{F2 03 01 01}月{F2 03 02 01}日だよ。	；制作完成日在{F2 03 01 01}月{F2 03 02 01}日。
 AGS_msg_accessory.PTP	22	0	<EMPTY>	もう持ちきれないね。{0A}売るか捨てるかしてきてくれ。	；已经拿不下了。{0A}卖掉或者丢掉一些东西吧。
 AGS_msg_accessory.PTP	23	0	<EMPTY>	これは初めて見る武器だね。{0A}大事に使ってちょうだい。	；这是第一次见的武器啊。{0A}爱惜一点使用吧。
 AGS_msg_accessory.PTP	23	1	<EMPTY>	を受け取った。	；入手了。
@@ -39,7 +39,7 @@ AGS_msg_accessory.PTP	30	1	女性店員	力がわいたり、身軽になった�
 AGS_msg_accessory.PTP	31	0	女性店員	アクセサリ‒は時と場合で使い分けるのが{0A}オシャレのポイントよ。	；饰品的使用要分时间和场合，{0A}这是打扮的关键哦。
 AGS_msg_accessory.PTP	32	0	女性店員	うちのセ‒ルは、毎週日曜日なの。	；我店的打折日在每周日。
 AGS_msg_accessory.PTP	32	1	女性店員	ちょっぴりお得にしているから、{0A}いっぱい買っていってね。	；会稍微划算一些哦，{0A}要多买点哦。
-AGS_msg_accessory.PTP	33	0	女性店員	すぐそこの骨董屋さんが{0A}リニュ‒アルオ‒プンしたの知ってる?		；你知道那边的古董店{0A}马上要重新开张了吗？
+AGS_msg_accessory.PTP	33	0	女性店員	すぐそこの骨董屋さんが{0A}リニュ‒アルオ‒プンしたの知ってる?	；你知道那边的古董店{0A}马上要重新开张了吗？
 AGS_msg_accessory.PTP	33	1	女性店員	素敵な雰囲気なんだけど⋯{0A}店主がぶすっと愛想悪くて、そこがちょっとね。	；那家店虽然氛围非常好⋯{0A}不过店主绷着个脸态度不好，有点⋯
 AGS_msg_accessory.PTP	34	0	女性店員	最近、無気力症の人が増えてるって{0A}良く聞くじゃない。	；最近，不是总听说{0A}无气力症的患者增多了么。
 AGS_msg_accessory.PTP	34	1	女性店員	でも、うちの不思議な効果のアクセサリ‒を{0A}付けていれば、きっと大丈夫よ。	；但是，带上我家的有不可思议效果的{0A}饰品就一定没事啦。
