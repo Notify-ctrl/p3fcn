@@ -14,7 +14,7 @@ MSG_QUEST.PTP	12	0	<EMPTY>	を{F2 03 02 01}つ入手せよ。	；，拿到{F2 03
 MSG_QUEST.PTP	13	0	<EMPTY>	不気味な巨大人形を入手せよ。	；去获得不祥的巨大人偶吧。
 MSG_QUEST.PTP	14	0	<EMPTY>	を{F2 03 02 01}つ入手せよ。	；，拿到{F2 03 02 01}个吧。
 MSG_QUEST.PTP	15	0	<EMPTY>	レベル17以上のオベロンを創造せよ。	；去创造17级以上的奥伯隆吧。
-MSG_QUEST.PTP	16	0	<EMPTY>	劇薬を持ってきて。	；带来剧烈药物吧。
+MSG_QUEST.PTP	16	0	<EMPTY>	劇薬を持ってきて。	；带来烈性药吧。
 MSG_QUEST.PTP	17	0	<EMPTY>	学校にちなんだ音楽CDが欲しい。	；想要和学校有关的音乐CD。
 MSG_QUEST.PTP	18	0	<EMPTY>	を{F2 03 02 01}つ入手せよ。	；，拿到{F2 03 02 01}个吧。
 MSG_QUEST.PTP	19	0	<EMPTY>	を{F2 03 02 01}つ入手せよ。	；，拿到{F2 03 02 01}个吧。
