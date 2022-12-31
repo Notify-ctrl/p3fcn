@@ -14,9 +14,9 @@ skipMap = skip['cmap'].tables[0].ttFont.getBestCmap()
 simhei = TTFont("/usr/share/fonts/noto-cjk/NotoSansCJK-Bold.ttc", fontNumber=0)
 simheiMap = simhei['cmap'].tables[0].ttFont.getBestCmap()
 
-hywh = ImageFont.truetype("/home/notify/.fonts/h/HYRuiHuSongW.ttf", 28)
-skip = ImageFont.truetype("/home/notify/.fonts/s/Skip_EB.otf", 28)
-simhei = ImageFont.truetype("/usr/share/fonts/noto-cjk/NotoSansCJK-Bold.ttc", 28)
+hywh = ImageFont.truetype("/home/notify/.fonts/h/HYRuiHuSongW.ttf", 24)
+skip = ImageFont.truetype("/home/notify/.fonts/s/Skip_EB.otf", 24)
+simhei = ImageFont.truetype("/usr/share/fonts/noto-cjk/NotoSansCJK-Bold.ttc", 24)
 
 def getFallbackFont(char):
   font = hywh
