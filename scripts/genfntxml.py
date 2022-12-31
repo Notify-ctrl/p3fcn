@@ -4,7 +4,7 @@ import xml.etree.ElementTree as xml
 import sys
 
 font = xml.ElementTree(file = "./FONT0.xml").getroot()
-lineno = 290
+lineno = 293
 
 src_items = font.findall("./")
 for i in range(1, lineno + 1):

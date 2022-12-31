@@ -6,6 +6,7 @@
 import os
 
 dic = {}
+dic['\r']=True
 dic2 = {}
 fp = open("txt.TXT")
 p3c = fp.read()
@@ -45,8 +46,12 @@ for root, dirs, files in os.walk(dir_path):
               cnc = data[lineno-1]
               secs = cnc.split('\t')
               if len(secs) < 6:
-                # print(fname, ":", lineno, ": 缺漏翻译")
-                pass
+                for c in cnc:
+                  if not c in dic:
+                    print(c, end = "")
+                  #if not c in dic2:
+                    dic[c] = True
+
               else:
                 cnc = secs[5]
                 for c in cnc:
