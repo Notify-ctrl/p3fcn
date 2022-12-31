@@ -1,42 +1,42 @@
 datSkillHelp.PTP	0	0	<EMPTY>	@skill_000	
-datSkillHelp.PTP	1	0	<EMPTY>	敵単体に火炎属性で{0A}小ダメ‒ジ。	；给予敌方单体火炎属性{0A}小伤害。
-datSkillHelp.PTP	2	0	<EMPTY>	敵単体に火炎属性で{0A}中ダメ‒ジ。	；给予敌方单体火炎属性{0A}中伤害。
-datSkillHelp.PTP	3	0	<EMPTY>	敵単体に火炎属性で{0A}大ダメ‒ジ。	；给予敌方单体火炎属性{0A}大伤害。
-datSkillHelp.PTP	4	0	<EMPTY>	敵全体に火炎属性で{0A}小ダメ‒ジ。	；给予敌方全体火炎属性{0A}小伤害。
-datSkillHelp.PTP	5	0	<EMPTY>	敵全体に火炎属性で{0A}中ダメ‒ジ。	；给予敌方全体火炎属性{0A}中伤害。
-datSkillHelp.PTP	6	0	<EMPTY>	敵全体に火炎属性で{0A}大ダメ‒ジ。	；给予敌方全体火炎属性{0A}大伤害。
+datSkillHelp.PTP	1	0	<EMPTY>	敵単体に火炎属性で{0A}小ダメ‒ジ。	；给予敌方单体火炎属性{0A}小量伤害。
+datSkillHelp.PTP	2	0	<EMPTY>	敵単体に火炎属性で{0A}中ダメ‒ジ。	；给予敌方单体火炎属性{0A}中量伤害。
+datSkillHelp.PTP	3	0	<EMPTY>	敵単体に火炎属性で{0A}大ダメ‒ジ。	；给予敌方单体火炎属性{0A}大量伤害。
+datSkillHelp.PTP	4	0	<EMPTY>	敵全体に火炎属性で{0A}小ダメ‒ジ。	；给予敌方全体火炎属性{0A}小量伤害。
+datSkillHelp.PTP	5	0	<EMPTY>	敵全体に火炎属性で{0A}中ダメ‒ジ。	；给予敌方全体火炎属性{0A}中量伤害。
+datSkillHelp.PTP	6	0	<EMPTY>	敵全体に火炎属性で{0A}大ダメ‒ジ。	；给予敌方全体火炎属性{0A}大量伤害。
 datSkillHelp.PTP	7	0	<EMPTY>	敵全体に火炎属性で{0A}特大ダメ‒ジ。	；给予敌方全体火炎属性{0A}特大伤害。
 datSkillHelp.PTP	8	0	<EMPTY>	008	
 datSkillHelp.PTP	9	0	<EMPTY>	敵単体に火炎属性で{0A}特大ダメ‒ジ。	；给予敌方单体火炎属性{0A}特大伤害。
-datSkillHelp.PTP	10	0	<EMPTY>	敵単体に疾風属性で{0A}小ダメ‒ジ。	；给予敌方单体疾风属性{0A}小伤害。
-datSkillHelp.PTP	11	0	<EMPTY>	敵単体に疾風属性で{0A}中ダメ‒ジ。	；给予敌方单体疾风属性{0A}中伤害。
-datSkillHelp.PTP	12	0	<EMPTY>	敵単体に疾風属性で{0A}大ダメ‒ジ。	；给予敌方单体疾风属性{0A}大伤害。
-datSkillHelp.PTP	13	0	<EMPTY>	敵全体に疾風属性で{0A}小ダメ‒ジ。	；给予敌方全体疾风属性{0A}小伤害。
-datSkillHelp.PTP	14	0	<EMPTY>	敵全体に疾風属性で{0A}中ダメ‒ジ。	；给予敌方全体疾风属性{0A}中伤害。
-datSkillHelp.PTP	15	0	<EMPTY>	敵全体に疾風属性で{0A}大ダメ‒ジ。	；给予敌方全体疾风属性{0A}大伤害。
+datSkillHelp.PTP	10	0	<EMPTY>	敵単体に疾風属性で{0A}小ダメ‒ジ。	；给予敌方单体疾风属性{0A}小量伤害。
+datSkillHelp.PTP	11	0	<EMPTY>	敵単体に疾風属性で{0A}中ダメ‒ジ。	；给予敌方单体疾风属性{0A}中量伤害。
+datSkillHelp.PTP	12	0	<EMPTY>	敵単体に疾風属性で{0A}大ダメ‒ジ。	；给予敌方单体疾风属性{0A}大量伤害。
+datSkillHelp.PTP	13	0	<EMPTY>	敵全体に疾風属性で{0A}小ダメ‒ジ。	；给予敌方全体疾风属性{0A}小量伤害。
+datSkillHelp.PTP	14	0	<EMPTY>	敵全体に疾風属性で{0A}中ダメ‒ジ。	；给予敌方全体疾风属性{0A}中量伤害。
+datSkillHelp.PTP	15	0	<EMPTY>	敵全体に疾風属性で{0A}大ダメ‒ジ。	；给予敌方全体疾风属性{0A}大量伤害。
 datSkillHelp.PTP	16	0	<EMPTY>	010	
 datSkillHelp.PTP	17	0	<EMPTY>	011	
 datSkillHelp.PTP	18	0	<EMPTY>	敵単体に疾風属性で{0A}特大ダメ‒ジ。	；给予敌方单体疾风属性{0A}特大伤害。
-datSkillHelp.PTP	19	0	<EMPTY>	敵単体に氷結属性で{0A}小ダメ‒ジ+"氷結"。	；给予敌方单体冰结属性{0A}小伤害+冰结状态。
-datSkillHelp.PTP	20	0	<EMPTY>	敵単体に氷結属性で{0A}中ダメ‒ジ+"氷結"。	；给予敌方单体冰结属性{0A}中伤害+冰结状态。
-datSkillHelp.PTP	21	0	<EMPTY>	敵単体に氷結属性で{0A}大ダメ‒ジ+"氷結"。	；给予敌方单体冰结属性{0A}大伤害+冰结状态。
-datSkillHelp.PTP	22	0	<EMPTY>	敵全体に氷結属性で{0A}小ダメ‒ジ+"氷結"。	；给予敌方全体冰结属性{0A}小伤害+冰结状态。
-datSkillHelp.PTP	23	0	<EMPTY>	敵全体に氷結属性で{0A}中ダメ‒ジ+"氷結"。	；给予敌方全体冰结属性{0A}中伤害+冰结状态。
-datSkillHelp.PTP	24	0	<EMPTY>	敵全体に氷結属性で{0A}大ダメ‒ジ+"氷結"。	；给予敌方全体冰结属性{0A}大伤害+冰结状态。
+datSkillHelp.PTP	19	0	<EMPTY>	敵単体に氷結属性で{0A}小ダメ‒ジ+"氷結"。	；给予敌方单体冰冻属性{0A}小量伤害+冰冻状态。
+datSkillHelp.PTP	20	0	<EMPTY>	敵単体に氷結属性で{0A}中ダメ‒ジ+"氷結"。	；给予敌方单体冰冻属性{0A}中量伤害+冰冻状态。
+datSkillHelp.PTP	21	0	<EMPTY>	敵単体に氷結属性で{0A}大ダメ‒ジ+"氷結"。	；给予敌方单体冰冻属性{0A}大量伤害+冰冻状态。
+datSkillHelp.PTP	22	0	<EMPTY>	敵全体に氷結属性で{0A}小ダメ‒ジ+"氷結"。	；给予敌方全体冰冻属性{0A}小量伤害+冰冻状态。
+datSkillHelp.PTP	23	0	<EMPTY>	敵全体に氷結属性で{0A}中ダメ‒ジ+"氷結"。	；给予敌方全体冰冻属性{0A}中量伤害+冰冻状态。
+datSkillHelp.PTP	24	0	<EMPTY>	敵全体に氷結属性で{0A}大ダメ‒ジ+"氷結"。	；给予敌方全体冰冻属性{0A}大量伤害+冰冻状态。
 datSkillHelp.PTP	25	0	<EMPTY>	019	
 datSkillHelp.PTP	26	0	<EMPTY>	01A	
-datSkillHelp.PTP	27	0	<EMPTY>	敵単体に氷結属性で{0A}特大ダメ‒ジ+"氷結"。	；予敌方单体冰结属性{0A}特大伤害+冰结状态。
-datSkillHelp.PTP	28	0	<EMPTY>	敵単体に電撃属性で{0A}小ダメ‒ジ+"感電"。	；给予敌方单体电击属性{0A}小伤害+触电状态。
-datSkillHelp.PTP	29	0	<EMPTY>	敵単体に電撃属性で{0A}中ダメ‒ジ+"感電"。	；给予敌方单体电击属性{0A}中伤害+触电状态。
-datSkillHelp.PTP	30	0	<EMPTY>	敵単体に電撃属性で{0A}大ダメ‒ジ+"感電"。	；给予敌方单体电击属性{0A}大伤害+触电状态。
-datSkillHelp.PTP	31	0	<EMPTY>	敵全体に電撃属性で{0A}小ダメ‒ジ+"感電"。	；给予敌方全体电击属性{0A}小伤害+触电状态。
-datSkillHelp.PTP	32	0	<EMPTY>	敵全体に電撃属性で{0A}中ダメ‒ジ+"感電"。	；给予敌方全体电击属性{0A}中伤害+触电状态。
-datSkillHelp.PTP	33	0	<EMPTY>	敵全体に電撃属性で{0A}大ダメ‒ジ+"感電"。	；给予敌方全体电击属性{0A}大伤害+触电状态。
+datSkillHelp.PTP	27	0	<EMPTY>	敵単体に氷結属性で{0A}特大ダメ‒ジ+"氷結"。	；给予敌方单体冰冻属性{0A}特大伤害+冰冻状态。
+datSkillHelp.PTP	28	0	<EMPTY>	敵単体に電撃属性で{0A}小ダメ‒ジ+"感電"。	；给予敌方单体电击属性{0A}小量伤害+触电状态。
+datSkillHelp.PTP	29	0	<EMPTY>	敵単体に電撃属性で{0A}中ダメ‒ジ+"感電"。	；给予敌方单体电击属性{0A}中量伤害+触电状态。
+datSkillHelp.PTP	30	0	<EMPTY>	敵単体に電撃属性で{0A}大ダメ‒ジ+"感電"。	；给予敌方单体电击属性{0A}大量伤害+触电状态。
+datSkillHelp.PTP	31	0	<EMPTY>	敵全体に電撃属性で{0A}小ダメ‒ジ+"感電"。	；给予敌方全体电击属性{0A}小量伤害+触电状态。
+datSkillHelp.PTP	32	0	<EMPTY>	敵全体に電撃属性で{0A}中ダメ‒ジ+"感電"。	；给予敌方全体电击属性{0A}中量伤害+触电状态。
+datSkillHelp.PTP	33	0	<EMPTY>	敵全体に電撃属性で{0A}大ダメ‒ジ+"感電"。	；给予敌方全体电击属性{0A}大量伤害+触电状态。
 datSkillHelp.PTP	34	0	<EMPTY>	022	
 datSkillHelp.PTP	35	0	<EMPTY>	023	
 datSkillHelp.PTP	36	0	<EMPTY>	敵単体に電撃属性で{0A}特大ダメ‒ジ+"感電"。	；给予敌方单体电击属性{0A}特大伤害+触电状态。
-datSkillHelp.PTP	37	0	<EMPTY>	敵全体に万能属性で{0A}中ダメ‒ジ。	；给予敌方全体万能属性{0A}中伤害。
-datSkillHelp.PTP	38	0	<EMPTY>	敵全体に万能属性で{0A}大ダメ‒ジ。	；给予敌方全体万能属性{0A}大伤害。
+datSkillHelp.PTP	37	0	<EMPTY>	敵全体に万能属性で{0A}中ダメ‒ジ。	；给予敌方全体万能属性{0A}中量伤害。
+datSkillHelp.PTP	38	0	<EMPTY>	敵全体に万能属性で{0A}大ダメ‒ジ。	；给予敌方全体万能属性{0A}大量伤害。
 datSkillHelp.PTP	39	0	<EMPTY>	敵全体に万能属性で{0A}特大ダメ‒ジ。	；给予敌方全体万能属性{0A}特大伤害。
 datSkillHelp.PTP	40	0	<EMPTY>	敵味方全体に万能属性で{0A}現在HPの50%ダメ‒ジ。	；给予敌方全体现在HP的50%{0A}万能属性伤害。
 datSkillHelp.PTP	41	0	<EMPTY>	029	
@@ -55,19 +55,19 @@ datSkillHelp.PTP	53	0	<EMPTY>	敵単体に高確率で{0A}闇属性の即死効�
 datSkillHelp.PTP	54	0	<EMPTY>	敵全体に高確率で{0A}闇属性の即死効果。	；给予敌方单体高概率{0A}暗属性即死效果。
 datSkillHelp.PTP	55	0	<EMPTY>	037	
 datSkillHelp.PTP	56	0	<EMPTY>	敵全体に超高確率で{0A}闇属性の即死効果。	；给予敌方单体超高概率{0A}暗属性即死效果。
-datSkillHelp.PTP	57	0	<EMPTY>	敵単体に"悩殺"効果。	；给予敌方单体魅惑效果。
-datSkillHelp.PTP	58	0	<EMPTY>	敵全体に"悩殺"効果。	；给予敌方全体魅惑效果。
-datSkillHelp.PTP	59	0	<EMPTY>	敵単体に"動揺"効果。	；给予敌方单体动摇效果。
-datSkillHelp.PTP	60	0	<EMPTY>	敵全体に"動揺"効果。	；给予敌方全体动摇效果。
-datSkillHelp.PTP	61	0	<EMPTY>	敵単体に"混乱"効果。	；给予敌方单体混乱效果。
-datSkillHelp.PTP	62	0	<EMPTY>	敵全体に"混乱"効果。	；给予敌方全体混乱效果。
-datSkillHelp.PTP	63	0	<EMPTY>	敵単体に"恐怖"効果。	；给予敌方单体恐怖效果。
-datSkillHelp.PTP	64	0	<EMPTY>	敵全体に"恐怖"効果。	；给予敌方全体恐怖效果。
-datSkillHelp.PTP	65	0	<EMPTY>	"恐怖"状態の者を{0A}即死させる。	；令恐怖状态的角色{0A}即死。
-datSkillHelp.PTP	66	0	<EMPTY>	敵単体に"ヤケクソ"効果。	；给予敌方单体自暴自弃效果。
-datSkillHelp.PTP	67	0	<EMPTY>	敵全体に"ヤケクソ"効果。	；给予敌方全体自暴自弃效果。
-datSkillHelp.PTP	68	0	<EMPTY>	敵単体に"毒"効果。	；给予敌方单体中毒效果。
-datSkillHelp.PTP	69	0	<EMPTY>	敵全体に"毒"効果。	；给予敌方全体中毒效果。
+datSkillHelp.PTP	57	0	<EMPTY>	敵単体に"悩殺"効果。	；给予敌方单体魅惑状态。
+datSkillHelp.PTP	58	0	<EMPTY>	敵全体に"悩殺"効果。	；给予敌方全体魅惑状态。
+datSkillHelp.PTP	59	0	<EMPTY>	敵単体に"動揺"効果。	；给予敌方单体动摇状态。
+datSkillHelp.PTP	60	0	<EMPTY>	敵全体に"動揺"効果。	；给予敌方全体动摇状态。
+datSkillHelp.PTP	61	0	<EMPTY>	敵単体に"混乱"効果。	；给予敌方单体混乱状态。
+datSkillHelp.PTP	62	0	<EMPTY>	敵全体に"混乱"効果。	；给予敌方全体混乱状态。
+datSkillHelp.PTP	63	0	<EMPTY>	敵単体に"恐怖"効果。	；给予敌方单体恐惧状态。
+datSkillHelp.PTP	64	0	<EMPTY>	敵全体に"恐怖"効果。	；给予敌方全体恐惧状态。
+datSkillHelp.PTP	65	0	<EMPTY>	"恐怖"状態の者を{0A}即死させる。	；令拥有恐惧状态者{0A}即死。
+datSkillHelp.PTP	66	0	<EMPTY>	敵単体に"ヤケクソ"効果。	；给予敌方单体自暴自弃状态。
+datSkillHelp.PTP	67	0	<EMPTY>	敵全体に"ヤケクソ"効果。	；给予敌方全体自暴自弃状态。
+datSkillHelp.PTP	68	0	<EMPTY>	敵単体に"毒"効果。	；给予敌方单体中毒状态。
+datSkillHelp.PTP	69	0	<EMPTY>	敵全体に"毒"効果。	；给予敌方全体中毒状态。
 datSkillHelp.PTP	70	0	<EMPTY>	敵全体に毒属性で現在HPの{0A}25%ダメ‒ジ。	；给予敌方全体现在HP的25%{0A}毒属性伤害。
 datSkillHelp.PTP	71	0	<EMPTY>	047	
 datSkillHelp.PTP	72	0	<EMPTY>	048	
@@ -110,45 +110,45 @@ datSkillHelp.PTP	108	0	<EMPTY>	06C
 datSkillHelp.PTP	109	0	<EMPTY>	06D	
 datSkillHelp.PTP	110	0	<EMPTY>	06E	
 datSkillHelp.PTP	111	0	<EMPTY>	06F	
-datSkillHelp.PTP	112	0	<EMPTY>	敵単体に打撃属性で{0A}小ダメ‒ジ。	；给予敌方单体打击属性{0A}小伤害。
-datSkillHelp.PTP	113	0	<EMPTY>	敵単体に打撃属性で{0A}小ダメ‒ジ。	；给予敌方单体打击属性{0A}小伤害。
-datSkillHelp.PTP	114	0	<EMPTY>	敵単体に打撃属性で{0A}複数回、中ダメ‒ジ。	；给予敌方单体打击属性{0A}复数回中伤害。
-datSkillHelp.PTP	115	0	<EMPTY>	敵全体に打撃属性で{0A}複数回、小ダメ‒ジ。	；给予敌方全体打击属性{0A}复数回小伤害。
-datSkillHelp.PTP	116	0	<EMPTY>	敵単体に打撃属性で{0A}小ダメ‒ジ。	；给予敌方单体打击属性{0A}小伤害。
-datSkillHelp.PTP	117	0	<EMPTY>	敵全体に打撃属性で{0A}中ダメ‒ジ。	；给予敌方全体打击属性{0A}中伤害。
-datSkillHelp.PTP	118	0	<EMPTY>	敵単体に打撃属性で{0A}大ダメ‒ジ。	；给予敌方单体打击属性{0A}大伤害。
-datSkillHelp.PTP	119	0	<EMPTY>	敵全体に打撃属性で{0A}大ダメ‒ジ。	；给予敌方全体打击属性{0A}大伤害。
+datSkillHelp.PTP	112	0	<EMPTY>	敵単体に打撃属性で{0A}小ダメ‒ジ。	；给予敌方单体打击属性{0A}小量伤害。
+datSkillHelp.PTP	113	0	<EMPTY>	敵単体に打撃属性で{0A}小ダメ‒ジ。	；给予敌方单体打击属性{0A}小量伤害。
+datSkillHelp.PTP	114	0	<EMPTY>	敵単体に打撃属性で{0A}複数回、中ダメ‒ジ。	；给予敌方单体打击属性{0A}复数回中量伤害。
+datSkillHelp.PTP	115	0	<EMPTY>	敵全体に打撃属性で{0A}複数回、小ダメ‒ジ。	；给予敌方全体打击属性{0A}复数回小量伤害。
+datSkillHelp.PTP	116	0	<EMPTY>	敵単体に打撃属性で{0A}小ダメ‒ジ。	；给予敌方单体打击属性{0A}小量伤害。
+datSkillHelp.PTP	117	0	<EMPTY>	敵全体に打撃属性で{0A}中ダメ‒ジ。	；给予敌方全体打击属性{0A}中量伤害。
+datSkillHelp.PTP	118	0	<EMPTY>	敵単体に打撃属性で{0A}大ダメ‒ジ。	；给予敌方单体打击属性{0A}大量伤害。
+datSkillHelp.PTP	119	0	<EMPTY>	敵全体に打撃属性で{0A}大ダメ‒ジ。	；给予敌方全体打击属性{0A}大量伤害。
 datSkillHelp.PTP	120	0	<EMPTY>	敵単体に打撃属性で{0A}特大ダメ‒ジ。	；给予敌方单体打击属性{0A}特大伤害。
-datSkillHelp.PTP	121	0	<EMPTY>	敵単体に斬撃属性で{0A}小ダメ‒ジ。	；给予敌方单体斩击属性{0A}小伤害。
-datSkillHelp.PTP	122	0	<EMPTY>	敵単体に斬撃属性で{0A}中ダメ‒ジ。	；给予敌方单体斩击属性{0A}中伤害。
-datSkillHelp.PTP	123	0	<EMPTY>	敵単体に斬撃属性で中ダメ‒ジ。{0A}満月時に威力上昇。	；给予敌方单体斩击属性中伤害{0A}满月时威力上升。
-datSkillHelp.PTP	124	0	<EMPTY>	敵単体に斬撃属性で中ダメ‒ジ。{0A}新月時に威力上昇。	；给予敌方单体斩击属性中伤害{0A}新月时威力上升。
-datSkillHelp.PTP	125	0	<EMPTY>	敵単体に斬撃属性で{0A}中ダメ‒ジ。	；给予敌方单体斩击属性{0A}中伤害。
-datSkillHelp.PTP	126	0	<EMPTY>	敵単体に貫通属性で{0A}2回、小ダメ‒ジ。	；给予敌方单体贯通属性{0A}两回小伤害。
-datSkillHelp.PTP	127	0	<EMPTY>	敵全体に斬撃属性で{0A}複数回、中ダメ‒ジ。	；给予敌方全体斩击属性{0A}复数回中伤害。
-datSkillHelp.PTP	128	0	<EMPTY>	敵全体に斬撃属性で{0A}大ダメ‒ジ。	；给予敌方全体斩击属性{0A}大伤害。
-datSkillHelp.PTP	129	0	<EMPTY>	敵単体に斬撃属性で{0A}複数回、大ダメ‒ジ。	；给予敌方单体斩击属性{0A}复数回大伤害。
-datSkillHelp.PTP	130	0	<EMPTY>	敵単体に斬撃属性で{0A}大ダメ‒ジ。	；给予敌方单体斩击属性{0A}大伤害。
-datSkillHelp.PTP	131	0	<EMPTY>	敵全体に貫通属性で{0A}特大ダメ‒ジ+"恐怖"。	；给予敌方全体贯通属性{0A}特大伤害+恐怖状态。
-datSkillHelp.PTP	132	0	<EMPTY>	敵単体に斬撃属性で{0A}小ダメ‒ジ。	；给予敌方单体斩击属性{0A}小伤害。
-datSkillHelp.PTP	133	0	<EMPTY>	敵全体に斬撃属性で{0A}中ダメ‒ジ。	；给予敌方全体斩击属性{0A}中伤害。
+datSkillHelp.PTP	121	0	<EMPTY>	敵単体に斬撃属性で{0A}小ダメ‒ジ。	；给予敌方单体斩击属性{0A}小量伤害。
+datSkillHelp.PTP	122	0	<EMPTY>	敵単体に斬撃属性で{0A}中ダメ‒ジ。	；给予敌方单体斩击属性{0A}中量伤害。
+datSkillHelp.PTP	123	0	<EMPTY>	敵単体に斬撃属性で中ダメ‒ジ。{0A}満月時に威力上昇。	；给予敌方单体斩击属性中量伤害。{0A}满月时威力上升。
+datSkillHelp.PTP	124	0	<EMPTY>	敵単体に斬撃属性で中ダメ‒ジ。{0A}新月時に威力上昇。	；给予敌方单体斩击属性中量伤害。{0A}新月时威力上升。
+datSkillHelp.PTP	125	0	<EMPTY>	敵単体に斬撃属性で{0A}中ダメ‒ジ。	；给予敌方单体斩击属性{0A}中量伤害。
+datSkillHelp.PTP	126	0	<EMPTY>	敵単体に貫通属性で{0A}2回、小ダメ‒ジ。	；给予敌方单体贯通属性{0A}两回小量伤害。
+datSkillHelp.PTP	127	0	<EMPTY>	敵全体に斬撃属性で{0A}複数回、中ダメ‒ジ。	；给予敌方全体斩击属性{0A}数回中量伤害。
+datSkillHelp.PTP	128	0	<EMPTY>	敵全体に斬撃属性で{0A}大ダメ‒ジ。	；给予敌方全体斩击属性{0A}大量伤害。
+datSkillHelp.PTP	129	0	<EMPTY>	敵単体に斬撃属性で{0A}複数回、大ダメ‒ジ。	；给予敌方单体斩击属性{0A}数回大量伤害。
+datSkillHelp.PTP	130	0	<EMPTY>	敵単体に斬撃属性で{0A}大ダメ‒ジ。	；给予敌方单体斩击属性{0A}大量伤害。
+datSkillHelp.PTP	131	0	<EMPTY>	敵全体に貫通属性で{0A}特大ダメ‒ジ+"恐怖"。	；给予敌方全体贯通属性{0A}特大伤害+恐惧状态。
+datSkillHelp.PTP	132	0	<EMPTY>	敵単体に斬撃属性で{0A}小ダメ‒ジ。	；给予敌方单体斩击属性{0A}小量伤害。
+datSkillHelp.PTP	133	0	<EMPTY>	敵全体に斬撃属性で{0A}中ダメ‒ジ。	；给予敌方全体斩击属性{0A}中量伤害。
 datSkillHelp.PTP	134	0	<EMPTY>	敵単体に斬撃属性で{0A}特大ダメ‒ジ。	；给予敌方单体斩击属性{0A}特大伤害。
-datSkillHelp.PTP	135	0	<EMPTY>	敵全体に打撃属性で{0A}中ダメ‒ジ。	；给予敌方全体打击属性{0A}中伤害。
-datSkillHelp.PTP	136	0	<EMPTY>	敵全体に打撃属性で{0A}大ダメ‒ジ。	；给予敌方全体打击属性{0A}大伤害。
-datSkillHelp.PTP	137	0	<EMPTY>	敵単体に貫通属性で{0A}小ダメ‒ジ。	；给予敌方单体贯通属性{0A}小伤害。
-datSkillHelp.PTP	138	0	<EMPTY>	敵単体に貫通属性で{0A}2回、中ダメ‒ジ。	；给予敌方单体贯通属性{0A}两回小伤害。
-datSkillHelp.PTP	139	0	<EMPTY>	敵単体に貫通属性で{0A}小ダメ‒ジ+"悩殺"。	；给予敌方单体贯通属性{0A}小伤害+魅惑状态。
-datSkillHelp.PTP	140	0	<EMPTY>	敵単体に貫通属性で{0A}複数回、小ダメ‒ジ。	；给予敌方单体贯通属性{0A}复数回小伤害。
-datSkillHelp.PTP	141	0	<EMPTY>	敵全体に貫通属性で{0A}2回、中ダメ‒ジ。	；给予敌方全体贯通属性{0A}两回中伤害。
-datSkillHelp.PTP	142	0	<EMPTY>	敵全体に貫通属性で{0A}複数回、中ダメ‒ジ。	；给予敌方全体贯通属性{0A}复数回中伤害。
+datSkillHelp.PTP	135	0	<EMPTY>	敵全体に打撃属性で{0A}中ダメ‒ジ。	；给予敌方全体打击属性{0A}中量伤害。
+datSkillHelp.PTP	136	0	<EMPTY>	敵全体に打撃属性で{0A}大ダメ‒ジ。	；给予敌方全体打击属性{0A}大量伤害。
+datSkillHelp.PTP	137	0	<EMPTY>	敵単体に貫通属性で{0A}小ダメ‒ジ。	；给予敌方单体贯通属性{0A}小量伤害。
+datSkillHelp.PTP	138	0	<EMPTY>	敵単体に貫通属性で{0A}2回、中ダメ‒ジ。	；给予敌方单体贯通属性{0A}两回小量伤害。
+datSkillHelp.PTP	139	0	<EMPTY>	敵単体に貫通属性で{0A}小ダメ‒ジ+"悩殺"。	；给予敌方单体贯通属性{0A}小量伤害+魅惑状态。
+datSkillHelp.PTP	140	0	<EMPTY>	敵単体に貫通属性で{0A}複数回、小ダメ‒ジ。	；给予敌方单体贯通属性{0A}复数回小量伤害。
+datSkillHelp.PTP	141	0	<EMPTY>	敵全体に貫通属性で{0A}2回、中ダメ‒ジ。	；给予敌方全体贯通属性{0A}两回中量伤害。
+datSkillHelp.PTP	142	0	<EMPTY>	敵全体に貫通属性で{0A}複数回、中ダメ‒ジ。	；给予敌方全体贯通属性{0A}复数回中量伤害。
 datSkillHelp.PTP	143	0	<EMPTY>	敵単体に貫通属性で{0A}特大ダメ‒ジ。	；给予敌方单体贯通属性{0A}特大伤害。
-datSkillHelp.PTP	144	0	<EMPTY>	敵全体に斬撃属性で大ダメ‒ジ。{0A}絶好調時に威力上昇。	；给予敌方单体斩击属性大伤害{0A}状态绝佳时威力上升。
-datSkillHelp.PTP	145	0	<EMPTY>	敵単体に打撃属性で大ダメ‒ジ。{0A}疲労時に威力上昇。	；给予敌方单体打击属性大伤害{0A}疲劳时威力上升。
-datSkillHelp.PTP	146	0	<EMPTY>	敵単体に貫通属性で中ダメ‒ジ。{0A}ダウン対象に威力上昇。	；给予敌方单体贯通属性中伤害{0A}对倒地的对象威力上升。
-datSkillHelp.PTP	147	0	<EMPTY>	敵単体に貫通属性で大ダメ‒ジ。{0A}ダウン対象に威力上昇。	；给予敌方单体贯通属性大伤害{0A}对倒地的对象威力上升。
-datSkillHelp.PTP	148	0	<EMPTY>	敵単体に貫通属性で{0A}大ダメ‒ジ+"毒"。	；给予敌方单体贯通属性{0A}大伤害+中毒状态。
-datSkillHelp.PTP	149	0	<EMPTY>	敵単体に打撃属性で{0A}大ダメ‒ジ。	；给予敌方单体打击属性{0A}大伤害。
-datSkillHelp.PTP	150	0	<EMPTY>	敵全体に斬撃属性で{0A}大ダメ‒ジ。	；给予敌方全体斩击属性{0A}大伤害。
+datSkillHelp.PTP	144	0	<EMPTY>	敵全体に斬撃属性で大ダメ‒ジ。{0A}絶好調時に威力上昇。	；给予敌方单体斩击属性大伤害。{0A}状态绝佳时威力上升。
+datSkillHelp.PTP	145	0	<EMPTY>	敵単体に打撃属性で大ダメ‒ジ。{0A}疲労時に威力上昇。	；给予敌方单体打击属性大伤害。{0A}疲劳时威力上升。
+datSkillHelp.PTP	146	0	<EMPTY>	敵単体に貫通属性で中ダメ‒ジ。{0A}ダウン対象に威力上昇。	；给予敌方单体贯通属性中量伤害。{0A}对倒地的对象威力上升。
+datSkillHelp.PTP	147	0	<EMPTY>	敵単体に貫通属性で大ダメ‒ジ。{0A}ダウン対象に威力上昇。	；给予敌方单体贯通属性大伤害。{0A}对倒地的对象威力上升。
+datSkillHelp.PTP	148	0	<EMPTY>	敵単体に貫通属性で{0A}大ダメ‒ジ+"毒"。	；给予敌方单体贯通属性{0A}大量伤害+中毒状态。
+datSkillHelp.PTP	149	0	<EMPTY>	敵単体に打撃属性で{0A}大ダメ‒ジ。	；给予敌方单体打击属性{0A}大量伤害。
+datSkillHelp.PTP	150	0	<EMPTY>	敵全体に斬撃属性で{0A}大ダメ‒ジ。	；给予敌方全体斩击属性{0A}大量伤害。
 datSkillHelp.PTP	151	0	<EMPTY>	097	
 datSkillHelp.PTP	152	0	<EMPTY>	098	
 datSkillHelp.PTP	153	0	<EMPTY>	099	
@@ -190,20 +190,20 @@ datSkillHelp.PTP	188	0	<EMPTY>	0BC
 datSkillHelp.PTP	189	0	<EMPTY>	0BD	
 datSkillHelp.PTP	190	0	<EMPTY>	0BE	
 datSkillHelp.PTP	191	0	<EMPTY>	0BF	
-datSkillHelp.PTP	192	0	<EMPTY>	味方単体のHPを小回復。	；我方单体HP小回复。
-datSkillHelp.PTP	193	0	<EMPTY>	味方単体のHPを中回復。	；我方单体HP中回复。
-datSkillHelp.PTP	194	0	<EMPTY>	味方単体のHPを全回復。	；我方单体HP全回复。
-datSkillHelp.PTP	195	0	<EMPTY>	味方全体のHPを小回復。	；我方全体HP小回复。
-datSkillHelp.PTP	196	0	<EMPTY>	味方全体のHPを中回復。	；我方全体HP中回复。
-datSkillHelp.PTP	197	0	<EMPTY>	味方全体のHPを全回復。	；我方全体HP全回复。
-datSkillHelp.PTP	198	0	<EMPTY>	味方全体のHPを全回復し{0A}全ての状態異常を治療。	；我方全体HP全回复{0A}治疗全部的异常状态。
-datSkillHelp.PTP	199	0	<EMPTY>	味方単体の"混乱"、{0A}"動揺""恐怖"を治療。	；治疗我方单体的{0A}混乱，动摇，恐怖状态。
-datSkillHelp.PTP	200	0	<EMPTY>	味方全体の"混乱"、{0A}"動揺""恐怖"を治療。	；治疗我方全体的{0A}混乱，动摇，恐怖状态。
+datSkillHelp.PTP	192	0	<EMPTY>	味方単体のHPを小回復。	；我方单体的HP小回复。
+datSkillHelp.PTP	193	0	<EMPTY>	味方単体のHPを中回復。	；我方单体的HP中回复。
+datSkillHelp.PTP	194	0	<EMPTY>	味方単体のHPを全回復。	；我方单体的HP全回复。
+datSkillHelp.PTP	195	0	<EMPTY>	味方全体のHPを小回復。	；我方全体的HP小回复。
+datSkillHelp.PTP	196	0	<EMPTY>	味方全体のHPを中回復。	；我方全体的HP中回复。
+datSkillHelp.PTP	197	0	<EMPTY>	味方全体のHPを全回復。	；我方全体的HP全回复。
+datSkillHelp.PTP	198	0	<EMPTY>	味方全体のHPを全回復し{0A}全ての状態異常を治療。	；我方全体的HP全回复{0A}并治疗全部的异常状态。
+datSkillHelp.PTP	199	0	<EMPTY>	味方単体の"混乱"、{0A}"動揺""恐怖"を治療。	；治疗我方单体的{0A}混乱，动摇，恐惧状态。
+datSkillHelp.PTP	200	0	<EMPTY>	味方全体の"混乱"、{0A}"動揺""恐怖"を治療。	；治疗我方全体的{0A}混乱，动摇，恐惧状态。
 datSkillHelp.PTP	201	0	<EMPTY>	味方単体の{0A}"ダウン"状態を回復。	；回复我方单体{0A}倒地状态。
 datSkillHelp.PTP	202	0	<EMPTY>	味方単体の"毒"を治療。	；治疗我方单体{0A}中毒状态。。
 datSkillHelp.PTP	203	0	<EMPTY>	味方全体の{0A}全ての状態異常を回復。	；治疗我方全体的{0A}全部异常状态。
-datSkillHelp.PTP	204	0	<EMPTY>	味方単体の瀕死を{0A}治療し、HPを半分回復。	；治疗我方单体的濒死状态{0A}回复一半HP。
-datSkillHelp.PTP	205	0	<EMPTY>	味方単体の瀕死を{0A}治療し、HPを全回復。	；治疗我方单体的濒死状态{0A}回复全部HP。
+datSkillHelp.PTP	204	0	<EMPTY>	味方単体の瀕死を{0A}治療し、HPを半分回復。	；治疗我方单体的濒死状态{0A}并回复一半HP。
+datSkillHelp.PTP	205	0	<EMPTY>	味方単体の瀕死を{0A}治療し、HPを全回復。	；治疗我方单体的濒死状态{0A}并回复全部HP。
 datSkillHelp.PTP	206	0	<EMPTY>	一定タ‒ン敵単体の{0A}攻撃力を下げる。	；一定回合内敌方单体{0A}攻击力下降。
 datSkillHelp.PTP	207	0	<EMPTY>	一定タ‒ン敵全体の{0A}攻撃力を下げる。	；一定回合内敌方全体{0A}攻击力下降。
 datSkillHelp.PTP	208	0	<EMPTY>	一定タ‒ン敵単体の{0A}命中、回避率を下げる。	；一定回合内敌方单体{0A}命中、回避率下降。
@@ -221,22 +221,22 @@ datSkillHelp.PTP	219	0	<EMPTY>	一定タ‒ン味方全体の{0A}防御力を上
 datSkillHelp.PTP	220	0	<EMPTY>	使用後の物理攻撃威力が{0A}一度だけ、2倍以上になる。	；使用后仅限一次{0A}物理攻击的威力达到二倍以上。
 datSkillHelp.PTP	221	0	<EMPTY>	使用後の魔法攻撃威力が{0A}一度だけ、2倍以上になる。	；使用后仅限一次{0A}魔法攻击的威力达到二倍以上。
 datSkillHelp.PTP	222	0	<EMPTY>	0DE	
-datSkillHelp.PTP	223	0	<EMPTY>	敵全体の{0A}ステ‒タス上昇効果を消す。	；消除敌方全体的{0A}属性上降效果。
-datSkillHelp.PTP	224	0	<EMPTY>	味方全体に物理攻撃を1回{0A}反射するバリアを張る。	；为我方全体张开反射一次物理攻击的{0A}护盾。
-datSkillHelp.PTP	225	0	<EMPTY>	味方全体に魔法攻撃を1回{0A}反射するバリアを張る。	；为我方全体张开反射一次魔法攻击的{0A}护盾。
+datSkillHelp.PTP	223	0	<EMPTY>	敵全体の{0A}ステ‒タス上昇効果を消す。	；消除敌方全体的{0A}属性提升效果。
+datSkillHelp.PTP	224	0	<EMPTY>	味方全体に物理攻撃を1回{0A}反射するバリアを張る。	；为我方全体张开反射一次{0A}物理攻击的护盾。
+datSkillHelp.PTP	225	0	<EMPTY>	味方全体に魔法攻撃を1回{0A}反射するバリアを張る。	；为我方全体张开反射一次{0A}魔法攻击的护盾。
 datSkillHelp.PTP	226	0	<EMPTY>	一定タ‒ンの間、場全体の{0A}クリティカル率が上昇。	；一定回合内，场上全体的{0A}暴击率提升。
 datSkillHelp.PTP	227	0	<EMPTY>	一定タ‒ンの間、場全体の{0A}クリティカル率が大上昇。	；一定回合内，场上全体的{0A}暴击率大幅提升。
 datSkillHelp.PTP	228	0	<EMPTY>	E4	
 datSkillHelp.PTP	229	0	<EMPTY>	敵単体の火炎耐性を{0A}通常まで下げる。	；将敌方单体的火炎耐性{0A}降低到通常为止。
-datSkillHelp.PTP	230	0	<EMPTY>	敵単体の氷結耐性を{0A}通常まで下げる。	；将敌方单体的冰结耐性{0A}降低到通常为止。
+datSkillHelp.PTP	230	0	<EMPTY>	敵単体の氷結耐性を{0A}通常まで下げる。	；将敌方单体的冰冻耐性{0A}降低到通常为止。
 datSkillHelp.PTP	231	0	<EMPTY>	敵単体の疾風耐性を{0A}通常まで下げる。	；将敌方单体的疾风耐性{0A}降低到通常为止。
 datSkillHelp.PTP	232	0	<EMPTY>	敵単体の電撃耐性を{0A}通常まで下げる。	；将敌方单体的电击耐性{0A}降低到通常为止。
 datSkillHelp.PTP	233	0	<EMPTY>	ダンジョンから{0A}即座に脱出。	；立刻从迷宫中{0A}脱离。
 datSkillHelp.PTP	234	0	<EMPTY>	一部の戦闘を除いて{0A}確実に逃走が成功。	；除了一部分战斗以外{0A}一定可以成功逃走。
 datSkillHelp.PTP	235	0	<EMPTY>	これを所持しちゃダメ	
-datSkillHelp.PTP	236	0	<EMPTY>	使用者のHPが1となるが{0A}味方全体のHPが全回復。	；使用者的HP变为1{0A}我方全体HP全回复。
+datSkillHelp.PTP	236	0	<EMPTY>	使用者のHPが1となるが{0A}味方全体のHPが全回復。	；使用者的HP变为1{0A}我方全体的HP全回复。
 datSkillHelp.PTP	237	0	<EMPTY>	味方単体の{0A}"悩殺"を治療する。	；治疗我方单体的{0A}魅惑状态。
-datSkillHelp.PTP	238	0	<EMPTY>	味方単体の{0A}"ヤケクソ"を治療する。	；治疗我方单体的{0A}自暴自弃效果。
+datSkillHelp.PTP	238	0	<EMPTY>	味方単体の{0A}"ヤケクソ"を治療する。	；治疗我方单体的{0A}自暴自弃状态。
 datSkillHelp.PTP	239	0	<EMPTY>	0EF	
 datSkillHelp.PTP	240	0	<EMPTY>	0F0	
 datSkillHelp.PTP	241	0	<EMPTY>	0F1	
@@ -277,14 +277,14 @@ datSkillHelp.PTP	275	0	<EMPTY>	味方全体が1タ‒ンの間{0A}ダメ‒ジ�
 datSkillHelp.PTP	276	0	<EMPTY>	味方単体を1タ‒ンの間{0A}無敵化させるが、その後⋯。	；我方全体一回合之内{0A}无敌化，在此之后。
 datSkillHelp.PTP	277	0	<EMPTY>	何が起こるか分からない。	；不清楚会发生什么事。
 datSkillHelp.PTP	278	0	<EMPTY>	敵全体に超絶ダメ‒ジ。	；对敌方全体造成超绝伤害。
-datSkillHelp.PTP	279	0	<EMPTY>	味方全体の回避力を上昇し{0A}HPを50%回復。	；我方全体回避力上升{0A}回复50%HP。
-datSkillHelp.PTP	280	0	<EMPTY>	敵全体に斬撃属性で{0A}大ダメ‒ジ。	；给予敌方全体斩击属性{0A}大伤害。
+datSkillHelp.PTP	279	0	<EMPTY>	味方全体の回避力を上昇し{0A}HPを50%回復。	；我方全体回避力上升{0A}并回复50%HP。
+datSkillHelp.PTP	280	0	<EMPTY>	敵全体に斬撃属性で{0A}大ダメ‒ジ。	；给予敌方全体斩击属性{0A}大量伤害。
 datSkillHelp.PTP	281	0	<EMPTY>	味方全体のHPを全回復。{0A}まれに⋯。	；我方全体的HP全回复。{0A}极低概率⋯。
-datSkillHelp.PTP	282	0	<EMPTY>	敵全体に高確率で{0A}"悩殺"効果。	；敌方全体高概率附加{0A}魅惑效果。
-datSkillHelp.PTP	283	0	<EMPTY>	敵全体に氷結属性で{0A}中ダメ‒ジ+"氷結"。	；给予敌方全体冰结属性{0A}中伤害+冰结效果。
-datSkillHelp.PTP	284	0	<EMPTY>	味方単体に{0A}全てのカジャ効果。	；我方单体附加{0A}所有的卡加系效果。
-datSkillHelp.PTP	285	0	<EMPTY>	敵全体に打撃属性で{0A}大ダメ‒ジ。	；给予敌方全体打击属性{0A}大伤害。
-datSkillHelp.PTP	286	0	<EMPTY>	敵全体に電撃属性で{0A}大ダメ‒ジ+"感電"。	；给予敌方全体电击属性{0A}大伤害+触电效果。
+datSkillHelp.PTP	282	0	<EMPTY>	敵全体に高確率で{0A}"悩殺"効果。	；敌方全体高概率附加{0A}魅惑状态。
+datSkillHelp.PTP	283	0	<EMPTY>	敵全体に氷結属性で{0A}中ダメ‒ジ+"氷結"。	；给予敌方全体冰冻属性{0A}中量伤害+冰冻状态。
+datSkillHelp.PTP	284	0	<EMPTY>	味方単体に{0A}全てのカジャ効果。	；我方单体附加{0A}所有的卡加系状态。
+datSkillHelp.PTP	285	0	<EMPTY>	敵全体に打撃属性で{0A}大ダメ‒ジ。	；给予敌方全体打击属性{0A}大量伤害。
+datSkillHelp.PTP	286	0	<EMPTY>	敵全体に電撃属性で{0A}大ダメ‒ジ+"感電"。	；给予敌方全体电击属性{0A}大量伤害+触电状态。
 datSkillHelp.PTP	287	0	<EMPTY>	敵全体に万能属性で{0A}超大ダメ‒ジ。	；给予敌方全体万能属性{0A}超大伤害。
 datSkillHelp.PTP	288	0	<EMPTY>	敵全体を中確率でダウン、{0A}さらにデカジャ効果。	；令敌方全体中等概率倒地{0A}并且附加迪卡加效果。
 datSkillHelp.PTP	289	0	<EMPTY>	敵全体に光属性で{0A}現在HPの50%ダメ‒ジ。	；给予敌方全体现在HP的50%的{0A}光属性伤害。
@@ -341,7 +341,7 @@ datSkillHelp.PTP	339	0	<EMPTY>	153
 datSkillHelp.PTP	340	0	<EMPTY>	154	
 datSkillHelp.PTP	341	0	<EMPTY>	155	
 datSkillHelp.PTP	342	0	<EMPTY>	156	
-datSkillHelp.PTP	343	0	<EMPTY>	内なる宇宙を開放し、{0A}死の母星ニュクスを封印する力。	；将内在的宇宙解放，{0A}将死之母星尼克斯封印之力。
+datSkillHelp.PTP	343	0	<EMPTY>	内なる宇宙を開放し、{0A}死の母星ニュクスを封印する力。	；将内在的宇宙解放，{0A}将死之母星倪克斯封印之力。
 datSkillHelp.PTP	344	0	<EMPTY>	158	
 datSkillHelp.PTP	345	0	<EMPTY>	159	
 datSkillHelp.PTP	346	0	<EMPTY>	15A	
@@ -478,10 +478,10 @@ datSkillHelp.PTP	476	0	<EMPTY>	火炎属性によるダメ‒ジを{0A}半減さ
 datSkillHelp.PTP	477	0	<EMPTY>	火炎属性によるダメ‒ジを{0A}無効化する。	；火炎属性的伤害{0A}无效。
 datSkillHelp.PTP	478	0	<EMPTY>	火炎属性によるダメ‒ジを{0A}反射する。	；火炎属性的伤害{0A}反射。
 datSkillHelp.PTP	479	0	<EMPTY>	火炎属性によるダメ‒ジを{0A}吸収する。	；火炎属性的伤害{0A}吸收。
-datSkillHelp.PTP	480	0	<EMPTY>	氷結属性によるダメ‒ジを{0A}半減させる。	；冰结属性的伤害{0A}减半。
-datSkillHelp.PTP	481	0	<EMPTY>	氷結属性によるダメ‒ジを{0A}無効化する。	；冰结属性的伤害{0A}无效。
-datSkillHelp.PTP	482	0	<EMPTY>	氷結属性によるダメ‒ジを{0A}反射する。	；冰结属性的伤害{0A}反射。
-datSkillHelp.PTP	483	0	<EMPTY>	氷結属性によるダメ‒ジを{0A}吸収する。	；冰结属性的伤害{0A}吸收。
+datSkillHelp.PTP	480	0	<EMPTY>	氷結属性によるダメ‒ジを{0A}半減させる。	；冰冻属性的伤害{0A}减半。
+datSkillHelp.PTP	481	0	<EMPTY>	氷結属性によるダメ‒ジを{0A}無効化する。	；冰冻属性的伤害{0A}无效。
+datSkillHelp.PTP	482	0	<EMPTY>	氷結属性によるダメ‒ジを{0A}反射する。	；冰冻属性的伤害{0A}反射。
+datSkillHelp.PTP	483	0	<EMPTY>	氷結属性によるダメ‒ジを{0A}吸収する。	；冰冻属性的伤害{0A}吸收。
 datSkillHelp.PTP	484	0	<EMPTY>	電撃属性によるダメ‒ジを{0A}半減させる。	；电击属性的伤害{0A}减半。
 datSkillHelp.PTP	485	0	<EMPTY>	電撃属性によるダメ‒ジを{0A}無効化する。	；电击属性的伤害{0A}无效。
 datSkillHelp.PTP	486	0	<EMPTY>	電撃属性によるダメ‒ジを{0A}反射する。	；电击属性的伤害{0A}反射。
@@ -490,46 +490,46 @@ datSkillHelp.PTP	488	0	<EMPTY>	疾風属性によるダメ‒ジを{0A}半減さ
 datSkillHelp.PTP	489	0	<EMPTY>	疾風属性によるダメ‒ジを{0A}無効化する。	；疾风属性的伤害{0A}无效。
 datSkillHelp.PTP	490	0	<EMPTY>	疾風属性によるダメ‒ジを{0A}反射する。	；疾风属性的伤害{0A}反射。
 datSkillHelp.PTP	491	0	<EMPTY>	疾風属性によるダメ‒ジを{0A}吸収する。	；疾风属性的伤害{0A}吸收。
-datSkillHelp.PTP	492	0	<EMPTY>	光属性による効果を{0A}半減させる。	；光属性的伤害{0A}减半。
-datSkillHelp.PTP	493	0	<EMPTY>	光属性による効果を{0A}無効化する。	；光属性的伤害{0A}无效。
-datSkillHelp.PTP	494	0	<EMPTY>	光属性による効果を{0A}反射する。	；光属性的伤害{0A}反射。
-datSkillHelp.PTP	495	0	<EMPTY>	闇属性による効果を{0A}半減させる。	；暗属性的伤害{0A}减半。
-datSkillHelp.PTP	496	0	<EMPTY>	闇属性による効果を{0A}無効化する。	；暗属性的伤害{0A}无效。
-datSkillHelp.PTP	497	0	<EMPTY>	闇属性による効果を{0A}反射する。	；暗属性的伤害{0A}反射。
+datSkillHelp.PTP	492	0	<EMPTY>	光属性による効果を{0A}半減させる。	；光属性的效果{0A}减半。
+datSkillHelp.PTP	493	0	<EMPTY>	光属性による効果を{0A}無効化する。	；光属性的效果{0A}无效。
+datSkillHelp.PTP	494	0	<EMPTY>	光属性による効果を{0A}反射する。	；光属性的效果{0A}反射。
+datSkillHelp.PTP	495	0	<EMPTY>	闇属性による効果を{0A}半減させる。	；暗属性的效果{0A}减半。
+datSkillHelp.PTP	496	0	<EMPTY>	闇属性による効果を{0A}無効化する。	；暗属性的效果{0A}无效。
+datSkillHelp.PTP	497	0	<EMPTY>	闇属性による効果を{0A}反射する。	；暗属性的效果{0A}反射。
 datSkillHelp.PTP	498	0	<EMPTY>	"悩殺"に{0A}かからなくなる。	；不再会进入{0A}魅惑状态。
 datSkillHelp.PTP	499	0	<EMPTY>	"動揺"に{0A}かからなくなる。	；不再会进入{0A}动摇状态。
 datSkillHelp.PTP	500	0	<EMPTY>	"混乱"に{0A}かからなくなる。	；不再会进入{0A}混乱状态。
-datSkillHelp.PTP	501	0	<EMPTY>	"恐怖"に{0A}かからなくなる。	；不再会进入{0A}恐怖状态。
+datSkillHelp.PTP	501	0	<EMPTY>	"恐怖"に{0A}かからなくなる。	；不再会进入{0A}恐惧状态。
 datSkillHelp.PTP	502	0	<EMPTY>	"ヤケクソ"に{0A}かからなくなる。	；不再会进入{0A}自暴自弃状态。
-datSkillHelp.PTP	503	0	<EMPTY>	"氷結"に{0A}かからなくなる。	；不再会进入{0A}冰结状态。
-datSkillHelp.PTP	504	0	<EMPTY>	"感電"に{0A}かからなくなる。	；不再会进入{0A}感电状态。
+datSkillHelp.PTP	503	0	<EMPTY>	"氷結"に{0A}かからなくなる。	；不再会进入{0A}冰冻状态。
+datSkillHelp.PTP	504	0	<EMPTY>	"感電"に{0A}かからなくなる。	；不再会进入{0A}触电状态。
 datSkillHelp.PTP	505	0	<EMPTY>	"毒"に{0A}かからなくなる。	；不再会进入{0A}中毒状态。
 datSkillHelp.PTP	506	0	<EMPTY>	精神系状態異常に{0A}かからなくなる。	；不会被附加{0A}精神系异常状态。
-datSkillHelp.PTP	507	0	<EMPTY>	万能属性攻撃以外を{0A}無効化する。	；万能属性攻击以外{0A}无效化。
-datSkillHelp.PTP	508	0	<EMPTY>	斬撃属性攻撃に対する{0A}回避率が上昇。	；对斩击属性攻击的回避率{0A}上昇。
-datSkillHelp.PTP	509	0	<EMPTY>	斬撃属性攻撃に対する{0A}回避率が大上昇。	；对斩击属性攻击的回避率{0A}大幅上昇。
-datSkillHelp.PTP	510	0	<EMPTY>	打撃属性攻撃に対する{0A}回避率が上昇。	；对打击属性攻击的回避率{0A}上昇。
-datSkillHelp.PTP	511	0	<EMPTY>	打撃属性攻撃に対する{0A}回避率が大上昇。	；对打击属性攻击的回避率{0A}大幅上昇。
-datSkillHelp.PTP	512	0	<EMPTY>	貫通属性攻撃に対する{0A}回避率が上昇。	；对贯通属性攻击的回避率{0A}上昇。
-datSkillHelp.PTP	513	0	<EMPTY>	貫通属性攻撃に対する{0A}回避率が大上昇。	；对贯通属性攻击的回避率{0A}大幅上昇。
-datSkillHelp.PTP	514	0	<EMPTY>	火炎属性攻撃に対する{0A}回避率が上昇。	；对火炎属性攻击的回避率{0A}上昇。
-datSkillHelp.PTP	515	0	<EMPTY>	火炎属性攻撃に対する{0A}回避率が大上昇。	；对火炎属性攻击的回避率{0A}大幅上昇。
-datSkillHelp.PTP	516	0	<EMPTY>	氷結属性攻撃に対する{0A}回避率が上昇。	；对冰结属性攻击的回避率{0A}上昇。
-datSkillHelp.PTP	517	0	<EMPTY>	氷結属性攻撃に対する{0A}回避率が大上昇。	；对冰结属性攻击的回避率{0A}大幅上昇。
-datSkillHelp.PTP	518	0	<EMPTY>	疾風属性攻撃に対する{0A}回避率が上昇。	；对疾风属性攻击的回避率{0A}上昇。
-datSkillHelp.PTP	519	0	<EMPTY>	疾風属性攻撃に対する{0A}回避率が大上昇。	；对疾风属性攻击的回避率{0A}大幅上昇。
-datSkillHelp.PTP	520	0	<EMPTY>	電撃属性攻撃に対する{0A}回避率が上昇。	；对电击属性攻击的回避率{0A}上昇。
-datSkillHelp.PTP	521	0	<EMPTY>	電撃属性攻撃に対する{0A}回避率が大上昇。	；对电击属性攻击的回避率{0A}大幅上昇。
+datSkillHelp.PTP	507	0	<EMPTY>	万能属性攻撃以外を{0A}無効化する。	；万能属性以外的攻击{0A}无效。
+datSkillHelp.PTP	508	0	<EMPTY>	斬撃属性攻撃に対する{0A}回避率が上昇。	；对斩击属性攻击的回避率{0A}上升。
+datSkillHelp.PTP	509	0	<EMPTY>	斬撃属性攻撃に対する{0A}回避率が大上昇。	；对斩击属性攻击的回避率{0A}大幅上升。
+datSkillHelp.PTP	510	0	<EMPTY>	打撃属性攻撃に対する{0A}回避率が上昇。	；对打击属性攻击的回避率{0A}上升。
+datSkillHelp.PTP	511	0	<EMPTY>	打撃属性攻撃に対する{0A}回避率が大上昇。	；对打击属性攻击的回避率{0A}大幅上升。
+datSkillHelp.PTP	512	0	<EMPTY>	貫通属性攻撃に対する{0A}回避率が上昇。	；对贯通属性攻击的回避率{0A}上升。
+datSkillHelp.PTP	513	0	<EMPTY>	貫通属性攻撃に対する{0A}回避率が大上昇。	；对贯通属性攻击的回避率{0A}大幅上升。
+datSkillHelp.PTP	514	0	<EMPTY>	火炎属性攻撃に対する{0A}回避率が上昇。	；对火炎属性攻击的回避率{0A}上升。
+datSkillHelp.PTP	515	0	<EMPTY>	火炎属性攻撃に対する{0A}回避率が大上昇。	；对火炎属性攻击的回避率{0A}大幅上升。
+datSkillHelp.PTP	516	0	<EMPTY>	氷結属性攻撃に対する{0A}回避率が上昇。	；对冰冻属性攻击的回避率{0A}上升。
+datSkillHelp.PTP	517	0	<EMPTY>	氷結属性攻撃に対する{0A}回避率が大上昇。	；对冰冻属性攻击的回避率{0A}大幅上升。
+datSkillHelp.PTP	518	0	<EMPTY>	疾風属性攻撃に対する{0A}回避率が上昇。	；对疾风属性攻击的回避率{0A}上升。
+datSkillHelp.PTP	519	0	<EMPTY>	疾風属性攻撃に対する{0A}回避率が大上昇。	；对疾风属性攻击的回避率{0A}大幅上升。
+datSkillHelp.PTP	520	0	<EMPTY>	電撃属性攻撃に対する{0A}回避率が上昇。	；对电击属性攻击的回避率{0A}上升。
+datSkillHelp.PTP	521	0	<EMPTY>	電撃属性攻撃に対する{0A}回避率が大上昇。	；对电击属性攻击的回避率{0A}大幅上升。
 datSkillHelp.PTP	522	0	<EMPTY>	20A	
 datSkillHelp.PTP	523	0	<EMPTY>	20B	
 datSkillHelp.PTP	524	0	<EMPTY>	20C	
 datSkillHelp.PTP	525	0	<EMPTY>	20D	
-datSkillHelp.PTP	526	0	<EMPTY>	物理スキルに対する{0A}回避率が上昇。	；对属性攻击的回避率{0A}上昇。
-datSkillHelp.PTP	527	0	<EMPTY>	魔法スキルに対する{0A}回避率が上昇。	；对属性攻击的回避率{0A}上昇。
+datSkillHelp.PTP	526	0	<EMPTY>	物理スキルに対する{0A}回避率が上昇。	；对属性攻击的回避率{0A}上升。
+datSkillHelp.PTP	527	0	<EMPTY>	魔法スキルに対する{0A}回避率が上昇。	；对属性攻击的回避率{0A}上升。
 datSkillHelp.PTP	528	0	<EMPTY>	火炎属性攻撃の{0A}威力が増加。	；火炎属性攻击的{0A}威力增加。
 datSkillHelp.PTP	529	0	<EMPTY>	火炎属性攻撃の{0A}威力が大増加。	；火炎属性攻击的{0A}威力大幅增加。
-datSkillHelp.PTP	530	0	<EMPTY>	氷結属性攻撃の{0A}威力が増加。	；冰结属性攻击的{0A}威力增加。
-datSkillHelp.PTP	531	0	<EMPTY>	氷結属性攻撃の{0A}威力が大増加。	；冰结属性攻击的{0A}威力大幅增加。
+datSkillHelp.PTP	530	0	<EMPTY>	氷結属性攻撃の{0A}威力が増加。	；冰冻属性攻击的{0A}威力增加。
+datSkillHelp.PTP	531	0	<EMPTY>	氷結属性攻撃の{0A}威力が大増加。	；冰冻属性攻击的{0A}威力大幅增加。
 datSkillHelp.PTP	532	0	<EMPTY>	電撃属性攻撃の{0A}威力が増加。	；电击属性攻击的{0A}威力增加。
 datSkillHelp.PTP	533	0	<EMPTY>	電撃属性攻撃の{0A}威力が大増加。	；电击属性攻击的{0A}威力大幅增加。
 datSkillHelp.PTP	534	0	<EMPTY>	疾風属性攻撃の{0A}威力が増加。	；疾风属性攻击的{0A}威力增加。
@@ -541,7 +541,7 @@ datSkillHelp.PTP	539	0	<EMPTY>	HPが30%増加。	；HP增加30%。
 datSkillHelp.PTP	540	0	<EMPTY>	SPが10%増加。	；SP增加10%。
 datSkillHelp.PTP	541	0	<EMPTY>	SPが20%増加。	；SP增加20%。
 datSkillHelp.PTP	542	0	<EMPTY>	SPが30%増加。	；SP增加30%。
-datSkillHelp.PTP	543	0	<EMPTY>	"ヤケクソ"時に{0A}通常攻撃威力が上昇。	；自暴自弃时{0A}普通攻击的威力提升。
+datSkillHelp.PTP	543	0	<EMPTY>	"ヤケクソ"時に{0A}通常攻撃威力が上昇。	；处于自暴自弃状态时{0A}普通攻击的威力提升。
 datSkillHelp.PTP	544	0	<EMPTY>	物理攻撃を受けた際{0A}低確率で反射する。	；受到物理攻击时{0A}低概率反射。
 datSkillHelp.PTP	545	0	<EMPTY>	物理攻撃を受けた際{0A}中確率で反射する。	；受到物理攻击时{0A}中概率反射。
 datSkillHelp.PTP	546	0	<EMPTY>	物理攻撃を受けた際{0A}高確率で反射する。	；受到物理攻击时{0A}高概率反射。
@@ -590,23 +590,23 @@ datSkillHelp.PTP	588	0	<EMPTY>	闇属性スキルで瀕死に{0A}なった際、
 datSkillHelp.PTP	589	0	<EMPTY>	戦闘開始と同時に{0A}マハラクカジャがかかる。	；战斗开始同时{0A}附加玛哈拉库卡加。
 datSkillHelp.PTP	590	0	<EMPTY>	戦闘開始と同時に{0A}マハタルカジャがかかる。	；战斗开始同时{0A}附加玛哈塔尔卡加。
 datSkillHelp.PTP	591	0	<EMPTY>	戦闘開始と同時に{0A}マハスクカジャがかかる。	；战斗开始同时{0A}附加玛哈斯库卡加。
-datSkillHelp.PTP	592	0	<EMPTY>	"悩殺"の{0A}付着確率が上昇。	；魅惑的{0A}附着概率提升。
-datSkillHelp.PTP	593	0	<EMPTY>	"毒"の{0A}付着確率が上昇。	；毒的{0A}附着概率提升。
-datSkillHelp.PTP	594	0	<EMPTY>	"動揺"の{0A}付着確率が上昇。	；动摇的{0A}附着概率提升。
-datSkillHelp.PTP	595	0	<EMPTY>	"混乱"の{0A}付着確率が上昇。	；混乱的{0A}附着概率提升。
-datSkillHelp.PTP	596	0	<EMPTY>	"恐怖"の{0A}付着確率が上昇。	；恐怖的{0A}附着概率提升。
-datSkillHelp.PTP	597	0	<EMPTY>	"ヤケクソ"の{0A}付着確率が上昇。	；自暴自弃的{0A}附着概率提升。
+datSkillHelp.PTP	592	0	<EMPTY>	"悩殺"の{0A}付着確率が上昇。	；魅惑状态的{0A}附着概率提升。
+datSkillHelp.PTP	593	0	<EMPTY>	"毒"の{0A}付着確率が上昇。	；中毒状态的{0A}附着概率提升。
+datSkillHelp.PTP	594	0	<EMPTY>	"動揺"の{0A}付着確率が上昇。	；动摇状态的{0A}附着概率提升。
+datSkillHelp.PTP	595	0	<EMPTY>	"混乱"の{0A}付着確率が上昇。	；混乱状态的{0A}附着概率提升。
+datSkillHelp.PTP	596	0	<EMPTY>	"恐怖"の{0A}付着確率が上昇。	；恐惧状态的{0A}附着概率提升。
+datSkillHelp.PTP	597	0	<EMPTY>	"ヤケクソ"の{0A}付着確率が上昇。	；自暴自弃状态的{0A}附着概率提升。
 datSkillHelp.PTP	598	0	<EMPTY>	全ての状態異常攻撃の{0A}付着確率が上昇。	；所有的状态异常攻击的{0A}附着概率提升。
 datSkillHelp.PTP	599	0	<EMPTY>	光属性スキルの{0A}成功率が上昇。	；光属性技能的{0A}成功率提升。
 datSkillHelp.PTP	600	0	<EMPTY>	闇属性スキルの{0A}成功率が上昇。	；暗属性技能的{0A}成功率提升。
 datSkillHelp.PTP	601	0	<EMPTY>	光属性スキルで瀕死に{0A}なった際、確実に復活。	；受到光属性技能进入濒死状态时{0A}一定复活。
-datSkillHelp.PTP	602	0	<EMPTY>	闇属性スキルで瀕死に{0A}なった際、確実に復活。	；受到光属性技能进入濒死状态时{0A}一定复活。
+datSkillHelp.PTP	602	0	<EMPTY>	闇属性スキルで瀕死に{0A}なった際、確実に復活。	；受到暗属性技能进入濒死状态时{0A}一定复活。
 datSkillHelp.PTP	603	0	<EMPTY>	25B	
 datSkillHelp.PTP	604	0	<EMPTY>	25C	
 datSkillHelp.PTP	605	0	<EMPTY>	戦闘終了時HP·SPが{0A}小回復。	；战斗结束时HP·SP{0A}小回复。
 datSkillHelp.PTP	606	0	<EMPTY>	戦闘終了時HP·SPが{0A}全回復。	；战斗结束时HP·SP{0A}全回复。
-datSkillHelp.PTP	607	0	<EMPTY>	戦闘中、行動する度に{0A}HPが中回復。	；战斗中，行动时{0A}HP中回复
-datSkillHelp.PTP	608	0	<EMPTY>	戦闘中、行動する度に{0A}HPが中回復。	；战斗中，行动时{0A}HP中回复。
+datSkillHelp.PTP	607	0	<EMPTY>	戦闘中、行動する度に{0A}HPが中回復。	；战斗中，每次行动时{0A}HP中回复
+datSkillHelp.PTP	608	0	<EMPTY>	戦闘中、行動する度に{0A}HPが中回復。	；战斗中，每次行动时{0A}HP中回复。
 datSkillHelp.PTP	609	0	<EMPTY>	261	
 datSkillHelp.PTP	610	0	<EMPTY>	262	
 datSkillHelp.PTP	611	0	<EMPTY>	263	
