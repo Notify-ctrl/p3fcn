@@ -4,4 +4,4 @@ bp_roothelp.PTP	2	0	<EMPTY>	现在所持している{0A}アイテムを使用す
 bp_roothelp.PTP	3	0	<EMPTY>	仲间やバックアップに{0A}作战指示を行う。	；对队友或战斗支援{0A}进行作战指示。
 bp_roothelp.PTP	4	0	<EMPTY>	装备ペルソナを{0A}付け替える。	；更换装备的{0A}人格面具。
 bp_roothelp.PTP	5	0	<EMPTY>	战闘からの离脱を试みる。	；尝试脱离战斗。
-bp_roothelp.PTP	6	0	<EMPTY>	何もせず行动を终える。	；不进行任何动作，结束当前行动。
+bp_roothelp.PTP	6	0	<EMPTY>	何もせず行动を终える。	；不进行任何动作，{0A}结束当前行动。
