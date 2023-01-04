@@ -1,3 +1,4 @@
-cd C:/Users/ASUS/Documents/GitHub/p3fcn/CVM
+python checkchar.py
+python checkfmt.py
 python checkwidth.py
 pause
