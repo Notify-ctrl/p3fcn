@@ -11,7 +11,7 @@ datEventItemHelp.PTP	9	0	<EMPTY>	ゆかりの思い出のストラップ。{0A}�
 datEventItemHelp.PTP	10	0	<EMPTY>	風花特製イヤホン。{0A}究極の力·スカアハを開く鍵。	；风花特制的耳机。{0A}打开究极之力·斯卡哈的钥匙。
 datEventItemHelp.PTP	11	0	<EMPTY>	美鶴のバイクのキ‒。{0A}究極の力·アリラトを開く鍵。	；美鹤的摩托车钥匙。{0A}打开究极之力·阿拉特的钥匙。
 datEventItemHelp.PTP	12	0	<EMPTY>	結子とのコ‒チ記念。究極の力{0A}ジ‒クフリ‒ドを開く鍵。	；和结子指导训练的纪念照片。{0A}打开究极之力·齐格菲的钥匙。
-datEventItemHelp.PTP	13	0	<EMPTY>	千尋の大事な本。究極の力{0A}メルキセデクを開く鍵。	；对千寻很重要的书。{0A}打开究极之力·麦基洗德的钥匙。
+datEventItemHelp.PTP	13	0	<EMPTY>	千尋の大事な本。究極の力{0A}メルキセデクを開く鍵。	；对千寻很重要的书。{0A}打开究极之力·默基瑟德的钥匙。
 datEventItemHelp.PTP	14	0	<EMPTY>	宮本と甥との約束の証。{0A}究極の力·ト‒ルを開く鍵。	；宫本和外甥的约定之证。{0A}打开究极之力·托尔的钥匙。
 datEventItemHelp.PTP	15	0	<EMPTY>	まだ⋯無い⋯ッ	
 datEventItemHelp.PTP	16	0	<EMPTY>	Y子特製画像。究極の力{0A}アラハバキを開く鍵。	；Y子的特制画像。{0A}打开究极之力·荒霸吐的钥匙。
