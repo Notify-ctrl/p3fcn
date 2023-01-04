@@ -56,7 +56,7 @@ datEventItemHelp.PTP	54	0	<EMPTY>	愚者·オルフェウス·改が{0A}合体�
 datEventItemHelp.PTP	55	0	<EMPTY>	弓道用品のぎり粉のこと。{0A}きな粉にそっくり。	；弓道用品的松香粉。{0A}很像黄豆粉。
 datEventItemHelp.PTP	56	0	<EMPTY>	刀身の断面が三角形の{0A}曲がりにくい突剣。	；刀身的截面是三角形的{0A}不易弯曲的刺剑。
 datEventItemHelp.PTP	57	0	<EMPTY>	眼鏡以外にも色んな物を{0A}拭いた形跡がある。	；除了眼镜以外{0A}也有擦过很多东西的痕迹。
-datEventItemHelp.PTP	58	0	<EMPTY>	オランウ‒タンの木とも{0A}言う、葉が赤くなる木。	；也被称为红毛猩猩树的{0A}叶子会变红的树。
+datEventItemHelp.PTP	58	0	<EMPTY>	オランウ‒タンの木とも{0A}言う、葉が赤くなる木。	；也被称为红毛猩猩木的{0A}叶子会变红的树。
 datEventItemHelp.PTP	59	0	<EMPTY>	クイ‒ンクラウンという{0A}ソフトが差されている。	；里面插有叫做女皇王冠的{0A}游戏软件。
 datEventItemHelp.PTP	60	0	<EMPTY>	使い込まれてはいるが、{0A}手入れが行き届いている。	；虽然有使用过的痕迹，{0A}但是保养得很好。
 datEventItemHelp.PTP	61	0	<EMPTY>	超人気ヒ‒ロ‒の人形。{0A}全身40箇所が可動。	；超高人气的英雄人偶。{0A}全身有40处可动。
