@@ -9,7 +9,7 @@ datEventItemHelp.PTP	7	0	<EMPTY>	小田桐が勝ち取った信頼の証。{0A}�
 datEventItemHelp.PTP	8	0	<EMPTY>	文吉の息子が植えた木の実。{0A}究極の力·コウリュウを開く鍵。	；文吉的儿子种的树的种子。{0A}打开究极之力·黄龙的钥匙。
 datEventItemHelp.PTP	9	0	<EMPTY>	ゆかりの思い出のストラップ。{0A}究極の力·キュベレを開く鍵。	；有由加莉的回忆的挂件。{0A}打开究极之力·西布莉的钥匙。
 datEventItemHelp.PTP	10	0	<EMPTY>	風花特製イヤホン。{0A}究極の力·スカアハを開く鍵。	；风花特制的耳机。{0A}打开究极之力·斯卡哈的钥匙。
-datEventItemHelp.PTP	11	0	<EMPTY>	美鶴のバイクのキ‒。{0A}究極の力·アリラトを開く鍵。	；美鹤的摩托车钥匙。{0A}打开究极之力·阿拉特的钥匙。
+datEventItemHelp.PTP	11	0	<EMPTY>	美鶴のバイクのキ‒。{0A}究極の力·アリラトを開く鍵。	；美鹤的摩托车钥匙。{0A}打开究极之力·威灵的钥匙。
 datEventItemHelp.PTP	12	0	<EMPTY>	結子とのコ‒チ記念。究極の力{0A}ジ‒クフリ‒ドを開く鍵。	；和结子指导训练的纪念照片。{0A}打开究极之力·齐格菲的钥匙。
 datEventItemHelp.PTP	13	0	<EMPTY>	千尋の大事な本。究極の力{0A}メルキセデクを開く鍵。	；对千寻很重要的书。{0A}打开究极之力·默基瑟德的钥匙。
 datEventItemHelp.PTP	14	0	<EMPTY>	宮本と甥との約束の証。{0A}究極の力·ト‒ルを開く鍵。	；宫本和外甥的约定之证。{0A}打开究极之力·托尔的钥匙。
@@ -30,7 +30,7 @@ datEventItemHelp.PTP	28	0	<EMPTY>	年代物の万年筆。{0A}軸が血のよう
 datEventItemHelp.PTP	29	0	<EMPTY>	学校に生えている{0A}若木の落ち葉。	；在学校里生长的{0A}小树的落叶。
 datEventItemHelp.PTP	30	0	<EMPTY>	501E	
 datEventItemHelp.PTP	31	0	<EMPTY>	501F	
-datEventItemHelp.PTP	32	0	<EMPTY>	エリザベスに勝利した証。{0A}彼女が大切にしていた品。	；战胜伊丽莎白的证明。{0A}她很珍惜的东西。
+datEventItemHelp.PTP	32	0	<EMPTY>	エリザベスに勝利した証。{0A}彼女が大切にしていた品。	；战胜伊丽莎白的证明。{0A}是她很珍惜的东西。
 datEventItemHelp.PTP	33	0	<EMPTY>	死神·ペイルライダ‒が{0A}合体で作成可能になる。	；死神·苍白骑士{0A}可以合体合成了。
 datEventItemHelp.PTP	34	0	<EMPTY>	皇帝·キングフロストが{0A}合体で作成可能になる。	；皇帝·霜精之王{0A}可以合体合成了。
 datEventItemHelp.PTP	35	0	<EMPTY>	戦車·ナタタイシが{0A}合体で作成可能になる。	；战车·哪吒太子{0A}可以合体合成了。
@@ -47,7 +47,7 @@ datEventItemHelp.PTP	45	0	<EMPTY>	タルタロスで拾った文書。{0A}10年�
 datEventItemHelp.PTP	46	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
 datEventItemHelp.PTP	47	0	<EMPTY>	@eventitem_047	
 datEventItemHelp.PTP	48	0	<EMPTY>	魔術師·カハクが{0A}合体で作成可能になる。	；魔术师·花魄{0A}可以合体合成了。
-datEventItemHelp.PTP	49	0	<EMPTY>	法王·ト‒トが{0A}合体で作成可能になる。	；教皇·托特{0A}可以合体合成了。
+datEventItemHelp.PTP	49	0	<EMPTY>	法王·ト‒トが{0A}合体で作成可能になる。	；教皇·图特{0A}可以合体合成了。
 datEventItemHelp.PTP	50	0	<EMPTY>	運命·エンプ‒サが{0A}合体で作成可能になる。	；命运·恩浦萨{0A}可以合体合成了。
 datEventItemHelp.PTP	51	0	<EMPTY>	星·カルティケ‒ヤが{0A}合体で作成可能になる。	；星·室建陀{0A}可以合体合成了。
 datEventItemHelp.PTP	52	0	<EMPTY>	刑死者·ヘルズエンジェル{0A}が合体で作成可能になる。	；倒吊人·地狱天使{0A}可以合体合成了。
