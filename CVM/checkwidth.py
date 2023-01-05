@@ -54,9 +54,9 @@ for root, dirs, files in os.walk(dir_path):
             if len(substr) > 1 and substr[len(substr) - 1] in punc:
               extralen -= 1
 
-            if len(substr) + extralen > 18:
+            if len(substr) + extralen > 24:
               err = True
-              print(str(fname) + ":" + str(lineno) + ": 宽度超18字符")
+              print(str(fname) + ":" + str(lineno) + ": 宽度超24字符")
 
 
 if err:
