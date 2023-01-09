@@ -158,4 +158,287 @@ DATCOMUHELP.PTP	156	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A
 DATCOMUHELP.PTP	157	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} ライバルとして認められている。	； 与{F2 2E 01 01}部员宫本的社群。{0A} 被认可是竞争对手了。
 DATCOMUHELP.PTP	158	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} ヒザを壊しているようだ。	； 与{F2 2E 01 01}部员宫本的社群。{0A} 膝盖好像受伤了。
 DATCOMUHELP.PTP	159	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} ヒザの調子が悪いため病院で検査した。	； 与{F2 2E 01 01}部员宫本的社群。{0A} } 因膝盖的情况恶化去医院做了检查。
-DATCOMUHELP.PTP	160	0			
+DATCOMUHELP.PTP	160	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} 壊したヒザの調子が悪化したようだ。	
+DATCOMUHELP.PTP	161	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} 甥を元気付けるため、無理をしている。	
+DATCOMUHELP.PTP	162	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} 甥を元気付けるため、無理をしている。	
+DATCOMUHELP.PTP	163	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} ヒザの故障を部員達に知られた。	
+DATCOMUHELP.PTP	164	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} 部員達に気遣われながら練習している。	
+DATCOMUHELP.PTP	165	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} リハビリする決意をした。	
+DATCOMUHELP.PTP	166	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} 少し気まずくなっている。	
+DATCOMUHELP.PTP	167	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} 少し疎遠になってしまっている。	
+DATCOMUHELP.PTP	168	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} 新入部員として、歓迎されている。	
+DATCOMUHELP.PTP	169	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} ライバルとして認められている。	
+DATCOMUHELP.PTP	170	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} ヒザを壊しているようだ。	
+DATCOMUHELP.PTP	171	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} ヒザの調子が悪いため病院で検査した。	
+DATCOMUHELP.PTP	172	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} 壊したヒザの調子が悪化したようだ。	
+DATCOMUHELP.PTP	173	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} 甥を元気付けるため、無理をしている。	
+DATCOMUHELP.PTP	174	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} 甥を元気付けるため、無理をしている。	
+DATCOMUHELP.PTP	175	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} ヒザの故障を部員達に知られた。	
+DATCOMUHELP.PTP	176	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} 部員達に気遣われながら練習している。	
+DATCOMUHELP.PTP	177	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} リハビリする決意をした。	
+DATCOMUHELP.PTP	178	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} 少し気まずくなっている。	
+DATCOMUHELP.PTP	179	0	<EMPTY>	 {F2 2E 01 01}部員、宮本とのコミュ。{0A} 少し疎遠になってしまっている。	
+DATCOMUHELP.PTP	180	0	<EMPTY>	(未使用){0A}15	
+DATCOMUHELP.PTP	181	0	<EMPTY>	(未使用){0A}15	
+DATCOMUHELP.PTP	182	0	<EMPTY>	(未使用){0A}15	
+DATCOMUHELP.PTP	183	0	<EMPTY>	(未使用){0A}15	
+DATCOMUHELP.PTP	184	0	<EMPTY>	(未使用){0A}15	
+DATCOMUHELP.PTP	185	0	<EMPTY>	(未使用){0A}15	
+DATCOMUHELP.PTP	186	0	<EMPTY>	(未使用){0A}15	
+DATCOMUHELP.PTP	187	0	<EMPTY>	(未使用){0A}15	
+DATCOMUHELP.PTP	188	0	<EMPTY>	(未使用){0A}15	
+DATCOMUHELP.PTP	189	0	<EMPTY>	(未使用){0A}15	
+DATCOMUHELP.PTP	190	0	<EMPTY>	(未使用){0A}15リバ‒ス(仮)	
+DATCOMUHELP.PTP	191	0	<EMPTY>	(未使用){0A}15破滅(仮)	
+DATCOMUHELP.PTP	192	0	<EMPTY>	 ネットゲ‒ムの仲間とのコミュ。{0A} チャット相手として歓迎してくれた。	
+DATCOMUHELP.PTP	193	0	<EMPTY>	 ネットゲ‒ムの仲間とのコミュ。{0A} チャット相手として歓迎してくれた。	
+DATCOMUHELP.PTP	194	0	<EMPTY>	 ネットゲ‒ムの仲間とのコミュ。{0A} 仕事に不満があるらしい。	
+DATCOMUHELP.PTP	195	0	<EMPTY>	 ネットゲ‒ムの仲間とのコミュ。{0A} 愚痴の相手にされている。	
+DATCOMUHELP.PTP	196	0	<EMPTY>	 ネットゲ‒ムの仲間とのコミュ。{0A} Y子は教師をしているらしい。	
+DATCOMUHELP.PTP	197	0	<EMPTY>	 ネットゲ‒ムの仲間とのコミュ。{0A} Y子は教師をしているらしい。	
+DATCOMUHELP.PTP	198	0	<EMPTY>	 ネットゲ‒ムの仲間とのコミュ。{0A} Y子は国語の教師をしているらしい。	
+DATCOMUHELP.PTP	199	0	<EMPTY>	 ネットゲ‒ムの仲間とのコミュ。{0A} 生徒に気になる男子がいるらしい。	
+DATCOMUHELP.PTP	200	0	<EMPTY>	 ネットゲ‒ムの仲間とのコミュ。{0A} ゲ‒ムのサ‒ビス停止に反対している。	
+DATCOMUHELP.PTP	201	0	<EMPTY>	 ネットゲ‒ムの仲間とのコミュ。{0A} ネットゲ‒ムを止める決意をした。	
+DATCOMUHELP.PTP	202	0	<EMPTY>	 ネットの友人たちとのコミュ。{0A} (未使用)	
+DATCOMUHELP.PTP	203	0	<EMPTY>	 ネットの友人たちとのコミュ。{0A} (未使用)	
+DATCOMUHELP.PTP	204	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 新入部員として、歓迎されている。	
+DATCOMUHELP.PTP	205	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 具合が悪い人を放っておけないようだ。	
+DATCOMUHELP.PTP	206	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 平賀の作品が最終選考に残った。	
+DATCOMUHELP.PTP	207	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 進路のことで父親ともめているようだ。	
+DATCOMUHELP.PTP	208	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 平賀の作品が最終選考で注目された。	
+DATCOMUHELP.PTP	209	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 進路のことで迷っているようだ。	
+DATCOMUHELP.PTP	210	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 留学しようか迷っているようだ。	
+DATCOMUHELP.PTP	211	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 留学することを決意した。	
+DATCOMUHELP.PTP	212	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 自分のやりたいことが見つかったらしい。	
+DATCOMUHELP.PTP	213	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 部活を辞めて、医者になる決意をした。	
+DATCOMUHELP.PTP	214	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 少し気まずくなっている。	
+DATCOMUHELP.PTP	215	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 少し疎遠になってしまっている。	
+DATCOMUHELP.PTP	216	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 新入部員として、歓迎されている。	
+DATCOMUHELP.PTP	217	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 具合が悪い人を放っておけないようだ。	
+DATCOMUHELP.PTP	218	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 平賀の作品が最終選考に残った。	
+DATCOMUHELP.PTP	219	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 進路のことで父親ともめているようだ。	
+DATCOMUHELP.PTP	220	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 平賀の作品が最終選考で注目された。	
+DATCOMUHELP.PTP	221	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 進路のことで迷っているようだ。	
+DATCOMUHELP.PTP	222	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 留学しようか迷っているようだ。	
+DATCOMUHELP.PTP	223	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 留学することを決意した。	
+DATCOMUHELP.PTP	224	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 自分のやりたいことが見つかったらしい。	
+DATCOMUHELP.PTP	225	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 部活を辞めて、医者になる決意をした。	
+DATCOMUHELP.PTP	226	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 少し気まずくなっている。	
+DATCOMUHELP.PTP	227	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 少し疎遠になってしまっている。	
+DATCOMUHELP.PTP	228	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 新入部員として、歓迎されている。	
+DATCOMUHELP.PTP	229	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 具合が悪い人を放っておけないようだ。	
+DATCOMUHELP.PTP	230	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 平賀のソロ演奏が最終選考に残った。	
+DATCOMUHELP.PTP	231	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 進路のことで父親ともめているようだ。	
+DATCOMUHELP.PTP	232	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 平賀のソロ演奏が最終選考で注目された。	
+DATCOMUHELP.PTP	233	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 進路のことで迷っているようだ。	
+DATCOMUHELP.PTP	234	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 留学しようか迷っているようだ。	
+DATCOMUHELP.PTP	235	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 留学することを決意した。	
+DATCOMUHELP.PTP	236	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 自分のやりたいことが見つかったらしい。	
+DATCOMUHELP.PTP	237	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 部活を辞めて、医者になる決意をした。	
+DATCOMUHELP.PTP	238	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 少し気まずくなっている。	
+DATCOMUHELP.PTP	239	0	<EMPTY>	 {F2 2E 02 01}部員、平賀とのコミュ。{0A} 少し疎遠になってしまっている。	
+DATCOMUHELP.PTP	240	0	<EMPTY>	(未使用){0A}20	
+DATCOMUHELP.PTP	241	0	<EMPTY>	(未使用){0A}20	
+DATCOMUHELP.PTP	242	0	<EMPTY>	(未使用){0A}20	
+DATCOMUHELP.PTP	243	0	<EMPTY>	(未使用){0A}20	
+DATCOMUHELP.PTP	244	0	<EMPTY>	(未使用){0A}20	
+DATCOMUHELP.PTP	245	0	<EMPTY>	(未使用){0A}20	
+DATCOMUHELP.PTP	246	0	<EMPTY>	(未使用){0A}20	
+DATCOMUHELP.PTP	247	0	<EMPTY>	(未使用){0A}20	
+DATCOMUHELP.PTP	248	0	<EMPTY>	(未使用){0A}20	
+DATCOMUHELP.PTP	249	0	<EMPTY>	(未使用){0A}20	
+DATCOMUHELP.PTP	250	0	<EMPTY>	(未使用){0A}20リバ‒ス(仮)	
+DATCOMUHELP.PTP	251	0	<EMPTY>	(未使用){0A}20破滅(仮)	
+DATCOMUHELP.PTP	252	0	<EMPTY>	 近所の小学生、舞子とのコミュ。{0A} 両親が離婚するらしい。	
+DATCOMUHELP.PTP	253	0	<EMPTY>	 近所の小学生、舞子とのコミュ。{0A} 両親が離婚するらしい。	
+DATCOMUHELP.PTP	254	0	<EMPTY>	 近所の小学生、舞子とのコミュ。{0A} 誕生日を親が覚えているか心配している。	
+DATCOMUHELP.PTP	255	0	<EMPTY>	 近所の小学生、舞子とのコミュ。{0A} 両親の離婚の原因を探ろうとしている。	
+DATCOMUHELP.PTP	256	0	<EMPTY>	 近所の小学生、舞子とのコミュ。{0A} 家出を計画しているようだ。	
+DATCOMUHELP.PTP	257	0	<EMPTY>	 近所の小学生、舞子とのコミュ。{0A} 家出を計画しているようだ。	
+DATCOMUHELP.PTP	258	0	<EMPTY>	 近所の小学生、舞子とのコミュ。{0A} 家出をした結果、両親と打ち解けた。	
+DATCOMUHELP.PTP	259	0	<EMPTY>	 近所の小学生、舞子とのコミュ。{0A} 両親が離婚することに納得した。	
+DATCOMUHELP.PTP	260	0	<EMPTY>	 近所の小学生、舞子とのコミュ。{0A} 母親に付いて行く事を決めたらしい。	
+DATCOMUHELP.PTP	261	0	<EMPTY>	 近所の小学生、舞子とのコミュ。{0A} 母親に連れられて、引っ越して行った。	
+DATCOMUHELP.PTP	262	0	<EMPTY>	 近所の小学生、舞子とのコミュ。{0A} 少し気まずくなっている。	
+DATCOMUHELP.PTP	263	0	<EMPTY>	 近所の小学生、舞子とのコミュ。{0A} 少し疎遠になってしまっている。	
+DATCOMUHELP.PTP	264	0	<EMPTY>	 謎の少年ファルロスとのコミュ。{0A} 友達になる約束をした。	
+DATCOMUHELP.PTP	265	0	<EMPTY>	 謎の少年ファルロスとのコミュ。{0A} 友達になる約束をした。	
+DATCOMUHELP.PTP	266	0	<EMPTY>	 謎の少年ファルロスとのコミュ。{0A} 記憶を取り戻しつつあるらしい。	
+DATCOMUHELP.PTP	267	0	<EMPTY>	 謎の少年ファルロスとのコミュ。{0A} 記憶を取り戻しつつあるらしい。	
+DATCOMUHELP.PTP	268	0	<EMPTY>	 謎の少年ファルロスとのコミュ。{0A} 彼の言う"終わり"とは一体⋯	
+DATCOMUHELP.PTP	269	0	<EMPTY>	 謎の少年ファルロスとのコミュ。{0A} 雰囲気が変わってきた気がする。	
+DATCOMUHELP.PTP	270	0	<EMPTY>	 謎の少年ファルロスとのコミュ。{0A} 雰囲気が変わってきた気がする。	
+DATCOMUHELP.PTP	271	0	<EMPTY>	 謎の少年ファルロスとのコミュ。{0A} 前より友好的に話せる感じだ。	
+DATCOMUHELP.PTP	272	0	<EMPTY>	 謎の少年ファルロスとのコミュ。{0A} 前より友好的に話せる感じだ。	
+DATCOMUHELP.PTP	273	0	<EMPTY>	 謎の少年、ファルロスとのコミュ。{0A} 最後には友情を結べた気がする。	
+DATCOMUHELP.PTP	274	0	<EMPTY>	 ファルロスコミュリバ‒ス(仮)	
+DATCOMUHELP.PTP	275	0	<EMPTY>	 ファルロスコミュ破滅(仮)	
+DATCOMUHELP.PTP	276	0	<EMPTY>	 同好会の留学生、ベベとのコミュ。{0A} 一人で活動をしていて寂しかったようだ。	
+DATCOMUHELP.PTP	277	0	<EMPTY>	 同好会の留学生、ベベとのコミュ。{0A} 叔母のお陰で留学できているらしい。	
+DATCOMUHELP.PTP	278	0	<EMPTY>	 同好会の留学生、ベベとのコミュ。{0A} 日本の着物を作りたいらしい。	
+DATCOMUHELP.PTP	279	0	<EMPTY>	 同好会の留学生、ベベとのコミュ。{0A} 留学を援助していた叔母が亡くなった。	
+DATCOMUHELP.PTP	280	0	<EMPTY>	 同好会の留学生、ベベとのコミュ。{0A} 叔父から帰国するように迫られている。	
+DATCOMUHELP.PTP	281	0	<EMPTY>	 同好会の留学生、ベベとのコミュ。{0A} 叔父に会いに行く決意をした。	
+DATCOMUHELP.PTP	282	0	<EMPTY>	 同好会の留学生、ベベとのコミュ。{0A} 着物を作って叔父に見せるつもりらしい。	
+DATCOMUHELP.PTP	283	0	<EMPTY>	 同好会の留学生、ベベとのコミュ。{0A} 着物を作って叔父に見せるつもりらしい。	
+DATCOMUHELP.PTP	284	0	<EMPTY>	 同好会の留学生、ベベとのコミュ。{0A} 着物を作って叔父に見せるつもりらしい。	
+DATCOMUHELP.PTP	285	0	<EMPTY>	 同好会の留学生、ベベとのコミュ。{0A} 着物を完成させフランスに向かった。	
+DATCOMUHELP.PTP	286	0	<EMPTY>	 同好会会長、ベベとのコミュ。{0A} 少し気まずくなっている。	
+DATCOMUHELP.PTP	287	0	<EMPTY>	 同好会会長、ベベとのコミュ。{0A} 活動中の空気が重い。	
+DATCOMUHELP.PTP	288	0	<EMPTY>	 通販会社社長、たなかとのコミュ。{0A} 興味を持たれているようだ。	
+DATCOMUHELP.PTP	289	0	<EMPTY>	 通販会社社長、たなかとのコミュ。{0A} 興味を持たれているようだ。	
+DATCOMUHELP.PTP	290	0	<EMPTY>	 通販会社社長、たなかとのコミュ。{0A} 会社がとても儲かっているらしい。	
+DATCOMUHELP.PTP	291	0	<EMPTY>	 通販会社社長、たなかとのコミュ。{0A} あくどい商売で儲けているようだ。	
+DATCOMUHELP.PTP	292	0	<EMPTY>	 通販会社社長、たなかとのコミュ。{0A} あくどい商売で儲けているようだ。	
+DATCOMUHELP.PTP	293	0	<EMPTY>	 通販会社社長、たなかとのコミュ。{0A} あくどい商売で儲けているようだ。	
+DATCOMUHELP.PTP	294	0	<EMPTY>	 通販会社のたなか社長とのコミュ。{0A} あくどい商売で儲けているようだ。	
+DATCOMUHELP.PTP	295	0	<EMPTY>	 通販会社社長、たなかとのコミュ。{0A} あくどい商売で儲けているようだ。	
+DATCOMUHELP.PTP	296	0	<EMPTY>	 通販会社社長、たなかとのコミュ。{0A} あくどい商売で儲けているようだ。	
+DATCOMUHELP.PTP	297	0	<EMPTY>	 通販会社社長、たなかとのコミュ。{0A} 子供達のために募金をする決意をした。	
+DATCOMUHELP.PTP	298	0	<EMPTY>	 通販会社のたなか社長とのコミュ。{0A} (未使用)	
+DATCOMUHELP.PTP	299	0	<EMPTY>	 通販会社のたなか社長とのコミュ。{0A} (未使用)	
+DATCOMUHELP.PTP	300	0	<EMPTY>	 クラブの常連の僧侶とのコミュ。{0A} いつも飲んだくれては説法をしている。	
+DATCOMUHELP.PTP	301	0	<EMPTY>	 クラブの常連の僧侶、無達とのコミュ。{0A} いつも飲んだくれては説法をしている。	
+DATCOMUHELP.PTP	302	0	<EMPTY>	 クラブの常連の僧侶、無達とのコミュ。{0A} いつも飲んだくれては説法をしている。	
+DATCOMUHELP.PTP	303	0	<EMPTY>	 クラブの常連の僧侶、無達とのコミュ。{0A} いつも飲んだくれては説法をしている。	
+DATCOMUHELP.PTP	304	0	<EMPTY>	 クラブの常連の僧侶、無達とのコミュ。{0A} 将来に何の期待もしていないらしい。	
+DATCOMUHELP.PTP	305	0	<EMPTY>	 クラブの常連の僧侶、無達とのコミュ。{0A} 説法を聞きに来るのを待っているようだ。	
+DATCOMUHELP.PTP	306	0	<EMPTY>	 クラブの常連の僧侶、無達とのコミュ。{0A} 一人息子がいるらしい。	
+DATCOMUHELP.PTP	307	0	<EMPTY>	 クラブの常連の僧侶、無達とのコミュ。{0A} 妻と息子は家を出て行ったらしい。	
+DATCOMUHELP.PTP	308	0	<EMPTY>	 クラブの常連の僧侶、無達とのコミュ。{0A} 家を出て行った妻子を探す決意をした。	
+DATCOMUHELP.PTP	309	0	<EMPTY>	 クラブの常連の僧侶、無達とのコミュ。{0A} 出て行った妻子に会いに行く決意をした。	
+DATCOMUHELP.PTP	310	0	<EMPTY>	 バ‒の常連、無達とのコミュ。{0A} (未使用)	
+DATCOMUHELP.PTP	311	0	<EMPTY>	 バ‒の常連、無達とのコミュ。{0A} (未使用)	
+DATCOMUHELP.PTP	312	0	<EMPTY>	 他校の運動部のエ‒ス、早瀬護とのコミュ。{0A} 早食い対決は互角に終わった。	
+DATCOMUHELP.PTP	313	0	<EMPTY>	 他校の運動部のエ‒ス、早瀬護とのコミュ。{0A} 大勢の期待を背負っているらしい。	
+DATCOMUHELP.PTP	314	0	<EMPTY>	 他校の運動部のエ‒ス、早瀬護とのコミュ。{0A} 父親を亡くしていることが分かった。	
+DATCOMUHELP.PTP	315	0	<EMPTY>	 他校の運動部のエ‒ス、早瀬護とのコミュ。{0A} 大学推薦を目指し、練習している。	
+DATCOMUHELP.PTP	316	0	<EMPTY>	 他校の運動部のエ‒ス、早瀬護とのコミュ。{0A} 部活の仲間とうまくいってないようだ。	
+DATCOMUHELP.PTP	317	0	<EMPTY>	 他校の運動部のエ‒ス、早瀬護とのコミュ。{0A} 母親が過労で倒れた。	
+DATCOMUHELP.PTP	318	0	<EMPTY>	 他校の運動部のエ‒ス、早瀬護とのコミュ。{0A} 次の試合を最後に競技人生を終えるらしい。	
+DATCOMUHELP.PTP	319	0	<EMPTY>	 他校の運動部のエ‒ス、早瀬護とのコミュ。{0A} 練習が楽しくなったと喜んでいる。	
+DATCOMUHELP.PTP	320	0	<EMPTY>	 他校の運動部のエ‒ス、早瀬護とのコミュ。{0A} 家族のために就職する決意をした。	
+DATCOMUHELP.PTP	321	0	<EMPTY>	 他校の運動部のエ‒ス、早瀬護とのコミュ。{0A} 家族のために出稼ぎに行った。	
+DATCOMUHELP.PTP	322	0	<EMPTY>	 他校のスタ‒選手、早瀬護とのコミュ。{0A} (未使用)	
+DATCOMUHELP.PTP	323	0	<EMPTY>	 他校のスタ‒選手、早瀬護とのコミュ。{0A} (未使用)	
+DATCOMUHELP.PTP	324	0	<EMPTY>	 月高生徒、末光望美とのコミュ。{0A} グルメフレンドと思われている。	
+DATCOMUHELP.PTP	325	0	<EMPTY>	 月高生徒、末光望美とのコミュ。{0A} グルメフレンドと思われている。	
+DATCOMUHELP.PTP	326	0	<EMPTY>	 月高生徒、末光望美とのコミュ。{0A} グルメフレンドと思われている。	
+DATCOMUHELP.PTP	327	0	<EMPTY>	 月高生徒、末光望美とのコミュ。{0A} 弟のことを思い出すとお腹を壊すらしい。	
+DATCOMUHELP.PTP	328	0	<EMPTY>	 月高生徒、末光望美とのコミュ。{0A} 双子の弟にコンプレックスがあるようだ。	
+DATCOMUHELP.PTP	329	0	<EMPTY>	 月高生徒、末光望美とのコミュ。{0A} いつも食事を戻してしまうらしい。	
+DATCOMUHELP.PTP	330	0	<EMPTY>	 月高生徒、末光望美とのコミュ。{0A} 怪しい団体に所属しているようだ。	
+DATCOMUHELP.PTP	331	0	<EMPTY>	 月高生徒、末光望美とのコミュ。{0A} 怪しい団体に所属しているようだ。	
+DATCOMUHELP.PTP	332	0	<EMPTY>	 月高生徒、末光望美とのコミュ。{0A} 不良達から救った事で、�が深まった。	
+DATCOMUHELP.PTP	333	0	<EMPTY>	 月高生徒、末光望美とのコミュ。{0A} フ‒ドライタ‒になることを決意した。	
+DATCOMUHELP.PTP	334	0	<EMPTY>	 月高生徒、末光望美とのコミュ。{0A} (未使用)	
+DATCOMUHELP.PTP	335	0	<EMPTY>	 月高生徒、末光望美とのコミュ。{0A} (未使用)	
+DATCOMUHELP.PTP	336	0	<EMPTY>	 余命わずかな青年、神木秋成とのコミュ。{0A} いつも辛そうにしている。	
+DATCOMUHELP.PTP	337	0	<EMPTY>	 余命わずかな青年、神木秋成とのコミュ。{0A} いつも辛そうにしている。	
+DATCOMUHELP.PTP	338	0	<EMPTY>	 余命わずかな青年、神木秋成とのコミュ。{0A} 自分の病気を憎んでいるようだ。	
+DATCOMUHELP.PTP	339	0	<EMPTY>	 余命わずかな青年、神木秋成とのコミュ。{0A} 自分の病気を憎んでいるようだ。	
+DATCOMUHELP.PTP	340	0	<EMPTY>	 余命わずかな青年、神木秋成とのコミュ。{0A} 自分の病気を憎んでいるようだ。	
+DATCOMUHELP.PTP	341	0	<EMPTY>	 余命わずかな青年、神木秋成とのコミュ。{0A} 自分のための物語を考えている。	
+DATCOMUHELP.PTP	342	0	<EMPTY>	 余命わずかな青年、神木秋成とのコミュ。{0A} 自分のための物語を考えている。	
+DATCOMUHELP.PTP	343	0	<EMPTY>	 余命わずかな青年、神木秋成とのコミュ。{0A} 自分が生きた意味を探している。	
+DATCOMUHELP.PTP	344	0	<EMPTY>	 余命わずかな青年、神木秋成とのコミュ。{0A} 自分が生きた意味を探している。	
+DATCOMUHELP.PTP	345	0	<EMPTY>	 余命わずかな青年、神木秋成とのコミュ。{0A} 自分が生きた意味を見つけた。	
+DATCOMUHELP.PTP	346	0	<EMPTY>	 余命わずかな青年、神木秋成とのコミュ。{0A} (未使用)	
+DATCOMUHELP.PTP	347	0	<EMPTY>	 余命わずかな青年、神木秋成とのコミュ。{0A} (未使用)	
+DATCOMUHELP.PTP	348	0	<EMPTY>	 決断を共にした仲間とのコミュ。{0A} 約束の日まで、挑戦の路は続く。	
+DATCOMUHELP.PTP	349	0	<EMPTY>	 決断を共にした仲間とのコミュ。{0A} 約束の日まで、挑戦の路は続く。	
+DATCOMUHELP.PTP	350	0	<EMPTY>	 決断を共にした仲間とのコミュ。{0A} 約束の日まで、挑戦の路は続く。	
+DATCOMUHELP.PTP	351	0	<EMPTY>	 決断を共にした仲間とのコミュ。{0A} 約束の日まで、挑戦の路は続く。	
+DATCOMUHELP.PTP	352	0	<EMPTY>	 決断を共にした仲間とのコミュ。{0A} 約束の日まで、挑戦の路は続く。	
+DATCOMUHELP.PTP	353	0	<EMPTY>	 決断を共にした仲間とのコミュ。{0A} 決戦の地まで、もうあと僅かだ。	
+DATCOMUHELP.PTP	354	0	<EMPTY>	 決断を共にした仲間とのコミュ。{0A} 決戦の地まで、もうあと僅かだ。	
+DATCOMUHELP.PTP	355	0	<EMPTY>	 決断を共にした仲間とのコミュ。{0A} 決戦の地まで、もうあと僅かだ。	
+DATCOMUHELP.PTP	356	0	<EMPTY>	 決断を共にした仲間とのコミュ。{0A} 決戦の地まで、もうあと僅かだ。	
+DATCOMUHELP.PTP	357	0	<EMPTY>	 決断を共にした仲間とのコミュ。{0A} 無窮の�で固く結ばれている。	
+DATCOMUHELP.PTP	358	0	<EMPTY>	 ペルソナ部隊2コミュリバ‒ス(仮)	
+DATCOMUHELP.PTP	359	0	<EMPTY>	 ペルソナ部隊2コミュ破滅(仮)	
+DATCOMUHELP.PTP	360	0	<EMPTY>	構成員(仮)	
+DATCOMUHELP.PTP	361	0	<EMPTY>	岳羽 ゆかり:たけば ゆかり{F2 02 01 01}{0A} ペルソナ使いの仲間で、同級生。{0A} 人気者で、明るく前向き。	
+DATCOMUHELP.PTP	362	0	<EMPTY>	アイギス{F2 02 01 01}{0A} ペルソナ使いの仲間。{0A} 対シャドウ制圧用の人型兵器。	
+DATCOMUHELP.PTP	363	0	<EMPTY>	桐条 美鶴:きりじょう みつる{F2 02 01 01}{0A} ペルソナ使いの仲間で、上級生。{0A} 桐条グル‒プ社長の一人娘。	
+DATCOMUHELP.PTP	364	0	<EMPTY>	伊織 順平:いおり じゅんぺい{F2 02 01 01}{0A} ペルソナ使いの仲間で、同級生。{0A} 明るく、ややお調子者の少年。	
+DATCOMUHELP.PTP	365	0	<EMPTY>	山岸 風花:やまぎし ふうか{F2 02 01 01}{0A} ペルソナ使いの仲間で、同学年。{0A} 少し内気で、線の細い少女。	
+DATCOMUHELP.PTP	366	0	<EMPTY>	真田 明彦:さなだ あきひこ{F2 02 01 01}{0A} ペルソナ使いの仲間で、上級生。{0A} 超高校級のボクシング部主将。	
+DATCOMUHELP.PTP	367	0	<EMPTY>	天田 乾:あまだ けん{F2 02 01 01}{0A} ペルソナ使いの仲間で、初等科。{0A} 歳の割に大人びている。	
+DATCOMUHELP.PTP	368	0	<EMPTY>	荒垣 真次郎:あらがき しんじろう{F2 02 01 01}{0A} ペルソナ使いの仲間で、上級生。{0A} 真田の旧友。	
+DATCOMUHELP.PTP	369	0	<EMPTY>	コロマル:虎狼丸 {F2 02 01 01}{0A} ペルソナ使いの、異色の仲間。{0A} 主への恩義に篤い忠犬。	
+DATCOMUHELP.PTP	370	0	<EMPTY>	友近 健二:ともちか けんじ{F2 02 01 01}{0A} 女の子好きのクラスメイト。{0A} 大人の女性に憧れている。	
+DATCOMUHELP.PTP	371	0	<EMPTY>	友近 健二:ともちか けんじ{F2 02 01 01}{0A} 女の子好きのクラスメイト。{0A} 大人の女性に憧れている。	
+DATCOMUHELP.PTP	372	0	<EMPTY>	友近 健二:ともちか けんじ{F2 02 01 01}{0A} 女の子好きのクラスメイト。{0A} 大人の女性に憧れている。	
+DATCOMUHELP.PTP	373	0	<EMPTY>	未使用{0A}02構成員	
+DATCOMUHELP.PTP	374	0	<EMPTY>	未使用{0A}03構成員	
+DATCOMUHELP.PTP	375	0	<EMPTY>	小田桐 秀利:おだぎり ひでとし{F2 02 01 01}{0A} 生徒会で風紀委員をしている。{0A} 真面目すぎて融通が利かない。	
+DATCOMUHELP.PTP	376	0	<EMPTY>	伏見 千尋:ふしみ ちひろ{F2 02 01 01}{0A} 生徒会で会計をしている。{0A} 控えめでおとなしい。	
+DATCOMUHELP.PTP	377	0	<EMPTY>	桐条 美鶴:きりじょう みつる{F2 02 01 01}{0A} ペルソナ使いの仲間で、上級生。{0A} 桐条グル‒プ社長の一人娘。	
+DATCOMUHELP.PTP	378	0	<EMPTY>	小田桐 秀利:おだぎり ひでとし{F2 02 01 01}{0A} 生徒会で風紀委員をしている。{0A} 真面目すぎて融通が利かない。	
+DATCOMUHELP.PTP	379	0	<EMPTY>	伏見 千尋:ふしみ ちひろ{F2 02 01 01}{0A} 生徒会で会計をしている。{0A} 控えめでおとなしい。	
+DATCOMUHELP.PTP	380	0	<EMPTY>	桐条 美鶴:きりじょう みつる{F2 02 01 01}{0A} ペルソナ使いの仲間で、上級生。{0A} 桐条グル‒プ社長の一人娘。	
+DATCOMUHELP.PTP	381	0	<EMPTY>	小田桐 秀利:おだぎり ひでとし{F2 02 01 01}{0A} 生徒会で風紀委員をしている。{0A} 真面目すぎて融通が利かない。	
+DATCOMUHELP.PTP	382	0	<EMPTY>	小田桐 秀利:おだぎり ひでとし{F2 02 01 01}{0A} 生徒会で風紀委員をしている。{0A} 真面目すぎて融通が利かない。	
+DATCOMUHELP.PTP	383	0	<EMPTY>	文吉爺さん:ぶんきちじいさん{F2 02 01 01}{0A} 古本屋の店主。{0A} ひょうきんで、人当たりが良い。	
+DATCOMUHELP.PTP	384	0	<EMPTY>	光子婆さん:みつこばあさん{F2 02 01 01}{0A} 物静かで、優しそうな老人。{0A} お爺さんと仲が良い。	
+DATCOMUHELP.PTP	385	0	<EMPTY>	文吉爺さん:ぶんきちじいさん{F2 02 01 01}{0A} 古本屋の店主。{0A} ひょうきんで、人当たりが良い。	
+DATCOMUHELP.PTP	386	0	<EMPTY>	光子婆さん:みつこばあさん{F2 02 01 01}{0A} 物静かで、優しそうな老人。{0A} お爺さんと仲が良い。	
+DATCOMUHELP.PTP	387	0	<EMPTY>	岳羽 ゆかり:たけば ゆかり{F2 02 01 01}{0A} ペルソナ使いの仲間で、同級生。{0A} 人気者で、明るく前向き。	
+DATCOMUHELP.PTP	388	0	<EMPTY>	岳羽 ゆかり:たけば ゆかり{F2 02 01 01}{0A} ペルソナ使いの仲間で、同級生。{0A} 人気者で、明るく前向き。	
+DATCOMUHELP.PTP	389	0	<EMPTY>	山岸 風花:やまぎし ふうか{F2 02 01 01}{0A} ペルソナ使いの仲間で、同学年。{0A} 少し内気で、線の細い少女。	
+DATCOMUHELP.PTP	390	0	<EMPTY>	山岸 風花:やまぎし ふうか{F2 02 01 01}{0A} ペルソナ使いの仲間で、同学年。{0A} 少し内気で、線の細い少女。	
+DATCOMUHELP.PTP	391	0	<EMPTY>	山岸 風花:やまぎし ふうか{F2 02 01 01}{0A} ペルソナ使いの仲間で、同学年。{0A} 少し内気で、線の細い少女。	
+DATCOMUHELP.PTP	392	0	<EMPTY>	桐条 美鶴:きりじょう みつる{F2 02 01 01}{0A} ペルソナ使いの仲間で、上級生。{0A} 桐条グル‒プ社長の一人娘。	
+DATCOMUHELP.PTP	393	0	<EMPTY>	桐条 美鶴:きりじょう みつる{F2 02 01 01}{0A} ペルソナ使いの仲間で、上級生。{0A} 桐条グル‒プ社長の一人娘。	
+DATCOMUHELP.PTP	394	0	<EMPTY>	桐条 美鶴:きりじょう みつる{F2 02 01 01}{0A} ペルソナ使いの仲間で、上級生。{0A} 桐条グル‒プ社長の一人娘。	
+DATCOMUHELP.PTP	395	0	<EMPTY>	西脇 結子:にしわき ゆうこ{F2 02 01 01}{0A} 運動部のマネ‒ジャ‒。{0A} さばさばした性格。	
+DATCOMUHELP.PTP	396	0	<EMPTY>	西脇 結子:にしわき ゆうこ{F2 02 01 01}{0A} 運動部のマネ‒ジャ‒。{0A} さばさばした性格。	
+DATCOMUHELP.PTP	397	0	<EMPTY>	西脇 結子:にしわき ゆうこ{F2 02 01 01}{0A} 運動部のマネ‒ジャ‒。{0A} さばさばした性格。	
+DATCOMUHELP.PTP	398	0	<EMPTY>	西脇 結子:にしわき ゆうこ{F2 02 01 01}{0A} 運動部のマネ‒ジャ‒。{0A} さばさばした性格。	
+DATCOMUHELP.PTP	399	0	<EMPTY>	伏見 千尋:ふしみ ちひろ{F2 02 01 01}{0A} 生徒会で会計をしている。{0A} 控えめでおとなしい。	
+DATCOMUHELP.PTP	400	0	<EMPTY>	伏見 千尋:ふしみ ちひろ{F2 02 01 01}{0A} 生徒会で会計をしている。{0A} 控えめでおとなしい。	
+DATCOMUHELP.PTP	401	0	<EMPTY>	伏見 千尋:ふしみ ちひろ{F2 02 01 01}{0A} 生徒会で会計をしている。{0A} 控えめでおとなしい。	
+DATCOMUHELP.PTP	402	0	<EMPTY>	宮本 一志:みやもと かずし{F2 02 01 01}{0A} 同じ運動部の仲間。{0A} 部活に掛ける情熱は人一倍。	
+DATCOMUHELP.PTP	403	0	<EMPTY>	西脇 結子:にしわき ゆうこ{F2 02 01 01}{0A} 運動部のマネ‒ジャ‒。{0A} さばさばした性格。	
+DATCOMUHELP.PTP	404	0	<EMPTY>	宮本 一志:みやもと かずし{F2 02 01 01}{0A} 同じ運動部の仲間。{0A} 部活に掛ける情熱は人一倍。	
+DATCOMUHELP.PTP	405	0	<EMPTY>	西脇 結子:にしわき ゆうこ{F2 02 01 01}{0A} 運動部のマネ‒ジャ‒。{0A} さばさばした性格。	
+DATCOMUHELP.PTP	406	0	<EMPTY>	宮本 一志:みやもと かずし{F2 02 01 01}{0A} 同じ運動部の仲間。{0A} 部活に掛ける情熱は人一倍。	
+DATCOMUHELP.PTP	407	0	<EMPTY>	西脇 結子:にしわき ゆうこ{F2 02 01 01}{0A} 運動部のマネ‒ジャ‒。{0A} さばさばした性格。	
+DATCOMUHELP.PTP	408	0	<EMPTY>	宮本 一志:みやもと かずし{F2 02 01 01}{0A} 同じ運動部の仲間。{0A} 部活に掛ける情熱は人一倍。	
+DATCOMUHELP.PTP	409	0	<EMPTY>	西脇 結子:にしわき ゆうこ{F2 02 01 01}{0A} 運動部のマネ‒ジャ‒。{0A} さばさばした性格。	
+DATCOMUHELP.PTP	410	0	<EMPTY>	宮本 一志:みやもと かずし{F2 02 01 01}{0A} 同じ運動部の仲間。{0A} 部活に掛ける情熱は人一倍。	
+DATCOMUHELP.PTP	411	0	<EMPTY>	西脇 結子:にしわき ゆうこ{F2 02 01 01}{0A} 運動部のマネ‒ジャ‒。{0A} さばさばした性格。	
+DATCOMUHELP.PTP	412	0	<EMPTY>	宮本 一志:みやもと かずし{F2 02 01 01}{0A} 同じ運動部の仲間。{0A} 部活に掛ける情熱は人一倍。	
+DATCOMUHELP.PTP	413	0	<EMPTY>	西脇 結子:にしわき ゆうこ{F2 02 01 01}{0A} 運動部のマネ‒ジャ‒。{0A} さばさばした性格。	
+DATCOMUHELP.PTP	414	0	<EMPTY>	未使用{0A}15	
+DATCOMUHELP.PTP	415	0	<EMPTY>	Y子:わいこ{F2 02 01 01}{0A} ネットゲ‒ムで知り合った仲間。{0A} ゲ‒ムよりチャットの方が好き。	
+DATCOMUHELP.PTP	416	0	<EMPTY>	ぬこ {F2 02 01 01}{0A} ネットで知り合った月高生(?){0A} オカルト好きで、夢見がち。	
+DATCOMUHELP.PTP	417	0	<EMPTY>	和泉 {F2 02 01 01}{0A} ネットで知り合った月高生(?){0A} オカルトには懐疑的な現実論者。	
+DATCOMUHELP.PTP	418	0	<EMPTY>	平賀 慶介:ひらが けいすけ{F2 02 01 01}{0A} 温和な性格の上級生。{0A} {F2 2E 02 01}の才能がある。	
+DATCOMUHELP.PTP	419	0	<EMPTY>	山岸 風花:やまぎし ふうか {F2 02 01 01}{0A} 同じ部活の仲間。{0A} 平賀を尊敬している。	
+DATCOMUHELP.PTP	420	0	<EMPTY>	平賀 慶介:ひらが けいすけ{F2 02 01 01}{0A} 温和な性格の上級生。{0A} {F2 2E 02 01}の才能がある。	
+DATCOMUHELP.PTP	421	0	<EMPTY>	平賀 慶介:ひらが けいすけ{F2 02 01 01}{0A} 温和な性格の上級生。{0A} {F2 2E 02 01}の才能がある。	
+DATCOMUHELP.PTP	422	0	<EMPTY>	平賀 慶介:ひらが けいすけ{F2 02 01 01}{0A} 温和な性格の上級生。{0A} {F2 2E 02 01}の才能がある。	
+DATCOMUHELP.PTP	423	0	<EMPTY>	山岸 風花:やまぎし ふうか {F2 02 01 01}{0A} 寮の仲間。{0A} 部活に慣れて来たようだ。	
+DATCOMUHELP.PTP	424	0	<EMPTY>	コロマル:虎狼丸 {F2 02 01 01}{0A} ペルソナ使いの、異色の仲間。{0A} 主への恩義に篤い忠犬。	
+DATCOMUHELP.PTP	425	0	<EMPTY>	舞子:まいこ {F2 02 01 01}{0A} 近所に住む、小学校2年生。{0A} 明るくて活発な女の子。	
+DATCOMUHELP.PTP	426	0	<EMPTY>	ファルロス {F2 02 01 01}{0A} 夢枕に現れる謎の少年。{0A} 予言めいた言葉を残す。	
+DATCOMUHELP.PTP	427	0	<EMPTY>	ベベ{F2 02 01 01}{0A} フランスからの留学生。{0A} 日本文化に思い入れがある。	
+DATCOMUHELP.PTP	428	0	<EMPTY>	ベベ {F2 02 01 01}{0A} フランスからの留学生。{0A} 日本文化に思い入れがある。	
+DATCOMUHELP.PTP	429	0	<EMPTY>	ベベ {F2 02 01 01}{0A} フランスからの留学生。{0A} 日本文化に思い入れがある。	
+DATCOMUHELP.PTP	430	0	<EMPTY>	ベベ {F2 02 01 01}{0A} フランスからの留学生。{0A} 日本文化に思い入れがある。	
+DATCOMUHELP.PTP	431	0	<EMPTY>	ベベ {F2 02 01 01}{0A} フランスからの留学生。{0A} 日本文化に思い入れがある。	
+DATCOMUHELP.PTP	432	0	<EMPTY>	ベベ {F2 02 01 01}{0A} フランスからの留学生。{0A} 日本文化に思い入れがある。	
+DATCOMUHELP.PTP	433	0	<EMPTY>	たなか社長:たなかしゃちょう {F2 02 01 01}{0A} 大手通販会社の社長。{0A} お金に対する執着心は人一倍。	
+DATCOMUHELP.PTP	434	0	<EMPTY>	僧侶 {F2 02 01 01}{0A} 柄の悪い風変わりな僧侶。{0A} 説教くさいところがある。	
+DATCOMUHELP.PTP	435	0	<EMPTY>	無達:むたつ {F2 02 01 01}{0A} 柄の悪い風変わりな僧侶。{0A} 説教くさいところがある。	
+DATCOMUHELP.PTP	436	0	<EMPTY>	早瀬 護:はやせ まもる {F2 02 01 01}{0A} 他校の運動部のエ‒ス。{0A} 競技で負けたことがない。	
+DATCOMUHELP.PTP	437	0	<EMPTY>	早瀬 護:はやせ まもる {F2 02 01 01}{0A} 他校の運動部のエ‒ス。{0A} 競技で負けたことがない。	
+DATCOMUHELP.PTP	438	0	<EMPTY>	早瀬 護:はやせ まもる {F2 02 01 01}{0A} 他校の運動部のエ‒ス。{0A} 競技で負けたことがない。	
+DATCOMUHELP.PTP	439	0	<EMPTY>	末光 望美:すえみつ のぞみ {F2 02 01 01}{0A} グルメキングと称される美食家。{0A} 食へのこだわりは相当なもの。	
+DATCOMUHELP.PTP	440	0	<EMPTY>	末光 望美:すえみつ のぞみ {F2 02 01 01}{0A} グルメキングと称される美食家。{0A} 食へのこだわりは相当なもの。	
+DATCOMUHELP.PTP	441	0	<EMPTY>	末光 望美:すえみつ のぞみ {F2 02 01 01}{0A} グルメキングと称される美食家。{0A} 食へのこだわりは相当なもの。	
+DATCOMUHELP.PTP	442	0	<EMPTY>	神木 秋成:かみき あきなり {F2 02 01 01}{0A} 影のある、顔色の悪い青年。{0A} 重い病気のようだ。	
+DATCOMUHELP.PTP	443	0	<EMPTY>	ペルソナ部隊2{F2 02 01 01}{0A} ペルソナ部隊2(仮)	
