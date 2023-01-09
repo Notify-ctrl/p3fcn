@@ -1,9 +1,9 @@
-ns026_053.PTP	0	0	<SELECT>	パ‒ティに入れる	；加入到小队
+ns026_053.PTP	0	0	<SELECT>	パ‒ティに入れる	；编入队伍
 ns026_053.PTP	0	1	<SELECT>	装备と状态を确认する	；确认装备和状态
-ns026_053.PTP	0	2	<SELECT>	パ‒ティから外す	；移出小队
-ns026_053.PTP	0	3	<SELECT>	何でもない	；什么都没有
+ns026_053.PTP	0	2	<SELECT>	パ‒ティから外す	；移出队伍
+ns026_053.PTP	0	3	<SELECT>	何でもない	；没什么事
 ns026_053.PTP	1	0	<SELECT>	全员の状态を确认する	；确认全员的状态
-ns026_053.PTP	1	1	<SELECT>	何でもない	；什么都没有
+ns026_053.PTP	1	1	<SELECT>	何でもない	；没什么事
 ns026_053.PTP	2	0	<SELECT>	ゆかり	；由加莉
 ns026_053.PTP	2	1	<SELECT>	アイギス	；艾吉斯
 ns026_053.PTP	2	2	<SELECT>	美鹤	；美鹤
