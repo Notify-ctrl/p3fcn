@@ -27,7 +27,7 @@ datItemHelp.PTP	25	0	<EMPTY>	一定タ‒ン味方全体の{0A}命中、回避�
 datItemHelp.PTP	26	0	<EMPTY>	一定タ‒ン味方全体の{0A}防御力を上げる。	；一定回合内我方全体{0A}防御力上升。
 datItemHelp.PTP	27	0	<EMPTY>	敵単体に火炎属性で{0A}特大ダメ‒ジ。	；对敌方单体造成火炎属性{0A}特大伤害。
 datItemHelp.PTP	28	0	<EMPTY>	敵単体に疾風属性で{0A}特大ダメ‒ジ。	；对敌方单体造成疾风属性{0A}特大伤害。
-datItemHelp.PTP	29	0	<EMPTY>	敵単体に氷結属性で{0A}特大ダメ‒ジ+"氷結"。	；对敌方单体造成冰冻属性{0A}特大伤害+冰冻状态。
+datItemHelp.PTP	29	0	<EMPTY>	敵単体に氷結属性で{0A}特大ダメ‒ジ+"氷結"。	；对敌方单体造成冰结属性{0A}特大伤害+冻结状态。
 datItemHelp.PTP	30	0	<EMPTY>	敵単体に電撃属性で{0A}特大ダメ‒ジ+"感電"。	；对敌方单体造成电击属性{0A}特大伤害+触电状态。
 datItemHelp.PTP	31	0	<EMPTY>	ID_401F{0A}ID_401F	；。
 datItemHelp.PTP	32	0	<EMPTY>	味方単体の"混乱"、{0A}"動揺"、"恐怖"を治療。	；治疗我方单体的{0A}混乱、动摇、恐惧状态。
@@ -41,8 +41,8 @@ datItemHelp.PTP	39	0	<EMPTY>	ハマ、ムド系スキルを{0A}受けた際に�
 datItemHelp.PTP	40	0	<EMPTY>	主人公が瀕死になった際{0A}味方全体を復活、回復させる。	；主角濒死时{0A}我方全体复活，回复生命值。
 datItemHelp.PTP	41	0	<EMPTY>	敵単体に火炎属性で{0A}中ダメ‒ジ。	；对敌方单体造成{0A}火炎属性中量伤害。
 datItemHelp.PTP	42	0	<EMPTY>	敵全体に火炎属性で{0A}小ダメ‒ジ。	；对敌方全体造成{0A}火炎属性少量伤害。
-datItemHelp.PTP	43	0	<EMPTY>	敵単体に氷結属性で{0A}中ダメ‒ジ+"氷結"。	；对敌方单体造成{0A}冰冻属性中量伤害+冰冻状态。
-datItemHelp.PTP	44	0	<EMPTY>	敵全体に氷結属性で{0A}小ダメ‒ジ+"氷結"。	；对敌方全体造成{0A}冰冻属性少量伤害+冰冻状态。
+datItemHelp.PTP	43	0	<EMPTY>	敵単体に氷結属性で{0A}中ダメ‒ジ+"氷結"。	；对敌方单体造成{0A}冰结属性中量伤害+冻结状态。
+datItemHelp.PTP	44	0	<EMPTY>	敵全体に氷結属性で{0A}小ダメ‒ジ+"氷結"。	；对敌方全体造成{0A}冰结属性少量伤害+冻结状态。
 datItemHelp.PTP	45	0	<EMPTY>	敵単体に疾風属性で{0A}中ダメ‒ジ。	；对敌方单体造成{0A}疾风属性中量伤害。
 datItemHelp.PTP	46	0	<EMPTY>	敵全体に疾風属性で{0A}小ダメ‒ジ。	；对敌方全体造成{0A}疾风属性少量伤害。
 datItemHelp.PTP	47	0	<EMPTY>	敵単体に電撃属性で{0A}中ダメ‒ジ+"感電"。	；对敌方单体造成{0A}电击属性中量伤害+触电状态。

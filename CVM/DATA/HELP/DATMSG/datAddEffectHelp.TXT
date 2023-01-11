@@ -86,9 +86,9 @@ datAddEffectHelp.PTP	84	0	<EMPTY>	+物理耐性をかなり強化	；+大幅提�
 datAddEffectHelp.PTP	85	0	<EMPTY>	+火炎耐性をやや強化	；+稍微提高火炎耐性
 datAddEffectHelp.PTP	86	0	<EMPTY>	+火炎耐性を強化	；+提高火炎耐性
 datAddEffectHelp.PTP	87	0	<EMPTY>	+火炎耐性をかなり強化	；+大幅提高火炎耐性
-datAddEffectHelp.PTP	88	0	<EMPTY>	+氷結耐性をやや強化	；+稍微提高冰冻耐性
-datAddEffectHelp.PTP	89	0	<EMPTY>	+氷結耐性を強化	；+提高冰冻耐性
-datAddEffectHelp.PTP	90	0	<EMPTY>	+氷結耐性をかなり強化	；+大幅提高冰冻耐性
+datAddEffectHelp.PTP	88	0	<EMPTY>	+氷結耐性をやや強化	；+稍微提高冰结耐性
+datAddEffectHelp.PTP	89	0	<EMPTY>	+氷結耐性を強化	；+提高冰结耐性
+datAddEffectHelp.PTP	90	0	<EMPTY>	+氷結耐性をかなり強化	；+大幅提高冰结耐性
 datAddEffectHelp.PTP	91	0	<EMPTY>	+疾風耐性をやや強化	；+稍微提高疾风耐性
 datAddEffectHelp.PTP	92	0	<EMPTY>	+疾風耐性を強化	；+提高疾风耐性
 datAddEffectHelp.PTP	93	0	<EMPTY>	+疾風耐性をかなり強化	；+大幅提高疾风耐性
@@ -116,7 +116,7 @@ datAddEffectHelp.PTP	114	0	<EMPTY>	+物理回避がかなり上昇	；+大幅提
 datAddEffectHelp.PTP	115	0	<EMPTY>	+火炎回避がやや上昇	；+稍微提高对火炎属性的回避率
 datAddEffectHelp.PTP	116	0	<EMPTY>	+火炎回避が上昇	；+提高对火炎属性的回避率
 datAddEffectHelp.PTP	117	0	<EMPTY>	+火炎回避がかなり上昇	；+大幅提高对火炎属性的回避率
-datAddEffectHelp.PTP	118	0	<EMPTY>	+氷結回避がやや上昇	；+稍微提高对冰冻属性的回避率
+datAddEffectHelp.PTP	118	0	<EMPTY>	+氷結回避がやや上昇	；+稍微提高对冰结属性的回避率
 datAddEffectHelp.PTP	119	0	<EMPTY>	+氷結回避が上昇	；+提高对火炎属性的回避率
 datAddEffectHelp.PTP	120	0	<EMPTY>	+氷結回避がかなり上昇	；+大幅提高对火炎属性的回避率
 datAddEffectHelp.PTP	121	0	<EMPTY>	+疾風回避がやや上昇	；+稍微提高对疾风属性的回避率
@@ -172,7 +172,7 @@ datAddEffectHelp.PTP	170	0	<EMPTY>	+低確率で全バステ付着	；+低概率
 datAddEffectHelp.PTP	171	0	<EMPTY>	+中確率で全バステ付着	；+中概率附着全部异常状态状态
 datAddEffectHelp.PTP	172	0	<EMPTY>	+高確率で全バステ付着	；+高概率附着全部异常状态状态
 datAddEffectHelp.PTP	173	0	<EMPTY>	+火炎攻撃の威力が増加	；+火炎属性攻击威力增加
-datAddEffectHelp.PTP	174	0	<EMPTY>	+氷結攻撃の威力が増加	；+冰冻属性攻击威力增加
+datAddEffectHelp.PTP	174	0	<EMPTY>	+氷結攻撃の威力が増加	；+冰结属性攻击威力增加
 datAddEffectHelp.PTP	175	0	<EMPTY>	+電撃攻撃の威力が増加	；+电击属性攻击威力增加
 datAddEffectHelp.PTP	176	0	<EMPTY>	+疾風攻撃の威力が増加	；+疾风属性攻击威力增加
 datAddEffectHelp.PTP	177	0	<EMPTY>	+物理攻撃を低確率で反射	；+低概率反射物理攻击
