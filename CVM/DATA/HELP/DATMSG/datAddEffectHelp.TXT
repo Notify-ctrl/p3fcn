@@ -45,7 +45,7 @@ datAddEffectHelp.PTP	43	0	<EMPTY>	+正義にやや強い	；+对正义稍强
 datAddEffectHelp.PTP	44	0	<EMPTY>	+隠者にやや強い	；+对隐者稍强
 datAddEffectHelp.PTP	45	0	<EMPTY>	+運命にやや強い	；+对命运稍强
 datAddEffectHelp.PTP	46	0	<EMPTY>	+剛毅にやや強い	；+对力量稍强
-datAddEffectHelp.PTP	47	0	<EMPTY>	+刑死者にやや強い	；+对倒吊人稍强
+datAddEffectHelp.PTP	47	0	<EMPTY>	+刑死者にやや強い	；+对倒吊者稍强
 datAddEffectHelp.PTP	48	0	<EMPTY>	+死神にやや強い	；+对死神稍强
 datAddEffectHelp.PTP	49	0	<EMPTY>	+低確率で悩殺付着	；+低概率附着魅惑状态
 datAddEffectHelp.PTP	50	0	<EMPTY>	+中確率で悩殺付着	；+中概率附着魅惑状态
@@ -164,8 +164,8 @@ datAddEffectHelp.PTP	162	0	<EMPTY>	+運命にやや強い	；+对命运稍强
 datAddEffectHelp.PTP	163	0	<EMPTY>	+運命にかなり強い	；+对命运很强
 datAddEffectHelp.PTP	164	0	<EMPTY>	+剛毅にやや強い	；+对力量稍强
 datAddEffectHelp.PTP	165	0	<EMPTY>	+剛毅にかなり強い	；+对力量很强
-datAddEffectHelp.PTP	166	0	<EMPTY>	+刑死者にやや強い	；+对倒吊人稍强
-datAddEffectHelp.PTP	167	0	<EMPTY>	+刑死者にかなり強い	；+对倒吊人很强
+datAddEffectHelp.PTP	166	0	<EMPTY>	+刑死者にやや強い	；+对倒吊者稍强
+datAddEffectHelp.PTP	167	0	<EMPTY>	+刑死者にかなり強い	；+对倒吊者很强
 datAddEffectHelp.PTP	168	0	<EMPTY>	+死神にやや強い	；+对死神稍强
 datAddEffectHelp.PTP	169	0	<EMPTY>	+死神にかなり強い	；+对死神很强
 datAddEffectHelp.PTP	170	0	<EMPTY>	+低確率で全バステ付着	；+低概率附着全部异常状态状态
