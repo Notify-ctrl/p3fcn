@@ -55,7 +55,7 @@ f007.PTP	22	0	<SELECT>	明日まで寝る	；睡到明天
 f007.PTP	22	1	<SELECT>	やっぱりやめる	；还是不要了
 f007.PTP	23	0	<SELECT>	はい	；好的
 f007.PTP	23	1	<SELECT>	いいえ	；不行
-f007.PTP	23	2	<SELECT>	コミュ属性を确认する	；社群的属性
+f007.PTP	23	2	<SELECT>	コミュ属性を确认する	；确认社群属性
 f007.PTP	24	0	<SELECT>	早めに休む	；尽早休息吧
 f007.PTP	24	1	<SELECT>	勉强してから休む	；有好好学习过了还是休息吧
 f007.PTP	25	0	<SELECT>	取り出す	；取出
