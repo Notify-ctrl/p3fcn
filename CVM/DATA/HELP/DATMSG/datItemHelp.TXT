@@ -17,7 +17,7 @@ datItemHelp.PTP	15	0	<EMPTY>	飲むな危険!	；不要喝，危险！
 datItemHelp.PTP	16	0	<EMPTY>	味方全体のHPを中回復。	；我方全体的HP中回复。
 datItemHelp.PTP	17	0	<EMPTY>	味方全体の{0A}全ての状態異常を回復。	；我方全体{0A}所有的异常状态解除。
 datItemHelp.PTP	18	0	<EMPTY>	大剣用の合体素体。{0A}装備する事は出来ない。	；大剑用的合体素体。{0A}无法装备。
-datItemHelp.PTP	19	0	<EMPTY>	味方単体の{0A}"ヤケクソ"を治療。	；治疗我方单体的{0A}自暴自弃状态。
+datItemHelp.PTP	19	0	<EMPTY>	味方単体の{0A}"ヤケクソ"を治療。	；治疗我方单体的{0A}狂怒状态。
 datItemHelp.PTP	20	0	<EMPTY>	味方単体の{0A}"悩殺"を治療。	；治疗我方单体的{0A}魅惑状态。
 datItemHelp.PTP	21	0	<EMPTY>	ID_4015{0A}ID_4015	
 datItemHelp.PTP	22	0	<EMPTY>	敵単体に高確率で{0A}光属性の即死効果。	；对敌方单体高概率{0A}造成光属性即死效果。
