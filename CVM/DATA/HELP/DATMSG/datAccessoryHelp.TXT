@@ -57,7 +57,7 @@ datAccessoryHelp.PTP	55	0	<EMPTY>	"悩殺"に{0A}かからなくなる。	；不
 datAccessoryHelp.PTP	56	0	<EMPTY>	"動揺"に{0A}かからなくなる。	；不再会进入动摇状态。
 datAccessoryHelp.PTP	57	0	<EMPTY>	"混乱"に{0A}かからなくなる。	；不再会进入混乱状态。
 datAccessoryHelp.PTP	58	0	<EMPTY>	"恐怖"に{0A}かからなくなる。	；不再会进入恐惧状态。
-datAccessoryHelp.PTP	59	0	<EMPTY>	"ヤケクソ"に{0A}かからなくなる。	；不再会进入自暴自弃状态。
+datAccessoryHelp.PTP	59	0	<EMPTY>	"ヤケクソ"に{0A}かからなくなる。	；不再会进入狂怒状态。
 datAccessoryHelp.PTP	60	0	<EMPTY>	"氷結"に{0A}かからなくなる。	；不再会进入冻结状态。
 datAccessoryHelp.PTP	61	0	<EMPTY>	"感電"に{0A}かからなくなる。	；不再会进入触电状态。
 datAccessoryHelp.PTP	62	0	<EMPTY>	"毒"に{0A}かからなくなる。	；不再会进入中毒状态。
@@ -93,7 +93,7 @@ datAccessoryHelp.PTP	91	0	<EMPTY>	闇属性スキルで瀕死に{0A}なった際
 datAccessoryHelp.PTP	92	0	<EMPTY>	@accessory_305C	；@accessory_305C
 datAccessoryHelp.PTP	93	0	<EMPTY>	@accessory_305D	；@accessory_305D
 datAccessoryHelp.PTP	94	0	<EMPTY>	@accessory_305E	；@accessory_305
-datAccessoryHelp.PTP	95	0	<EMPTY>	"ヤケクソ"時に{0A}通常攻撃威力が増加する。	；处于自暴自弃状态时{0A}普通攻击威力增加。
+datAccessoryHelp.PTP	95	0	<EMPTY>	"ヤケクソ"時に{0A}通常攻撃威力が増加する。	；处于狂怒状态时{0A}普通攻击威力增加。
 datAccessoryHelp.PTP	96	0	<EMPTY>	物理攻撃を受けた際、{0A}低確率で反射する。	；受到物理攻击时{0A}低概率反射。
 datAccessoryHelp.PTP	97	0	<EMPTY>	物理攻撃を受けた際、{0A}中確率で反射する。	；受到物理攻击时{0A}中概率反射。
 datAccessoryHelp.PTP	98	0	<EMPTY>	物理攻撃を受けた際、{0A}高確率で反射する。	；受到物理攻击时{0A}高概率反射。

@@ -59,9 +59,9 @@ datAddEffectHelp.PTP	57	0	<EMPTY>	+高確率で混乱付着	；+高概率附着�
 datAddEffectHelp.PTP	58	0	<EMPTY>	+低確率で恐怖付着	；+低概率附着恐惧状态
 datAddEffectHelp.PTP	59	0	<EMPTY>	+中確率で恐怖付着	；+中概率附着恐惧状态
 datAddEffectHelp.PTP	60	0	<EMPTY>	+高確率で恐怖付着	；+高概率附着恐惧状态
-datAddEffectHelp.PTP	61	0	<EMPTY>	+低確率でヤケクソ付着	；+低概率附着自暴自弃状态
-datAddEffectHelp.PTP	62	0	<EMPTY>	+中確率でヤケクソ付着	；+中概率附着自暴自弃状态
-datAddEffectHelp.PTP	63	0	<EMPTY>	+高確率でヤケクソ付着	；+高概率附着自暴自弃状态
+datAddEffectHelp.PTP	61	0	<EMPTY>	+低確率でヤケクソ付着	；+低概率附着狂怒状态
+datAddEffectHelp.PTP	62	0	<EMPTY>	+中確率でヤケクソ付着	；+中概率附着狂怒状态
+datAddEffectHelp.PTP	63	0	<EMPTY>	+高確率でヤケクソ付着	；+高概率附着狂怒状态
 datAddEffectHelp.PTP	64	0	<EMPTY>	+低確率で毒付着	；+低概率附着中毒状态
 datAddEffectHelp.PTP	65	0	<EMPTY>	+中確率で毒付着	；+中概率附着中毒状态
 datAddEffectHelp.PTP	66	0	<EMPTY>	+高確率で毒付着	；+高概率附着中毒状态
@@ -185,5 +185,5 @@ datAddEffectHelp.PTP	183	0	<EMPTY>	+状態異常悩殺に耐性	；+对魅惑有
 datAddEffectHelp.PTP	184	0	<EMPTY>	+状態異常動揺に耐性	；+对动摇有耐性
 datAddEffectHelp.PTP	185	0	<EMPTY>	+状態異常混乱に耐性	；+对混乱有耐性
 datAddEffectHelp.PTP	186	0	<EMPTY>	+状態異常恐怖に耐性	；+对恐惧有耐性
-datAddEffectHelp.PTP	187	0	<EMPTY>	+状態異常ヤケクソに耐性	；+对自暴自弃有耐性
+datAddEffectHelp.PTP	187	0	<EMPTY>	+状態異常ヤケクソに耐性	；+对狂怒有耐性
 datAddEffectHelp.PTP	188	0	<EMPTY>	+状態異常毒に耐性	；+对中毒有耐性
