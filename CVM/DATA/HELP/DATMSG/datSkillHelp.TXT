@@ -64,8 +64,8 @@ datSkillHelp.PTP	62	0	<EMPTY>	敵全体に"混乱"効果。	；给予敌方全�
 datSkillHelp.PTP	63	0	<EMPTY>	敵単体に"恐怖"効果。	；给予敌方单体恐惧状态。
 datSkillHelp.PTP	64	0	<EMPTY>	敵全体に"恐怖"効果。	；给予敌方全体恐惧状态。
 datSkillHelp.PTP	65	0	<EMPTY>	"恐怖"状態の者を{0A}即死させる。	；令拥有恐惧状态者{0A}即死。
-datSkillHelp.PTP	66	0	<EMPTY>	敵単体に"ヤケクソ"効果。	；给予敌方单体自暴自弃状态。
-datSkillHelp.PTP	67	0	<EMPTY>	敵全体に"ヤケクソ"効果。	；给予敌方全体自暴自弃状态。
+datSkillHelp.PTP	66	0	<EMPTY>	敵単体に"ヤケクソ"効果。	；给予敌方单体狂怒状态。
+datSkillHelp.PTP	67	0	<EMPTY>	敵全体に"ヤケクソ"効果。	；给予敌方全体狂怒状态。
 datSkillHelp.PTP	68	0	<EMPTY>	敵単体に"毒"効果。	；给予敌方单体中毒状态。
 datSkillHelp.PTP	69	0	<EMPTY>	敵全体に"毒"効果。	；给予敌方全体中毒状态。
 datSkillHelp.PTP	70	0	<EMPTY>	敵全体に毒属性で現在HPの{0A}25%ダメ‒ジ。	；给予敌方全体现在HP的25%{0A}毒属性伤害。
@@ -236,7 +236,7 @@ datSkillHelp.PTP	234	0	<EMPTY>	一部の戦闘を除いて{0A}確実に逃走が
 datSkillHelp.PTP	235	0	<EMPTY>	これを所持しちゃダメ	
 datSkillHelp.PTP	236	0	<EMPTY>	使用者のHPが1となるが{0A}味方全体のHPが全回復。	；使用者的HP变为1{0A}我方全体的HP全回复。
 datSkillHelp.PTP	237	0	<EMPTY>	味方単体の{0A}"悩殺"を治療する。	；治疗我方单体的{0A}魅惑状态。
-datSkillHelp.PTP	238	0	<EMPTY>	味方単体の{0A}"ヤケクソ"を治療する。	；治疗我方单体的{0A}自暴自弃状态。
+datSkillHelp.PTP	238	0	<EMPTY>	味方単体の{0A}"ヤケクソ"を治療する。	；治疗我方单体的{0A}狂怒状态。
 datSkillHelp.PTP	239	0	<EMPTY>	0EF	
 datSkillHelp.PTP	240	0	<EMPTY>	0F0	
 datSkillHelp.PTP	241	0	<EMPTY>	0F1	
@@ -500,7 +500,7 @@ datSkillHelp.PTP	498	0	<EMPTY>	"悩殺"に{0A}かからなくなる。	；不再
 datSkillHelp.PTP	499	0	<EMPTY>	"動揺"に{0A}かからなくなる。	；不再会进入{0A}动摇状态。
 datSkillHelp.PTP	500	0	<EMPTY>	"混乱"に{0A}かからなくなる。	；不再会进入{0A}混乱状态。
 datSkillHelp.PTP	501	0	<EMPTY>	"恐怖"に{0A}かからなくなる。	；不再会进入{0A}恐惧状态。
-datSkillHelp.PTP	502	0	<EMPTY>	"ヤケクソ"に{0A}かからなくなる。	；不再会进入{0A}自暴自弃状态。
+datSkillHelp.PTP	502	0	<EMPTY>	"ヤケクソ"に{0A}かからなくなる。	；不再会进入{0A}狂怒状态。
 datSkillHelp.PTP	503	0	<EMPTY>	"氷結"に{0A}かからなくなる。	；不再会进入{0A}冻结状态。
 datSkillHelp.PTP	504	0	<EMPTY>	"感電"に{0A}かからなくなる。	；不再会进入{0A}触电状态。
 datSkillHelp.PTP	505	0	<EMPTY>	"毒"に{0A}かからなくなる。	；不再会进入{0A}中毒状态。
@@ -541,7 +541,7 @@ datSkillHelp.PTP	539	0	<EMPTY>	HPが30%増加。	；HP增加30%。
 datSkillHelp.PTP	540	0	<EMPTY>	SPが10%増加。	；SP增加10%。
 datSkillHelp.PTP	541	0	<EMPTY>	SPが20%増加。	；SP增加20%。
 datSkillHelp.PTP	542	0	<EMPTY>	SPが30%増加。	；SP增加30%。
-datSkillHelp.PTP	543	0	<EMPTY>	"ヤケクソ"時に{0A}通常攻撃威力が上昇。	；处于自暴自弃状态时{0A}普通攻击的威力提升。
+datSkillHelp.PTP	543	0	<EMPTY>	"ヤケクソ"時に{0A}通常攻撃威力が上昇。	；处于狂怒状态时{0A}普通攻击的威力提升。
 datSkillHelp.PTP	544	0	<EMPTY>	物理攻撃を受けた際{0A}低確率で反射する。	；受到物理攻击时{0A}低概率反射。
 datSkillHelp.PTP	545	0	<EMPTY>	物理攻撃を受けた際{0A}中確率で反射する。	；受到物理攻击时{0A}中概率反射。
 datSkillHelp.PTP	546	0	<EMPTY>	物理攻撃を受けた際{0A}高確率で反射する。	；受到物理攻击时{0A}高概率反射。
@@ -595,7 +595,7 @@ datSkillHelp.PTP	593	0	<EMPTY>	"毒"の{0A}付着確率が上昇。	；中毒状
 datSkillHelp.PTP	594	0	<EMPTY>	"動揺"の{0A}付着確率が上昇。	；动摇状态的{0A}附着概率提升。
 datSkillHelp.PTP	595	0	<EMPTY>	"混乱"の{0A}付着確率が上昇。	；混乱状态的{0A}附着概率提升。
 datSkillHelp.PTP	596	0	<EMPTY>	"恐怖"の{0A}付着確率が上昇。	；恐惧状态的{0A}附着概率提升。
-datSkillHelp.PTP	597	0	<EMPTY>	"ヤケクソ"の{0A}付着確率が上昇。	；自暴自弃状态的{0A}附着概率提升。
+datSkillHelp.PTP	597	0	<EMPTY>	"ヤケクソ"の{0A}付着確率が上昇。	；狂怒状态的{0A}附着概率提升。
 datSkillHelp.PTP	598	0	<EMPTY>	全ての状態異常攻撃の{0A}付着確率が上昇。	；所有的状态异常攻击的{0A}附着概率提升。
 datSkillHelp.PTP	599	0	<EMPTY>	光属性スキルの{0A}成功率が上昇。	；光属性技能的{0A}成功率提升。
 datSkillHelp.PTP	600	0	<EMPTY>	闇属性スキルの{0A}成功率が上昇。	；暗属性技能的{0A}成功率提升。
