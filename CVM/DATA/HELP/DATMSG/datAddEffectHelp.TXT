@@ -117,8 +117,8 @@ datAddEffectHelp.PTP	115	0	<EMPTY>	+火炎回避がやや上昇	；+稍微提高
 datAddEffectHelp.PTP	116	0	<EMPTY>	+火炎回避が上昇	；+提高对火炎属性的回避率
 datAddEffectHelp.PTP	117	0	<EMPTY>	+火炎回避がかなり上昇	；+大幅提高对火炎属性的回避率
 datAddEffectHelp.PTP	118	0	<EMPTY>	+氷結回避がやや上昇	；+稍微提高对冰结属性的回避率
-datAddEffectHelp.PTP	119	0	<EMPTY>	+氷結回避が上昇	；+提高对火炎属性的回避率
-datAddEffectHelp.PTP	120	0	<EMPTY>	+氷結回避がかなり上昇	；+大幅提高对火炎属性的回避率
+datAddEffectHelp.PTP	119	0	<EMPTY>	+氷結回避が上昇	；+提高对冰结属性的回避率
+datAddEffectHelp.PTP	120	0	<EMPTY>	+氷結回避がかなり上昇	；+大幅提高对冰结属性的回避率
 datAddEffectHelp.PTP	121	0	<EMPTY>	+疾風回避がやや上昇	；+稍微提高对疾风属性的回避率
 datAddEffectHelp.PTP	122	0	<EMPTY>	+疾風回避が上昇	；+提高对疾风属性的回避率
 datAddEffectHelp.PTP	123	0	<EMPTY>	+疾風回避がかなり上昇	；+大幅提高对疾风属性的回避率
