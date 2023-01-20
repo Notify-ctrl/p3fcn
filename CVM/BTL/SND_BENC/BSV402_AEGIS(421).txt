@@ -1,0 +1,4 @@
+BSV402_AEGIS(421).PTP	0	0	<EMPTY>	アイギスの恐怖が{0A}まだ解けていません。	
+BSV402_AEGIS(421).PTP	1	0	<EMPTY>	谁か、アイギスに{0A}パトラかメパトラを!	
+BSV402_AEGIS(421).PTP	2	0	<EMPTY>	メパトラジェムがあったら、{0A}アイギスに!	
+BSV402_AEGIS(421).PTP	3	0	<EMPTY>	アイギス⋯{0A}ちゃんと动けるかな⋯	

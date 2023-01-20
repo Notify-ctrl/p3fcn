@@ -1,0 +1,2 @@
+BSV402_AEGIS(293).PTP	0	0	<EMPTY>	敌はあと2体です!	
+BSV402_AEGIS(293).PTP	1	0	<EMPTY>	真田先辈、敌を击破!	

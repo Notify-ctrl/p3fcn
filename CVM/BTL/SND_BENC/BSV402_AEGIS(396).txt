@@ -1,0 +1,2 @@
+BSV402_AEGIS(396).PTP	0	0	<EMPTY>	敌、まだ4体います。{0A}气をつけて!	
+BSV402_AEGIS(396).PTP	1	0	<EMPTY>	敌、4体。{0A}まだ多いですね⋯	
