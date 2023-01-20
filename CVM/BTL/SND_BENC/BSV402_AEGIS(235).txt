@@ -1,0 +1,4 @@
+BSV402_AEGIS(235).PTP	0	0	<EMPTY>	敌、体势を立て直しました!	
+BSV402_AEGIS(235).PTP	1	0	<EMPTY>	气をつけて、次は来ます!	
+BSV402_AEGIS(235).PTP	2	0	<EMPTY>	あっ、敌が⋯	
+BSV402_AEGIS(235).PTP	3	0	<EMPTY>	敌が立ち直りました!	

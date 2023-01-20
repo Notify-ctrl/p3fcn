@@ -1,0 +1,5 @@
+BSV402_AEGIS(209).PTP	0	0	<EMPTY>	堂々の胜利ですね!	
+BSV402_AEGIS(209).PTP	1	0	<EMPTY>	さすがです!	
+BSV402_AEGIS(209).PTP	2	0	<EMPTY>	乐胜でしたね!	
+BSV402_AEGIS(209).PTP	3	0	<EMPTY>	素晴らしい战いでした!	
+BSV402_AEGIS(209).PTP	4	0	<EMPTY>	完胜ですね!{0A}见とれちゃいました!	

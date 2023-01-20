@@ -1,0 +1,2 @@
+BSV402_AEGIS(177).PTP	0	0	<EMPTY>	お役に立てましたか?	
+BSV402_AEGIS(177).PTP	1	0	<EMPTY>	よかった⋯成功です!	
