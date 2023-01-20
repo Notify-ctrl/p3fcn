@@ -25,7 +25,7 @@ KOROMARU.PTP	15	0	コロマル	ワン!	；汪！
 KOROMARU.PTP	15	1	コロマル	>コロマルが何かを渡してきた。	；>虎狼丸递来了什么东西。
 KOROMARU.PTP	16	0	<EMPTY>	>{F3 1A 01 01 02 01}を{F2 03 03 01}個、受け取った。	；>收下了{F2 03 03 01}个{F3 1A 01 01 02 01}
 KOROMARU.PTP	17	0	<EMPTY>	>{F3 1A 01 01 02 01}を{F2 03 03 01}個、受け取った。{0A} {F3 1A 04 01 05 01}を{F2 03 06 01}個、受け取った。	；>收下了{F2 03 03 01}个{F3 1A 01 01 02 01}。{0A} 收下了{F2 03 06 01}个{F3 1A 04 01 05 01}。
-KOROMARU.PTP	18	0	コロマル	ワオ~ン!	；汪~！
+KOROMARU.PTP	18	0	コロマル	ワオ～ン!	；汪～！
 KOROMARU.PTP	18	1	コロマル	>コロマルが階段を見つけたようだ。	；>虎狼丸好像发现楼梯了。
 KOROMARU.PTP	19	0	コロマル	ワンワン!	；汪汪！
 KOROMARU.PTP	20	0	<EMPTY>	ワン!	；汪！
@@ -40,7 +40,7 @@ KOROMARU.PTP	26	0	山岸 風花	戦闘中のメンバ‒がいます。{0A}こ�
 KOROMARU.PTP	27	0	山岸 風花	体力を消耗して動けないメンバ‒がいます。{0A}このまま先に進むんですか⋯?	；有成员因疲劳无法行动。{0A}要就这样前进吗⋯？
 KOROMARU.PTP	28	0	山岸 風花	⋯はい、わかりました!	；⋯好的，我知道了！
 KOROMARU.PTP	28	1	山岸 風花	では、次に進みましょう!{0A}残ったメンバ‒は自力で帰還願います!	；那么，继续前进吧！{0A}留下的成员请自行返回！
-KOROMARU.PTP	29	0	コロマル	ワン、ワオ~ン!	；汪，汪呜！
+KOROMARU.PTP	29	0	コロマル	ワン、ワオ～ン!	；汪，汪呜！
 KOROMARU.PTP	29	1	コロマル	>コロマルが脱出ポイントを見つけたようだ。	；>虎狼丸好像发现脱离点了。
 KOROMARU.PTP	30	0	コロマル	ワンワン!	；汪汪！
 KOROMARU.PTP	31	0	<EMPTY>	ワンワン!	；汪汪！
@@ -51,21 +51,21 @@ KOROMARU.PTP	35	0	<EMPTY>	グルルルルル⋯	；咕噜噜噜噜噜⋯
 KOROMARU.PTP	36	0	<EMPTY>	ワンワン!	；汪汪！
 KOROMARU.PTP	37	0	<EMPTY>	グルルルルル⋯	；咕噜噜噜噜噜⋯
 KOROMARU.PTP	38	0	<EMPTY>	キャン!	；嗷！
-KOROMARU.PTP	39	0	<EMPTY>	キャオ~ン!	；嗷呜！
+KOROMARU.PTP	39	0	<EMPTY>	キャオ～ン!	；嗷呜！
 KOROMARU.PTP	40	0	<EMPTY>	ワワワワワン!	；汪汪汪汪汪！
 KOROMARU.PTP	41	0	<EMPTY>	ワワワン!	；汪汪汪！
 KOROMARU.PTP	42	0	<EMPTY>	キュ‒ン⋯	；呜⋯
-KOROMARU.PTP	43	0	<EMPTY>	ワォ~ン!	；汪！
-KOROMARU.PTP	44	0	<EMPTY>	ワォ~ン!	；汪！
-KOROMARU.PTP	45	0	<EMPTY>	ワォ~ン!	；汪！
-KOROMARU.PTP	46	0	<EMPTY>	ワォ~ン!	；汪！
-KOROMARU.PTP	47	0	<EMPTY>	ワォ~ン!	；汪！
+KOROMARU.PTP	43	0	<EMPTY>	ワォ～ン!	；汪！
+KOROMARU.PTP	44	0	<EMPTY>	ワォ～ン!	；汪！
+KOROMARU.PTP	45	0	<EMPTY>	ワォ～ン!	；汪！
+KOROMARU.PTP	46	0	<EMPTY>	ワォ～ン!	；汪！
+KOROMARU.PTP	47	0	<EMPTY>	ワォ～ン!	；汪！
 KOROMARU.PTP	48	0	望月 綾時	ここは素直に出てって{0A}謝った方がいいんじゃない?	；现在还是老老实实{0A}道歉比较好吧？
 KOROMARU.PTP	49	0	コロマル	ワン?	；汪？
 KOROMARU.PTP	50	0	コロマル	ワンワン!	；汪汪！
 KOROMARU.PTP	51	0	コロマル	ゼッ⋯ゼッ⋯ブシュン!	；嗤⋯嗤⋯阿嚏！
 KOROMARU.PTP	52	0	コロマル	ゼッ⋯ゼッ⋯	；嗤⋯嗤⋯
-KOROMARU.PTP	53	0	コロマル	ワォ~ン!	；汪~！
+KOROMARU.PTP	53	0	コロマル	ワォ～ン!	；汪～！
 KOROMARU.PTP	54	0	コロマル	グルルルル⋯	；咕噜噜噜噜⋯
 KOROMARU.PTP	55	0	コロマル	ワン!	；汪！
 KOROMARU.PTP	55	1	コロマル	>コロマルの装備が新しくなっている。	；>虎狼丸的装备更新了。

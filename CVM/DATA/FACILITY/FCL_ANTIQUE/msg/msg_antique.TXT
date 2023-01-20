@@ -4,7 +4,7 @@ msg_antique.PTP	1	0	<EMPTY>	セ‒ル中です。{0A}色々と見ていって下
 msg_antique.PTP	2	0	<EMPTY>	dummy売り切れです。	；ｄｕｍｍｙ卖完了。
 msg_antique.PTP	3	0	女性店主	新しい商品を入荷してきたよ。	；有新商品进货了哦。
 msg_antique.PTP	4	0	女性店主	円になるけどいいかい?	；可以变现吗？
-msg_antique.PTP	5	0	女性店主	役立てておくれよ。	　；要派上用处啊。
+msg_antique.PTP	5	0	女性店主	役立てておくれよ。	；要派上用处啊。
 msg_antique.PTP	6	0	女性店主	円になるけどいいかい?	；可以变现吗？
 msg_antique.PTP	7	0	女性店主	はい、毎度。{0A}無駄遣いするんじゃないよ。	；给，按照惯例。{0A}不要浪费哦。
 msg_antique.PTP	8	0	女性店主	これ以上お金を持てないみたいだけど、{0A}それでも売るかい?	；已经没法持有更多的钱了，{0A}即使这样也要卖掉吗？
