@@ -1,0 +1,4 @@
+BSV402_AEGIS(210).PTP	0	0	<EMPTY>	敌シャドウの消灭、{0A}确认しました!	
+BSV402_AEGIS(210).PTP	1	0	<EMPTY>	敌も强くなってきましたね。	
+BSV402_AEGIS(210).PTP	2	0	<EMPTY>	战いへの觉悟が{0A}违いますよね。	
+BSV402_AEGIS(210).PTP	3	0	<EMPTY>	敌の全灭を确认!	

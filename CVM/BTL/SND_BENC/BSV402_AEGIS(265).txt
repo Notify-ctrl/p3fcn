@@ -1,0 +1,2 @@
+BSV402_AEGIS(265).PTP	0	0	<EMPTY>	またアイギスです!{0A}敌、あと2体!	
+BSV402_AEGIS(265).PTP	1	0	<EMPTY>	またアイギスです!{0A}凄いっ!	

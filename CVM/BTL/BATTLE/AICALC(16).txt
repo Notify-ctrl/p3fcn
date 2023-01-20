@@ -1,0 +1,4 @@
+AICALC(16).PTP	0	0	<EMPTY>	⋯。	
+AICALC(16).PTP	1	0	<EMPTY>	属性が—1のスキルが{0A}代入されてる。金田に连络。	
+AICALC(16).PTP	2	0	<EMPTY>	属性が—1のスキルが{0A}ここでも代入されてる。金田に连络。	
+AICALC(16).PTP	3	0	<EMPTY>	补助も何も出来ず、{0A}待机に流れついた。	
