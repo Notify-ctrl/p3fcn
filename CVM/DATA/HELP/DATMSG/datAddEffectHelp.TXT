@@ -1,4 +1,4 @@
-datAddEffectHelp.PTP	0	0	<EMPTY>	RESERVE 追加効果	；RESERVE 追加効果
+datAddEffectHelp.PTP	0	0	<EMPTY>	RESERVE 追加効果	
 datAddEffectHelp.PTP	1	0	<EMPTY>	+力1UP	；+力1UP
 datAddEffectHelp.PTP	2	0	<EMPTY>	+力2UP	；+力2UP
 datAddEffectHelp.PTP	3	0	<EMPTY>	+力3UP	；+力3UP
