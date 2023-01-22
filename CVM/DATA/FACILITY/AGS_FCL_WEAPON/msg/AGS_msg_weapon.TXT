@@ -3,7 +3,7 @@ AGS_msg_weapon.PTP	0	1	<SELECT>	いいえ	；否
 AGS_msg_weapon.PTP	1	0	黒沢巡査	よう、来たな。{0A}今日は気分がいいんだ、安くしてやるよ。；哟，来了啊。{0A}今天心情不错，给你便宜点。
 AGS_msg_weapon.PTP	2	0	黒沢巡査	dummy売り切れです。	；dummy卖完了。
 AGS_msg_weapon.PTP	3	0	黒沢巡査	新しいのを調達してきた。{0A}好きなのを選んでいけ。	；新的武器供应到了。{0A}选你喜欢的吧。
-AGS_msg_weapon.PTP	4	0	黒沢巡査	円だが、いいか?	；钱，可以吗？
+AGS_msg_weapon.PTP	4	0	黒沢巡査	円だが、いいか?	；元钱，可以吗？
 AGS_msg_weapon.PTP	5	0	黒沢巡査	役立ててくれ。	；给我起作用啊。
 AGS_msg_weapon.PTP	6	0	黒沢巡査	円で引き取ろうか?	；要取回钱吗？
 AGS_msg_weapon.PTP	7	0	黒沢巡査	少しでも足しになれば良い。	；即使能帮到你一点也好。
