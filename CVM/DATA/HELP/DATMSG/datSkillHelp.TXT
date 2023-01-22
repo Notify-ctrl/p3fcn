@@ -200,7 +200,7 @@ datSkillHelp.PTP	198	0	<EMPTY>	味方全体のHPを全回復し{0A}全ての状�
 datSkillHelp.PTP	199	0	<EMPTY>	味方単体の"混乱"、{0A}"動揺""恐怖"を治療。	；治疗我方单体的{0A}混乱，动摇，恐惧状态。
 datSkillHelp.PTP	200	0	<EMPTY>	味方全体の"混乱"、{0A}"動揺""恐怖"を治療。	；治疗我方全体的{0A}混乱，动摇，恐惧状态。
 datSkillHelp.PTP	201	0	<EMPTY>	味方単体の{0A}"ダウン"状態を回復。	；回复我方单体{0A}倒地状态。
-datSkillHelp.PTP	202	0	<EMPTY>	味方単体の"毒"を治療。	；治疗我方单体{0A}中毒状态。。
+datSkillHelp.PTP	202	0	<EMPTY>	味方単体の"毒"を治療。	；治疗我方单体{0A}中毒状态。
 datSkillHelp.PTP	203	0	<EMPTY>	味方全体の{0A}全ての状態異常を回復。	；治疗我方全体的{0A}全部异常状态。
 datSkillHelp.PTP	204	0	<EMPTY>	味方単体の瀕死を{0A}治療し、HPを半分回復。	；治疗我方单体的濒死状态{0A}并回复一半HP。
 datSkillHelp.PTP	205	0	<EMPTY>	味方単体の瀕死を{0A}治療し、HPを全回復。	；治疗我方单体的濒死状态{0A}并回复全部HP。
