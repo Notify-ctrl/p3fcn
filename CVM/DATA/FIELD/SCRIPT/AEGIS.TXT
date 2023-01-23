@@ -5,7 +5,7 @@ AEGIS.PTP	1	1	<SELECT>	体力回復を頼む	；恢复体力
 AEGIS.PTP	1	2	<SELECT>	何でもない	；没什么事
 AEGIS.PTP	2	0	<SELECT>	次に進もう	；继续前进吧
 AEGIS.PTP	2	1	<SELECT>	少し待ってほしい	；稍等一下
-AEGIS.PTP	3	0	<SELECT>	エントランスに戻ろう	；回到入门大厅
+AEGIS.PTP	3	0	<SELECT>	エントランスに戻ろう	；回到入口大厅
 AEGIS.PTP	3	1	<SELECT>	まだ、戻らない	；先不回去
 AEGIS.PTP	4	0	岳羽 ゆかり	はい、コレ。	；来，这个给你。
 AEGIS.PTP	5	0	アイギス	これが集めたものです。	；这是收集到的物品。

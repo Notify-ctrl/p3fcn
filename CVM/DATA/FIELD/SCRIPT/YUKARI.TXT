@@ -7,7 +7,7 @@ YUKARI.PTP	2	0	<SELECT>	次に進もう	；继续前进吧
 YUKARI.PTP	2	1	<SELECT>	少し待ってほしい	；稍等一下
 YUKARI.PTP	3	0	<SELECT>	次の階に進む	；进入下一层
 YUKARI.PTP	3	1	<SELECT>	まだこの階に留まる	；继续留在该层
-YUKARI.PTP	4	0	<SELECT>	エントランスに戻ろう	；回到入门大厅
+YUKARI.PTP	4	0	<SELECT>	エントランスに戻ろう	；回到入口大厅
 YUKARI.PTP	4	1	<SELECT>	まだ戻らない	；先不回去
 YUKARI.PTP	5	0	<SELECT>	扉の間に戻る	；回到门扉之间
 YUKARI.PTP	5	1	<SELECT>	まだ戻らない	；先不回去
