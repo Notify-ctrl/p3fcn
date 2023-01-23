@@ -64,8 +64,8 @@ MSG(04).PTP	62	0	<EMPTY>	集中が乱れて使えない!	；因无法集中精�
 MSG(04).PTP	63	0	<EMPTY>	集中が乱れて使えない!	；因无法集中精神而无法使用！
 MSG(04).PTP	64	0	<EMPTY>	は食いしばった!	；强忍了！
 MSG(04).PTP	65	0	<EMPTY>	は食いしばった!	；强忍了！
-MSG(04).PTP	66	0	<EMPTY>	は食いしばり、HPが全快した!	；强忍了，并恢复了全部的HP！
-MSG(04).PTP	67	0	<EMPTY>	は食いしばり、HPが全快した!	；强忍了，并恢复了全部的HP！
+MSG(04).PTP	66	0	<EMPTY>	は食いしばり、HPが全快した!	；咬紧牙关，并恢复了全部的HP！
+MSG(04).PTP	67	0	<EMPTY>	は食いしばり、HPが全快した!	；咬紧牙关，并恢复了全部的HP！
 MSG(04).PTP	68	0	<EMPTY>	闇夜のドレスが发动した!	；暗夜的礼服发动了！
 MSG(04).PTP	69	0	<EMPTY>	闇夜のドレスが发动した!	；暗夜的礼服发动了！
 MSG(04).PTP	70	0	<EMPTY>	闇夜のドレスが解除された!	；暗夜的礼服解除了！
@@ -112,24 +112,24 @@ MSG(04).PTP	110	0	<EMPTY>	敌のHP·SPが全快した!	；敌方的HP·SP恢复�
 MSG(04).PTP	111	0	<EMPTY>	敌のHP·SPが全快した!	；敌方的HP·SP恢复了！
 MSG(04).PTP	112	0	<EMPTY>	全体のHP·SPが全快した!	；全体のHP·SP恢复了！
 MSG(04).PTP	113	0	<EMPTY>	全体のHP·SPが全快した!	；全体のHP·SP恢复了！
-MSG(04).PTP	114	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
-MSG(04).PTP	115	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
-MSG(04).PTP	116	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
-MSG(04).PTP	117	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
+MSG(04).PTP	114	0	<EMPTY>	リザ‒ブ	
+MSG(04).PTP	115	0	<EMPTY>	リザ‒ブ	
+MSG(04).PTP	116	0	<EMPTY>	リザ‒ブ	
+MSG(04).PTP	117	0	<EMPTY>	リザ‒ブ	
 MSG(04).PTP	118	0	<EMPTY>	全体に状态异常效果!	；对全体施加异常状态！
 MSG(04).PTP	119	0	<EMPTY>	全体に状态异常效果!	；对全体施加异常状态！
-MSG(04).PTP	120	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
-MSG(04).PTP	121	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
-MSG(04).PTP	122	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
-MSG(04).PTP	123	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
-MSG(04).PTP	124	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
-MSG(04).PTP	125	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
-MSG(04).PTP	126	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
-MSG(04).PTP	127	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
-MSG(04).PTP	128	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
-MSG(04).PTP	129	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
-MSG(04).PTP	130	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
-MSG(04).PTP	131	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
+MSG(04).PTP	120	0	<EMPTY>	リザ‒ブ	
+MSG(04).PTP	121	0	<EMPTY>	リザ‒ブ	
+MSG(04).PTP	122	0	<EMPTY>	リザ‒ブ	
+MSG(04).PTP	123	0	<EMPTY>	リザ‒ブ	
+MSG(04).PTP	124	0	<EMPTY>	リザ‒ブ	
+MSG(04).PTP	125	0	<EMPTY>	リザ‒ブ	
+MSG(04).PTP	126	0	<EMPTY>	リザ‒ブ	
+MSG(04).PTP	127	0	<EMPTY>	リザ‒ブ	
+MSG(04).PTP	128	0	<EMPTY>	リザ‒ブ	
+MSG(04).PTP	129	0	<EMPTY>	リザ‒ブ	
+MSG(04).PTP	130	0	<EMPTY>	リザ‒ブ	
+MSG(04).PTP	131	0	<EMPTY>	リザ‒ブ	
 MSG(04).PTP	132	0	<EMPTY>	里切られた!	；倒戈了！
 MSG(04).PTP	133	0	<EMPTY>	里切られた!	；倒戈了！
 MSG(04).PTP	134	0	<EMPTY>	爆弹化させた!	；炸弹化了！
@@ -213,7 +213,7 @@ MSG(04).PTP	211	0	<EMPTY>	指示する仲间がいない!	；没有能指示的�
 MSG(04).PTP	212	0	<EMPTY>	今は使えない!	；现在不能使用！
 MSG(04).PTP	213	0	<EMPTY>	他にペルソナを持っていない!	；没有其他的人格面具了！
 MSG(04).PTP	214	0	<EMPTY>	すぐには付替えられない!	；不能马上进行更换！
-MSG(04).PTP	215	0	<EMPTY>	逃げられそうにない!	；没能逃走！
+MSG(04).PTP	215	0	<EMPTY>	逃げられそうにない!	；不能逃走！
 MSG(04).PTP	216	0	<EMPTY>	逃走失败!!	；逃跑失败！！
 MSG(04).PTP	217	0	<EMPTY>	效果がない!	；没有起作用！
 MSG(04).PTP	218	0	<EMPTY>	はまごまごしている	；正在惊慌失措
@@ -247,16 +247,16 @@ MSG(04).PTP	245	0	<EMPTY>	いいえ	；否
 MSG(04).PTP	246	0	<EMPTY>	今ならボコれる。{0A}やっとくか?	；现在可以痛揍敌人了。{0A}要上吗？
 MSG(04).PTP	247	0	<EMPTY>	はい	；是
 MSG(04).PTP	248	0	<EMPTY>	いいえ	；否
-MSG(04).PTP	249	0	<EMPTY>	ワンッ、ワンッ!!	；汪、汪！！
+MSG(04).PTP	249	0	<EMPTY>	ワンッ、ワンッ!!	；汪，汪！！
 MSG(04).PTP	250	0	<EMPTY>	はい	；是
 MSG(04).PTP	251	0	<EMPTY>	いいえ	；否
 MSG(04).PTP	252	0	<EMPTY>	よし、叠んじゃいましょう、姊さん!	；机会来了，姐姐我们一起上吧！
 MSG(04).PTP	253	0	<EMPTY>	はい	；是
 MSG(04).PTP	254	0	<EMPTY>	いいえ	；否
-MSG(04).PTP	255	0	<EMPTY>	ごめん、ちょっと无理みたい⋯{0A}逃げてもいい?	；抱歉，好像撑不下去了⋯{0A}我可以先逃吗？
+MSG(04).PTP	255	0	<EMPTY>	ごめん、ちょっと无理みたい⋯{0A}逃げてもいい?	；抱歉，有点撑不住了⋯{0A}我可以先逃吗？
 MSG(04).PTP	256	0	<EMPTY>	はい	；是
 MSG(04).PTP	257	0	<EMPTY>	いいえ	；否
-MSG(04).PTP	258	0	<EMPTY>	损伤多数。{0A}一时离脱を希望するであります。	；损伤多数。{0A}提出离队请求。
+MSG(04).PTP	258	0	<EMPTY>	损伤多数。{0A}一时离脱を希望するであります。	；多处受损。{0A}提出离队请求。
 MSG(04).PTP	259	0	<EMPTY>	はい	；是
 MSG(04).PTP	260	0	<EMPTY>	いいえ	；否
 MSG(04).PTP	261	0	<EMPTY>	不觉を取った⋯{0A}一度この场から离脱する。	；是我疏忽了⋯{0A}请允许我先离队。
@@ -274,12 +274,12 @@ MSG(04).PTP	272	0	<EMPTY>	いいえ	；否
 MSG(04).PTP	273	0	<EMPTY>	クソッ、喰らいすぎたか⋯{0A}1度拔けさせてもらう。	；可恶，吃了太多攻击了吗⋯{0A}可以先撤吗？
 MSG(04).PTP	274	0	<EMPTY>	はい	；是
 MSG(04).PTP	275	0	<EMPTY>	いいえ	；否
-MSG(04).PTP	276	0	<EMPTY>	ワンッ!{0A}>コロマルは逃げたいらしい⋯	；汪！{0A}＞虎狼丸想要逃走⋯
+MSG(04).PTP	276	0	<EMPTY>	ワンッ!{0A}>コロマルは逃げたいらしい⋯	；汪！{0A}>虎狼丸好像想逃走⋯
 MSG(04).PTP	277	0	<EMPTY>	はい	；是
 MSG(04).PTP	278	0	<EMPTY>	いいえ	；否
 MSG(04).PTP	279	0	<EMPTY>	退却してもいいですか?	；我可以先撤退吗？
 MSG(04).PTP	280	0	<EMPTY>	はい	；是
 MSG(04).PTP	281	0	<EMPTY>	いいえ	；否
 MSG(04).PTP	282	0	<EMPTY>	仲间の想いが力を呼ぶ!	；同伴的思念引出了力量！
-MSG(04).PTP	283	0	<EMPTY>	の身体が回复して行く!	；的身体恢复了！
+MSG(04).PTP	283	0	<EMPTY>	の身体が回复して行く!	；的身体逐渐恢复了！
 MSG(04).PTP	284	0	<EMPTY>	今なら新たな力が发现できる!!	；现在的话能发现新的力量！！
