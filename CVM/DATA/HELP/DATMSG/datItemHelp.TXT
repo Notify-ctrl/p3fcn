@@ -29,7 +29,7 @@ datItemHelp.PTP	27	0	<EMPTY>	敵単体に火炎属性で{0A}特大ダメ‒ジ�
 datItemHelp.PTP	28	0	<EMPTY>	敵単体に疾風属性で{0A}特大ダメ‒ジ。	；对敌方单体造成疾风属性{0A}特大伤害。
 datItemHelp.PTP	29	0	<EMPTY>	敵単体に氷結属性で{0A}特大ダメ‒ジ+"氷結"。	；对敌方单体造成冰结属性{0A}特大伤害+冻结状态。
 datItemHelp.PTP	30	0	<EMPTY>	敵単体に電撃属性で{0A}特大ダメ‒ジ+"感電"。	；对敌方单体造成电击属性{0A}特大伤害+触电状态。
-datItemHelp.PTP	31	0	<EMPTY>	ID_401F{0A}ID_401F	；。
+datItemHelp.PTP	31	0	<EMPTY>	ID_401F{0A}ID_401F	
 datItemHelp.PTP	32	0	<EMPTY>	味方単体の"混乱"、{0A}"動揺"、"恐怖"を治療。	；治疗我方单体的{0A}混乱、动摇、恐惧状态。
 datItemHelp.PTP	33	0	<EMPTY>	ダンジョンから、{0A}即座に脱出。	；从迷宫中{0A}立刻脱出。
 datItemHelp.PTP	34	0	<EMPTY>	味方全体のHPを全回復。	；我方全体的HP全回复。
