@@ -1,2 +1,2 @@
-BSV402_AEGIS(393).PTP	0	0	<EMPTY>	敌は后1体。{0A}ラストです。	
-BSV402_AEGIS(393).PTP	1	0	<EMPTY>	敌、残数1です。	
+BSV402_AEGIS(393).PTP	0	0	<EMPTY>	敌は后1体。{0A}ラストです。	敌人还有1只。{0A}快结束了。
+BSV402_AEGIS(393).PTP	1	0	<EMPTY>	敌、残数1です。	敌人余数为1。

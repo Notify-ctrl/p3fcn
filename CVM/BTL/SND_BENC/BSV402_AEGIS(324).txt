@@ -1,2 +1,2 @@
-BSV402_AEGIS(324).PTP	0	0	<EMPTY>	敌、残数4です!	
-BSV402_AEGIS(324).PTP	1	0	<EMPTY>	コロちゃん、敌を击破!	
+BSV402_AEGIS(324).PTP	0	0	<EMPTY>	敌、残数4です!	敌人，余数4！
+BSV402_AEGIS(324).PTP	1	0	<EMPTY>	コロちゃん、敌を击破!	小虎击破敌人了！

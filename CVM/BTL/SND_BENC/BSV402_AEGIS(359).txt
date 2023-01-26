@@ -1,2 +1,2 @@
-BSV402_AEGIS(359).PTP	0	0	<EMPTY>	そんな⋯桐条先辈が⋯	
-BSV402_AEGIS(359).PTP	1	0	<EMPTY>	桐条先辈が行动不能です。	
+BSV402_AEGIS(359).PTP	0	0	<EMPTY>	そんな⋯桐条先辈が⋯	怎么会⋯桐条学姐被⋯
+BSV402_AEGIS(359).PTP	1	0	<EMPTY>	桐条先辈が行动不能です。	桐条学姐，行动不能。

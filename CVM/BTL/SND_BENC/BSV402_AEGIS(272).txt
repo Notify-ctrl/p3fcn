@@ -1,2 +1,2 @@
-BSV402_AEGIS(272).PTP	0	0	<EMPTY>	后1体です。	
-BSV402_AEGIS(272).PTP	1	0	<EMPTY>	桐条先辈、敌を击破です!	
+BSV402_AEGIS(272).PTP	0	0	<EMPTY>	后1体です。	还有1只。
+BSV402_AEGIS(272).PTP	1	0	<EMPTY>	桐条先辈、敌を击破です!	桐条学姐，击破敌人了！

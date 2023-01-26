@@ -1,5 +1,5 @@
-BSV402_AEGIS(211).PTP	0	0	<EMPTY>	こんな所で、{0A}负けられませんよね!	
-BSV402_AEGIS(211).PTP	1	0	<EMPTY>	あまり{0A}无理しないでください⋯	
-BSV402_AEGIS(211).PTP	2	0	<EMPTY>	よかった⋯心配しました⋯	
-BSV402_AEGIS(211).PTP	3	0	<EMPTY>	危なかったですね⋯	
-BSV402_AEGIS(211).PTP	4	0	<EMPTY>	体は大丈夫ですか?{0A}かなりやられちゃいましたね⋯	
+BSV402_AEGIS(211).PTP	0	0	<EMPTY>	こんな所で、{0A}负けられませんよね!	不可能在这种地方输掉啊！
+BSV402_AEGIS(211).PTP	1	0	<EMPTY>	あまり{0A}无理しないでください⋯	请不要太过勉强⋯
+BSV402_AEGIS(211).PTP	2	0	<EMPTY>	よかった⋯心配しました⋯	太好了⋯我很担心啊⋯
+BSV402_AEGIS(211).PTP	3	0	<EMPTY>	危なかったですね⋯	好险啊⋯
+BSV402_AEGIS(211).PTP	4	0	<EMPTY>	体は大丈夫ですか?{0A}かなりやられちゃいましたね⋯	身体方面没事吧？；看起来被打得很惨啊⋯
