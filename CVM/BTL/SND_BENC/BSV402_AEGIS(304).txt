@@ -1,2 +1,2 @@
-BSV402_AEGIS(304).PTP	0	0	<EMPTY>	敌、あと2体です!	
-BSV402_AEGIS(304).PTP	1	0	<EMPTY>	天田くん、敌を击破!	
+BSV402_AEGIS(304).PTP	0	0	<EMPTY>	敌、あと2体です!	敌人余数2！
+BSV402_AEGIS(304).PTP	1	0	<EMPTY>	天田くん、敌を击破!	天田同学击破敌人了！

@@ -1,2 +1,2 @@
-BSV402_AEGIS(177).PTP	0	0	<EMPTY>	お役に立てましたか?	
-BSV402_AEGIS(177).PTP	1	0	<EMPTY>	よかった⋯成功です!	
+BSV402_AEGIS(177).PTP	0	0	<EMPTY>	お役に立てましたか?	有派上用场吗？
+BSV402_AEGIS(177).PTP	1	0	<EMPTY>	よかった⋯成功です!	太好了⋯成功了！
