@@ -94,7 +94,7 @@ datWeaponHelp.PTP	92	0	<EMPTY>	0x05C
 datWeaponHelp.PTP	93	0	<EMPTY>	0x05D	
 datWeaponHelp.PTP	94	0	<EMPTY>	0x05E	
 datWeaponHelp.PTP	95	0	<EMPTY>	0x05F	
-datWeaponHelp.PTP	96	0	<EMPTY>	"根性注入"と書いてある。	；上边写着"注入毅力"。
+datWeaponHelp.PTP	96	0	<EMPTY>	"根性注入"と書いてある。	；上边写着“注入毅力”。
 datWeaponHelp.PTP	97	0	<EMPTY>	0x061	
 datWeaponHelp.PTP	98	0	<EMPTY>	盾ごと破壊するロッド。	；可以摧毁盾牌的棒子。
 datWeaponHelp.PTP	99	0	<EMPTY>	0x063	
