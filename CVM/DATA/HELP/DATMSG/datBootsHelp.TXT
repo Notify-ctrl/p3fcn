@@ -10,7 +10,7 @@ datBootsHelp.PTP	8	0	<EMPTY>	全てのツボを刺激する。	；能刺激所�
 datBootsHelp.PTP	9	0	<EMPTY>	戦車が乗っても大丈夫。	；就算是开坦克也没问题。
 datBootsHelp.PTP	10	0	<EMPTY>	ソ‒ルが厚いブ‒ツ。	；厚底靴。
 datBootsHelp.PTP	11	0	<EMPTY>	ツブツブのあるサンダル。	；有很多凸起的凉鞋。
-datBootsHelp.PTP	12	0	<EMPTY>	革製のブ‒ツ。	；皮革制靴子。
+datBootsHelp.PTP	12	0	<EMPTY>	革製のブ‒ツ。	；皮革制的靴子。
 datBootsHelp.PTP	13	0	<EMPTY>	一列のロ‒ラ‒がついた靴。	；直排轮滑鞋。
 datBootsHelp.PTP	14	0	<EMPTY>	最先端技術で作られた下駄。	；用最尖端技术制作的木屐。
 datBootsHelp.PTP	15	0	<EMPTY>	軍用の頑丈なブ‒ツ。	；坚固的军用靴子。

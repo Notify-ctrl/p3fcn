@@ -37,17 +37,17 @@ datEventItemHelp.PTP	35	0	<EMPTY>	戦車·ナタタイシが{0A}合体で作成�
 datEventItemHelp.PTP	36	0	<EMPTY>	隠者·ネビロスが{0A}合体で作成可能になる。	；隐者·奈比洛斯{0A}可以合体合成了。
 datEventItemHelp.PTP	37	0	<EMPTY>	悪魔·リリスが{0A}合体で作成可能になる。	；恶魔·莉莉丝{0A}可以合体合成了。
 datEventItemHelp.PTP	38	0	<EMPTY>	塔·マサカドが{0A}合体で作成可能になる。	；塔·平将门{0A}可以合体合成了。
-datEventItemHelp.PTP	39	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
-datEventItemHelp.PTP	40	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
-datEventItemHelp.PTP	41	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
-datEventItemHelp.PTP	42	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
-datEventItemHelp.PTP	43	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
-datEventItemHelp.PTP	44	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
-datEventItemHelp.PTP	45	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
-datEventItemHelp.PTP	46	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
+datEventItemHelp.PTP	39	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
+datEventItemHelp.PTP	40	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
+datEventItemHelp.PTP	41	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
+datEventItemHelp.PTP	42	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
+datEventItemHelp.PTP	43	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
+datEventItemHelp.PTP	44	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
+datEventItemHelp.PTP	45	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
+datEventItemHelp.PTP	46	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
 datEventItemHelp.PTP	47	0	<EMPTY>	@eventitem_047	
 datEventItemHelp.PTP	48	0	<EMPTY>	魔術師·カハクが{0A}合体で作成可能になる。	；魔术师·花魄{0A}可以合体合成了。
-datEventItemHelp.PTP	49	0	<EMPTY>	法王·ト‒トが{0A}合体で作成可能になる。	；教皇·图特{0A}可以合体合成了。
+datEventItemHelp.PTP	49	0	<EMPTY>	法王·ト‒トが{0A}合体で作成可能になる。	；法王·图特{0A}可以合体合成了。
 datEventItemHelp.PTP	50	0	<EMPTY>	運命·エンプ‒サが{0A}合体で作成可能になる。	；命运·恩浦萨{0A}可以合体合成了。
 datEventItemHelp.PTP	51	0	<EMPTY>	星·カルティケ‒ヤが{0A}合体で作成可能になる。	；星·室建陀{0A}可以合体合成了。
 datEventItemHelp.PTP	52	0	<EMPTY>	刑死者·ヘルズエンジェル{0A}が合体で作成可能になる。	；刑死者·地狱天使{0A}可以合体合成了。

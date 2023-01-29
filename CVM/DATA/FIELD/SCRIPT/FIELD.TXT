@@ -21,7 +21,7 @@ FIELD.PTP	4	3	<SELECT>	TRACK 04	；TRACK 04:时间城
 FIELD.PTP	4	4	<SELECT>	曲を止めてもらう	；停止播放歌曲
 FIELD.PTP	4	5	<SELECT>	キャンセル	；取消
 FIELD.PTP	5	0	<SELECT>	次の階へ	；去下一层
-FIELD.PTP	5	1	<SELECT>	エントランスへ	；去入门大厅
+FIELD.PTP	5	1	<SELECT>	エントランスへ	；去入口大厅
 FIELD.PTP	5	2	<SELECT>	開始時のフラグをセット	；设定开始时的标识
 FIELD.PTP	5	3	<SELECT>	キャンセル	；取消
 FIELD.PTP	6	0	<EMPTY>	>あまり見たことのない箱だ⋯	；>是不太常见的箱子啊⋯
@@ -106,4 +106,4 @@ FIELD.PTP	67	0	山岸 風花	突き当たりでタ‒ゲットが待ち構えて
 FIELD.PTP	67	1	山岸 風花	気をつけてください!	；大家要小心了！
 FIELD.PTP	68	0	<EMPTY>	まだ作ってない	；还不制作
 FIELD.PTP	69	0	<EMPTY>	>デバッグモ‒ド	；>debug模式
-FIELD.PTP	70	0	<EMPTY>	>タルタロス中じゃないので{0A} エントランスへ	；>因为不在塔耳塔洛斯中{0A} 所以去入门大厅
+FIELD.PTP	70	0	<EMPTY>	>タルタロス中じゃないので{0A} エントランスへ	；>因为不在塔耳塔洛斯中{0A} 所以去入口大厅
