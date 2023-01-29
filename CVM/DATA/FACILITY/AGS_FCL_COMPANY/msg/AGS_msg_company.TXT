@@ -1,6 +1,6 @@
 AGS_msg_company.PTP	0	0	<SELECT>	はい	；是
 AGS_msg_company.PTP	0	1	<SELECT>	いいえ	；否
-AGS_msg_company.PTP	1	0	<EMPTY>	セ‒ル中です。{0A}色々と見ていって下さい。	；现在打折中。{0A}请多瞧瞧。
+AGS_msg_company.PTP	1	0	<EMPTY>	セ‒ル中です。{0A}色々と見ていって下さい。	；特卖中。{0A}请多瞧瞧。
 AGS_msg_company.PTP	2	0	おばちゃん	ごめんね‒。{0A}それ売り切れちゃったの。	；不好意思啊。{0A}那个卖光了。
 AGS_msg_company.PTP	2	1	おばちゃん	あんまりいっぱいは置けないから、{0A}毎日ちょっとずつ売ることにしてるの。	；没办法一下子摆那么多{0A}所以每天只拿出一点来卖。
 AGS_msg_company.PTP	3	0	おばちゃん	新商品が入荷しました!	；进新货了！
