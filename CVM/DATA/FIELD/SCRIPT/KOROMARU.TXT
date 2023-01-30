@@ -7,7 +7,7 @@ KOROMARU.PTP	2	0	<SELECT>	次に進もう	；继续前进吧
 KOROMARU.PTP	2	1	<SELECT>	少し待ってほしい	；稍等一下
 KOROMARU.PTP	3	0	<SELECT>	次の階に進む	；去下一层
 KOROMARU.PTP	3	1	<SELECT>	まだこの階に留まる	；继续留在该层
-KOROMARU.PTP	4	0	<SELECT>	エントランスに戻ろう	；回到入门大厅
+KOROMARU.PTP	4	0	<SELECT>	エントランスに戻ろう	；回到入口大厅
 KOROMARU.PTP	4	1	<SELECT>	まだ戻らない	；先不回去
 KOROMARU.PTP	5	0	<SELECT>	扉の間に戻る	；回到门扉之间
 KOROMARU.PTP	5	1	<SELECT>	まだ戻らない	；先不回去
@@ -45,11 +45,11 @@ KOROMARU.PTP	29	1	コロマル	>コロマルが脱出ポイントを見つけた
 KOROMARU.PTP	30	0	コロマル	ワンワン!	；汪汪！
 KOROMARU.PTP	31	0	<EMPTY>	ワンワン!	；汪汪！
 KOROMARU.PTP	32	0	<EMPTY>	キュ‒ン⋯	；呜⋯
-KOROMARU.PTP	33	0	<EMPTY>	グルルルルル⋯	；咕噜噜噜噜噜⋯
+KOROMARU.PTP	33	0	<EMPTY>	グルルルルル⋯	；咕呜呜呜呜呜⋯
 KOROMARU.PTP	34	0	<EMPTY>	ワンワン!	；汪汪！
-KOROMARU.PTP	35	0	<EMPTY>	グルルルルル⋯	；咕噜噜噜噜噜⋯
+KOROMARU.PTP	35	0	<EMPTY>	グルルルルル⋯	；咕呜呜呜呜呜⋯
 KOROMARU.PTP	36	0	<EMPTY>	ワンワン!	；汪汪！
-KOROMARU.PTP	37	0	<EMPTY>	グルルルルル⋯	；咕噜噜噜噜噜⋯
+KOROMARU.PTP	37	0	<EMPTY>	グルルルルル⋯	；咕呜呜呜呜呜⋯
 KOROMARU.PTP	38	0	<EMPTY>	キャン!	；嗷！
 KOROMARU.PTP	39	0	<EMPTY>	キャオ～ン!	；嗷呜！
 KOROMARU.PTP	40	0	<EMPTY>	ワワワワワン!	；汪汪汪汪汪！

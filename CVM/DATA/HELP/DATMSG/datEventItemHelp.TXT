@@ -2,7 +2,7 @@ datEventItemHelp.PTP	0	0	<EMPTY>	@eventitem_000
 datEventItemHelp.PTP	1	0	<EMPTY>	青色をした鍵。{0A}ベルベットル‒ムの扉を開く。	；蓝色的钥匙。{0A}可以打开天鹅绒房间的门
 datEventItemHelp.PTP	2	0	<EMPTY>	バスタ‒ドライブが落とした{0A}鋼鉄の破片。 無意味に重い。	；巴斯塔驱动器掉落的{0A}钢铁的碎片。重的毫无意义。
 datEventItemHelp.PTP	3	0	<EMPTY>	5003	
-datEventItemHelp.PTP	4	0	<EMPTY>	友近が作ったチョ‒カ‒。{0A}究極の力·スルトを開く鍵。	；友近制作的项圈。{0A}打开究极之力·苏尔特的钥匙。
+datEventItemHelp.PTP	4	0	<EMPTY>	友近が作ったチョ‒カ‒。{0A}究極の力·スルトを開く鍵。	；友近制作的项圈。{0A}打开究极之力·斯尔特的钥匙。
 datEventItemHelp.PTP	5	0	<EMPTY>	まだ⋯無い⋯ッ	
 datEventItemHelp.PTP	6	0	<EMPTY>	まだ⋯無い⋯ッ	
 datEventItemHelp.PTP	7	0	<EMPTY>	小田桐が勝ち取った信頼の証。{0A}究極の力·オ‒ディンを開く鍵。	；小田桐赢取信赖之证。{0A}打开究极之力·奥丁的钥匙。
@@ -37,17 +37,17 @@ datEventItemHelp.PTP	35	0	<EMPTY>	戦車·ナタタイシが{0A}合体で作成�
 datEventItemHelp.PTP	36	0	<EMPTY>	隠者·ネビロスが{0A}合体で作成可能になる。	；隐者·奈比洛斯{0A}可以合体合成了。
 datEventItemHelp.PTP	37	0	<EMPTY>	悪魔·リリスが{0A}合体で作成可能になる。	；恶魔·莉莉丝{0A}可以合体合成了。
 datEventItemHelp.PTP	38	0	<EMPTY>	塔·マサカドが{0A}合体で作成可能になる。	；塔·平将门{0A}可以合体合成了。
-datEventItemHelp.PTP	39	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
-datEventItemHelp.PTP	40	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
-datEventItemHelp.PTP	41	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
-datEventItemHelp.PTP	42	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
-datEventItemHelp.PTP	43	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
-datEventItemHelp.PTP	44	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
-datEventItemHelp.PTP	45	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
-datEventItemHelp.PTP	46	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯见到的文书。{0A}貌似是十年前的机密文书。
+datEventItemHelp.PTP	39	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
+datEventItemHelp.PTP	40	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
+datEventItemHelp.PTP	41	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
+datEventItemHelp.PTP	42	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
+datEventItemHelp.PTP	43	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
+datEventItemHelp.PTP	44	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
+datEventItemHelp.PTP	45	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
+datEventItemHelp.PTP	46	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
 datEventItemHelp.PTP	47	0	<EMPTY>	@eventitem_047	
 datEventItemHelp.PTP	48	0	<EMPTY>	魔術師·カハクが{0A}合体で作成可能になる。	；魔术师·花魄{0A}可以合体合成了。
-datEventItemHelp.PTP	49	0	<EMPTY>	法王·ト‒トが{0A}合体で作成可能になる。	；教皇·图特{0A}可以合体合成了。
+datEventItemHelp.PTP	49	0	<EMPTY>	法王·ト‒トが{0A}合体で作成可能になる。	；法王·图特{0A}可以合体合成了。
 datEventItemHelp.PTP	50	0	<EMPTY>	運命·エンプ‒サが{0A}合体で作成可能になる。	；命运·恩浦萨{0A}可以合体合成了。
 datEventItemHelp.PTP	51	0	<EMPTY>	星·カルティケ‒ヤが{0A}合体で作成可能になる。	；星·室建陀{0A}可以合体合成了。
 datEventItemHelp.PTP	52	0	<EMPTY>	刑死者·ヘルズエンジェル{0A}が合体で作成可能になる。	；刑死者·地狱天使{0A}可以合体合成了。
