@@ -45,11 +45,11 @@ KOROMARU.PTP	29	1	コロマル	>コロマルが脱出ポイントを見つけた
 KOROMARU.PTP	30	0	コロマル	ワンワン!	；汪汪！
 KOROMARU.PTP	31	0	<EMPTY>	ワンワン!	；汪汪！
 KOROMARU.PTP	32	0	<EMPTY>	キュ‒ン⋯	；呜⋯
-KOROMARU.PTP	33	0	<EMPTY>	グルルルルル⋯	；咕噜噜噜噜噜⋯
+KOROMARU.PTP	33	0	<EMPTY>	グルルルルル⋯	；咕呜呜呜呜呜⋯
 KOROMARU.PTP	34	0	<EMPTY>	ワンワン!	；汪汪！
-KOROMARU.PTP	35	0	<EMPTY>	グルルルルル⋯	；咕噜噜噜噜噜⋯
+KOROMARU.PTP	35	0	<EMPTY>	グルルルルル⋯	；咕呜呜呜呜呜⋯
 KOROMARU.PTP	36	0	<EMPTY>	ワンワン!	；汪汪！
-KOROMARU.PTP	37	0	<EMPTY>	グルルルルル⋯	；咕噜噜噜噜噜⋯
+KOROMARU.PTP	37	0	<EMPTY>	グルルルルル⋯	；咕呜呜呜呜呜⋯
 KOROMARU.PTP	38	0	<EMPTY>	キャン!	；嗷！
 KOROMARU.PTP	39	0	<EMPTY>	キャオ～ン!	；嗷呜！
 KOROMARU.PTP	40	0	<EMPTY>	ワワワワワン!	；汪汪汪汪汪！
