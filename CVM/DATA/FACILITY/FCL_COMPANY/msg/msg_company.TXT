@@ -63,7 +63,7 @@ msg_company.PTP	42	0	おばちゃん	セールメッセージ000リザーブ	；
 msg_company.PTP	43	0	おばちゃん	ちょっとお気に入り	；有点动心
 msg_company.PTP	44	0	おばちゃん	まぁまぁお気に入り	；十分中意
 msg_company.PTP	45	0	おばちゃん	素敵にお気に入り	；喜爱至极
-msg_company.PTP	46	0	おばちゃん	ちゃらりらったらー	；嗒啦嗒嗒啦~
+msg_company.PTP	46	0	おばちゃん	ちゃらりらったらー	；嗒啦嗒嗒啦～
 msg_company.PTP	47	0	おばちゃん	勇者は、Lv2になたった。	；勇者升级至Lv2。
 msg_company.PTP	48	0	おばちゃん	何か感じる	；感觉到了点什么
 msg_company.PTP	49	0	おばちゃん	勇者は、Lv3になたった。	；勇者升级至Lv3。
