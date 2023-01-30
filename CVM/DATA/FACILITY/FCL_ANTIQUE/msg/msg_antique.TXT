@@ -1,6 +1,6 @@
 msg_antique.PTP	0	0	<SELECT>	はい	；是
 msg_antique.PTP	0	1	<SELECT>	いいえ	；否
-msg_antique.PTP	1	0	<EMPTY>	セ‒ル中です。{0A}色々と見ていって下さい。	；打折中哦。{0A}多挑挑看吧。
+msg_antique.PTP	1	0	<EMPTY>	セ‒ル中です。{0A}色々と見ていって下さい。	；特卖中。{0A}多挑挑看吧。
 msg_antique.PTP	2	0	<EMPTY>	dummy売り切れです。	；ｄｕｍｍｙ卖完了。
 msg_antique.PTP	3	0	女性店主	新しい商品を入荷してきたよ。	；有新商品进货了哦。
 msg_antique.PTP	4	0	女性店主	円になるけどいいかい?	；可以变现吗？
