@@ -93,7 +93,7 @@ msg_quest.PTP	91	0	<EMPTY>	妙法村正を持ってきて。	；带来妙法村�
 msg_quest.PTP	92	0	<EMPTY>	マツヤニの粉を持ってきて。	；带来松脂粉。
 msg_quest.PTP	93	0	<EMPTY>	携帯ゲ‒ム機を持ってきて。	；带来便携游戏机。
 msg_quest.PTP	94	0	<EMPTY>	三角の剣を持ってきて。	；带来三角之剑。
-msg_quest.PTP	95	0	<EMPTY>	プロ用でないプロテインを持ってきて。	；带来非专业用的蛋白粉 。
+msg_quest.PTP	95	0	<EMPTY>	プロ用でないプロテインを持ってきて。	；带来非专业用的蛋白粉。
 msg_quest.PTP	96	0	<EMPTY>	眼鏡拭きを持ってきて。	；带来眼镜布。
 msg_quest.PTP	97	0	<EMPTY>	オランウ‒タンの木を持ってきて。	；带来红毛猩猩木。
 msg_quest.PTP	98	0	<EMPTY>	果物ナイフを持ってきて。	；带来水果刀。
