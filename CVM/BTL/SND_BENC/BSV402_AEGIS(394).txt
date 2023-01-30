@@ -1,2 +1,2 @@
-BSV402_AEGIS(394).PTP	0	0	<EMPTY>	敌、残数2です。	
-BSV402_AEGIS(394).PTP	1	0	<EMPTY>	敌は残り2体です。	
+BSV402_AEGIS(394).PTP	0	0	<EMPTY>	敌、残数2です。	敌人余数为2。
+BSV402_AEGIS(394).PTP	1	0	<EMPTY>	敌は残り2体です。	敌人还剩下2只。

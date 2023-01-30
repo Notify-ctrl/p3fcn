@@ -1,2 +1,2 @@
-BSV402_AEGIS(250).PTP	0	0	<EMPTY>	后1体です。	
-BSV402_AEGIS(250).PTP	1	0	<EMPTY>	ゆかりちゃん、{0A}敌を击破!	
+BSV402_AEGIS(250).PTP	0	0	<EMPTY>	后1体です。	还有1只。
+BSV402_AEGIS(250).PTP	1	0	<EMPTY>	ゆかりちゃん、{0A}敌を击破!	由加莉击破敌人了！

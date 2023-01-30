@@ -1,2 +1,2 @@
-BSV402_AEGIS(283).PTP	0	0	<EMPTY>	敌は后1体です!	
-BSV402_AEGIS(283).PTP	1	0	<EMPTY>	顺平くん、敌を击破!	
+BSV402_AEGIS(283).PTP	0	0	<EMPTY>	敌は后1体です!	敌人，还有1只！
+BSV402_AEGIS(283).PTP	1	0	<EMPTY>	顺平くん、敌を击破!	顺平同学击破敌人了！

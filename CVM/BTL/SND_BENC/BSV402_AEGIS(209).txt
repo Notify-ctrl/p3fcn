@@ -1,5 +1,5 @@
-BSV402_AEGIS(209).PTP	0	0	<EMPTY>	堂々の胜利ですね!	
-BSV402_AEGIS(209).PTP	1	0	<EMPTY>	さすがです!	
-BSV402_AEGIS(209).PTP	2	0	<EMPTY>	乐胜でしたね!	
-BSV402_AEGIS(209).PTP	3	0	<EMPTY>	素晴らしい战いでした!	
-BSV402_AEGIS(209).PTP	4	0	<EMPTY>	完胜ですね!{0A}见とれちゃいました!	
+BSV402_AEGIS(209).PTP	0	0	<EMPTY>	堂々の胜利ですね!	堂堂正正的胜利！
+BSV402_AEGIS(209).PTP	1	0	<EMPTY>	さすがです!	不愧是你！
+BSV402_AEGIS(209).PTP	2	0	<EMPTY>	乐胜でしたね!	轻松取胜啊！
+BSV402_AEGIS(209).PTP	3	0	<EMPTY>	素晴らしい战いでした!	精彩的战斗！
+BSV402_AEGIS(209).PTP	4	0	<EMPTY>	完胜ですね!{0A}见とれちゃいました!	完胜啊！{0A}我都看呆了！

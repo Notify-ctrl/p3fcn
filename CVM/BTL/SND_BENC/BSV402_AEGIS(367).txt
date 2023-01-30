@@ -1,2 +1,2 @@
-BSV402_AEGIS(367).PTP	0	0	<EMPTY>	メティスが⋯	
-BSV402_AEGIS(367).PTP	1	0	<EMPTY>	メティスが行动不能です。	
+BSV402_AEGIS(367).PTP	0	0	<EMPTY>	メティスが⋯	梅蒂斯被⋯
+BSV402_AEGIS(367).PTP	1	0	<EMPTY>	メティスが行动不能です。	梅蒂斯，行动不能。
