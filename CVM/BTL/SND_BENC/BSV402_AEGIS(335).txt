@@ -1,7 +1,7 @@
-BSV402_AEGIS(335).PTP	0	0	<EMPTY>	あっ、倒れました!{0A}追击チャンスです!	
-BSV402_AEGIS(335).PTP	1	0	<EMPTY>	敌、体势を崩しました!{0A}まだ行けますよ!	
-BSV402_AEGIS(335).PTP	2	0	<EMPTY>	弱点にヒット!{0A}敌が倒れました!!	
-BSV402_AEGIS(335).PTP	3	0	<EMPTY>	弱点を突きました!!{0A}敌が体势を崩しました!	
-BSV402_AEGIS(335).PTP	4	0	<EMPTY>	续けてどうぞ!	
-BSV402_AEGIS(335).PTP	5	0	<EMPTY>	弱点に当たりです!!	
-BSV402_AEGIS(335).PTP	6	0	<EMPTY>	弱点を突きました!!	
+BSV402_AEGIS(335).PTP	0	0	<EMPTY>	あっ、倒れました!{0A}追击チャンスです!	啊，倒地了！{0A}有机会追击！
+BSV402_AEGIS(335).PTP	1	0	<EMPTY>	敌、体势を崩しました!{0A}まだ行けますよ!	敌人，倒地！{0A}还可以继续行动哦！
+BSV402_AEGIS(335).PTP	2	0	<EMPTY>	弱点にヒット!{0A}敌が倒れました!!	击中弱点！{0A}敌人倒地了！
+BSV402_AEGIS(335).PTP	3	0	<EMPTY>	弱点を突きました!!{0A}敌が体势を崩しました!	击中弱点了！{0A}敌人阵势溃散！
+BSV402_AEGIS(335).PTP	4	0	<EMPTY>	续けてどうぞ!	可以继续行动！
+BSV402_AEGIS(335).PTP	5	0	<EMPTY>	弱点に当たりです!!	命中弱点了！！
+BSV402_AEGIS(335).PTP	6	0	<EMPTY>	弱点を突きました!!	击中弱点了！！

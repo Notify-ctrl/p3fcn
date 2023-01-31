@@ -1,2 +1,2 @@
-BSV402_AEGIS(292).PTP	0	0	<EMPTY>	敌、残り3体です!	
-BSV402_AEGIS(292).PTP	1	0	<EMPTY>	真田先辈、敌を击破!	
+BSV402_AEGIS(292).PTP	0	0	<EMPTY>	敌、残り3体です!	敌人还剩3只！
+BSV402_AEGIS(292).PTP	1	0	<EMPTY>	真田先辈、敌を击破!	真田学长击破敌人了！

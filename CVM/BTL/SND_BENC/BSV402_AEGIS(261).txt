@@ -1,2 +1,2 @@
-BSV402_AEGIS(261).PTP	0	0	<EMPTY>	残り1体です!	
-BSV402_AEGIS(261).PTP	1	0	<EMPTY>	アイギス、敌を击破!	
+BSV402_AEGIS(261).PTP	0	0	<EMPTY>	残り1体です!	还剩下1只！
+BSV402_AEGIS(261).PTP	1	0	<EMPTY>	アイギス、敌を击破!	艾吉斯，击破敌人了！
