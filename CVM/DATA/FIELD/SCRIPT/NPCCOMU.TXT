@@ -2220,7 +2220,7 @@ NPCCOMU.PTP	697	0	 	>コロマルは、いつもより強い力で{0A} 見上げ
 NPCCOMU.PTP	697	1	 	>⋯今日は、みんなで{0A} 一緒に行ってみようか⋯	>⋯今天，要不要大家一起散步呢⋯
 NPCCOMU.PTP	698	0	<SELECT>	一緒に散歩に行く	一起去散步
 NPCCOMU.PTP	698	1	<SELECT>	一人でコロマルを連れて行く	自己带着虎狼丸去
-NPCCOMU.PTP	698	2	<SELECT>	散歩は誰かに任せる	散步让别人做
+NPCCOMU.PTP	698	2	<SELECT>	散歩は誰かに任せる	把散步交给其他人去做
 NPCCOMU.PTP	699	0	コロマル	⋯⋯。	⋯⋯
 NPCCOMU.PTP	699	1	コロマル	>コロマルの足下に何かが見える⋯	>虎狼丸的脚下似乎有什么⋯
 NPCCOMU.PTP	699	2	コロマル	>探してみますか?	>要看看吗？
