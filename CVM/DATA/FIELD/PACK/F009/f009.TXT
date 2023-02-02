@@ -8,9 +8,9 @@ f009.PTP	2	0	<SELECT>	后光の红茶	；午前红茶
 f009.PTP	2	1	<SELECT>	カロリ‒ブレンド	；Calorie Blend
 f009.PTP	2	2	<SELECT>	1UP	；1UP
 f009.PTP	2	3	<SELECT>	买わない	；什么都不买
-f009.PTP	3	0	<SELECT>	古本屋で过ごす	；在古书店度过。
+f009.PTP	3	0	<SELECT>	古本屋で过ごす	；在古书店度过
 f009.PTP	3	1	<SELECT>	コミュ属性を确认する	；确认社群属性
-f009.PTP	3	2	<SELECT>	やっぱりやめる	；还是算了。
+f009.PTP	3	2	<SELECT>	やっぱりやめる	；还是算了
 f009.PTP	4	0	<SELECT>	大丈夫だ	；没问题
 f009.PTP	4	1	<SELECT>	待ってくれ	；稍等一下
 f009.PTP	5	0	桐条 美鹤	もたもたしていると影时间が明けてしまう。	；再磨磨蹭蹭下去的话{0A}影时间就要结束了！

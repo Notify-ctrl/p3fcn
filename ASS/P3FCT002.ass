@@ -20,23 +20,23 @@ Video Position: 4091
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,HYRuiHuSongW,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,HYRuiHuSongW,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,110,100,0,0,1,2,2,2,10,10,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.18,0:00:03.04,Default,,0,0,0,,比预料中还要强大的力量...
+Dialogue: 0,0:00:01.18,0:00:03.04,Default,,0,0,0,,出乎意料的力量啊…
 Dialogue: 0,0:00:04.06,0:00:05.14,Default,,0,0,0,,没办法了
-Dialogue: 0,0:00:06.22,0:00:07.26,Default,,0,0,0,,这是！？
-Dialogue: 0,0:00:10.58,0:00:13.08,Default,,0,0,0,,难道是...“狂宴模式”！？
+Dialogue: 0,0:00:06.22,0:00:07.26,Default,,0,0,0,,诶 这是!?
+Dialogue: 0,0:00:10.58,0:00:13.08,Default,,0,0,0,,难道是…“狂宴模式”!?
 Dialogue: 0,0:00:21.50,0:00:22.44,Default,,0,0,0,,艾吉斯！
-Dialogue: 0,0:00:22.86,0:00:23.94,Default,,0,0,0,,不会吧？！
+Dialogue: 0,0:00:22.86,0:00:23.94,Default,,0,0,0,,不会吧!?
 Dialogue: 0,0:00:27.56,0:00:28.24,Default,,0,0,0,,天田！
-Dialogue: 0,0:00:43.56,0:00:45.98,Default,,0,0,0,,呃...身体...
-Dialogue: 0,0:00:53.42,0:00:55.80,Default,,0,0,0,,障碍即将被排除
-Dialogue: 0,0:01:12.50,0:01:14.06,Default,,0,0,0,,不要！
-Dialogue: 0,0:01:15.88,0:01:19.06,Default,,0,0,0,,那种事情绝对不行！！
-Dialogue: 0,0:01:41.72,0:01:42.60,Default,,0,0,0,,这是...
-Dialogue: 0,0:01:44.24,0:01:44.96,Default,,0,0,0,,难道是...
+Dialogue: 0,0:00:43.56,0:00:45.98,Default,,0,0,0,,呃…身体…
+Dialogue: 0,0:00:53.42,0:00:55.80,Default,,0,0,0,,即将排除障碍
+Dialogue: 0,0:01:12.50,0:01:14.06,Default,,0,0,0,,不要啊！
+Dialogue: 0,0:01:15.88,0:01:19.06,Default,,0,0,0,,这种事绝对不可以再发生了!!
+Dialogue: 0,0:01:41.72,0:01:42.60,Default,,0,0,0,,这是…!?
+Dialogue: 0,0:01:44.24,0:01:44.96,Default,,0,0,0,,难道是…
 Dialogue: 0,0:02:06.94,0:02:08.98,Default,,0,0,0,,呜哇 这是什么
-Dialogue: 0,0:02:13.12,0:02:14.34,Default,,0,0,0,,姐姐...
-Dialogue: 0,0:02:16.48,0:02:17.34,Default,,0,0,0,,艾吉斯
+Dialogue: 0,0:02:13.12,0:02:14.34,Default,,0,0,0,,姐…姐…
+Dialogue: 0,0:02:16.48,0:02:17.34,Default,,0,0,0,,艾吉斯！喂！
