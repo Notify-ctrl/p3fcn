@@ -1,7 +1,7 @@
 msg_drugstore.PTP	0	0	<SELECT>	はい	；是
 msg_drugstore.PTP	0	1	<SELECT>	いいえ	；否
 msg_drugstore.PTP	1	0	店主	毎週土曜日はセ‒ルの日だ!{0A}たっぷり買っていけ!	；每周六都是促销日！{0A}趁着活动多买点！
-msg_drugstore.PTP	2	0	店主	dummy売り切れです。	；dummy卖光了。
+msg_drugstore.PTP	2	0	店主	dummy売り切れです。	
 msg_drugstore.PTP	3	0	店主	新しい商品を入荷したぞ!{0A}たっぷり買っていけ!	；又进新货了！{0A}多买点！
 msg_drugstore.PTP	4	0	店主	全部で{F2 03 01 01}円になるけど、{0A}いいかい?	；一共是{F2 03 01 01}元，{0A}可以吗?
 msg_drugstore.PTP	5	0	店主	ありがとうございました!	；谢谢！
