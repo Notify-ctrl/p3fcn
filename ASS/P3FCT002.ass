@@ -26,7 +26,7 @@ Style: Default,HYRuiHuSongW,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.18,0:00:03.04,Default,,0,0,0,,出乎意料的力量啊…
 Dialogue: 0,0:00:04.06,0:00:05.14,Default,,0,0,0,,没办法了
-Dialogue: 0,0:00:06.22,0:00:07.26,Default,,0,0,0,,诶，这这是！？
+Dialogue: 0,0:00:06.22,0:00:07.26,Default,,0,0,0,,诶 这是！？
 Dialogue: 0,0:00:10.58,0:00:13.08,Default,,0,0,0,,难道是…“狂宴模式”！？
 Dialogue: 0,0:00:21.50,0:00:22.44,Default,,0,0,0,,艾吉斯！
 Dialogue: 0,0:00:22.86,0:00:23.94,Default,,0,0,0,,不会吧！？

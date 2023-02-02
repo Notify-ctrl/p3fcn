@@ -25,12 +25,12 @@ Style: Default,HYRuiHuSongW,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:49.86,0:01:53.38,Default,,0,0,0,,今天电车运营由于事故的影响大幅延误
-Dialogue: 0,0:01:53.38,0:01:56.88,Default,,0,0,0,,因此为各位顾客带来的不便我们在此深表歉意
-Dialogue: 0,0:01:56.88,0:01:57.96,Default,,0,0,0,,下一站是岩...
-Dialogue: 0,0:02:00.14,0:02:01.18,Default,,0,0,0,,...岩户台
+Dialogue: 0,0:01:53.38,0:01:56.88,Default,,0,0,0,,给各位乘客带来不便 我们在此深表歉意
+Dialogue: 0,0:01:56.88,0:01:57.96,Default,,0,0,0,,下一站是岩…
+Dialogue: 0,0:02:00.14,0:02:01.18,Default,,0,0,0,,…岩户台
 Dialogue: 0,0:02:05.40,0:02:07.46,Default,,0,0,0,,岩户台 岩户台站到了
-Dialogue: 0,0:02:07.50,0:02:12.42,Default,,0,0,0,,本次列车终点站辰巳人工岛，是今天的末班车
-Dialogue: 0,0:02:12.42,0:02:15.60,Default,,0,0,0,,请您注意不要错过
+Dialogue: 0,0:02:07.50,0:02:12.42,Default,,0,0,0,,本次列车终点站为辰巳人工岛 是今天的末班车
+Dialogue: 0,0:02:12.42,0:02:15.60,Default,,0,0,0,,请您注意不要错过…
 Dialogue: 0,0:03:25.76,0:03:26.88,Default,,0,0,0,,真慢呐
 Dialogue: 0,0:03:27.64,0:03:29.88,Default,,0,0,0,,我已等你很久了
 Dialogue: 0,0:03:36.54,0:03:38.18,Default,,0,0,0,,如果想继续往前走的话

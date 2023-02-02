@@ -24,8 +24,8 @@ Style: Default,HYRuiHuSongW,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.64,0:00:04.56,Default,,0,0,0,,就是这样
-Dialogue: 0,0:00:07.36,0:00:08.52,Default,,0,0,0,,看 就是那个
+Dialogue: 0,0:00:07.36,0:00:08.52,Default,,0,0,0,,看 就是那里了
 Dialogue: 0,0:00:24.76,0:00:26.10,Default,,0,0,0,,——早上好\N早上好
 Dialogue: 0,0:00:29.66,0:00:30.98,Default,,0,0,0,,好了 我们到了
-Dialogue: 0,0:00:33.96,0:00:36.68,Default,,0,0,0,,这里就是月光馆学园 高中部
-Dialogue: 0,0:00:37.14,0:00:37.86,Default,,0,0,0,,请多多关照
+Dialogue: 0,0:00:33.96,0:00:36.68,Default,,0,0,0,,这里就是月光馆学园高中部
+Dialogue: 0,0:00:37.14,0:00:37.86,Default,,0,0,0,,请多多关照啦
