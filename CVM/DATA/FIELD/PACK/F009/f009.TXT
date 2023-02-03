@@ -9,7 +9,6 @@ f009.PTP	2	1	<SELECT>	カロリ‒ブレンド	；卡路里咖啡
 f009.PTP	2	2	<SELECT>	1UP	；匕喜
 f009.PTP	2	3	<SELECT>	买わない	；什么都不买
 f009.PTP	3	0	<SELECT>	古本屋で过ごす	；在古书店度过
-f009.PTP	3	0	<SELECT>	古本屋で过ごす	；在古书店度过
 f009.PTP	3	1	<SELECT>	コミュ属性を确认する	；确认社群属性
 f009.PTP	3	2	<SELECT>	やっぱりやめる	；还是算了
 f009.PTP	4	0	<SELECT>	大丈夫だ	；没问题
