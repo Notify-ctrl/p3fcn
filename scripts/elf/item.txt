@@ -316,7 +316,7 @@ target=祖母绿
 ------
 offset=0x4E35B8
 original=オニキス
-target=金丝玛瑙
+target=
 ------
 offset=0x4E35C8
 original=オパ‒ル

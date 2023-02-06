@@ -586,4 +586,3 @@ offset=0x6CDD28
 original=真の键
 target=真の键
 ------
-
