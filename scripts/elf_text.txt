@@ -172,15 +172,15 @@ target=倪克斯讨伐队
 ------
 offset=0x4E4A48
 original=メティス
-target=
+target=梅蒂斯
 ------
 offset=0x4E4A58
 original=岳羽ゆかり
-target=
+target=岳羽由加莉
 ------
 offset=0x4E4A68
 original=アイギス
-target=
+target=艾吉斯
 ------
 offset=0x4E4A78
 original=桐条美鹤
@@ -204,7 +204,7 @@ target=
 ------
 offset=0x4E4AC8
 original=コロマル
-target=
+target=虎狼丸
 ------
 offset=0x4E4AD8
 original=几月修司
@@ -212,7 +212,7 @@ target=
 ------
 offset=0x4E4AE8
 original=ファルロス
-target=
+target=法洛斯
 ------
 offset=0x4E4AF8
 original=望月绫时
@@ -240,11 +240,11 @@ target=
 ------
 offset=0x4E4B58
 original=西脇结子
-target=
+target=西胁结子
 ------
 offset=0x4E4B68
 original=陆上部员
-target=
+target=田径部员
 ------
 offset=0x4E4B78
 original=剑道部员
@@ -256,7 +256,7 @@ target=
 ------
 offset=0x4E4B98
 original=他校陆上选手
-target=
+target=他校田径选手
 ------
 offset=0x4E4BA8
 original=他校剑道选手
@@ -280,7 +280,7 @@ target=
 ------
 offset=0x4E4BF8
 original=写真部员
-target=
+target=摄影部员
 ------
 offset=0x4E4C08
 original=小田桐秀利
@@ -296,11 +296,11 @@ target=
 ------
 offset=0x4E4C38
 original=文吉爷さん
-target=
+target=文吉爷爷
 ------
 offset=0x4E4C48
 original=光子婆さん
-target=
+target=光子婆婆
 ------
 offset=0x4E4C58
 original=パンクス
@@ -308,7 +308,7 @@ target=
 ------
 offset=0x4E4C68
 original=たなか社长
-target=
+target=田中社长
 ------
 offset=0x4E4C78
 original=末光望美
@@ -320,7 +320,7 @@ target=
 ------
 offset=0x4E4C98
 original=鸟海先生
-target=
+target=鸟海老师
 ------
 offset=0x4E4CA8
 original=保健の先生
@@ -348,11 +348,11 @@ target=
 ------
 offset=0x4E4D28
 original=イゴ‒ル
-target=
+target=伊戈尔
 ------
 offset=0x4E4D38
 original=エリザベス
-target=
+target=伊丽莎白
 ------
 offset=0x57AD1A
 original=月光馆学园 校舍正门
@@ -360,7 +360,7 @@ target=
 ------
 offset=0x57AD34
 original=ポロニアンモ‒ル
-target=
+target=桐叶商店街
 ------
 offset=0x57AD4E
 original=辰巳ポ‒トアイランド駅前
@@ -368,7 +368,7 @@ target=
 ------
 offset=0x57AD68
 original=巌户台駅前商店街
-target=
+target=岩户台站前商店街
 ------
 offset=0x57AD82
 original=长鸣神社
@@ -376,7 +376,7 @@ target=
 ------
 offset=0x57AD9C
 original=1F ラウンジ
-target=
+target=1F 休息区
 ------
 offset=0x57ADB6
 original=ビ‒チ
@@ -412,11 +412,11 @@ target=
 ------
 offset=0x57AE86
 original=生徒会室
-target=
+target=学生会室
 ------
 offset=0x57AEA0
 original=职员室
-target=
+target=办公室
 ------
 offset=0x57AEBA
 original=保健室
@@ -452,11 +452,11 @@ target=
 ------
 offset=0x57AF8A
 original=男子トイレ
-target=
+target=男厕
 ------
 offset=0x57AFA4
 original=女子トイレ
-target=
+target=女厕
 ------
 offset=0x57AFBE
 original=放送室
@@ -476,7 +476,7 @@ target=
 ------
 offset=0x57B026
 original=ベルベットル‒ム
-target=
+target=天鹅绒房间
 ------
 offset=0x57B040
 original=クラブ エスカペイド
@@ -856,11 +856,11 @@ target=屋内プ‒ル
 ------
 offset=0x5A4F40
 original=ポロニアンモ‒ル
-target=ポロニアンモ‒ル
+target=桐叶商店街
 ------
 offset=0x5A4F60
 original=ベルベットル‒ム
-target=ベルベットル‒ム
+target=天鹅绒房间
 ------
 offset=0x5A4F80
 original=ビ‒·ブル‒·ヴィ‒
