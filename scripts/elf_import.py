@@ -3,6 +3,7 @@
 import codecs
 import struct
 import sys
+import re
 
 font_map_dict = {}
 font_map = open("P4.FNTMAP", "rb")
@@ -15,7 +16,7 @@ while True:
   i = i + 1
 
 def encode_char(c):
-  if ord(c) < 0x80:
+  if ord(c) < 0x80 or (ord(c) >= 0xF0 and ord(c) <= 0xFF):
     return struct.pack("B", ord(c))
   index = list(font_map_dict.keys())[list(font_map_dict.values()).index(c)]
   index = index - 32
@@ -78,19 +79,27 @@ def main():
     translate.readline()
     data = translate.readline()
     target = data[7:len(data)].rstrip()
-    target = target.replace(b'\\0', b'\0')
     target = target.decode()
+    target = target.replace('\\0', '\n')
+    ctrls = re.findall('\{[0-9A-F]{2,4}\}', target)
+    for s in ctrls:
+      ctrlbyte = bytes.fromhex(s[1:len(s)-1])
+      target = target.replace(s, ctrlbyte.decode('iso 8859-9'))
     translate.readline()
     if target=="":
       continue
+    print('%x, %s' % (offset, target))
     elf_file.seek(offset)
     length = getStrLen(elf_file)
-    print('%x, %s' % (offset, target))
+
     buf_target = b''
     for c in target:
       buf_target += encode_char(c)
+
     if len(buf_target) > length:
-      return ValueError("超过长度（最大%d字节）：%s" % (length, target))
+      print(buf_target)
+      print("超过长度（最大%d字节）：%s" % (length, target))
+      return
     else:
       elf_file.seek(offset)
       elf_file.write(buf_target)
@@ -98,4 +107,4 @@ def main():
 
 
 if __name__ == "__main__":
-  main()
+    main()

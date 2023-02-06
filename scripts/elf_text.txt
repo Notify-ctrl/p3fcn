@@ -1,11 +1,3 @@
-offset=0x4D880C
-original=はい
-target=是
-------
-offset=0x4D8817
-original=いいえ
-target=否
-------
 offset=0x4D8A80
 original=今ひとつ
 target=
@@ -1361,10 +1353,6 @@ target=诺伦
 offset=0x6CF6F0
 original=シュウ
 target=蚩尤
-------
-offset=0x6CF718
-original=毒
-target=毒
 ------
 offset=0x6CF780
 original=受胎
