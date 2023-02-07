@@ -1126,10 +1126,6 @@ offset=0x6CF4D8
 original=管弦乐
 target=管弦乐
 ------
-offset=0x6CF500
-original=毒
-target=毒
-------
 offset=0x6CF538
 original=部活
 target=部活

@@ -1,4 +1,4 @@
-#!python
+#!/bin/python
 
 import codecs
 import struct
