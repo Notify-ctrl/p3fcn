@@ -1,0 +1,1856 @@
+offset=0x57CB9A
+original=1F エントランス
+target=1F 入口
+------
+offset=0x57CBB4
+original=2F 世俗之庭特贝尔
+target=2F 世俗之庭特贝尔
+------
+offset=0x57CBCE
+original=3F 世俗之庭特贝尔
+target=3F 世俗之庭特贝尔
+------
+offset=0x57CBE8
+original=4F 世俗之庭特贝尔
+target=4F 世俗之庭特贝尔
+------
+offset=0x57CC02
+original=5F 世俗之庭特贝尔
+target=5F 世俗之庭特贝尔
+------
+offset=0x57CC1C
+original=6F 世俗之庭特贝尔
+target=6F 世俗之庭特贝尔
+------
+offset=0x57CC36
+original=7F 世俗之庭特贝尔
+target=7F 世俗之庭特贝尔
+------
+offset=0x57CC50
+original=8F 世俗之庭特贝尔
+target=8F 世俗之庭特贝尔
+------
+offset=0x57CC6A
+original=9F 世俗之庭特贝尔
+target=9F 世俗之庭特贝尔
+------
+offset=0x57CC84
+original=10F 世俗之庭特贝尔
+target=10F 世俗之庭特贝尔
+------
+offset=0x57CC9E
+original=11F 世俗之庭特贝尔
+target=11F 世俗之庭特贝尔
+------
+offset=0x57CCB8
+original=12F 世俗之庭特贝尔
+target=12F 世俗之庭特贝尔
+------
+offset=0x57CCD2
+original=13F 世俗之庭特贝尔
+target=13F 世俗之庭特贝尔
+------
+offset=0x57CCEC
+original=14F 世俗之庭特贝尔
+target=14F 世俗之庭特贝尔
+------
+offset=0x57CD06
+original=15F 世俗之庭特贝尔
+target=15F 世俗之庭特贝尔
+------
+offset=0x57CD20
+original=16F 世俗之庭特贝尔
+target=16F 世俗之庭特贝尔
+------
+offset=0x57CD3A
+original=17F 奇颜之庭阿尔卡
+target=17F 奇颜之庭阿尔卡
+------
+offset=0x57CD54
+original=18F 奇颜之庭阿尔卡
+target=18F 奇颜之庭阿尔卡
+------
+offset=0x57CD6E
+original=19F 奇颜之庭阿尔卡
+target=19F 奇颜之庭阿尔卡
+------
+offset=0x57CD88
+original=20F 奇颜之庭阿尔卡
+target=20F 奇颜之庭阿尔卡
+------
+offset=0x57CDA2
+original=21F 奇颜之庭阿尔卡
+target=21F 奇颜之庭阿尔卡
+------
+offset=0x57CDBC
+original=22F 奇颜之庭阿尔卡
+target=22F 奇颜之庭阿尔卡
+------
+offset=0x57CDD6
+original=23F 奇颜之庭阿尔卡
+target=23F 奇颜之庭阿尔卡
+------
+offset=0x57CDF0
+original=24F 奇颜之庭阿尔卡
+target=24F 奇颜之庭阿尔卡
+------
+offset=0x57CE0A
+original=25F 奇颜之庭阿尔卡
+target=25F 奇颜之庭阿尔卡
+------
+offset=0x57CE24
+original=26F 奇颜之庭阿尔卡
+target=26F 奇颜之庭阿尔卡
+------
+offset=0x57CE3E
+original=27F 奇颜之庭阿尔卡
+target=27F 奇颜之庭阿尔卡
+------
+offset=0x57CE58
+original=28F 奇颜之庭阿尔卡
+target=28F 奇颜之庭阿尔卡
+------
+offset=0x57CE72
+original=29F 奇颜之庭阿尔卡
+target=29F 奇颜之庭阿尔卡
+------
+offset=0x57CE8C
+original=30F 奇颜之庭阿尔卡
+target=30F 奇颜之庭阿尔卡
+------
+offset=0x57CEA6
+original=31F 奇颜之庭阿尔卡
+target=31F 奇颜之庭阿尔卡
+------
+offset=0x57CEC0
+original=32F 奇颜之庭阿尔卡
+target=32F 奇颜之庭阿尔卡
+------
+offset=0x57CEDA
+original=33F 奇颜之庭阿尔卡
+target=33F 奇颜之庭阿尔卡
+------
+offset=0x57CEF4
+original=34F 奇颜之庭阿尔卡
+target=34F 奇颜之庭阿尔卡
+------
+offset=0x57CF0E
+original=35F 奇颜之庭阿尔卡
+target=35F 奇颜之庭阿尔卡
+------
+offset=0x57CF28
+original=36F 奇颜之庭阿尔卡
+target=36F 奇颜之庭阿尔卡
+------
+offset=0x57CF42
+original=37F 奇颜之庭阿尔卡
+target=37F 奇颜之庭阿尔卡
+------
+offset=0x57CF5C
+original=38F 奇颜之庭阿尔卡
+target=38F 奇颜之庭阿尔卡
+------
+offset=0x57CF76
+original=39F 奇颜之庭阿尔卡
+target=39F 奇颜之庭阿尔卡
+------
+offset=0x57CF90
+original=40F 奇颜之庭阿尔卡
+target=40F 奇颜之庭阿尔卡
+------
+offset=0x57CFAA
+original=41F 奇颜之庭阿尔卡
+target=41F 奇颜之庭阿尔卡
+------
+offset=0x57CFC4
+original=42F 奇颜之庭阿尔卡
+target=42F 奇颜之庭阿尔卡
+------
+offset=0x57CFDE
+original=43F 奇颜之庭阿尔卡
+target=43F 奇颜之庭阿尔卡
+------
+offset=0x57CFF8
+original=44F 奇颜之庭阿尔卡
+target=44F 奇颜之庭阿尔卡
+------
+offset=0x57D012
+original=45F 奇颜之庭阿尔卡
+target=45F 奇颜之庭阿尔卡
+------
+offset=0x57D02C
+original=46F 奇颜之庭阿尔卡
+target=46F 奇颜之庭阿尔卡
+------
+offset=0x57D046
+original=47F 奇颜之庭阿尔卡
+target=47F 奇颜之庭阿尔卡
+------
+offset=0x57D060
+original=48F 奇颜之庭阿尔卡
+target=48F 奇颜之庭阿尔卡
+------
+offset=0x57D07A
+original=49F 奇颜之庭阿尔卡
+target=49F 奇颜之庭阿尔卡
+------
+offset=0x57D094
+original=50F 奇颜之庭阿尔卡
+target=50F 奇颜之庭阿尔卡
+------
+offset=0x57D0AE
+original=51F 奇颜之庭阿尔卡
+target=51F 奇颜之庭阿尔卡
+------
+offset=0x57D0C8
+original=52F 奇颜之庭阿尔卡
+target=52F 奇颜之庭阿尔卡
+------
+offset=0x57D0E2
+original=53F 奇颜之庭阿尔卡
+target=53F 奇颜之庭阿尔卡
+------
+offset=0x57D0FC
+original=54F 奇颜之庭阿尔卡
+target=54F 奇颜之庭阿尔卡
+------
+offset=0x57D116
+original=55F 奇颜之庭阿尔卡
+target=55F 奇颜之庭阿尔卡
+------
+offset=0x57D130
+original=56F 奇颜之庭阿尔卡
+target=56F 奇颜之庭阿尔卡
+------
+offset=0x57D14A
+original=57F 奇颜之庭阿尔卡
+target=57F 奇颜之庭阿尔卡
+------
+offset=0x57D164
+original=58F 奇颜之庭阿尔卡
+target=58F 奇颜之庭阿尔卡
+------
+offset=0x57D17E
+original=59F 奇颜之庭阿尔卡
+target=59F 奇颜之庭阿尔卡
+------
+offset=0x57D198
+original=60F 奇颜之庭阿尔卡
+target=60F 奇颜之庭阿尔卡
+------
+offset=0x57D1B2
+original=61F 奇颜之庭阿尔卡
+target=61F 奇颜之庭阿尔卡
+------
+offset=0x57D1CC
+original=62F 奇颜之庭阿尔卡
+target=62F 奇颜之庭阿尔卡
+------
+offset=0x57D1E6
+original=63F 奇颜之庭阿尔卡
+target=63F 奇颜之庭阿尔卡
+------
+offset=0x57D200
+original=64F 奇颜之庭阿尔卡
+target=64F 奇颜之庭阿尔卡
+------
+offset=0x57D21A
+original=65F 无骨之庭亚巴扎
+target=65F 无骨之庭亚巴扎
+------
+offset=0x57D234
+original=66F 无骨之庭亚巴扎
+target=66F 无骨之庭亚巴扎
+------
+offset=0x57D24E
+original=67F 无骨之庭亚巴扎
+target=67F 无骨之庭亚巴扎
+------
+offset=0x57D268
+original=68F 无骨之庭亚巴扎
+target=68F 无骨之庭亚巴扎
+------
+offset=0x57D282
+original=69F 无骨之庭亚巴扎
+target=69F 无骨之庭亚巴扎
+------
+offset=0x57D29C
+original=70F 无骨之庭亚巴扎
+target=70F 无骨之庭亚巴扎
+------
+offset=0x57D2B6
+original=71F 无骨之庭亚巴扎
+target=71F 无骨之庭亚巴扎
+------
+offset=0x57D2D0
+original=72F 无骨之庭亚巴扎
+target=72F 无骨之庭亚巴扎
+------
+offset=0x57D2EA
+original=73F 无骨之庭亚巴扎
+target=73F 无骨之庭亚巴扎
+------
+offset=0x57D304
+original=74F 无骨之庭亚巴扎
+target=74F 无骨之庭亚巴扎
+------
+offset=0x57D31E
+original=75F 无骨之庭亚巴扎
+target=75F 无骨之庭亚巴扎
+------
+offset=0x57D338
+original=76F 无骨之庭亚巴扎
+target=76F 无骨之庭亚巴扎
+------
+offset=0x57D352
+original=77F 无骨之庭亚巴扎
+target=77F 无骨之庭亚巴扎
+------
+offset=0x57D36C
+original=78F 无骨之庭亚巴扎
+target=78F 无骨之庭亚巴扎
+------
+offset=0x57D386
+original=79F 无骨之庭亚巴扎
+target=79F 无骨之庭亚巴扎
+------
+offset=0x57D3A0
+original=80F 无骨之庭亚巴扎
+target=80F 无骨之庭亚巴扎
+------
+offset=0x57D3BA
+original=81F 无骨之庭亚巴扎
+target=81F 无骨之庭亚巴扎
+------
+offset=0x57D3D4
+original=82F 无骨之庭亚巴扎
+target=82F 无骨之庭亚巴扎
+------
+offset=0x57D3EE
+original=83F 无骨之庭亚巴扎
+target=83F 无骨之庭亚巴扎
+------
+offset=0x57D408
+original=84F 无骨之庭亚巴扎
+target=84F 无骨之庭亚巴扎
+------
+offset=0x57D422
+original=85F 无骨之庭亚巴扎
+target=85F 无骨之庭亚巴扎
+------
+offset=0x57D43C
+original=86F 无骨之庭亚巴扎
+target=86F 无骨之庭亚巴扎
+------
+offset=0x57D456
+original=87F 无骨之庭亚巴扎
+target=87F 无骨之庭亚巴扎
+------
+offset=0x57D470
+original=88F 无骨之庭亚巴扎
+target=88F 无骨之庭亚巴扎
+------
+offset=0x57D48A
+original=89F 无骨之庭亚巴扎
+target=89F 无骨之庭亚巴扎
+------
+offset=0x57D4A4
+original=90F 无骨之庭亚巴扎
+target=90F 无骨之庭亚巴扎
+------
+offset=0x57D4BE
+original=91F 无骨之庭亚巴扎
+target=91F 无骨之庭亚巴扎
+------
+offset=0x57D4D8
+original=92F 无骨之庭亚巴扎
+target=92F 无骨之庭亚巴扎
+------
+offset=0x57D4F2
+original=93F 无骨之庭亚巴扎
+target=93F 无骨之庭亚巴扎
+------
+offset=0x57D50C
+original=94F 无骨之庭亚巴扎
+target=94F 无骨之庭亚巴扎
+------
+offset=0x57D526
+original=95F 无骨之庭亚巴扎
+target=95F 无骨之庭亚巴扎
+------
+offset=0x57D540
+original=96F 无骨之庭亚巴扎
+target=96F 无骨之庭亚巴扎
+------
+offset=0x57D55A
+original=97F 无骨之庭亚巴扎
+target=97F 无骨之庭亚巴扎
+------
+offset=0x57D574
+original=98F 无骨之庭亚巴扎
+target=98F 无骨之庭亚巴扎
+------
+offset=0x57D58E
+original=99F 无骨之庭亚巴扎
+target=99F 无骨之庭亚巴扎
+------
+offset=0x57D5A8
+original=100F 无骨之庭亚巴扎
+target=100F 无骨之庭亚巴扎
+------
+offset=0x57D5C2
+original=101F 无骨之庭亚巴扎
+target=101F 无骨之庭亚巴扎
+------
+offset=0x57D5DC
+original=102F 无骨之庭亚巴扎
+target=102F 无骨之庭亚巴扎
+------
+offset=0x57D5F6
+original=103F 无骨之庭亚巴扎
+target=103F 无骨之庭亚巴扎
+------
+offset=0x57D610
+original=104F 无骨之庭亚巴扎
+target=104F 无骨之庭亚巴扎
+------
+offset=0x57D62A
+original=105F 无骨之庭亚巴扎
+target=105F 无骨之庭亚巴扎
+------
+offset=0x57D644
+original=106F 无骨之庭亚巴扎
+target=106F 无骨之庭亚巴扎
+------
+offset=0x57D65E
+original=107F 无骨之庭亚巴扎
+target=107F 无骨之庭亚巴扎
+------
+offset=0x57D678
+original=108F 无骨之庭亚巴扎
+target=108F 无骨之庭亚巴扎
+------
+offset=0x57D692
+original=109F 无骨之庭亚巴扎
+target=109F 无骨之庭亚巴扎
+------
+offset=0x57D6AC
+original=110F 无骨之庭亚巴扎
+target=110F 无骨之庭亚巴扎
+------
+offset=0x57D6C6
+original=111F 无骨之庭亚巴扎
+target=111F 无骨之庭亚巴扎
+------
+offset=0x57D6E0
+original=112F 无骨之庭亚巴扎
+target=112F 无骨之庭亚巴扎
+------
+offset=0x57D6FA
+original=113F 无骨之庭亚巴扎
+target=113F 无骨之庭亚巴扎
+------
+offset=0x57D714
+original=114F 无骨之庭亚巴扎
+target=114F 无骨之庭亚巴扎
+------
+offset=0x57D72E
+original=115F 豪奢之庭崔亚
+target=115F 豪奢之庭崔亚
+------
+offset=0x57D748
+original=116F 豪奢之庭崔亚
+target=116F 豪奢之庭崔亚
+------
+offset=0x57D762
+original=117F 豪奢之庭崔亚
+target=117F 豪奢之庭崔亚
+------
+offset=0x57D77C
+original=118F 豪奢之庭崔亚
+target=118F 豪奢之庭崔亚
+------
+offset=0x57D796
+original=119F 豪奢之庭崔亚
+target=119F 豪奢之庭崔亚
+------
+offset=0x57D7B0
+original=120F 豪奢之庭崔亚
+target=120F 豪奢之庭崔亚
+------
+offset=0x57D7CA
+original=121F 豪奢之庭崔亚
+target=121F 豪奢之庭崔亚
+------
+offset=0x57D7E4
+original=122F 豪奢之庭崔亚
+target=122F 豪奢之庭崔亚
+------
+offset=0x57D7FE
+original=123F 豪奢之庭崔亚
+target=123F 豪奢之庭崔亚
+------
+offset=0x57D818
+original=124F 豪奢之庭崔亚
+target=124F 豪奢之庭崔亚
+------
+offset=0x57D832
+original=125F 豪奢之庭崔亚
+target=125F 豪奢之庭崔亚
+------
+offset=0x57D84C
+original=126F 豪奢之庭崔亚
+target=126F 豪奢之庭崔亚
+------
+offset=0x57D866
+original=127F 豪奢之庭崔亚
+target=127F 豪奢之庭崔亚
+------
+offset=0x57D880
+original=128F 豪奢之庭崔亚
+target=128F 豪奢之庭崔亚
+------
+offset=0x57D89A
+original=129F 豪奢之庭崔亚
+target=129F 豪奢之庭崔亚
+------
+offset=0x57D8B4
+original=130F 豪奢之庭崔亚
+target=130F 豪奢之庭崔亚
+------
+offset=0x57D8CE
+original=131F 豪奢之庭崔亚
+target=131F 豪奢之庭崔亚
+------
+offset=0x57D8E8
+original=132F 豪奢之庭崔亚
+target=132F 豪奢之庭崔亚
+------
+offset=0x57D902
+original=133F 豪奢之庭崔亚
+target=133F 豪奢之庭崔亚
+------
+offset=0x57D91C
+original=134F 豪奢之庭崔亚
+target=134F 豪奢之庭崔亚
+------
+offset=0x57D936
+original=135F 豪奢之庭崔亚
+target=135F 豪奢之庭崔亚
+------
+offset=0x57D950
+original=136F 豪奢之庭崔亚
+target=136F 豪奢之庭崔亚
+------
+offset=0x57D96A
+original=137F 豪奢之庭崔亚
+target=137F 豪奢之庭崔亚
+------
+offset=0x57D984
+original=138F 豪奢之庭崔亚
+target=138F 豪奢之庭崔亚
+------
+offset=0x57D99E
+original=139F 豪奢之庭崔亚
+target=139F 豪奢之庭崔亚
+------
+offset=0x57D9B8
+original=140F 豪奢之庭崔亚
+target=140F 豪奢之庭崔亚
+------
+offset=0x57D9D2
+original=141F 豪奢之庭崔亚
+target=141F 豪奢之庭崔亚
+------
+offset=0x57D9EC
+original=142F 豪奢之庭崔亚
+target=142F 豪奢之庭崔亚
+------
+offset=0x57DA06
+original=143F 豪奢之庭崔亚
+target=143F 豪奢之庭崔亚
+------
+offset=0x57DA20
+original=144F 豪奢之庭崔亚
+target=144F 豪奢之庭崔亚
+------
+offset=0x57DA3A
+original=145F 豪奢之庭崔亚
+target=145F 豪奢之庭崔亚
+------
+offset=0x57DA54
+original=146F 豪奢之庭崔亚
+target=146F 豪奢之庭崔亚
+------
+offset=0x57DA6E
+original=147F 豪奢之庭崔亚
+target=147F 豪奢之庭崔亚
+------
+offset=0x57DA88
+original=148F 豪奢之庭崔亚
+target=148F 豪奢之庭崔亚
+------
+offset=0x57DAA2
+original=149F 豪奢之庭崔亚
+target=149F 豪奢之庭崔亚
+------
+offset=0x57DABC
+original=150F 豪奢之庭崔亚
+target=150F 豪奢之庭崔亚
+------
+offset=0x57DAD6
+original=151F 豪奢之庭崔亚
+target=151F 豪奢之庭崔亚
+------
+offset=0x57DAF0
+original=152F 豪奢之庭崔亚
+target=152F 豪奢之庭崔亚
+------
+offset=0x57DB0A
+original=153F 豪奢之庭崔亚
+target=153F 豪奢之庭崔亚
+------
+offset=0x57DB24
+original=154F 豪奢之庭崔亚
+target=154F 豪奢之庭崔亚
+------
+offset=0x57DB3E
+original=155F 豪奢之庭崔亚
+target=155F 豪奢之庭崔亚
+------
+offset=0x57DB58
+original=156F 豪奢之庭崔亚
+target=156F 豪奢之庭崔亚
+------
+offset=0x57DB72
+original=157F 豪奢之庭崔亚
+target=157F 豪奢之庭崔亚
+------
+offset=0x57DB8C
+original=158F 豪奢之庭崔亚
+target=158F 豪奢之庭崔亚
+------
+offset=0x57DBA6
+original=159F 豪奢之庭崔亚
+target=159F 豪奢之庭崔亚
+------
+offset=0x57DBC0
+original=160F 豪奢之庭崔亚
+target=160F 豪奢之庭崔亚
+------
+offset=0x57DBDA
+original=161F 豪奢之庭崔亚
+target=161F 豪奢之庭崔亚
+------
+offset=0x57DBF4
+original=162F 豪奢之庭崔亚
+target=162F 豪奢之庭崔亚
+------
+offset=0x57DC0E
+original=163F 豪奢之庭崔亚
+target=163F 豪奢之庭崔亚
+------
+offset=0x57DC28
+original=164F 豪奢之庭崔亚
+target=164F 豪奢之庭崔亚
+------
+offset=0x57DC42
+original=165F 焦炎之庭哈拉巴
+target=165F 焦炎之庭哈拉巴
+------
+offset=0x57DC5C
+original=166F 焦炎之庭哈拉巴
+target=166F 焦炎之庭哈拉巴
+------
+offset=0x57DC76
+original=167F 焦炎之庭哈拉巴
+target=167F 焦炎之庭哈拉巴
+------
+offset=0x57DC90
+original=168F 焦炎之庭哈拉巴
+target=168F 焦炎之庭哈拉巴
+------
+offset=0x57DCAA
+original=169F 焦炎之庭哈拉巴
+target=169F 焦炎之庭哈拉巴
+------
+offset=0x57DCC4
+original=170F 焦炎之庭哈拉巴
+target=170F 焦炎之庭哈拉巴
+------
+offset=0x57DCDE
+original=171F 焦炎之庭哈拉巴
+target=171F 焦炎之庭哈拉巴
+------
+offset=0x57DCF8
+original=172F 焦炎之庭哈拉巴
+target=172F 焦炎之庭哈拉巴
+------
+offset=0x57DD12
+original=173F 焦炎之庭哈拉巴
+target=173F 焦炎之庭哈拉巴
+------
+offset=0x57DD2C
+original=174F 焦炎之庭哈拉巴
+target=174F 焦炎之庭哈拉巴
+------
+offset=0x57DD46
+original=175F 焦炎之庭哈拉巴
+target=175F 焦炎之庭哈拉巴
+------
+offset=0x57DD60
+original=176F 焦炎之庭哈拉巴
+target=176F 焦炎之庭哈拉巴
+------
+offset=0x57DD7A
+original=177F 焦炎之庭哈拉巴
+target=177F 焦炎之庭哈拉巴
+------
+offset=0x57DD94
+original=178F 焦炎之庭哈拉巴
+target=178F 焦炎之庭哈拉巴
+------
+offset=0x57DDAE
+original=179F 焦炎之庭哈拉巴
+target=179F 焦炎之庭哈拉巴
+------
+offset=0x57DDC8
+original=180F 焦炎之庭哈拉巴
+target=180F 焦炎之庭哈拉巴
+------
+offset=0x57DDE2
+original=181F 焦炎之庭哈拉巴
+target=181F 焦炎之庭哈拉巴
+------
+offset=0x57DDFC
+original=182F 焦炎之庭哈拉巴
+target=182F 焦炎之庭哈拉巴
+------
+offset=0x57DE16
+original=183F 焦炎之庭哈拉巴
+target=183F 焦炎之庭哈拉巴
+------
+offset=0x57DE30
+original=184F 焦炎之庭哈拉巴
+target=184F 焦炎之庭哈拉巴
+------
+offset=0x57DE4A
+original=185F 焦炎之庭哈拉巴
+target=185F 焦炎之庭哈拉巴
+------
+offset=0x57DE64
+original=186F 焦炎之庭哈拉巴
+target=186F 焦炎之庭哈拉巴
+------
+offset=0x57DE7E
+original=187F 焦炎之庭哈拉巴
+target=187F 焦炎之庭哈拉巴
+------
+offset=0x57DE98
+original=188F 焦炎之庭哈拉巴
+target=188F 焦炎之庭哈拉巴
+------
+offset=0x57DEB2
+original=189F 焦炎之庭哈拉巴
+target=189F 焦炎之庭哈拉巴
+------
+offset=0x57DECC
+original=190F 焦炎之庭哈拉巴
+target=190F 焦炎之庭哈拉巴
+------
+offset=0x57DEE6
+original=191F 焦炎之庭哈拉巴
+target=191F 焦炎之庭哈拉巴
+------
+offset=0x57DF00
+original=192F 焦炎之庭哈拉巴
+target=192F 焦炎之庭哈拉巴
+------
+offset=0x57DF1A
+original=193F 焦炎之庭哈拉巴
+target=193F 焦炎之庭哈拉巴
+------
+offset=0x57DF34
+original=194F 焦炎之庭哈拉巴
+target=194F 焦炎之庭哈拉巴
+------
+offset=0x57DF4E
+original=195F 焦炎之庭哈拉巴
+target=195F 焦炎之庭哈拉巴
+------
+offset=0x57DF68
+original=196F 焦炎之庭哈拉巴
+target=196F 焦炎之庭哈拉巴
+------
+offset=0x57DF82
+original=197F 焦炎之庭哈拉巴
+target=197F 焦炎之庭哈拉巴
+------
+offset=0x57DF9C
+original=198F 焦炎之庭哈拉巴
+target=198F 焦炎之庭哈拉巴
+------
+offset=0x57DFB6
+original=199F 焦炎之庭哈拉巴
+target=199F 焦炎之庭哈拉巴
+------
+offset=0x57DFD0
+original=200F 焦炎之庭哈拉巴
+target=200F 焦炎之庭哈拉巴
+------
+offset=0x57DFEA
+original=201F 焦炎之庭哈拉巴
+target=201F 焦炎之庭哈拉巴
+------
+offset=0x57E004
+original=202F 焦炎之庭哈拉巴
+target=202F 焦炎之庭哈拉巴
+------
+offset=0x57E01E
+original=203F 焦炎之庭哈拉巴
+target=203F 焦炎之庭哈拉巴
+------
+offset=0x57E038
+original=204F 焦炎之庭哈拉巴
+target=204F 焦炎之庭哈拉巴
+------
+offset=0x57E052
+original=205F 焦炎之庭哈拉巴
+target=205F 焦炎之庭哈拉巴
+------
+offset=0x57E06C
+original=206F 焦炎之庭哈拉巴
+target=206F 焦炎之庭哈拉巴
+------
+offset=0x57E086
+original=207F 焦炎之庭哈拉巴
+target=207F 焦炎之庭哈拉巴
+------
+offset=0x57E0A0
+original=208F 焦炎之庭哈拉巴
+target=208F 焦炎之庭哈拉巴
+------
+offset=0x57E0BA
+original=209F 焦炎之庭哈拉巴
+target=209F 焦炎之庭哈拉巴
+------
+offset=0x57E0D4
+original=210F 焦炎之庭哈拉巴
+target=210F 焦炎之庭哈拉巴
+------
+offset=0x57E0EE
+original=211F 焦炎之庭哈拉巴
+target=211F 焦炎之庭哈拉巴
+------
+offset=0x57E108
+original=212F 焦炎之庭哈拉巴
+target=212F 焦炎之庭哈拉巴
+------
+offset=0x57E122
+original=213F 焦炎之庭哈拉巴
+target=213F 焦炎之庭哈拉巴
+------
+offset=0x57E13C
+original=214F 焦炎之庭哈拉巴
+target=214F 焦炎之庭哈拉巴
+------
+offset=0x57E156
+original=215F 忧郁之庭阿达玛
+target=215F 忧郁之庭阿达玛
+------
+offset=0x57E170
+original=216F 忧郁之庭阿达玛
+target=216F 忧郁之庭阿达玛
+------
+offset=0x57E18A
+original=217F 忧郁之庭阿达玛
+target=217F 忧郁之庭阿达玛
+------
+offset=0x57E1A4
+original=218F 忧郁之庭阿达玛
+target=218F 忧郁之庭阿达玛
+------
+offset=0x57E1BE
+original=219F 忧郁之庭阿达玛
+target=219F 忧郁之庭阿达玛
+------
+offset=0x57E1D8
+original=220F 忧郁之庭阿达玛
+target=220F 忧郁之庭阿达玛
+------
+offset=0x57E1F2
+original=221F 忧郁之庭阿达玛
+target=221F 忧郁之庭阿达玛
+------
+offset=0x57E20C
+original=222F 忧郁之庭阿达玛
+target=222F 忧郁之庭阿达玛
+------
+offset=0x57E226
+original=223F 忧郁之庭阿达玛
+target=223F 忧郁之庭阿达玛
+------
+offset=0x57E240
+original=224F 忧郁之庭阿达玛
+target=224F 忧郁之庭阿达玛
+------
+offset=0x57E25A
+original=225F 忧郁之庭阿达玛
+target=225F 忧郁之庭阿达玛
+------
+offset=0x57E274
+original=226F 忧郁之庭阿达玛
+target=226F 忧郁之庭阿达玛
+------
+offset=0x57E28E
+original=227F 忧郁之庭阿达玛
+target=227F 忧郁之庭阿达玛
+------
+offset=0x57E2A8
+original=228F 忧郁之庭阿达玛
+target=228F 忧郁之庭阿达玛
+------
+offset=0x57E2C2
+original=229F 忧郁之庭阿达玛
+target=229F 忧郁之庭阿达玛
+------
+offset=0x57E2DC
+original=230F 忧郁之庭阿达玛
+target=230F 忧郁之庭阿达玛
+------
+offset=0x57E2F6
+original=231F 忧郁之庭阿达玛
+target=231F 忧郁之庭阿达玛
+------
+offset=0x57E310
+original=232F 忧郁之庭阿达玛
+target=232F 忧郁之庭阿达玛
+------
+offset=0x57E32A
+original=233F 忧郁之庭阿达玛
+target=233F 忧郁之庭阿达玛
+------
+offset=0x57E344
+original=234F 忧郁之庭阿达玛
+target=234F 忧郁之庭阿达玛
+------
+offset=0x57E35E
+original=235F 忧郁之庭阿达玛
+target=235F 忧郁之庭阿达玛
+------
+offset=0x57E378
+original=236F 忧郁之庭阿达玛
+target=236F 忧郁之庭阿达玛
+------
+offset=0x57E392
+original=237F 忧郁之庭阿达玛
+target=237F 忧郁之庭阿达玛
+------
+offset=0x57E3AC
+original=238F 忧郁之庭阿达玛
+target=238F 忧郁之庭阿达玛
+------
+offset=0x57E3C6
+original=239F 忧郁之庭阿达玛
+target=239F 忧郁之庭阿达玛
+------
+offset=0x57E3E0
+original=240F 忧郁之庭阿达玛
+target=240F 忧郁之庭阿达玛
+------
+offset=0x57E3FA
+original=241F 忧郁之庭阿达玛
+target=241F 忧郁之庭阿达玛
+------
+offset=0x57E414
+original=242F 忧郁之庭阿达玛
+target=242F 忧郁之庭阿达玛
+------
+offset=0x57E42E
+original=243F 忧郁之庭阿达玛
+target=243F 忧郁之庭阿达玛
+------
+offset=0x57E448
+original=244F 忧郁之庭阿达玛
+target=244F 忧郁之庭阿达玛
+------
+offset=0x57E462
+original=245F 忧郁之庭阿达玛
+target=245F 忧郁之庭阿达玛
+------
+offset=0x57E47C
+original=246F 忧郁之庭阿达玛
+target=246F 忧郁之庭阿达玛
+------
+offset=0x57E496
+original=247F 忧郁之庭阿达玛
+target=247F 忧郁之庭阿达玛
+------
+offset=0x57E4B0
+original=248F 忧郁之庭阿达玛
+target=248F 忧郁之庭阿达玛
+------
+offset=0x57E4CA
+original=249F 忧郁之庭阿达玛
+target=249F 忧郁之庭阿达玛
+------
+offset=0x57E4E4
+original=250F 忧郁之庭阿达玛
+target=250F 忧郁之庭阿达玛
+------
+offset=0x57E4FE
+original=251F 忧郁之庭阿达玛
+target=251F 忧郁之庭阿达玛
+------
+offset=0x57E518
+original=252F 忧郁之庭阿达玛
+target=252F 忧郁之庭阿达玛
+------
+offset=0x57E532
+original=253F 忧郁之庭阿达玛
+target=253F 忧郁之庭阿达玛
+------
+offset=0x57E54C
+original=254F 忧郁之庭阿达玛
+target=254F 忧郁之庭阿达玛
+------
+offset=0x57E566
+original=255F 忧郁之庭阿达玛
+target=255F 忧郁之庭阿达玛
+------
+offset=0x57E580
+original=256F 忧郁之庭阿达玛
+target=256F 忧郁之庭阿达玛
+------
+offset=0x57E59A
+original=257F 忧郁之庭阿达玛
+target=257F 忧郁之庭阿达玛
+------
+offset=0x57E5B4
+original=258F 忧郁之庭阿达玛
+target=258F 忧郁之庭阿达玛
+------
+offset=0x57E5CE
+original=259F 忧郁之庭阿达玛
+target=259F 忧郁之庭阿达玛
+------
+offset=0x57E5E8
+original=260F 忧郁之庭阿达玛
+target=260F 忧郁之庭阿达玛
+------
+offset=0x57E602
+original=261F 忧郁之庭阿达玛
+target=261F 忧郁之庭阿达玛
+------
+offset=0x57E61C
+original=262F 忧郁之庭阿达玛
+target=262F 忧郁之庭阿达玛
+------
+offset=0x57E636
+original=263F 忧郁之庭阿达玛
+target=263F 忧郁之庭阿达玛
+-----
+offset=0x57E8F4
+original=深层 莫纳多 1F
+target=深层 莫纳多 1F
+------
+offset=0x57E90E
+original=深层 莫纳多 2F
+target=深层 莫纳多 2F
+------
+offset=0x57E928
+original=深层 莫纳多 3F
+target=深层 莫纳多 3F
+------
+offset=0x57E942
+original=深层 莫纳多 4F
+target=深层 莫纳多 4F
+------
+offset=0x57E95C
+original=深层 莫纳多 5F
+target=深层 莫纳多 5F
+------
+offset=0x57E976
+original=深层 莫纳多 6F
+target=深层 莫纳多 6F
+------
+offset=0x57E990
+original=深层 莫纳多 7F
+target=深层 莫纳多 7F
+------
+offset=0x57E9AA
+original=深层 莫纳多 8F
+target=深层 莫纳多 8F
+------
+offset=0x57E9C4
+original=深层 莫纳多 9F
+target=深层 莫纳多 9F
+------
+offset=0x57E9DE
+original=深层 莫纳多 10F
+target=深层 莫纳多 10F
+------
+offset=0x57EA00
+original=NULL
+target=NULL
+------
+offset=0x57EA1A
+original=时の狭间 扉の间
+target=时の狭间 扉の间
+------
+offset=0x57EA34
+original=古之路罪恶之囊 B1
+target=古之路罪恶之囊 B1
+------
+offset=0x57EA4E
+original=古之路罪恶之囊 B2
+target=古之路罪恶之囊 B2
+------
+offset=0x57EA68
+original=古之路罪恶之囊 B3
+target=古之路罪恶之囊 B3
+------
+offset=0x57EA82
+original=古之路罪恶之囊 B4
+target=古之路罪恶之囊 B4
+------
+offset=0x57EA9C
+original=古之路罪恶之囊 B5
+target=古之路罪恶之囊 B5
+------
+offset=0x57EAB6
+original=古之路罪恶之囊 B6
+target=古之路罪恶之囊 B6
+------
+offset=0x57EAD0
+original=古之路罪恶之囊 B7
+target=古之路罪恶之囊 B7
+------
+offset=0x57EAEA
+original=古之路罪恶之囊 B8
+target=古之路罪恶之囊 B8
+------
+offset=0x57EB04
+original=古之路罪恶之囊 B9
+target=古之路罪恶之囊 B9
+------
+offset=0x57EB1E
+original=古之路罪恶之囊 B10
+target=古之路罪恶之囊 B10
+------
+offset=0x57EB38
+original=古之路罪恶之囊 B11
+target=古之路罪恶之囊 B11
+------
+offset=0x57EB52
+original=古之路罪恶之囊 B12
+target=古之路罪恶之囊 B12
+------
+offset=0x57EB6C
+original=古之路罪恶之囊 B13
+target=古之路罪恶之囊 B13
+------
+offset=0x57EB86
+original=古之路罪恶之囊 B14
+target=古之路罪恶之囊 B14
+------
+offset=0x57EBA0
+original=古之路罪恶之囊 B15
+target=古之路罪恶之囊 B15
+------
+offset=0x57EBBA
+original=古之路罪恶之囊
+target=古之路罪恶之囊
+------
+offset=0x57EBD4
+original=古之路罪恶之囊
+target=古之路罪恶之囊
+------
+offset=0x57EBEE
+original=古之路罪恶之囊
+target=古之路罪恶之囊
+------
+offset=0x57EC08
+original=古之路罪恶之囊
+target=古之路罪恶之囊
+------
+offset=0x57EC22
+original=罪之路科库托 B1
+target=罪之路科库托 B1
+------
+offset=0x57EC3C
+original=罪之路科库托 B2
+target=罪之路科库托 B2
+------
+offset=0x57EC56
+original=罪之路科库托 B3
+target=罪之路科库托 B3
+------
+offset=0x57EC70
+original=罪之路科库托 B4
+target=罪之路科库托 B4
+------
+offset=0x57EC8A
+original=罪之路科库托 B5
+target=罪之路科库托 B5
+------
+offset=0x57ECA4
+original=罪之路科库托 B6
+target=罪之路科库托 B6
+------
+offset=0x57ECBE
+original=罪之路科库托 B7
+target=罪之路科库托 B7
+------
+offset=0x57ECD8
+original=罪之路科库托 B8
+target=罪之路科库托 B8
+------
+offset=0x57ECF2
+original=罪之路科库托 B9
+target=罪之路科库托 B9
+------
+offset=0x57ED0C
+original=罪之路科库托 B10
+target=罪之路科库托 B10
+------
+offset=0x57ED26
+original=罪之路科库托 B11
+target=罪之路科库托 B11
+------
+offset=0x57ED40
+original=罪之路科库托 B12
+target=罪之路科库托 B12
+------
+offset=0x57ED5A
+original=罪之路科库托 B13
+target=罪之路科库托 B13
+------
+offset=0x57ED74
+original=罪之路科库托 B14
+target=罪之路科库托 B14
+------
+offset=0x57ED8E
+original=罪之路科库托 B15
+target=罪之路科库托 B15
+------
+offset=0x57EDA8
+original=罪之路科库托
+target=罪之路科库托
+------
+offset=0x57EDC2
+original=罪之路科库托
+target=罪之路科库托
+------
+offset=0x57EDDC
+original=罪之路科库托
+target=罪之路科库托
+------
+offset=0x57EDF6
+original=罪之路科库托
+target=罪之路科库托
+------
+offset=0x57EE10
+original=罪之路科库托
+target=罪之路科库托
+------
+offset=0x57EE2A
+original=力之路加伊那 B1
+target=力之路加伊那 B1
+------
+offset=0x57EE44
+original=力之路加伊那 B2
+target=力之路加伊那 B2
+------
+offset=0x57EE5E
+original=力之路加伊那 B3
+target=力之路加伊那 B3
+------
+offset=0x57EE78
+original=力之路加伊那 B4
+target=力之路加伊那 B4
+------
+offset=0x57EE92
+original=力之路加伊那 B5
+target=力之路加伊那 B5
+------
+offset=0x57EEAC
+original=力之路加伊那 B6
+target=力之路加伊那 B6
+------
+offset=0x57EEC6
+original=力之路加伊那 B7
+target=力之路加伊那 B7
+------
+offset=0x57EEE0
+original=力之路加伊那 B8
+target=力之路加伊那 B8
+------
+offset=0x57EEFA
+original=力之路加伊那 B9
+target=力之路加伊那 B9
+------
+offset=0x57EF14
+original=力之路加伊那 B10
+target=力之路加伊那 B10
+------
+offset=0x57EF2E
+original=力之路加伊那 B11
+target=力之路加伊那 B11
+------
+offset=0x57EF48
+original=力之路加伊那 B12
+target=力之路加伊那 B12
+------
+offset=0x57EF62
+original=力之路加伊那 B13
+target=力之路加伊那 B13
+------
+offset=0x57EF7C
+original=力之路加伊那 B14
+target=力之路加伊那 B14
+------
+offset=0x57EF96
+original=力之路加伊那 B15
+target=力之路加伊那 B15
+------
+offset=0x57EFB0
+original=力之路加伊那 B16
+target=力之路加伊那 B16
+------
+offset=0x57EFCA
+original=力之路加伊那 B17
+target=力之路加伊那 B17
+------
+offset=0x57EFE4
+original=力之路加伊那 B18
+target=力之路加伊那 B18
+------
+offset=0x57EFFE
+original=力之路加伊那 B19
+target=力之路加伊那 B19
+------
+offset=0x57F018
+original=力之路加伊那 B20
+target=力之路加伊那 B20
+------
+offset=0x57F032
+original=力之路加伊那
+target=力之路加伊那
+------
+offset=0x57F04C
+original=力之路加伊那
+target=力之路加伊那
+------
+offset=0x57F066
+original=力之路加伊那
+target=力之路加伊那
+------
+offset=0x57F080
+original=力之路加伊那
+target=力之路加伊那
+------
+offset=0x57F09A
+original=力之路加伊那
+target=力之路加伊那
+------
+offset=0x57F0B4
+original=力之路加伊那
+target=力之路加伊那
+------
+offset=0x57F0CE
+original=力之路加伊那
+target=力之路加伊那
+------
+offset=0x57F0E8
+original=力之路加伊那
+target=力之路加伊那
+------
+offset=0x57F102
+original=力之路加伊那
+target=力之路加伊那
+------
+offset=0x57F11C
+original=力之路加伊那
+target=力之路加伊那
+------
+offset=0x57F136
+original=夜之路安提罗耳 B1
+target=夜之路安提罗耳 B1
+------
+offset=0x57F150
+original=夜之路安提罗耳 B2
+target=夜之路安提罗耳 B2
+------
+offset=0x57F16A
+original=夜之路安提罗耳 B3
+target=夜之路安提罗耳 B3
+------
+offset=0x57F184
+original=夜之路安提罗耳 B4
+target=夜之路安提罗耳 B4
+------
+offset=0x57F19E
+original=夜之路安提罗耳 B5
+target=夜之路安提罗耳 B5
+------
+offset=0x57F1B8
+original=夜之路安提罗耳 B6
+target=夜之路安提罗耳 B6
+------
+offset=0x57F1D2
+original=夜之路安提罗耳 B7
+target=夜之路安提罗耳 B7
+------
+offset=0x57F1EC
+original=夜之路安提罗耳 B8
+target=夜之路安提罗耳 B8
+------
+offset=0x57F206
+original=夜之路安提罗耳 B9
+target=夜之路安提罗耳 B9
+------
+offset=0x57F220
+original=夜之路安提罗耳 B10
+target=夜之路安提罗耳 B10
+------
+offset=0x57F23A
+original=夜之路安提罗耳 B11
+target=夜之路安提罗耳 B11
+------
+offset=0x57F254
+original=夜之路安提罗耳 B12
+target=夜之路安提罗耳 B12
+------
+offset=0x57F26E
+original=夜之路安提罗耳 B13
+target=夜之路安提罗耳 B13
+------
+offset=0x57F288
+original=夜之路安提罗耳 B14
+target=夜之路安提罗耳 B14
+------
+offset=0x57F2A2
+original=夜之路安提罗耳 B15
+target=夜之路安提罗耳 B15
+------
+offset=0x57F2BC
+original=夜之路安提罗耳 B16
+target=夜之路安提罗耳 B16
+------
+offset=0x57F2D6
+original=夜之路安提罗耳 B17
+target=夜之路安提罗耳 B17
+------
+offset=0x57F2F0
+original=夜之路安提罗耳 B18
+target=夜之路安提罗耳 B18
+------
+offset=0x57F30A
+original=夜之路安提罗耳 B19
+target=夜之路安提罗耳 B19
+------
+offset=0x57F324
+original=夜之路安提罗耳 B20
+target=夜之路安提罗耳 B20
+------
+offset=0x57F33E
+original=夜之路安提罗耳 B21
+target=夜之路安提罗耳 B21
+------
+offset=0x57F358
+original=夜之路安提罗耳 B22
+target=夜之路安提罗耳 B22
+------
+offset=0x57F372
+original=夜之路安提罗耳 B23
+target=夜之路安提罗耳 B23
+------
+offset=0x57F38C
+original=夜之路安提罗耳 B24
+target=夜之路安提罗耳 B24
+------
+offset=0x57F3A6
+original=夜之路安提罗耳 B25
+target=夜之路安提罗耳 B25
+------
+offset=0x57F3C0
+original=夜之路安提罗耳
+target=夜之路安提罗耳
+------
+offset=0x57F3DA
+original=夜之路安提罗耳
+target=夜之路安提罗耳
+------
+offset=0x57F3F4
+original=夜之路安提罗耳
+target=夜之路安提罗耳
+------
+offset=0x57F40E
+original=夜之路安提罗耳
+target=夜之路安提罗耳
+------
+offset=0x57F428
+original=夜之路安提罗耳
+target=夜之路安提罗耳
+------
+offset=0x57F442
+original=哀之路多罗梅亚 B1
+target=哀之路多罗梅亚 B1
+------
+offset=0x57F45C
+original=哀之路多罗梅亚 B2
+target=哀之路多罗梅亚 B2
+------
+offset=0x57F476
+original=哀之路多罗梅亚 B3
+target=哀之路多罗梅亚 B3
+------
+offset=0x57F490
+original=哀之路多罗梅亚 B4
+target=哀之路多罗梅亚 B4
+------
+offset=0x57F4AA
+original=哀之路多罗梅亚 B5
+target=哀之路多罗梅亚 B5
+------
+offset=0x57F4C4
+original=哀之路多罗梅亚 B6
+target=哀之路多罗梅亚 B6
+------
+offset=0x57F4DE
+original=哀之路多罗梅亚 B7
+target=哀之路多罗梅亚 B7
+------
+offset=0x57F4F8
+original=哀之路多罗梅亚 B8
+target=哀之路多罗梅亚 B8
+------
+offset=0x57F512
+original=哀之路多罗梅亚 B9
+target=哀之路多罗梅亚 B9
+------
+offset=0x57F52C
+original=哀之路多罗梅亚 B10
+target=哀之路多罗梅亚 B10
+------
+offset=0x57F546
+original=哀之路多罗梅亚 B11
+target=哀之路多罗梅亚 B11
+------
+offset=0x57F560
+original=哀之路多罗梅亚 B12
+target=哀之路多罗梅亚 B12
+------
+offset=0x57F57A
+original=哀之路多罗梅亚 B13
+target=哀之路多罗梅亚 B13
+------
+offset=0x57F594
+original=哀之路多罗梅亚 B14
+target=哀之路多罗梅亚 B14
+------
+offset=0x57F5AE
+original=哀之路多罗梅亚 B15
+target=哀之路多罗梅亚 B15
+------
+offset=0x57F5C8
+original=哀之路多罗梅亚 B16
+target=哀之路多罗梅亚 B16
+------
+offset=0x57F5E2
+original=哀之路多罗梅亚 B17
+target=哀之路多罗梅亚 B17
+------
+offset=0x57F5FC
+original=哀之路多罗梅亚 B18
+target=哀之路多罗梅亚 B18
+------
+offset=0x57F616
+original=哀之路多罗梅亚 B19
+target=哀之路多罗梅亚 B19
+------
+offset=0x57F630
+original=哀之路多罗梅亚 B20
+target=哀之路多罗梅亚 B20
+------
+offset=0x57F64A
+original=哀之路多罗梅亚 B21
+target=哀之路多罗梅亚 B21
+------
+offset=0x57F664
+original=哀之路多罗梅亚 B22
+target=哀之路多罗梅亚 B22
+------
+offset=0x57F67E
+original=哀之路多罗梅亚 B23
+target=哀之路多罗梅亚 B23
+------
+offset=0x57F698
+original=哀之路多罗梅亚 B24
+target=哀之路多罗梅亚 B24
+------
+offset=0x57F6B2
+original=哀之路多罗梅亚 B25
+target=哀之路多罗梅亚 B25
+------
+offset=0x57F6CC
+original=哀之路多罗梅亚
+target=哀之路多罗梅亚
+------
+offset=0x57F6E6
+original=哀之路多罗梅亚
+target=哀之路多罗梅亚
+------
+offset=0x57F700
+original=哀之路多罗梅亚
+target=哀之路多罗梅亚
+------
+offset=0x57F71A
+original=哀之路多罗梅亚
+target=哀之路多罗梅亚
+------
+offset=0x57F734
+original=哀之路多罗梅亚
+target=哀之路多罗梅亚
+------
+offset=0x57F74E
+original=业之路朱弟加 B1
+target=业之路朱弟加 B1
+------
+offset=0x57F768
+original=业之路朱弟加 B2
+target=业之路朱弟加 B2
+------
+offset=0x57F782
+original=业之路朱弟加 B3
+target=业之路朱弟加 B3
+------
+offset=0x57F79C
+original=业之路朱弟加 B4
+target=业之路朱弟加 B4
+------
+offset=0x57F7B6
+original=业之路朱弟加 B5
+target=业之路朱弟加 B5
+------
+offset=0x57F7D0
+original=业之路朱弟加 B6
+target=业之路朱弟加 B6
+------
+offset=0x57F7EA
+original=业之路朱弟加 B7
+target=业之路朱弟加 B7
+------
+offset=0x57F804
+original=业之路朱弟加 B8
+target=业之路朱弟加 B8
+------
+offset=0x57F81E
+original=业之路朱弟加 B9
+target=业之路朱弟加 B9
+------
+offset=0x57F838
+original=业之路朱弟加 B10
+target=业之路朱弟加 B10
+------
+offset=0x57F852
+original=业之路朱弟加 B11
+target=业之路朱弟加 B11
+------
+offset=0x57F86C
+original=业之路朱弟加 B12
+target=业之路朱弟加 B12
+------
+offset=0x57F886
+original=业之路朱弟加 B13
+target=业之路朱弟加 B13
+------
+offset=0x57F8A0
+original=业之路朱弟加 B14
+target=业之路朱弟加 B14
+------
+offset=0x57F8BA
+original=业之路朱弟加 B15
+target=业之路朱弟加 B15
+------
+offset=0x57F8D4
+original=业之路朱弟加 B16
+target=业之路朱弟加 B16
+------
+offset=0x57F8EE
+original=业之路朱弟加 B17
+target=业之路朱弟加 B17
+------
+offset=0x57F908
+original=业之路朱弟加 B18
+target=业之路朱弟加 B18
+------
+offset=0x57F922
+original=业之路朱弟加 B19
+target=业之路朱弟加 B19
+------
+offset=0x57F93C
+original=业之路朱弟加 B20
+target=业之路朱弟加 B20
+------
+offset=0x57F956
+original=业之路朱弟加 B21
+target=业之路朱弟加 B21
+------
+offset=0x57F970
+original=业之路朱弟加 B22
+target=业之路朱弟加 B22
+------
+offset=0x57F98A
+original=业之路朱弟加 B23
+target=业之路朱弟加 B23
+------
+offset=0x57F9A4
+original=业之路朱弟加 B24
+target=业之路朱弟加 B24
+------
+offset=0x57F9BE
+original=业之路朱弟加 B25
+target=业之路朱弟加 B25
+------
+offset=0x57F9D8
+original=业之路朱弟加
+target=业之路朱弟加
+------
+offset=0x57F9F2
+original=业之路朱弟加
+target=业之路朱弟加
+------
+offset=0x57FA0C
+original=业之路朱弟加
+target=业之路朱弟加
+------
+offset=0x57FA26
+original=业之路朱弟加
+target=业之路朱弟加
+------
+offset=0x57FA40
+original=业之路朱弟加
+target=业之路朱弟加
+------
+offset=0x57FA5A
+original=王居 至高天 B1
+target=王居 至高天 B1
+------
+offset=0x57FA74
+original=王居 至高天 B2
+target=王居 至高天 B2
+------
+offset=0x57FA8E
+original=王居 至高天 B3
+target=王居 至高天 B3
+------
+offset=0x57FAA8
+original=王居 至高天 B4
+target=王居 至高天 B4
+------
+offset=0x57FAC2
+original=王居 至高天 B5
+target=王居 至高天 B5
+------
+offset=0x57FADC
+original=王居 至高天 B6
+target=王居 至高天 B6
+------
+offset=0x57FAF6
+original=王居 至高天 B7
+target=王居 至高天 B7
+------
+offset=0x57FB10
+original=王居 至高天 B8
+target=王居 至高天 B8
+------
+offset=0x57FB2A
+original=王居 至高天 B9
+target=王居 至高天 B9
+------
+offset=0x57FB44
+original=王居 至高天 B10
+target=王居 至高天 B10
+------
+offset=0x57FB5E
+original=王居 至高天 B11
+target=王居 至高天 B11
+------
+offset=0x57FB78
+original=王居 至高天 B12
+target=王居 至高天 B12
+------
+offset=0x57FB92
+original=王居 至高天 B13
+target=王居 至高天 B13
+------
+offset=0x57FBAC
+original=王居 至高天 B14
+target=王居 至高天 B14
+------
+offset=0x57FBC6
+original=王居 至高天 B15
+target=王居 至高天 B15
+------
+offset=0x57FBE0
+original=王居 至高天 B16
+target=王居 至高天 B16
+------
+offset=0x57FBFA
+original=王居 至高天 B17
+target=王居 至高天 B17
+------
+offset=0x57FC14
+original=王居 至高天 B18
+target=王居 至高天 B18
+------
+offset=0x57FC2E
+original=王居 至高天 B19
+target=王居 至高天 B19
+------
+offset=0x57FC48
+original=王居 至高天 B20
+target=王居 至高天 B20
+------
+offset=0x57FC62
+original=王居 至高天 B21
+target=王居 至高天 B21
+------
+offset=0x57FC7C
+original=王居 至高天 B22
+target=王居 至高天 B22
+------
+offset=0x57FC96
+original=王居 至高天 B23
+target=王居 至高天 B23
+------
+offset=0x57FCB0
+original=王居 至高天 B24
+target=王居 至高天 B24
+------
+offset=0x57FCCA
+original=王居 至高天 B25
+target=王居 至高天 B25
+------
+offset=0x57FCE4
+original=王居 至高天 B26
+target=王居 至高天 B26
+------
+offset=0x57FCFE
+original=王居 至高天 B27
+target=王居 至高天 B27
+------
+offset=0x57FD18
+original=王居 至高天
+target=王居 至高天
+------
+offset=0x57FD32
+original=王居 至高天
+target=王居 至高天
+------
+offset=0x57FD4C
+original=王居 至高天
+target=王居 至高天
+------
