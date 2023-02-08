@@ -133,7 +133,7 @@ datAccessoryHelp.PTP	131	0	<EMPTY>	薄手の皮手袋。	；轻薄的皮手套�
 datAccessoryHelp.PTP	132	0	<EMPTY>	大きなリボン。	；巨大的缎带。
 datAccessoryHelp.PTP	133	0	<EMPTY>	天使の羽を模した飾り。	；天使羽毛模样的饰品。
 datAccessoryHelp.PTP	134	0	<EMPTY>	宝石をあしらったつけ爪。	；点缀有宝石的美甲。
-datAccessoryHelp.PTP	135	0	<EMPTY>	スポ‒ツ用のリストバンド。	；运动腕套。
+datAccessoryHelp.PTP	135	0	<EMPTY>	スポ‒ツ用のリストバンド。	；运动用的腕套。
 datAccessoryHelp.PTP	136	0	<EMPTY>	シンプルなニットキャップ。	；简约的针织帽。
 datAccessoryHelp.PTP	137	0	<EMPTY>	シンプルな銀製の指輪。	；简约的银戒指。
 datAccessoryHelp.PTP	138	0	<EMPTY>	う‒ん	；嗯⋯

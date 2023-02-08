@@ -118,7 +118,7 @@ datWeaponHelp.PTP	116	0	<EMPTY>	基本的な合体鈍器。	；基本的合体�
 datWeaponHelp.PTP	117	0	<EMPTY>	学園前と書いてある。	；上边写着学校前。
 datWeaponHelp.PTP	118	0	<EMPTY>	ベルゼブブの持つ杖。	；别西卜所持的杖。
 datWeaponHelp.PTP	119	0	<EMPTY>	聖なる力を併せ持つ石鎚。	；持有神圣之力的石锤。
-datWeaponHelp.PTP	120	0	<EMPTY>	クロスロッドを強化した物。	；强化了的十字尺。
+datWeaponHelp.PTP	120	0	<EMPTY>	クロスロッドを強化した物。	；强化了的十字杖。
 datWeaponHelp.PTP	121	0	<EMPTY>	0x079	
 datWeaponHelp.PTP	122	0	<EMPTY>	0x07A	
 datWeaponHelp.PTP	123	0	<EMPTY>	0x07B	
@@ -169,7 +169,7 @@ datWeaponHelp.PTP	167	0	<EMPTY>	遠距離用の弓。	；远距离用的弓。
 datWeaponHelp.PTP	168	0	<EMPTY>	かなり大きめの強力な弓。	；很大的强力弓。
 datWeaponHelp.PTP	169	0	<EMPTY>	羽のように軽い魔法の弓。	；像羽毛一样轻的魔法之弓。
 datWeaponHelp.PTP	170	0	<EMPTY>	雷の如き速さで矢を放つ弓。	；箭速如雷电的弓。
-datWeaponHelp.PTP	171	0	<EMPTY>	0x0AB	；。
+datWeaponHelp.PTP	171	0	<EMPTY>	0x0AB	
 datWeaponHelp.PTP	172	0	<EMPTY>	練習用の安価な長弓。	；练习用的便宜的长弓。
 datWeaponHelp.PTP	173	0	<EMPTY>	藤を厚く巻いた弓。	；厚厚地缠着藤的弓。
 datWeaponHelp.PTP	174	0	<EMPTY>	竹を用いて強化された弓。	；用竹子材质的强化弓。
@@ -214,7 +214,7 @@ datWeaponHelp.PTP	212	0	<EMPTY>	基本的な合体銃。	；基本的合体枪�
 datWeaponHelp.PTP	213	0	<EMPTY>	推進式鉄拳制裁兵器。	；推进式铁拳制裁兵器。
 datWeaponHelp.PTP	214	0	<EMPTY>	神の名を与えられた銃。	；被赋予神之名的枪械。
 datWeaponHelp.PTP	215	0	<EMPTY>	対シャドウシステム搭載。	；搭载了对阴影系统。
-datWeaponHelp.PTP	216	0	<EMPTY>	貫通能力を高めたライフル。	；贯通能力强的来福枪。
+datWeaponHelp.PTP	216	0	<EMPTY>	貫通能力を高めたライフル。	；贯穿能力强的来福枪。
 datWeaponHelp.PTP	217	0	<EMPTY>	美しきダ‒クマタ‒。	；美丽的暗物质。
 datWeaponHelp.PTP	218	0	<EMPTY>	最新式誘導装置を搭載。	；搭载了最新型的诱导装置。
 datWeaponHelp.PTP	219	0	<EMPTY>	素粒子を発射機構に転用。	；用于发射基本粒子的机械装置。
@@ -234,8 +234,8 @@ datWeaponHelp.PTP	232	0	<EMPTY>	ある忍が愛用していた苦無。	；某�
 datWeaponHelp.PTP	233	0	<EMPTY>	0x0E9	
 datWeaponHelp.PTP	234	0	<EMPTY>	0x0EA	
 datWeaponHelp.PTP	235	0	<EMPTY>	0x0EB	
-datWeaponHelp.PTP	236	0	<EMPTY>	剣を折る事に特化したナイフ。	；特化剑斩的小刀 。
-datWeaponHelp.PTP	237	0	<EMPTY>	犬用殺傷マスク。	；犬用的杀伤面具。
+datWeaponHelp.PTP	236	0	<EMPTY>	剣を折る事に特化したナイフ。	；特化碎剑能力的小刀。
+datWeaponHelp.PTP	237	0	<EMPTY>	犬用殺傷マスク。	；犬用的杀伤面罩。
 datWeaponHelp.PTP	238	0	<EMPTY>	風のように軽いナイフ。	；如风一般轻的小刀。
 datWeaponHelp.PTP	239	0	<EMPTY>	特徴的な形のナイフ。	；有特征形状的小刀。
 datWeaponHelp.PTP	240	0	<EMPTY>	かなり厚く、重いナイフ。	；很厚很重的小刀。
