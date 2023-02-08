@@ -988,5 +988,5 @@ target=高级狗粮
 ------
 offset=0x4E4608
 original=机械オイル
-target=机械油
+target=机油
 ------
