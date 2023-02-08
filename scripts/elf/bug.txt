@@ -1,34 +1,34 @@
 offset=0x4D884C
 original={F208}{FFFF}{F13F}>このペルソナを消灭させます。\0 よろしいですか?\0
-target={F208}{FFFF}{F13F}>即将删除该人格面具。\0 这样可以吗?\0
+target={F208}{FFFF}{F13F}>即将消却该人格面具。\0 这样可以吗？\0
 ------
 offset=0x4D88AC
 original={F208}{FFFF}{F13F}>装备中のペルソナは消灭出来ません。{F104}
-target={F208}{FFFF}{F13F}>不能删除正被装备的人格面具。{F104}
+target={F208}{FFFF}{F13F}>不能消却装备中的人格面具。{F104}
 ------
 offset=0x4D8900
 original={F208}{FFFF}{F13F}>このペルソナを装着しますか?\0
-target={F208}{FFFF}{F13F}>要装备这个人格面具吗?\0
+target={F208}{FFFF}{F13F}>要装备这个人格面具吗？\0
 ------
 offset=0x4D894C
 original={F208}{FFFF}{F13F}>渡せるアイテムがありません。{F104}
-target=
+target=>没有可以给予的道具。
 ------
 offset=0x4D8998
 original={F208}{FFFF}{F13F}>この装备を舍てますか?\0
-target={F208}{FFFF}{F13F}>要舍弃这件装备吗?\0
+target={F208}{FFFF}{F13F}>要舍弃这件装备吗？\0
 ------
 offset=0x4D89DC
 original={F208}{FFFF}{F13F}>装备中の装备は舍てられません。{F104}
-target={F208}{FFFF}{F13F}>不能舍弃正被装备着的装备。{F104}
+target={F208}{FFFF}{F13F}>不能舍弃装备中的的装备。{F104}
 ------
 offset=0x4D8A2C
 original={F208}{FFFF}{F13F}>タイトル画面に戻って宜しいですか?\0
-target={F208}{FFFF}{F13F}>返回标题画面，这样可以吗?\0
+target={F208}{FFFF}{F13F}>返回标题画面，这样可以吗？\0
 ------
 offset=0x4D8A70
 original=と出かける
-target=
+target=和其一起出门
 ------
 offset=0x4D880C
 original={F208}{FFFF}{F13F}はい
