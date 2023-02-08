@@ -48,7 +48,7 @@ target=学生会会计
 ------
 offset=0x5A5288
 original=インタ‒ネット
-target=互联网
+target=网友
 ------
 offset=0x5A5298
 original=管弦乐部
