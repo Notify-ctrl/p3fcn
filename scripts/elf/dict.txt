@@ -96,15 +96,15 @@ target=男人前来说服我了。我很
 ------
 offset=0x4D9560
 original=惊いた⋯彼はかつて
-target=惊讶⋯他竟然是我过去的
+target=惊讶⋯他竟然是我恩师。
 ------
 offset=0x4D9580
 original=私の恩师であった人だ。
-target=恩师。他还带着那熟悉
+target=他还像以前那样，带着我
 ------
 offset=0x4D95A0
 original=觉えある气弱げな笑み。
-target=的略显软弱的笑容。
+target=熟悉的略显软弱的笑容。
 ------
 offset=0x4D95B8
 original=心が摇れる⋯」
@@ -1072,7 +1072,7 @@ target=
 ------
 offset=0x4DB160
 original=2009年度の卒业式。
-target=2009年的毕业典礼。
+target=2010年的毕业典礼。
 ------
 offset=0x4DB180
 original=たとえ记忆を失っても

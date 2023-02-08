@@ -224,7 +224,7 @@ target=可以继承的属性
 ------
 offset=0x5A6B90
 original=インセンスカ‒ド
-target=焚香卡片
+target=焚香卡牌
 ------
 offset=0x5A6BA8
 original=合体事故
@@ -549,18 +549,6 @@ target=芳达
 offset=0x6CDC80
 original=1UP
 target=匕喜
-------
-offset=0x6CDCA8
-original=时の砂
-target=时之砂
-------
-offset=0x6CDCB0
-original=生八桥
-target=生八桥
-------
-offset=0x6CDCB8
-original=金平糖
-target=金平糖
 ------
 offset=0x6CDCC0
 original=辉く鬣

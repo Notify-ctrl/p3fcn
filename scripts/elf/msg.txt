@@ -48,7 +48,7 @@ target=睡得很好，“疲劳”恢复了。
 ------
 offset=0x4E5830
 original=药が效いて"风邪"が治った。
-target=药起了作用，“感冒”好了。
+target=药起了作用，“感冒”痊愈了。
 ------
 offset=0x5A54A0
 original=ダミ‒です

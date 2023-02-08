@@ -28,7 +28,7 @@ target={F208}{FFFF}{F13F}>返回标题画面，这样可以吗？\0
 ------
 offset=0x4D8A70
 original=と出かける
-target=和其一起出门
+target=的出行邀约
 ------
 offset=0x4D880C
 original={F208}{FFFF}{F13F}はい

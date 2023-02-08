@@ -1432,11 +1432,11 @@ target=黄龙之鳞
 ------
 offset=0x4E2618
 original=雷神の腕轮
-target=雷神之手环
+target=雷神手环
 ------
 offset=0x4E2628
 original=暴岚の指轮
-target=暴岚之戒指
+target=暴岚戒指
 ------
 offset=0x4E2638
 original=天使の羽
