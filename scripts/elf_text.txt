@@ -456,11 +456,11 @@ target=肯尼思·阿诺德
 ------
 offset=0x57B0A8
 original=ゲ‒ムパニック 辰巳店
-target=GAME PANIC 辰巳分店
+target=GAME PANIC辰巳店
 ------
 offset=0x57B0C2
 original=マンドラゴラ 辰巳店
-target=曼陀罗 辰巳分店
+target=曼陀罗 辰巳店
 ------
 offset=0x57B0DC
 original=辰巳东交番
@@ -472,7 +472,7 @@ target=Be·Blue·V
 ------
 offset=0x57B110
 original=シャガ‒ル 辰巳店
-target=夏加尔 辰巳分店
+target=夏加尔 辰巳店
 ------
 offset=0x57B12A
 original=スクリ‒ンショット
@@ -496,7 +496,7 @@ target=旧书店 书虫
 ------
 offset=0x57B1AC
 original=定食 わかつ 巌户台店
-target=快餐 和胜 岩户台分店
+target=快餐 和胜 岩户台店
 ------
 offset=0x57B1C6
 original=锅岛ラ‒メン·はがくれ
@@ -508,7 +508,7 @@ target=甜品店 小豆洗
 ------
 offset=0x57B1FA
 original=牛专科 海牛 巌户台店
-target=牛肉盖饭 海牛 岩户台分店
+target=牛丼 海牛 岩户台店
 ------
 offset=0x57B214
 original=吃茶 まんがの星☆
