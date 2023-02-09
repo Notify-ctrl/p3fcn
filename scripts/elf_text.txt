@@ -92,7 +92,7 @@ target=学生会会计
 ------
 offset=0x4D8CB8
 original=インタ‒ネット
-target=网络
+target=网友
 ------
 offset=0x4D8CD8
 original=神社の女の子
