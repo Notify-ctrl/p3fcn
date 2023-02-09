@@ -1,6 +1,6 @@
 offset=0x57CB9A
 original=1F エントランス
-target=1F 入口
+target=1F 入口大厅
 ------
 offset=0x57CBB4
 original=2F 世俗之庭特贝尔
@@ -1096,7 +1096,7 @@ target=NULL
 ------
 offset=0x57EA1A
 original=时の狭间 扉の间
-target=时の狭间 扉の间
+target=时之间隙 门扉之间
 ------
 offset=0x57EA34
 original=古之路罪恶之囊 B1

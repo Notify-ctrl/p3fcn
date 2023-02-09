@@ -1,70 +1,70 @@
 offset=0x4D8A80
 original=今ひとつ
-target=
+target=有所欠缺
 ------
 offset=0x4D8A90
 original=ないこともない
-target=
+target=聊胜于无
 ------
 offset=0x4D8AA0
 original=ここぞでは违う
-target=
+target=与众不同
 ------
 offset=0x4D8AB0
 original=赖りがいがある
-target=
+target=值得信赖
 ------
 offset=0x4D8AC0
 original=肝が据わっている
-target=
+target=临危不惧
 ------
 offset=0x4D8AD8
 original=これといって
-target=
+target=平平无奇
 ------
 offset=0x4D8AE8
 original=磨けば光る
-target=
+target=仍需打磨
 ------
 offset=0x4D8AF8
 original=そこそこある
-target=
+target=初具雏形
 ------
 offset=0x4D8B08
 original=光っている
-target=
+target=闪闪发光
 ------
 offset=0x4D8B20
 original=オ‒ラが出ている
-target=
+target=气场十足
 ------
 offset=0x4D8B38
 original=カリスマ
-target=
+target=万人迷
 ------
 offset=0x4D8B48
 original=もう少し
-target=
+target=再接再厉
 ------
 offset=0x4D8B58
 original=できなくはない
-target=
+target=马马虎虎
 ------
 offset=0x4D8B68
 original=そこそこ良い
-target=
+target=堪堪中上
 ------
 offset=0x4D8B78
 original=なかなか优秀
-target=
+target=可塑之才
 ------
 offset=0x4D8B88
 original=かなりの秀才
-target=
+target=逸才
 ------
 offset=0x4D8C08
 original=特别课外活动部
-target=
+target=特别课外活动部
 ------
 offset=0x4D8C18
 original=クラスメイト
@@ -84,7 +84,7 @@ target=艾吉斯
 ------
 offset=0x4D8C90
 original=女子マネ‒ジャ‒
-target=女性经理
+target=运动社团的经理
 ------
 offset=0x4D8CA8
 original=生徒会会计
@@ -92,39 +92,39 @@ target=学生会会计
 ------
 offset=0x4D8CB8
 original=インタ‒ネット
-target=互联网
+target=网友
 ------
 offset=0x4D8CD8
 original=神社の女の子
-target=神社的女孩
+target=神社遇到的小女孩
 ------
 offset=0x4D8CE8
 original=谜の少年
-target=迷之少年
+target=神秘少年
 ------
 offset=0x4D8CF8
 original=同好会の留学生
-target=
+target=同好会的留学生
 ------
 offset=0x4D8D08
 original=テレビ通贩社长
-target=
+target=电视购物公司社长
 ------
 offset=0x4D8D18
 original=型破りな僧侣
-target=
+target=不拘常规的僧侣
 ------
 offset=0x4D8D28
 original=他校のエ‒ス
-target=
+target=他校的王牌选手
 ------
 offset=0x4D8D38
 original=グルメキング
-target=
+target=美食之王
 ------
 offset=0x4D8D50
 original=余命いくばくも无い青年
-target=
+target=时日不多的青年
 ------
 offset=0x4D8D68
 original=ニュクス讨伐队
@@ -144,23 +144,23 @@ target=艾吉斯
 ------
 offset=0x4E4A78
 original=桐条美鹤
-target=
+target=桐条美鹤
 ------
 offset=0x4E4A88
 original=伊织顺平
-target=
+target=伊织顺平
 ------
 offset=0x4E4A98
 original=山岸风花
-target=
+target=山岸风花
 ------
 offset=0x4E4AA8
 original=真田明彦
-target=
+target=真田明彦
 ------
 offset=0x4E4AB8
 original=荒垣真次郎
-target=
+target=荒垣真次郎
 ------
 offset=0x4E4AC8
 original=コロマル
@@ -168,7 +168,7 @@ target=虎狼丸
 ------
 offset=0x4E4AD8
 original=几月修司
-target=
+target=几月修司
 ------
 offset=0x4E4AE8
 original=ファルロス
@@ -176,27 +176,27 @@ target=法洛斯
 ------
 offset=0x4E4AF8
 original=望月绫时
-target=
+target=望月绫时
 ------
 offset=0x4E4B08
 original=桐条武治
-target=
+target=桐条武治
 ------
 offset=0x4E4B18
 original=森山夏纪
-target=
+target=森山夏纪
 ------
 offset=0x4E4B28
 original=イジメ女生徒
-target=
+target=欺负人的女学生
 ------
 offset=0x4E4B38
 original=不良少年
-target=
+target=不良少年
 ------
 offset=0x4E4B48
 original=宫本一志
-target=
+target=宫本一志
 ------
 offset=0x4E4B58
 original=西脇结子
@@ -204,55 +204,55 @@ target=西胁结子
 ------
 offset=0x4E4B68
 original=陆上部员
-target=田径部员
+target=田径部部员
 ------
 offset=0x4E4B78
-original=剑道部员
+original=剑道部部员
 target=
 ------
 offset=0x4E4B88
 original=水泳部员
-target=
+target=游泳部部员
 ------
 offset=0x4E4B98
 original=他校陆上选手
-target=他校田径选手
+target=他校的田径选手
 ------
 offset=0x4E4BA8
-original=他校剑道选手
+original=他校的剑道选手
 target=
 ------
 offset=0x4E4BB8
-original=他校水泳选手
+original=他校的水泳选手
 target=
 ------
 offset=0x4E4BC8
 original=平贺庆介
-target=
+target=平贺庆介
 ------
 offset=0x4E4BD8
 original=管弦学部
-target=
+target=管弦部部员
 ------
 offset=0x4E4BE8
 original=美术部员
-target=
+target=美术部部员
 ------
 offset=0x4E4BF8
 original=写真部员
-target=摄影部员
+target=摄影部部员
 ------
 offset=0x4E4C08
 original=小田桐秀利
-target=
+target=小田桐秀利
 ------
 offset=0x4E4C18
 original=伏见千寻
-target=
+target=伏见千寻
 ------
 offset=0x4E4C28
 original=友近健二
-target=
+target=友近健二
 ------
 offset=0x4E4C38
 original=文吉爷さん
@@ -264,7 +264,7 @@ target=光子婆婆
 ------
 offset=0x4E4C58
 original=パンクス
-target=
+target=朋克青年
 ------
 offset=0x4E4C68
 original=たなか社长
@@ -272,11 +272,11 @@ target=田中社长
 ------
 offset=0x4E4C78
 original=末光望美
-target=
+target=末光望美
 ------
 offset=0x4E4C88
 original=神木秋成
-target=
+target=神木秋成
 ------
 offset=0x4E4C98
 original=鸟海先生
@@ -288,11 +288,11 @@ target=保健老师
 ------
 offset=0x4E4CC0
 original=购买のおばちゃん
-target=
+target=小卖部的大妈
 ------
 offset=0x4E4CD8
 original=福引き所の人
-target=
+target=抽签处工作人员
 ------
 offset=0x4E4CE8
 original=黑泽巡查
@@ -304,11 +304,11 @@ target=饰品商店
 ------
 offset=0x4E4D18
 original=骨董屋の店主
-target=
+target=古董店的店主
 ------
 offset=0x4E4D28
 original=イゴ‒ル
-target=伊戈尔
+target=伊格尔
 ------
 offset=0x4E4D38
 original=エリザベス
@@ -316,7 +316,7 @@ target=伊丽莎白
 ------
 offset=0x57AD1A
 original=月光馆学园 校舍正门
-target=
+target=月光馆学园 校门
 ------
 offset=0x57AD34
 original=ポロニアンモ‒ル
@@ -324,7 +324,7 @@ target=桐叶商店街
 ------
 offset=0x57AD4E
 original=辰巳ポ‒トアイランド駅前
-target=
+target=辰巳人工港湾岛站前
 ------
 offset=0x57AD68
 original=巌户台駅前商店街
@@ -332,31 +332,31 @@ target=岩户台站前商店街
 ------
 offset=0x57AD82
 original=长鸣神社
-target=
+target=长鸣神社
 ------
 offset=0x57AD9C
 original=1F ラウンジ
-target=1F 休息区
+target=1 休闲区
 ------
 offset=0x57ADB6
 original=ビ‒チ
-target=
+target=海滩
 ------
 offset=0x57ADD0
 original=东山三条 后醍醐 1F
-target=
+target=东山三条 后醍醐 1F
 ------
 offset=0x57ADEA
 original=モノレ‒ル桥
-target=
+target=电车高架桥
 ------
 offset=0x57AE04
 original=1F 客室通路
-target=
+target=11F 客房过道
 ------
 offset=0x57AE1E
 original=地下 13m
-target=
+target=地下 13m
 ------
 offset=0x57AE38
 original=ム‒ンライトブリッジ
@@ -364,15 +364,15 @@ target=月光大桥
 ------
 offset=0x57AE52
 original=2‒F 教室
-target=
+target=2‒F 教室
 ------
 offset=0x57AE6C
 original=2‒E 教室
-target=
+target=2‒E 教室
 ------
 offset=0x57AE86
 original=生徒会室
-target=学生会室
+target=学生会活动室
 ------
 offset=0x57AEA0
 original=职员室
@@ -380,59 +380,59 @@ target=办公室
 ------
 offset=0x57AEBA
 original=保健室
-target=
+target=医务室
 ------
 offset=0x57AED4
 original=图书室
-target=
+target=图书室
 ------
 offset=0x57AEEE
 original=家庭科室
-target=
+target=家庭科教室
 ------
 offset=0x57AF08
 original=音乐室
-target=
+target=音乐室
 ------
 offset=0x57AF22
 original=化学准备室
-target=
+target=化学准备室
 ------
 offset=0x57AF3C
 original=体育馆
-target=
+target=体育馆
 ------
 offset=0x57AF56
 original=屋内プ‒ル
-target=
+target=室内泳池
 ------
 offset=0x57AF70
 original=グラウンド
-target=
+target=操场
 ------
 offset=0x57AF8A
 original=男子トイレ
-target=男厕
+target=男厕所
 ------
 offset=0x57AFA4
 original=女子トイレ
-target=女厕
+target=女厕所
 ------
 offset=0x57AFBE
 original=放送室
-target=
+target=广播室
 ------
 offset=0x57AFD8
 original=校务员室
-target=
+target=校务员室
 ------
 offset=0x57AFF2
 original=美术室
-target=
+target=美术室
 ------
 offset=0x57B00C
 original=化学实验室
-target=
+target=化学实验室
 ------
 offset=0x57B026
 original=ベルベットル‒ム
@@ -440,175 +440,175 @@ target=天鹅绒房间
 ------
 offset=0x57B040
 original=クラブ エスカペイド
-target=
+target=俱乐部 Escapede
 ------
 offset=0x57B05A
 original=青ひげ·ファ‒マシ‒
-target=
+target=青胡子药屋
 ------
 offset=0x57B074
 original=古美术 真宵堂
-target=
+target=古美术 真宵堂
 ------
 offset=0x57B08E
 original=ケネス·ア‒ノルド
-target=
+target=肯尼思·阿诺德
 ------
 offset=0x57B0A8
 original=ゲ‒ムパニック 辰巳店
-target=
+target=GAME PANIC 辰巳分店
 ------
 offset=0x57B0C2
 original=マンドラゴラ 辰巳店
-target=
+target=曼陀罗 辰巳分店
 ------
 offset=0x57B0DC
 original=辰巳东交番
-target=
+target=辰巳东派出所
 ------
 offset=0x57B0F6
 original=ビ‒·ブル‒·ヴィ‒
-target=
+target=Be·Blue·V
 ------
 offset=0x57B110
 original=シャガ‒ル 辰巳店
-target=
+target=夏加尔 辰巳分店
 ------
 offset=0x57B12A
 original=スクリ‒ンショット
-target=
+target=SCREENSHOT
 ------
 offset=0x57B144
 original=フラワ‒ラフレシ屋
-target=
+target=花店 大王花店
 ------
 offset=0x57B15E
 original=たこ烧き·オクトパシ‒
-target=
+target=章鱼烧·八爪女
 ------
 offset=0x57B178
 original=ワイルダック·バ‒ガ‒
-target=
+target=威尔鸭堡
 ------
 offset=0x57B192
 original=古书 本の虫
-target=
+target=旧书店 书虫
 ------
 offset=0x57B1AC
 original=定食 わかつ 巌户台店
-target=
+target=快餐 和胜 岩户台分店
 ------
 offset=0x57B1C6
 original=锅岛ラ‒メン·はがくれ
-target=
+target=锅岛拉面·叶隐
 ------
 offset=0x57B1E0
 original=甘味处 小豆あらい
-target=
+target=甜品店 小豆洗
 ------
 offset=0x57B1FA
 original=牛专科 海牛 巌户台店
-target=
+target=牛肉盖饭 海牛 岩户台分店
 ------
 offset=0x57B214
 original=吃茶 まんがの星☆
-target=
+target=咖啡店 漫画之星☆
 ------
 offset=0x57B22E
 original=自动贩卖机
-target=
+target=自动售货机
 ------
 offset=0x57B248
 original=1F 玄关ホ‒ル
-target=
+target=1F 玄关大厅
 ------
 offset=0x57B262
 original=1F 职员室前廊下
-target=
+target=1F 办公室前走廊
 ------
 offset=0x57B27C
 original=1F 实习室前廊下
-target=
+target=1F 实习室前走廊
 ------
 offset=0x57B296
 original=1F 渡り廊下
-target=
+target=1F 走廊
 ------
 offset=0x57B2B0
 original=1F 运动场前廊下
-target=
+target=运动场前走廊
 ------
 offset=0x57B2CA
 original=2F 教室前廊下
-target=
+target=教室前走廊
 ------
 offset=0x57B2E4
 original=屋上
-target=
+target=天台
 ------
 offset=0x57B2FE
 original=自室
-target=
+target=自己的房间
 ------
 offset=0x57B318
 original=2F 廊下
-target=
+target=2F 走廊
 ------
 offset=0x57B332
 original=3F 廊下
-target=
+target=3F 走廊
 ------
 offset=0x57B34C
 original=4F 廊下
-target=
+target=4F 走廊
 ------
 offset=0x57B366
 original=作战室
-target=
+target=作战室
 ------
 offset=0x57B380
 original=5F 廊下
-target=
+target=5F 走廊
 ------
 offset=0x57B39A
 original=巌户台分寮 正面玄关前
-target=
+target=岩户台宿舍 正面玄关前
 ------
 offset=0x57B3B4
 original=空き部屋
-target=
+target=空房
 ------
 offset=0x57B3CE
 original=巌户台駅前
-target=
+target=岩户台站前
 ------
 offset=0x57B3E8
 original=2F 客室通路
-target=
+target=2F 客房过道
 ------
 offset=0x57B402
 original=3F 客室通路
-target=
+target=3F 客房过道
 ------
 offset=0x57B41C
 original=2F 世俗の庭テベル
-target=
+target=2F 世俗之庭特贝尔
 ------
 offset=0x57B436
 original=阶层不明 奇颜の庭アルカ
-target=
+target=楼层不明 奇颜之庭阿尔卡
 ------
 offset=0x57B450
 original=阶层不明 奇颜の庭アルカ
-target=
+target=楼层不明 奇颜之庭阿尔卡
 ------
 offset=0x57B46A
 original=阶层不明 奇颜の庭アルカ
-target=
+target=楼层不明 奇颜之庭阿尔卡
 ------
 offset=0x57B484
 original=4F 客室通路
-target=
+target=4F 客房过道
 ------
 offset=0x57B49E
 original=101号室
@@ -672,7 +672,7 @@ target=
 ------
 offset=0x57B624
 original=法王の间
-target=
+target=法王之间
 ------
 offset=0x57B63E
 original=10号车·11号车
@@ -696,7 +696,7 @@ target=
 ------
 offset=0x57B6C0
 original=第1车两
-target=
+target=车头
 ------
 offset=0x57B6DA
 original=地下 17m
@@ -716,7 +716,7 @@ target=
 ------
 offset=0x57B742
 original=駅前广场はずれ
-target=
+target=站前广场外
 ------
 offset=0x57B75C
 original=地下 33m
@@ -732,31 +732,31 @@ target=
 ------
 offset=0x57B7AA
 original=路地里
-target=
+target=小巷
 ------
 offset=0x57B7C4
 original=タウンマップ
-target=
+target=城镇地图
 ------
 offset=0x57B7DE
 original=森
-target=
+target=森林
 ------
 offset=0x57B7F8
 original=东山三条 后醍醐 2F
-target=
+target=东山三条 后醍醐 2F
 ------
 offset=0x57B812
 original=东山三条 后醍醐 3F
-target=
+target=东山三条 后醍醐 3F
 ------
 offset=0x57B82C
 original=大浴场
-target=
+target=大浴场
 ------
 offset=0x57B846
 original=男子部屋
-target=
+target=男生房间
 ------
 offset=0x57B860
 original=コロッセオ·プルガトリオ
@@ -796,11 +796,11 @@ target=最终试炼之门扉
 ------
 offset=0x5A4EF0
 original=生徒会室
-target=生徒会室
+target=学生会活动室
 ------
 offset=0x5A4F00
 original=家庭科室
-target=家庭科室
+target=家庭科教室
 ------
 offset=0x5A4F10
 original=实验准备室
@@ -808,11 +808,11 @@ target=实验准备室
 ------
 offset=0x5A4F20
 original=グラウンド
-target=グラウンド
+target=操场
 ------
 offset=0x5A4F30
 original=屋内プ‒ル
-target=屋内プ‒ル
+target=室内泳池
 ------
 offset=0x5A4F40
 original=ポロニアンモ‒ル
@@ -824,55 +824,55 @@ target=天鹅绒房间
 ------
 offset=0x5A4F80
 original=ビ‒·ブル‒·ヴィ‒
-target=ビ‒·ブル‒·ヴィ‒
+target=Be·Blue·V
 ------
 offset=0x5A4F98
 original=駅前广场
-target=駅前广场
+target=站前广场
 ------
 offset=0x5A4FB0
 original=ワイルダック·バ‒ガ‒
-target=ワイルダック·バ‒ガ‒
+target=威尔鸭堡
 ------
 offset=0x5A4FC8
 original=ラ‒メン屋
-target=ラ‒メン屋
+target=拉面店
 ------
 offset=0x5A4FD8
 original=たこ烧き屋
-target=たこ烧き屋
+target=章鱼烧店
 ------
 offset=0x5A4FE8
 original=小豆あらい
-target=小豆あらい
+target=小豆洗
 ------
 offset=0x5A4FF8
 original=ゲ‒セン
-target=ゲ‒セン
+target=游戏厅
 ------
 offset=0x5A5008
 original=イイトコ
-target=イイトコ
+target=好·地·方
 ------
 offset=0x5A5018
 original=私の部屋
-target=私の部屋
+target=我的房间
 ------
 offset=0x5A5028
 original=わたしの部屋
-target=わたしの部屋
+target=我的房间
 ------
 offset=0x5A5038
 original=甘いもの
-target=甘いもの
+target=甜品
 ------
 offset=0x5A5048
 original=カラオケ
-target=カラオケ
+target=卡拉OK
 ------
 offset=0x5A5058
 original=漫画吃茶
-target=漫画吃茶
+target=漫画咖啡厅
 ------
 offset=0x5A5118
 original=ペルソナ部队
@@ -912,7 +912,7 @@ target=贝贝
 ------
 offset=0x6CDF60
 original=早瀬护
-target=早瀬护
+target=早濑护
 ------
 offset=0x6CDF68
 original=舞子
@@ -940,7 +940,7 @@ target=女教师
 ------
 offset=0x6CDF98
 original=药局
-target=药局
+target=药店
 ------
 offset=0x6CDFA0
 original=岳羽
@@ -1000,43 +1000,43 @@ target=真次郎
 ------
 offset=0x6CE348
 original=力
-target=力
+target=力量
 ------
 offset=0x6CE350
 original=魔力
-target=魔
+target=魔力
 ------
 offset=0x6CE358
 original=耐久力
-target=耐
+target=耐力
 ------
 offset=0x6CE360
 original=素早さ
-target=速
+target=速度
 ------
 offset=0x6CE368
 original=运
-target=运
+target=运气
 ------
 offset=0x6CE448
 original=力
-target=力
+target=力量
 ------
 offset=0x6CE450
 original=魔力
-target=魔
+target=魔力
 ------
 offset=0x6CE458
 original=耐久力
-target=耐
+target=耐力
 ------
 offset=0x6CE460
 original=素早さ
-target=速
+target=速度
 ------
 offset=0x6CE468
 original=运
-target=运
+target=运气
 ------
 offset=0x6CE6A0
 original=スキル
@@ -1056,7 +1056,7 @@ target=作战
 ------
 offset=0x6CE6C0
 original=召还
-target=召还
+target=召回
 ------
 offset=0x6CF3E8
 original=学力
@@ -1092,15 +1092,15 @@ target=运
 ------
 offset=0x6CF498
 original=マタネ
-target=マタネ
+target=再见
 ------
 offset=0x6CF4A0
 original=アバヨ
-target=アバヨ
+target=再见
 ------
 offset=0x6CF4A8
 original=归宅
-target=归宅
+target=回家
 ------
 offset=0x6CF4B0
 original=陆上
@@ -1128,19 +1128,19 @@ target=管弦乐
 ------
 offset=0x6CF538
 original=部活
-target=部活
+target=社团活动
 ------
 offset=0x6CF540
 original=屋上
-target=屋上
+target=天台
 ------
 offset=0x6CF548
 original=职员室
-target=职员室
+target=办公室
 ------
 offset=0x6CF550
 original=保健室
-target=保健室
+target=医务室
 ------
 offset=0x6CF558
 original=图书室
@@ -1168,7 +1168,7 @@ target=俱乐部
 ------
 offset=0x6CF588
 original=药局
-target=药局
+target=药店
 ------
 offset=0x6CF590
 original=派出所
@@ -1176,11 +1176,11 @@ target=派出所
 ------
 offset=0x6CF598
 original=骨董屋
-target=骨董屋
+target=古董屋
 ------
 offset=0x6CF5A0
 original=吃茶店
-target=吃茶店
+target=咖啡厅
 ------
 offset=0x6CF5A8
 original=商店街
@@ -1188,19 +1188,19 @@ target=商店街
 ------
 offset=0x6CF5B0
 original=古本屋
-target=古本屋
+target=旧书店
 ------
 offset=0x6CF5B8
 original=定食屋
-target=定食屋
+target=快餐店
 ------
 offset=0x6CF5C0
 original=CD屋
-target=CD屋
+target=CD店
 ------
 offset=0x6CF5C8
 original=牛丼屋
-target=牛丼屋
+target=牛肉盖饭店
 ------
 offset=0x6CF5D0
 original=映画馆
@@ -1336,7 +1336,7 @@ target=明天
 ------
 offset=0x6CF6D8
 original=スルト
-target=苏尔特
+target=斯尔特
 ------
 offset=0x6CF6E0
 original=ト‒ル
@@ -1364,5 +1364,5 @@ target=期限
 ------
 offset=0x6CF798
 original=やめる
-target=返回
+target=取消
 ------
