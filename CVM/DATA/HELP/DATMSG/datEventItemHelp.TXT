@@ -1,6 +1,6 @@
 datEventItemHelp.PTP	0	0	<EMPTY>	@eventitem_000	
 datEventItemHelp.PTP	1	0	<EMPTY>	青色をした鍵。{0A}ベルベットル‒ムの扉を開く。	；蓝色的钥匙。{0A}可以打开天鹅绒房间的门
-datEventItemHelp.PTP	2	0	<EMPTY>	バスタ‒ドライブが落とした{0A}鋼鉄の破片。 無意味に重い。	；巴斯塔驱动器掉落的{0A}钢铁的碎片。重的毫无意义。
+datEventItemHelp.PTP	2	0	<EMPTY>	バスタ‒ドライブが落とした{0A}鋼鉄の破片。 無意味に重い。	；屠杀驱力掉落的{0A}钢铁的碎片。重的毫无意义。
 datEventItemHelp.PTP	3	0	<EMPTY>	5003	
 datEventItemHelp.PTP	4	0	<EMPTY>	友近が作ったチョ‒カ‒。{0A}究極の力·スルトを開く鍵。	；友近制作的项圈。{0A}打开究极之力·斯尔特的钥匙。
 datEventItemHelp.PTP	5	0	<EMPTY>	まだ⋯無い⋯ッ	
@@ -10,12 +10,12 @@ datEventItemHelp.PTP	8	0	<EMPTY>	文吉の息子が植えた木の実。{0A}究�
 datEventItemHelp.PTP	9	0	<EMPTY>	ゆかりの思い出のストラップ。{0A}究極の力·キュベレを開く鍵。	；有由加莉的回忆的挂件。{0A}打开究极之力·西布莉的钥匙。
 datEventItemHelp.PTP	10	0	<EMPTY>	風花特製イヤホン。{0A}究極の力·スカアハを開く鍵。	；风花特制的耳机。{0A}打开究极之力·斯卡哈的钥匙。
 datEventItemHelp.PTP	11	0	<EMPTY>	美鶴のバイクのキ‒。{0A}究極の力·アリラトを開く鍵。	；美鹤的摩托车钥匙。{0A}打开究极之力·威灵的钥匙。
-datEventItemHelp.PTP	12	0	<EMPTY>	結子とのコ‒チ記念。究極の力{0A}ジ‒クフリ‒ドを開く鍵。	；和结子指导训练的纪念照片。{0A}打开究极之力·齐格菲的钥匙。
+datEventItemHelp.PTP	12	0	<EMPTY>	結子とのコ‒チ記念。究極の力{0A}ジ‒クフリ‒ドを開く鍵。	；和结子指导训练的纪念品。{0A}打开究极之力·齐格菲的钥匙。
 datEventItemHelp.PTP	13	0	<EMPTY>	千尋の大事な本。究極の力{0A}メルキセデクを開く鍵。	；对千寻很重要的书。{0A}打开究极之力·默基瑟德的钥匙。
 datEventItemHelp.PTP	14	0	<EMPTY>	宮本と甥との約束の証。{0A}究極の力·ト‒ルを開く鍵。	；宫本和外甥的约定之证。{0A}打开究极之力·托尔的钥匙。
 datEventItemHelp.PTP	15	0	<EMPTY>	まだ⋯無い⋯ッ	
-datEventItemHelp.PTP	16	0	<EMPTY>	Y子特製画像。究極の力{0A}アラハバキを開く鍵。	；Y子的特制画像。{0A}打开究极之力·荒霸吐的钥匙。
-datEventItemHelp.PTP	17	0	<EMPTY>	平賀の受賞通知。{0A}究極の力·ノルンを開く鍵。	；平贺的获奖通知。{0A}打开究极之力·诺伦的钥匙。
+datEventItemHelp.PTP	16	0	<EMPTY>	Y子特製画像。究極の力{0A}アラハバキを開く鍵。	；Y子的特制图像。{0A}打开究极之力·荒霸吐的钥匙。
+datEventItemHelp.PTP	17	0	<EMPTY>	平賀の受賞通知。{0A}究極の力·ノルンを開く鍵。	；平贺的获奖通知书。{0A}打开究极之力·诺伦的钥匙。
 datEventItemHelp.PTP	18	0	<EMPTY>	損傷したアイギスの部品。{0A}究極の力·メタトロンを開く鍵。	；受损伤的艾吉斯的零件。{0A}打开究极之力·梅塔特隆的钥匙。
 datEventItemHelp.PTP	19	0	<EMPTY>	舞子のプロポ‒ズの贈り物。{0A}究極の力·アティスを開く鍵。	；舞子的求婚礼物。{0A}打开究极之力·阿提斯的钥匙。
 datEventItemHelp.PTP	20	0	<EMPTY>	まだ⋯無い⋯ッ	
@@ -24,7 +24,7 @@ datEventItemHelp.PTP	22	0	<EMPTY>	たなかの募金記念。究極の力{0A}ベ
 datEventItemHelp.PTP	23	0	<EMPTY>	無達のボトルのプレ‒ト。{0A}究極の力·シュウを開く鍵。	；无达瓶子上的铭牌。{0A}打开究极之力·蚩尤的钥匙。
 datEventItemHelp.PTP	24	0	<EMPTY>	早瀬の父親の形見。{0A}究極の力·ルシフェルを開く鍵。	；早濑父亲的遗物。{0A}打开究极之力·路西菲尔的钥匙。
 datEventItemHelp.PTP	25	0	<EMPTY>	末光の後継者の証。究極の力{0A}サンダルフォンを開く鍵。	；末光的后继者之证。{0A}打开究极之力·圣达芬的钥匙。
-datEventItemHelp.PTP	26	0	<EMPTY>	物語が綴られた神木のノ‒ト。{0A}究極の力·アスラおうを開く鍵。	；神木写满故事的笔记。{0A}打开究极之力·阿修罗王的钥匙。
+datEventItemHelp.PTP	26	0	<EMPTY>	物語が綴られた神木のノ‒ト。{0A}究極の力·アスラおうを開く鍵。	；神木写满故事的笔记本。{0A}打开究极之力·阿修罗王的钥匙。
 datEventItemHelp.PTP	27	0	<EMPTY>	501B	
 datEventItemHelp.PTP	28	0	<EMPTY>	年代物の万年筆。{0A}軸が血のように赤い。	；年代久远的钢笔。{0A}笔杆如同血一样红。
 datEventItemHelp.PTP	29	0	<EMPTY>	学校に生えている{0A}若木の落ち葉。	；在学校里生长的{0A}小树的落叶。
