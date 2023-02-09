@@ -456,7 +456,7 @@ target=肯尼思·阿诺德
 ------
 offset=0x57B0A8
 original=ゲ‒ムパニック 辰巳店
-target=GamePanic 辰巳分店
+target=GAME PANIC 辰巳店
 ------
 offset=0x57B0C2
 original=マンドラゴラ 辰巳店
