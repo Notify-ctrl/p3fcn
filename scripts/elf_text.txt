@@ -1200,7 +1200,7 @@ target=CD店
 ------
 offset=0x6CF5C8
 original=牛丼屋
-target=牛丼屋
+target=牛丼店
 ------
 offset=0x6CF5D0
 original=映画馆
