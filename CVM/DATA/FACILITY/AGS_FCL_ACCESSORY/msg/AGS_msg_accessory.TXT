@@ -1,7 +1,7 @@
 AGS_msg_accessory.PTP	0	0	<SELECT>	はい	；是
 AGS_msg_accessory.PTP	0	1	<SELECT>	いいえ	；否
 AGS_msg_accessory.PTP	1	0	女性店員	セ‒ル中よ。{0A}色々見ていってね。	；特卖中哦。{0A}多挑挑看吧。
-AGS_msg_accessory.PTP	2	0	女性店員	ごめんなさい。{0A}売り切れちゃったの。	；抱歉。{0A}已经卖光了
+AGS_msg_accessory.PTP	2	0	女性店員	ごめんなさい。{0A}売り切れちゃったの。	；抱歉。{0A}已经卖光了。
 AGS_msg_accessory.PTP	3	0	女性店員	新しい商品を入荷したの。{0A}見ていってね。	；新商品到货了。{0A}来看看吧。
 AGS_msg_accessory.PTP	4	0	女性店員	全部で{F2 03 01 01}円になりますが{0A}よろしいですか?	；一共是{F2 03 01 01}日元。{0A}可以吗？
 AGS_msg_accessory.PTP	5	0	女性店員	ありがとうございます。	；谢谢。
