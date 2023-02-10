@@ -336,7 +336,7 @@ target=长鸣神社
 ------
 offset=0x57AD9C
 original=1F ラウンジ
-target=1 休闲区
+target=1F 休闲区
 ------
 offset=0x57ADB6
 original=ビ‒チ
