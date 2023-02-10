@@ -944,7 +944,7 @@ target=红色围巾
 ------
 offset=0x4E4528
 original=直江兼续公の兜
-target=直江兼续公的头盔
+target=直江兼续的头盔
 ------
 offset=0x4E4538
 original=无色の假面

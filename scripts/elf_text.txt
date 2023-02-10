@@ -96,7 +96,7 @@ target=网友
 ------
 offset=0x4D8CD8
 original=神社の女の子
-target=神社遇到的小女孩
+target=神社的小女孩
 ------
 offset=0x4D8CE8
 original=谜の少年
@@ -108,7 +108,7 @@ target=同好会的留学生
 ------
 offset=0x4D8D08
 original=テレビ通贩社长
-target=电视购物公司社长
+target=电视购物社长
 ------
 offset=0x4D8D18
 original=型破りな僧侣
@@ -336,7 +336,7 @@ target=长鸣神社
 ------
 offset=0x57AD9C
 original=1F ラウンジ
-target=1 休闲区
+target=1F 休闲区
 ------
 offset=0x57ADB6
 original=ビ‒チ
@@ -456,11 +456,11 @@ target=肯尼思·阿诺德
 ------
 offset=0x57B0A8
 original=ゲ‒ムパニック 辰巳店
-target=GAME PANIC 辰巳分店
+target=GAME PANIC辰巳店
 ------
 offset=0x57B0C2
 original=マンドラゴラ 辰巳店
-target=曼陀罗 辰巳分店
+target=曼陀罗 辰巳店
 ------
 offset=0x57B0DC
 original=辰巳东交番
@@ -472,7 +472,7 @@ target=Be·Blue·V
 ------
 offset=0x57B110
 original=シャガ‒ル 辰巳店
-target=夏加尔 辰巳分店
+target=夏加尔 辰巳店
 ------
 offset=0x57B12A
 original=スクリ‒ンショット
@@ -496,7 +496,7 @@ target=旧书店 书虫
 ------
 offset=0x57B1AC
 original=定食 わかつ 巌户台店
-target=快餐 和胜 岩户台分店
+target=快餐 和胜 岩户台店
 ------
 offset=0x57B1C6
 original=锅岛ラ‒メン·はがくれ
@@ -508,7 +508,7 @@ target=甜品店 小豆洗
 ------
 offset=0x57B1FA
 original=牛专科 海牛 巌户台店
-target=牛肉盖饭 海牛 岩户台分店
+target=牛丼 海牛 岩户台店
 ------
 offset=0x57B214
 original=吃茶 まんがの星☆
@@ -1000,43 +1000,43 @@ target=真次郎
 ------
 offset=0x6CE348
 original=力
-target=力量
+target=力
 ------
 offset=0x6CE350
 original=魔力
-target=魔力
+target=魔
 ------
 offset=0x6CE358
 original=耐久力
-target=耐力
+target=耐
 ------
 offset=0x6CE360
 original=素早さ
-target=速度
+target=速
 ------
 offset=0x6CE368
 original=运
-target=运气
+target=运
 ------
 offset=0x6CE448
 original=力
-target=力量
+target=力
 ------
 offset=0x6CE450
 original=魔力
-target=魔力
+target=魔
 ------
 offset=0x6CE458
 original=耐久力
-target=耐力
+target=耐
 ------
 offset=0x6CE460
 original=素早さ
-target=速度
+target=速
 ------
 offset=0x6CE468
 original=运
-target=运气
+target=运
 ------
 offset=0x6CE6A0
 original=スキル
@@ -1128,7 +1128,7 @@ target=管弦乐
 ------
 offset=0x6CF538
 original=部活
-target=社团活动
+target=社团
 ------
 offset=0x6CF540
 original=屋上
@@ -1200,7 +1200,7 @@ target=CD店
 ------
 offset=0x6CF5C8
 original=牛丼屋
-target=牛肉盖饭店
+target=牛丼店
 ------
 offset=0x6CF5D0
 original=映画馆

@@ -56,7 +56,7 @@ target=管弦乐部
 ------
 offset=0x5A52A8
 original=神社の女の子
-target=神社遇到的小女孩
+target=神社的小女孩
 ------
 offset=0x5A52B8
 original=谜の少年
@@ -68,7 +68,7 @@ target=同好会的留学生
 ------
 offset=0x5A52D8
 original=テレビ通贩社长
-target=电视购物公司社长
+target=电视购物社长
 ------
 offset=0x5A52E8
 original=型破りな僧侣
@@ -340,11 +340,11 @@ target=死神
 ------
 offset=0x6CD590
 original=大晦日
-target=新年前夕
+target=除夕
 ------
 offset=0x6CD598
 original=卒业式
-target=毕业典礼
+target=毕业式
 ------
 offset=0x6CD5A0
 original=说明1
@@ -404,7 +404,7 @@ target=浩克
 ------
 offset=0x6CD710
 original=バス停
-target=巴士站牌
+target=车站牌
 ------
 offset=0x6CD718
 original=骸の杖
@@ -484,7 +484,7 @@ target=绝冷石
 ------
 offset=0x6CDB90
 original=神の贽
-target=神之牺牲
+target=神之贽
 ------
 offset=0x6CDBD0
 original=伤药
@@ -552,7 +552,7 @@ target=匕喜
 ------
 offset=0x6CDCC0
 original=辉く鬣
-target=闪光的鬃毛
+target=辉鬃毛
 ------
 offset=0x6CDCF8
 original=巾着袋
@@ -560,9 +560,9 @@ target=零钱袋
 ------
 offset=0x6CDD20
 original=时の键
-target=时之钥匙
+target=时之钥
 ------
 offset=0x6CDD28
 original=真の键
-target=真正的钥匙
+target=真之钥
 ------

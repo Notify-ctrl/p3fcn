@@ -12,7 +12,7 @@ target={F208}{FFFF}{F13F}>要装备这个人格面具吗？\0
 ------
 offset=0x4D894C
 original={F208}{FFFF}{F13F}>渡せるアイテムがありません。{F104}
-target=>没有可以给予的道具。
+target={F208}{FFFF}{F13F}>没有可以给予的道具。{F104}
 ------
 offset=0x4D8998
 original={F208}{FFFF}{F13F}>この装备を舍てますか?\0
