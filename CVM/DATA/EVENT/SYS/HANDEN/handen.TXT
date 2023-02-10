@@ -23,7 +23,7 @@ handen.PTP	16	0	<SELECT>	行く	；去
 handen.PTP	16	1	<SELECT>	コミュ属性を確認する 	；确认社群属性
 handen.PTP	16	2	<SELECT>	他に予定がある	；有其他计划了
 handen.PTP	17	0	ペルソナ使い	そっか。分かった。	
-handen.PTP	18	0	ペルソナ使い	ほんと?。うれしい!	；真的？好开心
+handen.PTP	18	0	ペルソナ使い	ほんと?。うれしい!	；真的？好开心！
 handen.PTP	19	0	ペルソナ使い	ダミ‒	
 handen.PTP	20	0	ペルソナ使い	ダミ‒	
 handen.PTP	21	0	友近 健二	もしもし‒、オレオレ。{0A}友近だけど、今ちょっといいか?	；喂，是我是我。{0A}我是友近啊，现在有空吗？

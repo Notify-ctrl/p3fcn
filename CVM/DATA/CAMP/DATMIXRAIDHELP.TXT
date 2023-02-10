@@ -4,7 +4,7 @@ DATMIXRAIDHELP.PTP	2	0	<EMPTY>	敵全体に何らかの{0A}バッドステ‒タ
 DATMIXRAIDHELP.PTP	3	0	<EMPTY>	味方全体が1タ‒ンの間{0A}ダメ‒ジを受けなくなる。	；使我方全体一回合内{0A}不受到伤害。
 DATMIXRAIDHELP.PTP	4	0	<EMPTY>	味方単体を1タ‒ンの間{0A}無敵化させるが、その後⋯。	；使我方全体一回合内{0A}无敌，但之后⋯
 DATMIXRAIDHELP.PTP	5	0	<EMPTY>	何が起こるか分からない。	；不知道会发生什么事情。
-DATMIXRAIDHELP.PTP	6	0	<EMPTY>	敵全体に超絶ダメ‒ジ。	；对敌方全体造成超绝伤害
+DATMIXRAIDHELP.PTP	6	0	<EMPTY>	敵全体に超絶ダメ‒ジ。	；对敌方全体造成超绝伤害。
 DATMIXRAIDHELP.PTP	7	0	<EMPTY>	味方全体の回避力が上昇し{0A}HPを50%回復。	；我方全体回避率上升{0A}并回复50%的HP。
 DATMIXRAIDHELP.PTP	8	0	<EMPTY>	敵全体に斬撃属性で{0A}大ダメ‒ジ。	；对敌方全体造成斩击属性{0A}大量伤害。
 DATMIXRAIDHELP.PTP	9	0	<EMPTY>	味方全体のHPを全回復。{0A}まれに⋯。	；使我方全体的HP完全回复。{0A}极低概率会⋯
