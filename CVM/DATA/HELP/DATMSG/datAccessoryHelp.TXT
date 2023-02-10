@@ -62,7 +62,7 @@ datAccessoryHelp.PTP	60	0	<EMPTY>	"氷結"に{0A}かからなくなる。	；不
 datAccessoryHelp.PTP	61	0	<EMPTY>	"感電"に{0A}かからなくなる。	；不再会进入触电状态。
 datAccessoryHelp.PTP	62	0	<EMPTY>	"毒"に{0A}かからなくなる。	；不再会进入中毒状态。
 datAccessoryHelp.PTP	63	0	<EMPTY>	精神系状態異常に{0A}かからなくなる。	；不再会进入精神系异常状态。
-datAccessoryHelp.PTP	64	0	<EMPTY>	万能属性攻撃以外を{0A}無効化する。	；万能属性以外的攻击无效
+datAccessoryHelp.PTP	64	0	<EMPTY>	万能属性攻撃以外を{0A}無効化する。	；万能属性以外的攻击无效。
 datAccessoryHelp.PTP	65	0	<EMPTY>	斬撃属性攻撃に対する{0A}回避率が上昇。	；对斩击属性攻击的{0A}回避率上升。
 datAccessoryHelp.PTP	66	0	<EMPTY>	斬撃属性攻撃に対する{0A}回避率が大上昇。	；对斩击属性攻击的{0A}回避率大幅上升。
 datAccessoryHelp.PTP	67	0	<EMPTY>	打撃属性攻撃に対する{0A}回避率が上昇。	；对打击属性攻击的{0A}回避率上升。
@@ -113,7 +113,7 @@ datAccessoryHelp.PTP	111	0	<EMPTY>	戦闘開始と同時に{0A}スクカジャ�
 datAccessoryHelp.PTP	112	0	<EMPTY>	敵から先制攻撃を{0A}受ける確率が低下。	；受到敌人的先制攻击{0A}的概率下降。
 datAccessoryHelp.PTP	113	0	<EMPTY>	敵からクリティカルを{0A}受ける確率が低下。	；受到敌人会心一击{0A}的概率下降。
 datAccessoryHelp.PTP	114	0	<EMPTY>	敵にクリティカルを{0A}与える確率が上昇。	；给予敌人会心一击{0A}的概率提升。
-datAccessoryHelp.PTP	115	0	<EMPTY>	回避率が大上昇。	；回避率大幅提升
+datAccessoryHelp.PTP	115	0	<EMPTY>	回避率が大上昇。	；回避率大幅提升。
 datAccessoryHelp.PTP	116	0	<EMPTY>	受けるダメ‒ジが{0A}半分になるが、回避不能。	；受到的伤害变为一半{0A}但是无法回避。
 datAccessoryHelp.PTP	117	0	<EMPTY>	魔法使用時の{0A}SPコストが半減。	；使用魔法时{0A}SP消耗减半。
 datAccessoryHelp.PTP	118	0	<EMPTY>	物理攻撃使用時の{0A}HPコストが半減。	；使用物理攻击时{0A}HP消耗减半。
@@ -121,8 +121,8 @@ datAccessoryHelp.PTP	119	0	<EMPTY>	@accessory_3077	；@accessory_3077
 datAccessoryHelp.PTP	120	0	<EMPTY>	@accessory_3078	；@accessory_3078
 datAccessoryHelp.PTP	121	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
 datAccessoryHelp.PTP	122	0	<EMPTY>	使用する回復魔法の{0A}効果が大増加。	；使用回复魔法时的{0A}效果大幅提升。
-datAccessoryHelp.PTP	123	0	<EMPTY>	HPが0になった際、{0A}一度だけHP1で復活。	；HP变为0的时候{0A}仅一次，以HP为1的状态复活
-datAccessoryHelp.PTP	124	0	<EMPTY>	HPが0になった際、{0A}一度だけHP全快で復活。	；HP变为0的时候{0A}仅一次，以HP全满的状态复活
+datAccessoryHelp.PTP	123	0	<EMPTY>	HPが0になった際、{0A}一度だけHP1で復活。	；HP变为0的时候{0A}仅一次，以HP为1的状态复活。
+datAccessoryHelp.PTP	124	0	<EMPTY>	HPが0になった際、{0A}一度だけHP全快で復活。	；HP变为0的时候{0A}仅一次，以HP全满的状态复活。
 datAccessoryHelp.PTP	125	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
 datAccessoryHelp.PTP	126	0	<EMPTY>	リザ‒ブ	；リザ‒ブ
 datAccessoryHelp.PTP	127	0	<EMPTY>	@accessory_307F	；@accessory_307F

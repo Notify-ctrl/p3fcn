@@ -605,7 +605,7 @@ datSkillHelp.PTP	603	0	<EMPTY>	25B
 datSkillHelp.PTP	604	0	<EMPTY>	25C	
 datSkillHelp.PTP	605	0	<EMPTY>	戦闘終了時HP·SPが{0A}小回復。	；战斗结束时HP·SP{0A}小回复。
 datSkillHelp.PTP	606	0	<EMPTY>	戦闘終了時HP·SPが{0A}全回復。	；战斗结束时HP·SP{0A}全回复。
-datSkillHelp.PTP	607	0	<EMPTY>	戦闘中、行動する度に{0A}HPが中回復。	；战斗中，每次行动时{0A}HP中回复
+datSkillHelp.PTP	607	0	<EMPTY>	戦闘中、行動する度に{0A}HPが中回復。	；战斗中，每次行动时{0A}HP中回复。
 datSkillHelp.PTP	608	0	<EMPTY>	戦闘中、行動する度に{0A}HPが中回復。	；战斗中，每次行动时{0A}HP中回复。
 datSkillHelp.PTP	609	0	<EMPTY>	261	
 datSkillHelp.PTP	610	0	<EMPTY>	262	
