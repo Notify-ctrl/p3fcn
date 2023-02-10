@@ -78,3 +78,19 @@ offset=0x5A57C0
 original=>それ以上の力はまだ见えない⋯
 target= >还不能发现更强大的力量⋯
 ------
+offset=0x6CE2F0
+original=ソ‒ド
+target=宝剑
+------
+offset=0x6CE2F8
+original=コイン
+target=星币
+------
+offset=0x6CE300
+original=ワンド
+target=权杖
+------
+offset=0x6CE308
+original=カップ
+target=圣杯
+------
