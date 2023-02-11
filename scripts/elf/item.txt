@@ -384,7 +384,7 @@ target=卡路里咖啡
 ------
 offset=0x4E3710
 original=ミニマムコ‒ヒ‒
-target=MIN咖啡
+target=MINI咖啡
 ------
 offset=0x4E3728
 original=南船桥人工水
