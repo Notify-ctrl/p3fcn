@@ -7,7 +7,7 @@ datWeaponHelp.PTP	5	0	<EMPTY>	病を�うと言われる名刀。	；据说能�
 datWeaponHelp.PTP	6	0	<EMPTY>	日蓮の愛刀である破邪の刀。	；作为日莲的爱刀的破邪之刀。
 datWeaponHelp.PTP	7	0	<EMPTY>	やや重い、長尺の両手剣。	；稍重的长双手剑。
 datWeaponHelp.PTP	8	0	<EMPTY>	両手で扱う柄が長めの剣。	；握柄长到需要双手来握的剑。
-datWeaponHelp.PTP	9	0	<EMPTY>	通常よりかなり長い両手剣。	；比一般的剑要长很多的双手剑。
+datWeaponHelp.PTP	9	0	<EMPTY>	通常よりかなり長い両手剣。	；比一般的剑要长的双手剑。
 datWeaponHelp.PTP	10	0	<EMPTY>	怪しく輝く剣。	；放出奇怪光芒的剑。
 datWeaponHelp.PTP	11	0	<EMPTY>	争いを象徴する剣。	；象征争斗的剑。
 datWeaponHelp.PTP	12	0	<EMPTY>	ジ‒クフリ‒ドの魔剣。	；齐格菲的魔剑。
@@ -33,7 +33,7 @@ datWeaponHelp.PTP	31	0	<EMPTY>	0x01F
 datWeaponHelp.PTP	32	0	<EMPTY>	練習で使われる安価な突剣。	；练习使用的便宜的刺剑。
 datWeaponHelp.PTP	33	0	<EMPTY>	突きに特化した剣。	；特化突刺的剑。
 datWeaponHelp.PTP	34	0	<EMPTY>	錆びる事のない剣。	；不会生锈的剑。
-datWeaponHelp.PTP	35	0	<EMPTY>	レイピアを強化した剣。	；强化了剑身的刺剑。
+datWeaponHelp.PTP	35	0	<EMPTY>	レイピアを強化した剣。	；强化了剑身的剑。
 datWeaponHelp.PTP	36	0	<EMPTY>	防御に特化した小剣。	；特化了防御的小剑。
 datWeaponHelp.PTP	37	0	<EMPTY>	羽の様に軽いレイピア。	；像羽毛一样轻的刺剑。
 datWeaponHelp.PTP	38	0	<EMPTY>	片手でも扱いやすい小剣。	；单手也很容易使用的小剑。
@@ -68,7 +68,7 @@ datWeaponHelp.PTP	66	0	<EMPTY>	怒気を含んだ拳。	；包含了怒气的拳
 datWeaponHelp.PTP	67	0	<EMPTY>	最高技術で作られたグラブ。	；用最高的技术制作的手套。
 datWeaponHelp.PTP	68	0	<EMPTY>	拳闘士が使用するグラブ。	；拳斗士使用的手套。
 datWeaponHelp.PTP	69	0	<EMPTY>	数々の伝説を持つグラブ。	；拥有数个传说的手套。
-datWeaponHelp.PTP	70	0	<EMPTY>	王者のレプリカグラブ。	；王者手套的复制品。
+datWeaponHelp.PTP	70	0	<EMPTY>	王者のレプリカグラブ。	；王者拳套的复制品。
 datWeaponHelp.PTP	71	0	<EMPTY>	安定性を重視した拳武器。	；重视稳定性的拳武器。
 datWeaponHelp.PTP	72	0	<EMPTY>	破壊力を重視した拳武器。	；重视破坏力的拳武器。
 datWeaponHelp.PTP	73	0	<EMPTY>	最もシンプルな拳武器。	；最简单的拳武器。
@@ -192,21 +192,21 @@ datWeaponHelp.PTP	190	0	<EMPTY>	0x0BE
 datWeaponHelp.PTP	191	0	<EMPTY>	0x0BF	
 datWeaponHelp.PTP	192	0	<EMPTY>	0x0C0	
 datWeaponHelp.PTP	193	0	<EMPTY>	0x0C1	
-datWeaponHelp.PTP	194	0	<EMPTY>	帯オルゴン型弾頭を使う銃。	；使用了带奥根能量的弹头的枪械。
+datWeaponHelp.PTP	194	0	<EMPTY>	帯オルゴン型弾頭を使う銃。	；带奥根能量的弹头的枪械。
 datWeaponHelp.PTP	195	0	<EMPTY>	最新式の対シャドウ銃。	；最新型的对阴影枪。
 datWeaponHelp.PTP	196	0	<EMPTY>	その威力、神の接吻。	；威力如同神的接吻。
 datWeaponHelp.PTP	197	0	<EMPTY>	太古の遺産を内蔵した銃。	；内藏了太古遗产的枪械。
-datWeaponHelp.PTP	198	0	<EMPTY>	2指連動の発射機構。	；两指连动发射的机械装置。
-datWeaponHelp.PTP	199	0	<EMPTY>	3指連動の発射機構。	；三指连动发射的机械装置。
-datWeaponHelp.PTP	200	0	<EMPTY>	全5指連動の発射機構。	；五根都能连动发射的机械装置。
-datWeaponHelp.PTP	201	0	<EMPTY>	銃身6段可変の連射機構。	；枪身六段可变的连射机械装置。
-datWeaponHelp.PTP	202	0	<EMPTY>	耐熱限界まで連射する機構。	；直到过热极限之前都可以连射的机械装置。
-datWeaponHelp.PTP	203	0	<EMPTY>	オルギア転用の超連射機構。	；狂宴用的超连射机械装置。
+datWeaponHelp.PTP	198	0	<EMPTY>	2指連動の発射機構。	；两指连动发射的装置。
+datWeaponHelp.PTP	199	0	<EMPTY>	3指連動の発射機構。	；三指连动发射的装置。
+datWeaponHelp.PTP	200	0	<EMPTY>	全5指連動の発射機構。	；五根都能连动发射的装置。
+datWeaponHelp.PTP	201	0	<EMPTY>	銃身6段可変の連射機構。	；枪身六段可变的连射装置。
+datWeaponHelp.PTP	202	0	<EMPTY>	耐熱限界まで連射する機構。	；过热前都可以连射的装置。
+datWeaponHelp.PTP	203	0	<EMPTY>	オルギア転用の超連射機構。	；狂宴用的超连射装置。
 datWeaponHelp.PTP	204	0	<EMPTY>	0x0CC	
 datWeaponHelp.PTP	205	0	<EMPTY>	80ミリの大口径てき弾砲。	；80毫米的大口径炮。
 datWeaponHelp.PTP	206	0	<EMPTY>	電磁誘導で鉄塊を射出。	；通过电磁诱导发射铁块。
 datWeaponHelp.PTP	207	0	<EMPTY>	0x0CF	
-datWeaponHelp.PTP	208	0	<EMPTY>	体内で対消滅反応が発生。	；在体内发声湮灭反应。
+datWeaponHelp.PTP	208	0	<EMPTY>	体内で対消滅反応が発生。	；在体内发生湮灭反应。
 datWeaponHelp.PTP	209	0	<EMPTY>	全ての汚れを焼き�う業火。	；将一切烧尽的业火。
 datWeaponHelp.PTP	210	0	<EMPTY>	基本的な合体銃。	；基本的合体枪械。
 datWeaponHelp.PTP	211	0	<EMPTY>	基本的な合体銃。	；基本的合体枪械。

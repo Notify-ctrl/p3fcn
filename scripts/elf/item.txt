@@ -364,7 +364,7 @@ target=胡椒博士
 ------
 offset=0x4E3698
 original=モロナミンG
-target=MORONAMIN-G
+target=奥乐蜜G
 ------
 offset=0x4E36A8
 original=刚健美茶
@@ -404,7 +404,7 @@ target=纯粹蜂蜜
 ------
 offset=0x4E3758
 original=充实イチジク
-target=丰富百香果
+target=丰富无花果
 ------
 offset=0x4E3770
 original=ヴラドツェペシュ
@@ -696,7 +696,7 @@ target=美容补剂
 ------
 offset=0x4E3C40
 original=パワフルプロテイン
-target=强力蛋白质
+target=强力蛋白粉
 ------
 offset=0x4E3C58
 original=树液ゼリ‒
