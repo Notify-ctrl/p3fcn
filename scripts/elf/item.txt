@@ -876,7 +876,7 @@ target=点心钥匙
 ------
 offset=0x4E4388
 original=メカの素
-target=机械精华
+target=机械原素
 ------
 offset=0x4E4398
 original=纟の切れた人形
