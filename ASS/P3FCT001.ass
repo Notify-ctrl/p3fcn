@@ -19,16 +19,16 @@ Video Position: 2902
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,HYRuiHuSongW,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,HYRuiHuSongW,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,110,100,0,0,1,2,2,2,10,10,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.58,0:00:16.76,Default,,0,0,0,,这可能是...
-Dialogue: 0,0:00:16.78,0:00:21.02,Default,,0,0,0,,我们自己将要面对的“试炼”
-Dialogue: 0,0:01:04.86,0:01:08.62,Default,,0,0,0,,拥有未来，与创造未来
-Dialogue: 0,0:01:08.62,0:01:10.62,Default,,0,0,0,,这完全是两码事
-Dialogue: 0,0:01:11.34,0:01:13.22,Default,,0,0,0,,那种理所应当的事情
-Dialogue: 0,0:01:13.22,0:01:15.22,Default,,0,0,0,,我们却都还不知道
-Dialogue: 0,0:01:30.84,0:01:33.86,Default,,0,0,0,,的确，我们对此一无所知
-Dialogue: 0,0:01:35.06,0:01:36.80,Default,,0,0,0,,开辟未来的钥匙
-Dialogue: 0,0:01:36.80,0:01:38.80,Default,,0,0,0,,到底要怎么使用呢
+Dialogue: 0,0:00:15.58,0:00:16.76,Default,,0,0,0,,这可能是由我们自己…
+Dialogue: 0,0:00:16.78,0:00:21.02,Default,,0,0,0,,招致的试炼
+Dialogue: 0,0:01:04.86,0:01:08.62,Default,,0,0,0,,“拥有未来”与“开辟未来”
+Dialogue: 0,0:01:08.62,0:01:10.62,Default,,0,0,0,,这完全是两码事…
+Dialogue: 0,0:01:11.34,0:01:13.22,Default,,0,0,0,,这种事明明理所应当
+Dialogue: 0,0:01:13.22,0:01:15.22,Default,,0,0,0,,然而 我们曾一无所知。
+Dialogue: 0,0:01:30.84,0:01:33.86,Default,,0,0,0,,确实 我们曾对此一无所知
+Dialogue: 0,0:01:35.06,0:01:36.80,Default,,0,0,0,,开辟未来的“钥匙”
+Dialogue: 0,0:01:36.80,0:01:38.80,Default,,0,0,0,,究竟该如何使用…

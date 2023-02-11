@@ -212,12 +212,12 @@ datSkillHelp.PTP	210	0	<EMPTY>	一定タ‒ン敵単体の{0A}防御力を下げ
 datSkillHelp.PTP	211	0	<EMPTY>	一定タ‒ン敵全体の{0A}防御力を下げる。	；一定回合内敌方全体{0A}防御力下降。
 datSkillHelp.PTP	212	0	<EMPTY>	味方全体の{0A}ステ‒タス下降効果を消す。	；消除我方全体的{0A}属性下降效果。
 datSkillHelp.PTP	213	0	<EMPTY>	0D5	
-datSkillHelp.PTP	214	0	<EMPTY>	一定タ‒ン味方単体の{0A}攻撃力を上げる。	；一定回合内我方单体的{0A}攻击力上升。
-datSkillHelp.PTP	215	0	<EMPTY>	一定タ‒ン味方全体の{0A}攻撃力を上げる。	；一定回合内我方全体的{0A}攻击力上升。
-datSkillHelp.PTP	216	0	<EMPTY>	一定タ‒ン味方単体の{0A}命中、回避率を上げる。	；一定回合内我方单体的{0A}命中、回避率上升。
-datSkillHelp.PTP	217	0	<EMPTY>	一定タ‒ン味方全体の{0A}命中、回避率を上げる。	；一定回合内我方全体的{0A}命中、回避率上升。
-datSkillHelp.PTP	218	0	<EMPTY>	一定タ‒ン味方単体の{0A}防御力を上げる。	；一定回合内我方单体的{0A}防御力上升。
-datSkillHelp.PTP	219	0	<EMPTY>	一定タ‒ン味方全体の{0A}防御力を上げる。	；一定回合内我方全体的{0A}防御力上升。
+datSkillHelp.PTP	214	0	<EMPTY>	一定タ‒ン味方単体の{0A}攻撃力を上げる。	；一定回合内我方单体{0A}攻击力上升。
+datSkillHelp.PTP	215	0	<EMPTY>	一定タ‒ン味方全体の{0A}攻撃力を上げる。	；一定回合内我方全体{0A}攻击力上升。
+datSkillHelp.PTP	216	0	<EMPTY>	一定タ‒ン味方単体の{0A}命中、回避率を上げる。	；一定回合内我方单体{0A}命中、回避率上升。
+datSkillHelp.PTP	217	0	<EMPTY>	一定タ‒ン味方全体の{0A}命中、回避率を上げる。	；一定回合内我方全体{0A}命中、回避率上升。
+datSkillHelp.PTP	218	0	<EMPTY>	一定タ‒ン味方単体の{0A}防御力を上げる。	；一定回合内我方单体{0A}防御力上升。
+datSkillHelp.PTP	219	0	<EMPTY>	一定タ‒ン味方全体の{0A}防御力を上げる。	；一定回合内我方全体{0A}防御力上升。
 datSkillHelp.PTP	220	0	<EMPTY>	使用後の物理攻撃威力が{0A}一度だけ、2倍以上になる。	；使用后仅限一次{0A}物理攻击的威力达到二倍以上。
 datSkillHelp.PTP	221	0	<EMPTY>	使用後の魔法攻撃威力が{0A}一度だけ、2倍以上になる。	；使用后仅限一次{0A}魔法攻击的威力达到二倍以上。
 datSkillHelp.PTP	222	0	<EMPTY>	0DE	
@@ -605,7 +605,7 @@ datSkillHelp.PTP	603	0	<EMPTY>	25B
 datSkillHelp.PTP	604	0	<EMPTY>	25C	
 datSkillHelp.PTP	605	0	<EMPTY>	戦闘終了時HP·SPが{0A}小回復。	；战斗结束时HP·SP{0A}小回复。
 datSkillHelp.PTP	606	0	<EMPTY>	戦闘終了時HP·SPが{0A}全回復。	；战斗结束时HP·SP{0A}全回复。
-datSkillHelp.PTP	607	0	<EMPTY>	戦闘中、行動する度に{0A}HPが中回復。	；战斗中，每次行动时{0A}HP中回复
+datSkillHelp.PTP	607	0	<EMPTY>	戦闘中、行動する度に{0A}HPが中回復。	；战斗中，每次行动时{0A}HP中回复。
 datSkillHelp.PTP	608	0	<EMPTY>	戦闘中、行動する度に{0A}HPが中回復。	；战斗中，每次行动时{0A}HP中回复。
 datSkillHelp.PTP	609	0	<EMPTY>	261	
 datSkillHelp.PTP	610	0	<EMPTY>	262	

@@ -1,2 +1,2 @@
-BSV402_AEGIS(315).PTP	0	0	<EMPTY>	敌残数、2!	
-BSV402_AEGIS(315).PTP	1	0	<EMPTY>	メティス、敌を击破!	
+BSV402_AEGIS(315).PTP	0	0	<EMPTY>	敌残数、2!	敌人余数2！
+BSV402_AEGIS(315).PTP	1	0	<EMPTY>	メティス、敌を击破!	梅蒂斯击破敌人了！

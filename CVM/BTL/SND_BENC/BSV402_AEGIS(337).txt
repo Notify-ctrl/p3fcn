@@ -1,5 +1,5 @@
-BSV402_AEGIS(337).PTP	0	0	<EMPTY>	やりました!{0A}敌、体势を崩しました!	
-BSV402_AEGIS(337).PTP	1	0	<EMPTY>	ナイスです!{0A}敌の体势が崩れました!	
-BSV402_AEGIS(337).PTP	2	0	<EMPTY>	やった!{0A}起死回生!	
-BSV402_AEGIS(337).PTP	3	0	<EMPTY>	凄いっ、よけた!	
-BSV402_AEGIS(337).PTP	4	0	<EMPTY>	お见事です!	
+BSV402_AEGIS(337).PTP	0	0	<EMPTY>	やりました!{0A}敌、体势を崩しました!	做得好！{0A}敌人倒地了！
+BSV402_AEGIS(337).PTP	1	0	<EMPTY>	ナイスです!{0A}敌の体势が崩れました!	做得好！{0A}敌人倒地了！
+BSV402_AEGIS(337).PTP	2	0	<EMPTY>	やった!{0A}起死回生!	太好了！{0A}起死回生！
+BSV402_AEGIS(337).PTP	3	0	<EMPTY>	凄いっ、よけた!	好厉害，闪开了！
+BSV402_AEGIS(337).PTP	4	0	<EMPTY>	お见事です!	精彩！

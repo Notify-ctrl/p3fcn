@@ -1,6 +1,6 @@
 datEventItemHelp.PTP	0	0	<EMPTY>	@eventitem_000	
-datEventItemHelp.PTP	1	0	<EMPTY>	青色をした鍵。{0A}ベルベットル‒ムの扉を開く。	；蓝色的钥匙。{0A}可以打开天鹅绒房间的门
-datEventItemHelp.PTP	2	0	<EMPTY>	バスタ‒ドライブが落とした{0A}鋼鉄の破片。 無意味に重い。	；巴斯塔驱动器掉落的{0A}钢铁的碎片。重的毫无意义。
+datEventItemHelp.PTP	1	0	<EMPTY>	青色をした鍵。{0A}ベルベットル‒ムの扉を開く。	；蓝色的钥匙。{0A}可以打开天鹅绒房间的门。
+datEventItemHelp.PTP	2	0	<EMPTY>	バスタ‒ドライブが落とした{0A}鋼鉄の破片。 無意味に重い。	；屠杀驱力掉落的{0A}钢铁的碎片。重的毫无意义。
 datEventItemHelp.PTP	3	0	<EMPTY>	5003	
 datEventItemHelp.PTP	4	0	<EMPTY>	友近が作ったチョ‒カ‒。{0A}究極の力·スルトを開く鍵。	；友近制作的项圈。{0A}打开究极之力·斯尔特的钥匙。
 datEventItemHelp.PTP	5	0	<EMPTY>	まだ⋯無い⋯ッ	
@@ -10,12 +10,12 @@ datEventItemHelp.PTP	8	0	<EMPTY>	文吉の息子が植えた木の実。{0A}究�
 datEventItemHelp.PTP	9	0	<EMPTY>	ゆかりの思い出のストラップ。{0A}究極の力·キュベレを開く鍵。	；有由加莉的回忆的挂件。{0A}打开究极之力·西布莉的钥匙。
 datEventItemHelp.PTP	10	0	<EMPTY>	風花特製イヤホン。{0A}究極の力·スカアハを開く鍵。	；风花特制的耳机。{0A}打开究极之力·斯卡哈的钥匙。
 datEventItemHelp.PTP	11	0	<EMPTY>	美鶴のバイクのキ‒。{0A}究極の力·アリラトを開く鍵。	；美鹤的摩托车钥匙。{0A}打开究极之力·威灵的钥匙。
-datEventItemHelp.PTP	12	0	<EMPTY>	結子とのコ‒チ記念。究極の力{0A}ジ‒クフリ‒ドを開く鍵。	；和结子指导训练的纪念照片。{0A}打开究极之力·齐格菲的钥匙。
+datEventItemHelp.PTP	12	0	<EMPTY>	結子とのコ‒チ記念。究極の力{0A}ジ‒クフリ‒ドを開く鍵。	；和结子指导训练的纪念品。{0A}打开究极之力·齐格菲的钥匙。
 datEventItemHelp.PTP	13	0	<EMPTY>	千尋の大事な本。究極の力{0A}メルキセデクを開く鍵。	；对千寻很重要的书。{0A}打开究极之力·默基瑟德的钥匙。
 datEventItemHelp.PTP	14	0	<EMPTY>	宮本と甥との約束の証。{0A}究極の力·ト‒ルを開く鍵。	；宫本和外甥的约定之证。{0A}打开究极之力·托尔的钥匙。
 datEventItemHelp.PTP	15	0	<EMPTY>	まだ⋯無い⋯ッ	
-datEventItemHelp.PTP	16	0	<EMPTY>	Y子特製画像。究極の力{0A}アラハバキを開く鍵。	；Y子的特制画像。{0A}打开究极之力·荒霸吐的钥匙。
-datEventItemHelp.PTP	17	0	<EMPTY>	平賀の受賞通知。{0A}究極の力·ノルンを開く鍵。	；平贺的获奖通知。{0A}打开究极之力·诺伦的钥匙。
+datEventItemHelp.PTP	16	0	<EMPTY>	Y子特製画像。究極の力{0A}アラハバキを開く鍵。	；Y子的特制图像。{0A}打开究极之力·荒霸吐的钥匙。
+datEventItemHelp.PTP	17	0	<EMPTY>	平賀の受賞通知。{0A}究極の力·ノルンを開く鍵。	；平贺的获奖通知书。{0A}打开究极之力·诺伦的钥匙。
 datEventItemHelp.PTP	18	0	<EMPTY>	損傷したアイギスの部品。{0A}究極の力·メタトロンを開く鍵。	；受损伤的艾吉斯的零件。{0A}打开究极之力·梅塔特隆的钥匙。
 datEventItemHelp.PTP	19	0	<EMPTY>	舞子のプロポ‒ズの贈り物。{0A}究極の力·アティスを開く鍵。	；舞子的求婚礼物。{0A}打开究极之力·阿提斯的钥匙。
 datEventItemHelp.PTP	20	0	<EMPTY>	まだ⋯無い⋯ッ	
@@ -24,19 +24,19 @@ datEventItemHelp.PTP	22	0	<EMPTY>	たなかの募金記念。究極の力{0A}ベ
 datEventItemHelp.PTP	23	0	<EMPTY>	無達のボトルのプレ‒ト。{0A}究極の力·シュウを開く鍵。	；无达瓶子上的铭牌。{0A}打开究极之力·蚩尤的钥匙。
 datEventItemHelp.PTP	24	0	<EMPTY>	早瀬の父親の形見。{0A}究極の力·ルシフェルを開く鍵。	；早濑父亲的遗物。{0A}打开究极之力·路西菲尔的钥匙。
 datEventItemHelp.PTP	25	0	<EMPTY>	末光の後継者の証。究極の力{0A}サンダルフォンを開く鍵。	；末光的后继者之证。{0A}打开究极之力·圣达芬的钥匙。
-datEventItemHelp.PTP	26	0	<EMPTY>	物語が綴られた神木のノ‒ト。{0A}究極の力·アスラおうを開く鍵。	；神木写满故事的笔记。{0A}打开究极之力·阿修罗王的钥匙。
+datEventItemHelp.PTP	26	0	<EMPTY>	物語が綴られた神木のノ‒ト。{0A}究極の力·アスラおうを開く鍵。	；神木写满故事的笔记本。{0A}打开究极之力·阿修罗王的钥匙。
 datEventItemHelp.PTP	27	0	<EMPTY>	501B	
 datEventItemHelp.PTP	28	0	<EMPTY>	年代物の万年筆。{0A}軸が血のように赤い。	；年代久远的钢笔。{0A}笔杆如同血一样红。
 datEventItemHelp.PTP	29	0	<EMPTY>	学校に生えている{0A}若木の落ち葉。	；在学校里生长的{0A}小树的落叶。
 datEventItemHelp.PTP	30	0	<EMPTY>	501E	
 datEventItemHelp.PTP	31	0	<EMPTY>	501F	
 datEventItemHelp.PTP	32	0	<EMPTY>	エリザベスに勝利した証。{0A}彼女が大切にしていた品。	；战胜伊丽莎白的证明。{0A}是她很珍惜的东西。
-datEventItemHelp.PTP	33	0	<EMPTY>	死神·ペイルライダ‒が{0A}合体で作成可能になる。	；死神·苍白骑士{0A}可以合体合成了。
-datEventItemHelp.PTP	34	0	<EMPTY>	皇帝·キングフロストが{0A}合体で作成可能になる。	；皇帝·霜精之王{0A}可以合体合成了。
-datEventItemHelp.PTP	35	0	<EMPTY>	戦車·ナタタイシが{0A}合体で作成可能になる。	；战车·哪吒太子{0A}可以合体合成了。
-datEventItemHelp.PTP	36	0	<EMPTY>	隠者·ネビロスが{0A}合体で作成可能になる。	；隐者·奈比洛斯{0A}可以合体合成了。
-datEventItemHelp.PTP	37	0	<EMPTY>	悪魔·リリスが{0A}合体で作成可能になる。	；恶魔·莉莉丝{0A}可以合体合成了。
-datEventItemHelp.PTP	38	0	<EMPTY>	塔·マサカドが{0A}合体で作成可能になる。	；塔·平将门{0A}可以合体合成了。
+datEventItemHelp.PTP	33	0	<EMPTY>	死神·ペイルライダ‒が{0A}合体で作成可能になる。	；死神·苍白骑士{0A}可以合成了。
+datEventItemHelp.PTP	34	0	<EMPTY>	皇帝·キングフロストが{0A}合体で作成可能になる。	；皇帝·霜精之王{0A}可以合成了。
+datEventItemHelp.PTP	35	0	<EMPTY>	戦車·ナタタイシが{0A}合体で作成可能になる。	；战车·哪吒太子{0A}可以合成了。
+datEventItemHelp.PTP	36	0	<EMPTY>	隠者·ネビロスが{0A}合体で作成可能になる。	；隐者·奈比洛斯{0A}可以合成了。
+datEventItemHelp.PTP	37	0	<EMPTY>	悪魔·リリスが{0A}合体で作成可能になる。	；恶魔·莉莉丝{0A}可以合成了。
+datEventItemHelp.PTP	38	0	<EMPTY>	塔·マサカドが{0A}合体で作成可能になる。	；塔·平将门{0A}可以合成了。
 datEventItemHelp.PTP	39	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
 datEventItemHelp.PTP	40	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
 datEventItemHelp.PTP	41	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
@@ -46,13 +46,13 @@ datEventItemHelp.PTP	44	0	<EMPTY>	タルタロスで拾った文書。{0A}10年�
 datEventItemHelp.PTP	45	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
 datEventItemHelp.PTP	46	0	<EMPTY>	タルタロスで拾った文書。{0A}10年前の機密文書らしい。	；塔耳塔洛斯内捡到的文件。{0A}貌似是十年前的机密文件。
 datEventItemHelp.PTP	47	0	<EMPTY>	@eventitem_047	
-datEventItemHelp.PTP	48	0	<EMPTY>	魔術師·カハクが{0A}合体で作成可能になる。	；魔术师·花魄{0A}可以合体合成了。
-datEventItemHelp.PTP	49	0	<EMPTY>	法王·ト‒トが{0A}合体で作成可能になる。	；法王·图特{0A}可以合体合成了。
-datEventItemHelp.PTP	50	0	<EMPTY>	運命·エンプ‒サが{0A}合体で作成可能になる。	；命运·恩浦萨{0A}可以合体合成了。
-datEventItemHelp.PTP	51	0	<EMPTY>	星·カルティケ‒ヤが{0A}合体で作成可能になる。	；星·室建陀{0A}可以合体合成了。
-datEventItemHelp.PTP	52	0	<EMPTY>	刑死者·ヘルズエンジェル{0A}が合体で作成可能になる。	；刑死者·地狱天使{0A}可以合体合成了。
+datEventItemHelp.PTP	48	0	<EMPTY>	魔術師·カハクが{0A}合体で作成可能になる。	；魔术师·花魄{0A}可以合成了。
+datEventItemHelp.PTP	49	0	<EMPTY>	法王·ト‒トが{0A}合体で作成可能になる。	；法王·图特{0A}可以合成了。
+datEventItemHelp.PTP	50	0	<EMPTY>	運命·エンプ‒サが{0A}合体で作成可能になる。	；命运·恩浦萨{0A}可以合成了。
+datEventItemHelp.PTP	51	0	<EMPTY>	星·カルティケ‒ヤが{0A}合体で作成可能になる。	；星·室建陀{0A}可以合成了。
+datEventItemHelp.PTP	52	0	<EMPTY>	刑死者·ヘルズエンジェル{0A}が合体で作成可能になる。	；刑死者·地狱天使{0A}可以合成了。
 datEventItemHelp.PTP	53	0	<EMPTY>	戦国時代の兜のレプリカ。{0A}愛の字の装飾が�しい。	；战国时候的头盔的复制品。{0A}有“爱”字的装饰。
-datEventItemHelp.PTP	54	0	<EMPTY>	愚者·オルフェウス·改が{0A}合体で作成可能になる。	；愚者·俄耳甫斯·改{0A}可以合体合成了。
+datEventItemHelp.PTP	54	0	<EMPTY>	愚者·オルフェウス·改が{0A}合体で作成可能になる。	；愚者·俄耳甫斯·改{0A}可以合成了。
 datEventItemHelp.PTP	55	0	<EMPTY>	弓道用品のぎり粉のこと。{0A}きな粉にそっくり。	；弓道用品的松香粉。{0A}很像黄豆粉。
 datEventItemHelp.PTP	56	0	<EMPTY>	刀身の断面が三角形の{0A}曲がりにくい突剣。	；刀身的截面是三角形的{0A}不易弯曲的刺剑。
 datEventItemHelp.PTP	57	0	<EMPTY>	眼鏡以外にも色んな物を{0A}拭いた形跡がある。	；除了眼镜以外{0A}也有擦过很多东西的痕迹。
@@ -64,7 +64,7 @@ datEventItemHelp.PTP	62	0	<EMPTY>	アマチュアのアスリ‒トが{0A}使う
 datEventItemHelp.PTP	63	0	<EMPTY>	高価なドッグフ‒ド。{0A}狼や虎の餌にもなる。	；昂贵的狗粮。{0A}可以做狼和老虎的食物。
 datEventItemHelp.PTP	64	0	<EMPTY>	銃器のメンテナンスに{0A}用いる。	；维护枪械用。
 datEventItemHelp.PTP	65	0	<EMPTY>	8つ全てを合わせる事で{0A}扉を開く鍵となる。	；集齐八个，就能合成{0A}开门的钥匙。
-datEventItemHelp.PTP	66	0	<EMPTY>	閉ざされた扉を開き、{0A}外へ出る事ができる鍵。	；能打开关闭的门{0A}到外面去的钥匙
+datEventItemHelp.PTP	66	0	<EMPTY>	閉ざされた扉を開き、{0A}外へ出る事ができる鍵。	；能打开关闭的门{0A}到外面去的钥匙。
 datEventItemHelp.PTP	67	0	<EMPTY>	@eventitem_067	
 datEventItemHelp.PTP	68	0	<EMPTY>	@eventitem_068	
 datEventItemHelp.PTP	69	0	<EMPTY>	@eventitem_069	

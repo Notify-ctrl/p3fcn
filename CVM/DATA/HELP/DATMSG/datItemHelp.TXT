@@ -136,8 +136,8 @@ datItemHelp.PTP	134	0	<EMPTY>	カニの形をしてはいるが、{0A}決して�
 datItemHelp.PTP	135	0	<EMPTY>	パンを油で揚げたパン。{0A}昭和の味。	；油炸过的面包。{0A}昭和的风味。
 datItemHelp.PTP	136	0	<EMPTY>	コ‒ヒ‒をゼラチンで{0A}固めた物。 大人の味。	；用明胶把咖啡凝固起来的食物。{0A}大人的味道。
 datItemHelp.PTP	137	0	<EMPTY>	チョコレ‒トをふんだんに{0A}使ったケ‒キ。	；使用了大量巧克力{0A}的蛋糕。
-datItemHelp.PTP	138	0	<EMPTY>	風花の手作りクッキ‒。{0A}食べられるらしい。	；风花的手制饼干。{0A}好像能吃。
-datItemHelp.PTP	139	0	<EMPTY>	高級だが{0A}ノンアルコ‒ル。	；高级{0A}不过不含酒精。
+datItemHelp.PTP	138	0	<EMPTY>	風花の手作りクッキ‒。{0A}食べられるらしい。	；风花的自制饼干。{0A}好像能吃。
+datItemHelp.PTP	139	0	<EMPTY>	高級だが{0A}ノンアルコ‒ル。	；虽然是高级品{0A}但不含酒精。
 datItemHelp.PTP	140	0	<EMPTY>	結子が作ってくれた{0A}特製シップ薬。	；结子制作的{0A}特制晕船药。
 datItemHelp.PTP	141	0	<EMPTY>	千尋が作ってくれた{0A}可愛らしいキ‒ホルダ‒。	；千寻制作的{0A}可爱的钥匙圈。
 datItemHelp.PTP	142	0	<EMPTY>	リザ‒ブ{0A}リザ‒ブ	
@@ -156,17 +156,17 @@ datItemHelp.PTP	154	0	<EMPTY>	白く輝く太刀つば。{0A}高く売れそう�
 datItemHelp.PTP	155	0	<EMPTY>	黒く輝く太刀つば。{0A}高く売れそうだ。	；闪着黑光的太刀刀锷。{0A}应该能买个好价钱。
 datItemHelp.PTP	156	0	<EMPTY>	リザ‒ブ{0A}リザ‒ブ	
 datItemHelp.PTP	157	0	<EMPTY>	リザ‒ブ{0A}リザ‒ブ	
-datItemHelp.PTP	158	0	<EMPTY>	宝物の手が落とした、{0A}鉛製のメダル。	；宝物之手掉落的{0A}铅质的奖牌。
-datItemHelp.PTP	159	0	<EMPTY>	財宝の手が落とした、{0A}鋼製のメダル。	；财宝之手掉落的{0A}钢质的奖牌。
-datItemHelp.PTP	160	0	<EMPTY>	至高の手が落とした、{0A}銅製のメダル。	；至高之手掉落的{0A}铜质的奖牌。
-datItemHelp.PTP	161	0	<EMPTY>	全盛の手が落とした、{0A}銀製のメダル。	；全盛之手掉落的{0A}银质的奖牌。
-datItemHelp.PTP	162	0	<EMPTY>	栄華の手が落とした、{0A}金製のメダル。	；荣华之手掉落的{0A}金质的奖牌。
+datItemHelp.PTP	158	0	<EMPTY>	宝物の手が落とした、{0A}鉛製のメダル。	；宝物之手掉落的{0A}铅质的奖章。
+datItemHelp.PTP	159	0	<EMPTY>	財宝の手が落とした、{0A}鋼製のメダル。	；财宝之手掉落的{0A}钢质的奖章。
+datItemHelp.PTP	160	0	<EMPTY>	至高の手が落とした、{0A}銅製のメダル。	；至高之手掉落的{0A}铜质的奖章。
+datItemHelp.PTP	161	0	<EMPTY>	全盛の手が落とした、{0A}銀製のメダル。	；全盛之手掉落的{0A}银质的奖章。
+datItemHelp.PTP	162	0	<EMPTY>	栄華の手が落とした、{0A}金製のメダル。	；荣华之手掉落的{0A}金质的奖章。
 datItemHelp.PTP	163	0	<EMPTY>	捨てられてた人体模型。{0A}リアルすぎて迫力満点。	；被丢弃的人体模型。{0A}过于逼真很有压迫力。
 datItemHelp.PTP	164	0	<EMPTY>	月光音頭が収録されたCD。{0A}歌詞カ‒ド付き。	；收录了月光音头的CD。{0A}附有歌词卡。
 datItemHelp.PTP	165	0	<EMPTY>	ノンアルコ‒ルだが、{0A}少し大人の気分が味わえる。	；虽然不含酒精，{0A}但是稍微有点大人感觉的味道。
 datItemHelp.PTP	166	0	<EMPTY>	雀荘で貰ったマ‒ジャン牌。{0A}イ‒ソ‒と言うらしい。	；在雀庄得到的麻将牌。{0A}好像叫做一条。
 datItemHelp.PTP	167	0	<EMPTY>	おばちゃんのくれた、{0A}いなり寿司。	；大妈给的{0A}稻荷寿司。
-datItemHelp.PTP	168	0	<EMPTY>	栄光の手が落とした、{0A}プラチナ製のメダル。	；荣光之手掉落的{0A}白金制的奖牌。
+datItemHelp.PTP	168	0	<EMPTY>	栄光の手が落とした、{0A}プラチナ製のメダル。	；荣光之手掉落的{0A}白金制的奖章。
 datItemHelp.PTP	169	0	<EMPTY>	ブロンズダイスから{0A}入手した、銅製のコマ。	；青铜骰子得到的{0A}铜制的陀螺。
 datItemHelp.PTP	170	0	<EMPTY>	情欲の蛇から{0A}入手した、黒いウロコ。	；从情欲之蛇得到的{0A}黑色的鳞片。
 datItemHelp.PTP	171	0	<EMPTY>	生成の彫像から{0A}入手した、像の破片。	；从生成雕像得到的{0A}雕像的碎片。
@@ -185,7 +185,7 @@ datItemHelp.PTP	183	0	<EMPTY>	刈り取る者から{0A}入手した、古いボ�
 datItemHelp.PTP	184	0	<EMPTY>	黒く輝く石の破片。{0A}高く売れそうだ。	；发出黑色光芒的石头的碎片。{0A}应该能买个好价钱。
 datItemHelp.PTP	185	0	<EMPTY>	黒く輝く石の結晶。{0A}高く売れそうだ。	；发出黑色光芒的石头的结晶。{0A}应该能买个好价钱。
 datItemHelp.PTP	186	0	<EMPTY>	金色の仮面。{0A}高く売れそうだ。	；金色的面具。{0A}应该能买个好价钱。
-datItemHelp.PTP	187	0	<EMPTY>	鮮やかに染め上げられた布。{0A}高く売れそうだ。	；染得鲜艳的布。{0A}应该能买个好价钱。
+datItemHelp.PTP	187	0	<EMPTY>	鮮やかに染め上げられた布。{0A}高く売れそうだ。	；染得鲜艳的布料。{0A}应该能买个好价钱。
 datItemHelp.PTP	188	0	<EMPTY>	巨大な蟲のツノ。{0A}高く売れそうだ。	；巨大的虫角。{0A}应该能买个好价钱。
 datItemHelp.PTP	189	0	<EMPTY>	特徴的な形の髭。{0A}高く売れそうだ。	；有特征形状的胡须。{0A}应该能买个好价钱。
 datItemHelp.PTP	190	0	<EMPTY>	巨大な戦車の車輪。{0A}高く売れそうだ。	；巨大战车的车轮。{0A}应该能买个好价钱。
@@ -207,14 +207,14 @@ datItemHelp.PTP	205	0	<EMPTY>	手の殺菌効果も期待できる。{0A}高く�
 datItemHelp.PTP	206	0	<EMPTY>	老眼の人にしか使えない。{0A}高く売れそうだ。	；只有老花眼的人可以使用。{0A}应该能买个好价钱。
 datItemHelp.PTP	207	0	<EMPTY>	光り物好きの赤ちゃん向け。{0A}高く売れそうだ。	；面向喜欢发光物的婴儿。{0A}应该能买个好价钱。
 datItemHelp.PTP	208	0	<EMPTY>	豪華な花粉症対策ができる。{0A}高く売れそうだ。	；豪华的花粉症对策。{0A}应该能买个好价钱。
-datItemHelp.PTP	209	0	<EMPTY>	�麗だが軽いのが難点。{0A}高く売れそうだ。	；漂亮但是轻是难点。{0A}应该能买个好价钱。
-datItemHelp.PTP	210	0	<EMPTY>	岩をも砕く鋼鉄の腕。{0A}高く売れそうだ。	；连岩石都可以击碎的钢铁之手。{0A}应该能买个好价钱。
+datItemHelp.PTP	209	0	<EMPTY>	�麗だが軽いのが難点。{0A}高く売れそうだ。	；漂亮，但是太轻了。{0A}应该能买个好价钱。
+datItemHelp.PTP	210	0	<EMPTY>	岩をも砕く鋼鉄の腕。{0A}高く売れそうだ。	；连岩石都可以击碎的钢铁的手腕。{0A}应该能买个好价钱。
 datItemHelp.PTP	211	0	<EMPTY>	主を亡くした大きな車輪。{0A}高く売れそうだ。	；失去主人的巨大车轮。{0A}应该能买个好价钱。
 datItemHelp.PTP	212	0	<EMPTY>	美しく輝く獣の�。{0A}高く売れそうだ。	；发出美丽光芒的野兽之牙。{0A}应该能买个好价钱。
 datItemHelp.PTP	213	0	<EMPTY>	黒く輝く大きなハ‒ト。{0A}高く売れそうだ。	；发出黑色光芒的巨大的心。{0A}应该能买个好价钱。
-datItemHelp.PTP	214	0	<EMPTY>	炎を生み出す不思議な塊。{0A}高く売れそうだ。	；能生出火炎的不可思议的块。{0A}应该能买个好价钱。
-datItemHelp.PTP	215	0	<EMPTY>	雷を生み出す不思議な塊。{0A}高く売れそうだ。	；能生出雷的不可思议的块。{0A}应该能买个好价钱。
-datItemHelp.PTP	216	0	<EMPTY>	氷を生み出す不思議な塊。{0A}高く売れそうだ。	；能生出水的不可思议的块。{0A}应该能买个好价钱。
+datItemHelp.PTP	214	0	<EMPTY>	炎を生み出す不思議な塊。{0A}高く売れそうだ。	；能生出火焰的不可思议的块。{0A}应该能买个好价钱。
+datItemHelp.PTP	215	0	<EMPTY>	雷を生み出す不思議な塊。{0A}高く売れそうだ。	；能生出雷电的不可思议的块。{0A}应该能买个好价钱。
+datItemHelp.PTP	216	0	<EMPTY>	氷を生み出す不思議な塊。{0A}高く売れそうだ。	；能生出冰块的不可思议的块。{0A}应该能买个好价钱。
 datItemHelp.PTP	217	0	<EMPTY>	空中に浮かぶ玉座。{0A}高く売れそうだ。	；浮在空中的王座。{0A}应该能买个好价钱。
 datItemHelp.PTP	218	0	<EMPTY>	永遠の炎が宿る聖杯。{0A}高く売れそうだ。	；宿有永恒之火的圣杯。{0A}应该能买个好价钱。
 datItemHelp.PTP	219	0	<EMPTY>	朱色に輝く巨大な首輪。{0A}高く売れそうだ。	；闪耀着红色的巨大项圈。{0A}应该能买个好价钱。

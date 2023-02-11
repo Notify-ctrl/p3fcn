@@ -1,4 +1,4 @@
-BSV402_AEGIS(207).PTP	0	0	<EMPTY>	讨伐终了!{0A}シャドウ反应消失しました!	
-BSV402_AEGIS(207).PTP	1	0	<EMPTY>	讨伐终了。{0A}お疲れ样でした!	
-BSV402_AEGIS(207).PTP	2	0	<EMPTY>	敌消失。{0A}お疲れ样です。	
-BSV402_AEGIS(207).PTP	3	0	<EMPTY>	シャドウ反应消失しました!	
+BSV402_AEGIS(207).PTP	0	0	<EMPTY>	讨伐终了!{0A}シャドウ反应消失しました!	讨伐完毕！{0A}阴影反应消失了！
+BSV402_AEGIS(207).PTP	1	0	<EMPTY>	讨伐终了。{0A}お疲れ样でした!	讨伐完毕。{0A}辛苦了！
+BSV402_AEGIS(207).PTP	2	0	<EMPTY>	敌消失。{0A}お疲れ样です。	敌人消失。{0A}辛苦了。
+BSV402_AEGIS(207).PTP	3	0	<EMPTY>	シャドウ反应消失しました!	阴影反应消失了！
