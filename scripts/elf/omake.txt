@@ -94,3 +94,15 @@ offset=0x6CE308
 original=カップ
 target=圣杯
 ------
+offset=0x5A79E0
+original=クロス·スプレッド
+target=十字合体
+------
+offset=0x5A7A00
+original=ペンタゴン·スプレッド
+target=五角星合体
+------
+offset=0x5A7A20
+original=ヘキサゴン·スプレッド
+target=六芒星合体
+------
