@@ -96,7 +96,7 @@ target=刺剑
 ------
 offset=0x4DE2A8
 original=エル·レイピア
-target=大型西洋剑
+target=强化西洋剑
 ------
 offset=0x4DE2B8
 original=マン·ゴ‒シュ
@@ -1080,7 +1080,7 @@ target=及膝长靴
 ------
 offset=0x4E1660
 original=ストレ‒トチップ
-target=系带平底鞋
+target=手工皮靴
 ------
 offset=0x4E1680
 original=コンボスシュ‒ズ
@@ -1136,7 +1136,7 @@ target=魔法凉鞋
 ------
 offset=0x4E17C0
 original=サイバ‒シュ‒ズ
-target=精密化鞋
+target=赛博鞋
 ------
 offset=0x4E17D8
 original=忍の足袋
@@ -1144,7 +1144,7 @@ target=忍之足袋
 ------
 offset=0x4E17F0
 original=ニ‒ドルシュ‒ズ
-target=钉鞋
+target=带钉皮鞋
 ------
 offset=0x4E1808
 original=ジェットブ‒ツ
@@ -1248,7 +1248,7 @@ target=硬质纤维腿部用具
 ------
 offset=0x4E19F0
 original=パ‒ライト脚装具
-target=黑曜石腿部用具
+target=珠光体腿部用具
 ------
 offset=0x4E1A10
 original=フラ‒レン脚装具
@@ -1268,7 +1268,7 @@ target=钛合金腿部用具
 ------
 offset=0x4E1A90
 original=サ‒メット脚装具
-target=金属陶瓷腿部用具
+target=超硬质合金腿部用具
 ------
 offset=0x4E1AB0
 original=エルゴ式脚部特甲
