@@ -10,11 +10,11 @@ AGS_msg_weapon.PTP	7	0	黑泽巡查	少しでも足しになれば良い。	即�
 AGS_msg_weapon.PTP	8	0	黑泽巡查	もう金を持てないみたいだな。{0A}それでも引き取ろうか?	你好像已经没钱了啊。{0A}即便如此也要取吗？
 AGS_msg_weapon.PTP	9	0	黑泽巡查	持ちきれないようだな。{0A}卖るか舍てるかしてきてくれ。	好像拿不下更多了。{0A}卖掉或者扔掉一些吧。
 AGS_msg_weapon.PTP	10	0	黑泽巡查	身につけてるものは引き取れん。	身上带的东西无法取回。
-AGS_msg_weapon.PTP	11	0	<EMPTY>	>この武器を装备できませんがよろしいですか?	不能装备这件武器也可以吗？
-AGS_msg_weapon.PTP	12	0	<EMPTY>	>购入した武器を装备していきますか?	要装备购入的武器吗？
-AGS_msg_weapon.PTP	13	0	<EMPTY>	>购入した防具を装备していきますか?	要装备购入的防具吗？
-AGS_msg_weapon.PTP	14	0	<EMPTY>	>购入したアクセサリ‒を装备していきますか?	要装备购入的饰品吗？
-AGS_msg_weapon.PTP	15	0	<EMPTY>	>装备しました。	装备完成了。
+AGS_msg_weapon.PTP	11	0	<EMPTY>	>この武器を装备できませんがよろしいですか?	>不能装备这件武器也可以吗？
+AGS_msg_weapon.PTP	12	0	<EMPTY>	>购入した武器を装备していきますか?	>要装备购入的武器吗？
+AGS_msg_weapon.PTP	13	0	<EMPTY>	>购入した防具を装备していきますか?	>要装备购入的防具吗？
+AGS_msg_weapon.PTP	14	0	<EMPTY>	>购入したアクセサリ‒を装备していきますか?	>要装备购入的饰品吗？
+AGS_msg_weapon.PTP	15	0	<EMPTY>	>装备しました。	>装备完成了。
 AGS_msg_weapon.PTP	16	0	黑泽巡查	と交换しますか?	要交换吗？
 AGS_msg_weapon.PTP	17	0	黑泽巡查	これは初めて见る武器だね。	第一次见这个武器呢。
 AGS_msg_weapon.PTP	17	1	黑泽巡查	でいいかい?	可以吗？
