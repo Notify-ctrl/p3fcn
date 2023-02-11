@@ -224,7 +224,7 @@ target=可以继承的属性
 ------
 offset=0x5A6B90
 original=インセンスカ‒ド
-target=焚香卡牌
+target=灵香卡牌
 ------
 offset=0x5A6BA8
 original=合体事故
