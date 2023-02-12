@@ -1,6 +1,6 @@
 f010.PTP	0	0	<SELECT>	はい	；是
 f010.PTP	0	1	<SELECT>	いいえ	；否
-f010.PTP	1	0	<SELECT>	ミニマムコ‒ヒ‒	；MIN咖啡
+f010.PTP	1	0	<SELECT>	ミニマムコ‒ヒ‒	；MINI咖啡
 f010.PTP	1	1	<SELECT>	255茶	；255茶
 f010.PTP	1	2	<SELECT>	南船桥人工水	；南船桥人工水
 f010.PTP	1	3	<SELECT>	买わない	；什么都不买
