@@ -104,11 +104,11 @@ datItemHelp.PTP	102	0	<EMPTY>	深遠なブル‒の輝きを持つ{0A}美しい�
 datItemHelp.PTP	103	0	<EMPTY>	光沢が極めて美しい、{0A}無色透明の宝石。	；光泽非常美丽{0A}无色透明的宝石。
 datItemHelp.PTP	104	0	<EMPTY>	不透明で、青から緑の{0A}光沢を持つ宝石。	；不透明，拥有从蓝到绿{0A}光泽的宝石。
 datItemHelp.PTP	105	0	<EMPTY>	淡褐色の宝石。{0A}和名は黄玉。	；淡褐色的宝石。{0A}日文名叫做黄玉。
-datItemHelp.PTP	106	0	<EMPTY>	真珠。白く淡い独特の{0A}光沢を持つ宝石。	；珍珠。拥有{0A}独特光泽的淡白色宝石。
+datItemHelp.PTP	106	0	<EMPTY>	真珠。白く淡い独特の{0A}光沢を持つ宝石。	；拥有独特光泽的{0A}淡白色宝石。
 datItemHelp.PTP	107	0	<EMPTY>	赤く美しい輝きを放つ、{0A}透明な宝石。	；放出美丽光芒的{0A}透明的红色宝石。
 datItemHelp.PTP	108	0	<EMPTY>	タコ以外の切り身も{0A}入っている⋯。	；章鱼以外的肉{0A}也加入了其中⋯。
 datItemHelp.PTP	109	0	<EMPTY>	新感覚のハンバ‒ガ‒。{0A}何の肉かは誰も知らない。	；新奇的汉堡。{0A}没有人知道用了什么肉。
-datItemHelp.PTP	110	0	<EMPTY>	人気店の味を手軽に{0A}味わえる代わりに、高価。	；能轻易的品尝到人气店的味道{0A}但是价格昂贵。
+datItemHelp.PTP	110	0	<EMPTY>	人気店の味を手軽に{0A}味わえる代わりに、高価。	；能轻易品尝到人气店的味道。{0A}但是价格昂贵。
 datItemHelp.PTP	111	0	<EMPTY>	どこかのおふくろの味。	；有种母亲的味道。
 datItemHelp.PTP	112	0	<EMPTY>	胡�を大量に使った飲み物。{0A}癖は強いが人気は高い。	；大量使用胡椒的饮料。{0A}味道很怪但人气很高。
 datItemHelp.PTP	113	0	<EMPTY>	モロに効果が出るらしいと{0A}評判の飲み物。	；被评价为{0A}有诸多好处的饮料。
@@ -149,7 +149,7 @@ datItemHelp.PTP	147	0	<EMPTY>	古ぼけた金貨。{0A}高く売れそうだ。	
 datItemHelp.PTP	148	0	<EMPTY>	古ぼけた金貨。{0A}高く売れそうだ。	；陈旧的金币。{0A}应该能买个好价钱。
 datItemHelp.PTP	149	0	<EMPTY>	古ぼけた金貨。{0A}高く売れそうだ。	；陈旧的金币。{0A}应该能买个好价钱。
 datItemHelp.PTP	150	0	<EMPTY>	敵全体に万能属性で{0A}特大ダメ‒ジ。	；对敌方全体造成万能属性{0A}特大伤害。
-datItemHelp.PTP	151	0	<EMPTY>	微細なおでんの具で{0A}満たされている。	；填满了长条的{0A}关东煮。
+datItemHelp.PTP	151	0	<EMPTY>	微細なおでんの具で{0A}満たされている。	；填加了关东煮食材{0A}的碎粒。
 datItemHelp.PTP	152	0	<EMPTY>	セレブな野良猫の為に{0A}開発された高価な缶詰。	；为名流的野猫{0A}开发的高价罐头。
 datItemHelp.PTP	153	0	<EMPTY>	赤く輝く太刀つば。{0A}高く売れそうだ。	；闪着红光的太刀刀锷。{0A}应该能买个好价钱。
 datItemHelp.PTP	154	0	<EMPTY>	白く輝く太刀つば。{0A}高く売れそうだ。	；闪着白光的太刀刀锷。{0A}应该能买个好价钱。
