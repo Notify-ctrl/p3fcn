@@ -864,11 +864,11 @@ target=身于大海。
 ------
 offset=0x4DAB80
 original=敌性ペルソナ使いの
-target=与我方敌对的
+target=与我方敌对的人格面具使
 ------
 offset=0x4DABA0
 original=3人组。生きていた
-target=人格面具使用者三人组。
+target=用者三人组。
 ------
 offset=0x4DABC0
 original=タカヤとジンから顺平を

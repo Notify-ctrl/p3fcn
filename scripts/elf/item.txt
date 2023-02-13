@@ -556,7 +556,7 @@ target=稻荷寿司
 ------
 offset=0x4E3A28
 original=プラチナメダル
-target=白金手表
+target=白金奖章
 ------
 offset=0x4E3A38
 original=铜制のコマ
