@@ -1,0 +1,93 @@
+// P3F控制队友修正版 (原制作BY TGE、日版移植BY 品游君)
+
+patch=1,EE,0029B058,word,00000000 // nop check for if battle unit is not mc -> ai
+
+patch=1,EE,0020218C,word,00000000 // load proper unit id for battle menu skill list
+patch=1,EE,0020219C,word,8F84B78C
+patch=1,EE,002021A0,word,8C840254
+patch=1,EE,002021A4,word,8C840030
+patch=1,EE,002021A8,word,8C8400A4
+
+patch=1,EE,0028DEA4,word,2405001B // fix escape
+patch=1,EE,002969BC,word,00000000
+
+patch=1,EE,0028AD5C,word,9683001A // disable persona menu for non-mc
+patch=1,EE,0028AD60,word,3063FFBF
+patch=1,EE,0028AD64,word,A683001A
+patch=1,EE,0028AD68,word,96830018
+patch=1,EE,0028AD6C,word,00000000
+
+
+// Modified jump address (Jump to 0069C5A0)
+patch=1,EE,0028AD70,word,081a7168
+patch=1,EE,0028AD74,word,92920028 // new
+patch=1,EE,0028AD78,word,1640000B // new
+patch=1,EE,0069C5A0,word,8F82B78C
+patch=1,EE,0069C5A4,word,8C420148
+patch=1,EE,0069C5A8,word,14540004
+patch=1,EE,0069C5AC,word,00000000
+patch=1,EE,0069C5B0,word,34630400
+patch=1,EE,0069C5B4,word,A6830018
+patch=1,EE,0069C5B8,word,34630400
+patch=1,EE,0069C5BC,word,080A2B5D
+patch=1,EE,0069C5C0,word,00000000
+
+patch=1,EE,001FF6A8,word,8E300254 // fix skill requirements
+patch=1,EE,001FF6AC,word,8E100030
+patch=1,EE,001FF6B0,word,8E1000A4
+patch=1,EE,001FF6B4,word,00000000
+patch=1,EE,001FF6B8,word,00000000
+patch=1,EE,001FF6BC,word,00000000
+
+patch=1,EE,002D8130,word,00000000 // fix items
+patch=1,EE,002D8140,word,00000000
+patch=1,EE,002D8144,word,00000000
+patch=1,EE,002D815C,word,00000000
+
+// Modified jump address (Jump to 0069C604)
+patch=1,EE,002A3974,word,081A7181 // fix boss battle camera
+patch=1,EE,0069C604,word,1240000B
+patch=1,EE,0069C608,word,00000000
+patch=1,EE,0069C60C,word,8E420030
+patch=1,EE,0069C610,word,844700A2
+patch=1,EE,0069C614,word,20030001
+patch=1,EE,0069C618,word,14E00006
+patch=1,EE,0069C61C,word,00000000
+patch=1,EE,0069C620,word,844200A4
+patch=1,EE,0069C624,word,10430003
+patch=1,EE,0069C628,word,00001021
+patch=1,EE,0069C62C,word,080A8E5F
+patch=1,EE,0069C630,word,00000000
+patch=1,EE,0069C634,word,0C0BE1D0
+patch=1,EE,0069C638,word,00000000
+patch=1,EE,0069C63C,word,080A8E5F
+patch=1,EE,0069C640,word,00000000
+
+//Fusion Skill Fix
+//This block is long because the code has been shifted. Further line one is a MIPS characteristic hack where the first line of a branch executes
+patch=1,EE,0020214C,word,14400005
+patch=1,EE,00202150,word,8E340254
+patch=1,EE,00202164,word,8E330148
+patch=1,EE,0020218C,word,3C040068
+patch=1,EE,00202190,word,24844F48
+patch=1,EE,00202194,word,8F84B78C 
+patch=1,EE,00202198,word,8C840254 
+patch=1,EE,0020219C,word,8C840030 
+patch=1,EE,002021A0,word,8C8400A4 
+patch=1,EE,002021a4,word,0c05d0a0 
+patch=1,EE,002021a8,word,00000000 
+patch=1,EE,002021ac,word,0040902D 
+patch=1,EE,002021b0,word,0240202D 
+patch=1,EE,002021b4,word,0c05d92c 
+patch=1,EE,002021b8,word,00000000 
+patch=1,EE,002021bc,word,0040A82D 
+patch=1,EE,002021c0,word,0240202D 
+patch=1,EE,002021c4,word,0c05cb7c 
+patch=1,EE,002021c8,word,00000000 
+patch=1,EE,002021cc,word,0040B02D 
+patch=1,EE,002021d0,word,0000902D 
+patch=1,EE,002021d4,word,0c0c2ff0 
+patch=1,EE,002021d8,word,00000000 
+patch=1,EE,002021dc,word,10400013 
+patch=1,EE,002021e0,word,00000000 
+patch=1,EE,002021e4,word,16740011 
