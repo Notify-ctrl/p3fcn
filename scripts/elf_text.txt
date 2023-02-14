@@ -1176,7 +1176,7 @@ target=派出所
 ------
 offset=0x6CF598
 original=骨董屋
-target=古董屋
+target=古董店
 ------
 offset=0x6CF5A0
 original=吃茶店
