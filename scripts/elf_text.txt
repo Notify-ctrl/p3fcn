@@ -324,7 +324,7 @@ target=桐叶商店街
 ------
 offset=0x57AD4E
 original=辰巳ポ‒トアイランド駅前
-target=辰巳人工港湾岛站前
+target=辰巳港湾人工岛站前
 ------
 offset=0x57AD68
 original=巌户台駅前商店街
@@ -1176,7 +1176,7 @@ target=派出所
 ------
 offset=0x6CF598
 original=骨董屋
-target=古董屋
+target=古董店
 ------
 offset=0x6CF5A0
 original=吃茶店
