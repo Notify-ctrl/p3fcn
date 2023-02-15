@@ -496,11 +496,11 @@ target=万魔之铳
 ------
 offset=0x4DEA30
 original=3连装アルビオレ
-target=三连装亚路比奥尼
+target=3连装亚路比奥尼
 ------
 offset=0x4DEA50
 original=5连装メドゥ‒サ
-target=五连装美杜莎
+target=5连装美杜莎
 ------
 offset=0x4DEA70
 original=シックスショット
@@ -1324,7 +1324,7 @@ target=染血白羊宫
 ------
 offset=0x4E1BB8
 original=スワンレイクス
-target=天鹅双足
+target=天鹅湖
 ------
 offset=0x4E1BC8
 original=エラズ·グラス

@@ -1,4 +1,4 @@
-datItemHelp.PTP	0	0	<EMPTY>	ID_4000{0A}ID_4000	
+datItemHelp.PTP	0	0	<EMPTY>	开金手指了？{0A}诶嘿～	
 datItemHelp.PTP	1	0	<EMPTY>	味方単体のHPを小回復。	；我方单人的HP小回复。
 datItemHelp.PTP	2	0	<EMPTY>	味方単体のHPを中回復。	；我方单人的HP中回复。
 datItemHelp.PTP	3	0	<EMPTY>	味方単体のHPを全回復。	；我方单人的HP大回复。

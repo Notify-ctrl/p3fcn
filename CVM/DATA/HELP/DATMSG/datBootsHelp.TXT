@@ -1,4 +1,4 @@
-datBootsHelp.PTP	0	0	<EMPTY>	リザ‒ブ	；保留
+datBootsHelp.PTP	0	0	<EMPTY>	リザ‒ブ	
 datBootsHelp.PTP	1	0	<EMPTY>	頑丈なワ‒クブ‒ツ。	；坚固的工作靴。
 datBootsHelp.PTP	2	0	<EMPTY>	茶色のロ‒ファ‒。	；茶色的乐福鞋。
 datBootsHelp.PTP	3	0	<EMPTY>	黒いロングブ‒ツ。	；黑色的长靴。
@@ -23,8 +23,8 @@ datBootsHelp.PTP	21	0	<EMPTY>	エンジン付きのブ‒ツ。	；带引擎的�
 datBootsHelp.PTP	22	0	<EMPTY>	非常に頑丈な具足。	；非常坚固的足部盔甲。
 datBootsHelp.PTP	23	0	<EMPTY>	非常に軽いシュ‒ズ。	；非常轻的皮鞋。
 datBootsHelp.PTP	24	0	<EMPTY>	銀色で彩られたサンダル。	；银色装饰的凉鞋。
-datBootsHelp.PTP	25	0	<EMPTY>	0x2019	；。
-datBootsHelp.PTP	26	0	<EMPTY>	0x201A	；。
+datBootsHelp.PTP	25	0	<EMPTY>	0x2019	
+datBootsHelp.PTP	26	0	<EMPTY>	0x201A	
 datBootsHelp.PTP	27	0	<EMPTY>	ペンタクルが描かれた靴。	；画有五角星的鞋子。
 datBootsHelp.PTP	28	0	<EMPTY>	暗殺者御用達の靴。	；暗杀者专用的靴子。
 datBootsHelp.PTP	29	0	<EMPTY>	異常な程軽い雪駄。	；异常轻的雪屐。
@@ -32,43 +32,43 @@ datBootsHelp.PTP	30	0	<EMPTY>	武神の魂が宿る具足。	；宿有武神之�
 datBootsHelp.PTP	31	0	<EMPTY>	祝福を受けた靴。	；接受过祝福的鞋子。
 datBootsHelp.PTP	32	0	<EMPTY>	全ての美しさを備えた靴。♀	；具备一切美丽的鞋子。♀
 datBootsHelp.PTP	33	0	<EMPTY>	著名な忍者の足袋。	；著名忍者的袜子。
-datBootsHelp.PTP	34	0	<EMPTY>	0x2022	；。
-datBootsHelp.PTP	35	0	<EMPTY>	0x2022	；。
+datBootsHelp.PTP	34	0	<EMPTY>	0x2022	
+datBootsHelp.PTP	35	0	<EMPTY>	0x2022	
 datBootsHelp.PTP	36	0	<EMPTY>	物々しい刺繍入り足袋。♂	；有好看刺绣的袜子。♂
 datBootsHelp.PTP	37	0	<EMPTY>	ラジコン制御可能らしい。	；好像可以通过无线遥控。
-datBootsHelp.PTP	38	0	<EMPTY>	0x2026	；。
+datBootsHelp.PTP	38	0	<EMPTY>	0x2026	
 datBootsHelp.PTP	39	0	<EMPTY>	漢を感じさせる下駄。♂	；感受到男子汉气概的木屐。♂
 datBootsHelp.PTP	40	0	<EMPTY>	鋭利な針が付いた靴。	；带有锋利的针的鞋子。
-datBootsHelp.PTP	41	0	<EMPTY>	0x2029	；。
+datBootsHelp.PTP	41	0	<EMPTY>	0x2029	
 datBootsHelp.PTP	42	0	<EMPTY>	唐獅子が描かれた雪駄。	；画有唐狮子的雪屐。
 datBootsHelp.PTP	43	0	<EMPTY>	歴戦の武人の具足。♂	；历战的武士的足部盔甲。♂
-datBootsHelp.PTP	44	0	<EMPTY>	0x202C	；。
-datBootsHelp.PTP	45	0	<EMPTY>	0x202D	；。
+datBootsHelp.PTP	44	0	<EMPTY>	0x202C	
+datBootsHelp.PTP	45	0	<EMPTY>	0x202D	
 datBootsHelp.PTP	46	0	<EMPTY>	草の香りがする草履。	；有草的香气的草鞋。
-datBootsHelp.PTP	47	0	<EMPTY>	0x202F	；。
-datBootsHelp.PTP	48	0	<EMPTY>	0x2030	；。
-datBootsHelp.PTP	49	0	<EMPTY>	0x2031	；。
+datBootsHelp.PTP	47	0	<EMPTY>	0x202F	
+datBootsHelp.PTP	48	0	<EMPTY>	0x2030	
+datBootsHelp.PTP	49	0	<EMPTY>	0x2031	
 datBootsHelp.PTP	50	0	<EMPTY>	救世主のブ‒ツ。♂	；救世主的靴子。♂
-datBootsHelp.PTP	51	0	<EMPTY>	0x2033	；。
+datBootsHelp.PTP	51	0	<EMPTY>	0x2033	
 datBootsHelp.PTP	52	0	<EMPTY>	もの凄い豹柄のタイツ。♀	；惊人的豹纹连裤袜。♀
-datBootsHelp.PTP	53	0	<EMPTY>	0x2035	；。
+datBootsHelp.PTP	53	0	<EMPTY>	0x2035	
 datBootsHelp.PTP	54	0	<EMPTY>	軽量なパンプス。♀	；轻便的浅口鞋。♀
-datBootsHelp.PTP	55	0	<EMPTY>	0x2037	；。
+datBootsHelp.PTP	55	0	<EMPTY>	0x2037	
 datBootsHelp.PTP	56	0	<EMPTY>	履くと超セクシ‒。♀	；穿上非常得性感。♀
-datBootsHelp.PTP	57	0	<EMPTY>	0x2039	；。
-datBootsHelp.PTP	58	0	<EMPTY>	0x203A	；。
-datBootsHelp.PTP	59	0	<EMPTY>	0x203B	；。
+datBootsHelp.PTP	57	0	<EMPTY>	0x2039	
+datBootsHelp.PTP	58	0	<EMPTY>	0x203A	
+datBootsHelp.PTP	59	0	<EMPTY>	0x203B	
 datBootsHelp.PTP	60	0	<EMPTY>	永遠に有り続ける靴。♀	；可以永远存在的靴子。♀
 datBootsHelp.PTP	61	0	<EMPTY>	肉球が非常に柔らかい。	；肉球十分的柔软。
-datBootsHelp.PTP	62	0	<EMPTY>	0x203E	；。
-datBootsHelp.PTP	63	0	<EMPTY>	0x203F	；。
-datBootsHelp.PTP	64	0	<EMPTY>	0x2040	；。
-datBootsHelp.PTP	65	0	<EMPTY>	0x2041	；。
-datBootsHelp.PTP	66	0	<EMPTY>	0x2042	；。
-datBootsHelp.PTP	67	0	<EMPTY>	0x2043	；。
-datBootsHelp.PTP	68	0	<EMPTY>	0x2044	；。
-datBootsHelp.PTP	69	0	<EMPTY>	0x2045	；。
-datBootsHelp.PTP	70	0	<EMPTY>	0x2046	；。
+datBootsHelp.PTP	62	0	<EMPTY>	0x203E	
+datBootsHelp.PTP	63	0	<EMPTY>	0x203F	
+datBootsHelp.PTP	64	0	<EMPTY>	0x2040	
+datBootsHelp.PTP	65	0	<EMPTY>	0x2041	
+datBootsHelp.PTP	66	0	<EMPTY>	0x2042	
+datBootsHelp.PTP	67	0	<EMPTY>	0x2043	
+datBootsHelp.PTP	68	0	<EMPTY>	0x2044	
+datBootsHelp.PTP	69	0	<EMPTY>	0x2045	
+datBootsHelp.PTP	70	0	<EMPTY>	0x2046	
 datBootsHelp.PTP	71	0	<EMPTY>	アイギス用·生活用脚具。	；艾吉斯用·生活用脚具。
 datBootsHelp.PTP	72	0	<EMPTY>	アイギス用·硬質繊維製。	；艾吉斯用·硬质纤维制成。
 datBootsHelp.PTP	73	0	<EMPTY>	アイギス用·加工純鉄製。	；艾吉斯用·加工纯铁制成。
@@ -79,20 +79,20 @@ datBootsHelp.PTP	77	0	<EMPTY>	アイギス用·軽量の脚具。	；艾吉斯�
 datBootsHelp.PTP	78	0	<EMPTY>	アイギス用·超硬合金製。	；艾吉斯用·超硬质合金制成。
 datBootsHelp.PTP	79	0	<EMPTY>	アイギス用·強化式脚具。	；艾吉斯用·强化型的脚具。
 datBootsHelp.PTP	80	0	<EMPTY>	アイギス用·獣神の脚具。	；艾吉斯用·兽神的脚具。
-datBootsHelp.PTP	81	0	<EMPTY>	2051	；。
-datBootsHelp.PTP	82	0	<EMPTY>	2052	；。
+datBootsHelp.PTP	81	0	<EMPTY>	2051	
+datBootsHelp.PTP	82	0	<EMPTY>	2052	
 datBootsHelp.PTP	83	0	<EMPTY>	メティス用·光沢質の脚装。	；梅蒂丝用·光滑材质的脚装。
 datBootsHelp.PTP	84	0	<EMPTY>	メティス用·革貼りの脚装。	；梅蒂丝用·贴皮的脚装。
 datBootsHelp.PTP	85	0	<EMPTY>	メティス用·樹脂製の脚装。	；梅蒂丝用·树脂制的脚装。
 datBootsHelp.PTP	86	0	<EMPTY>	メティス用·窯成型の脚装。	；梅蒂丝用·瓷质的脚装。
-datBootsHelp.PTP	87	0	<EMPTY>	メティス用·軽合金の脚装。	；梅蒂丝用·轻合金的脚装。
+datBootsHelp.PTP	87	0	<EMPTY>	メティス用·軽合金の脚装。	；梅蒂丝用·轻合金脚装。
 datBootsHelp.PTP	88	0	<EMPTY>	メティス用·チタンの脚装。	；梅蒂丝用·钛制的脚装。
 datBootsHelp.PTP	89	0	<EMPTY>	メティス用·金剛石の脚装。	；梅蒂丝用·金刚石制成的脚装。
 datBootsHelp.PTP	90	0	<EMPTY>	メティス用·舞踏用の長靴。	；梅蒂丝用·舞蹈用的长靴。
-datBootsHelp.PTP	91	0	<EMPTY>	メティス用·秘術が宿る靴。	；梅蒂丝用·宿有秘术的靴子。
-datBootsHelp.PTP	92	0	<EMPTY>	メティス用·血色の赤い靴。	；梅蒂丝用·血一般红色的靴子。
+datBootsHelp.PTP	91	0	<EMPTY>	メティス用·秘術が宿る靴。	；梅蒂丝用·宿有秘术的鞋子。
+datBootsHelp.PTP	92	0	<EMPTY>	メティス用·血色の赤い靴。	；梅蒂丝用·血一般红色的鞋子。
 datBootsHelp.PTP	93	0	<EMPTY>	アイギス用·天使の脚具。	；艾吉斯用·天使的脚具。
 datBootsHelp.PTP	94	0	<EMPTY>	メティス用·神秘の硝子靴。	；梅蒂丝用·神秘的玻璃鞋。
 datBootsHelp.PTP	95	0	<EMPTY>	最強の最新型試作脚具。	；最强的最新型试做脚具。
-datBootsHelp.PTP	96	0	<EMPTY>	メティス用·至高の黒い靴。	；梅蒂丝用·至高的黑靴。
-datBootsHelp.PTP	97	0	<EMPTY>	ラスト	；。
+datBootsHelp.PTP	96	0	<EMPTY>	メティス用·至高の黒い靴。	；梅蒂丝用·至高的黑鞋。
+datBootsHelp.PTP	97	0	<EMPTY>	ラスト	
