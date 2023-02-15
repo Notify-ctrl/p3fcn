@@ -780,7 +780,7 @@ target=拥有人格面具能力。
 ------
 offset=0x4DA908
 original=对シャドウ兵器
-target=对阴影武器
+target=对阴影兵器
 ------
 offset=0x4DA920
 original=10年前の实验当时、
