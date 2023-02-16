@@ -83,7 +83,7 @@ msg_elevator_girl.PTP	45	4	エリザベス	数字に空きがあるようでし�
 msg_elevator_girl.PTP	46	0	エリザベス	⋯⋯。	；⋯⋯
 msg_elevator_girl.PTP	46	1	エリザベス	それは⋯できませんわ。	；这个⋯我办不到啊。
 msg_elevator_girl.PTP	46	2	エリザベス	⋯申し上げたはずです。	；⋯我也曾经告诉过您的。
-msg_elevator_girl.PTP	46	3	エリザベス	私だって心苦しいのに⋯	；我也很难受啊⋯
+msg_elevator_girl.PTP	46	3	エリザベス	私だって心苦しいのに⋯	；我也很困扰啊⋯
 msg_elevator_girl.PTP	46	4	エリザベス	ひどい人⋯	；您真过分⋯
 msg_elevator_girl.PTP	47	0	エリザベス	あなたの心意気、受け取りました。	；您的心意，我就收下了。
 msg_elevator_girl.PTP	48	0	エリザベス	あなたのために、私は最善の努力を{0A}いたします⋯	；我将为您尽我最大的努力⋯
