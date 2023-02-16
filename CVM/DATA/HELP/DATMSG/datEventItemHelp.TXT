@@ -6,7 +6,7 @@ datEventItemHelp.PTP	4	0	<EMPTY>	友近が作ったチョ‒カ‒。{0A}究極�
 datEventItemHelp.PTP	5	0	<EMPTY>	まだ⋯無い⋯ッ	
 datEventItemHelp.PTP	6	0	<EMPTY>	まだ⋯無い⋯ッ	
 datEventItemHelp.PTP	7	0	<EMPTY>	小田桐が勝ち取った信頼の証。{0A}究極の力·オ‒ディンを開く鍵。	；小田桐赢取信赖之证。{0A}打开究极之力·奥丁的钥匙。
-datEventItemHelp.PTP	8	0	<EMPTY>	文吉の息子が植えた木の実。{0A}究極の力·コウリュウを開く鍵。	；文吉的儿子种的树的种子。{0A}打开究极之力·黄龙的钥匙。
+datEventItemHelp.PTP	8	0	<EMPTY>	文吉の息子が植えた木の実。{0A}究極の力·コウリュウを開く鍵。	；文吉的儿子种的树的果实。{0A}打开究极之力·黄龙的钥匙。
 datEventItemHelp.PTP	9	0	<EMPTY>	ゆかりの思い出のストラップ。{0A}究極の力·キュベレを開く鍵。	；有由加莉的回忆的挂件。{0A}打开究极之力·西布莉的钥匙。
 datEventItemHelp.PTP	10	0	<EMPTY>	風花特製イヤホン。{0A}究極の力·スカアハを開く鍵。	；风花特制的耳机。{0A}打开究极之力·斯卡哈的钥匙。
 datEventItemHelp.PTP	11	0	<EMPTY>	美鶴のバイクのキ‒。{0A}究極の力·アリラトを開く鍵。	；美鹤的摩托车钥匙。{0A}打开究极之力·威灵的钥匙。
