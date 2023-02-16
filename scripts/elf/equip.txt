@@ -712,7 +712,7 @@ target=风之斗篷
 ------
 offset=0x4E0348
 original=结界の法衣
-target=结界的法衣
+target=结界法衣
 ------
 offset=0x4E0358
 original=ハイドマント
@@ -724,7 +724,7 @@ target=重型护甲
 ------
 offset=0x4E0388
 original=空海の袈裟
-target=空海的袈裟
+target=空海袈裟
 ------
 offset=0x4E03A0
 original=カイザ‒ア‒マ‒
@@ -884,7 +884,7 @@ target=五号护甲
 ------
 offset=0x4E0770
 original=パピヨンメソッド
-target=蝴蝶护甲
+target=蝴蝶秩序
 ------
 offset=0x4E0790
 original=ブル‒バミュ‒ダ
