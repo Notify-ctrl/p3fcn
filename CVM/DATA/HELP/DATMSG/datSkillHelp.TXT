@@ -52,9 +52,9 @@ datSkillHelp.PTP	50	0	<EMPTY>	敵全体に超高確率で{0A}光属性の即死�
 datSkillHelp.PTP	51	0	<EMPTY>	敵単体に{0A}闇属性の即死効果。	；给予敌方单体{0A}暗属性即死效果。
 datSkillHelp.PTP	52	0	<EMPTY>	敵全体に{0A}闇属性の即死効果。	；给予敌方全体{0A}暗属性即死效果。
 datSkillHelp.PTP	53	0	<EMPTY>	敵単体に高確率で{0A}闇属性の即死効果。	；给予敌方单体高概率{0A}暗属性即死效果。
-datSkillHelp.PTP	54	0	<EMPTY>	敵全体に高確率で{0A}闇属性の即死効果。	；给予敌方单体高概率{0A}暗属性即死效果。
+datSkillHelp.PTP	54	0	<EMPTY>	敵全体に高確率で{0A}闇属性の即死効果。	；给予敌方全体高概率{0A}暗属性即死效果。
 datSkillHelp.PTP	55	0	<EMPTY>	037	
-datSkillHelp.PTP	56	0	<EMPTY>	敵全体に超高確率で{0A}闇属性の即死効果。	；给予敌方单体超高概率{0A}暗属性即死效果。
+datSkillHelp.PTP	56	0	<EMPTY>	敵全体に超高確率で{0A}闇属性の即死効果。	；给予敌方全体超高概率{0A}暗属性即死效果。
 datSkillHelp.PTP	57	0	<EMPTY>	敵単体に"悩殺"効果。	；给予敌方单体魅惑状态。
 datSkillHelp.PTP	58	0	<EMPTY>	敵全体に"悩殺"効果。	；给予敌方全体魅惑状态。
 datSkillHelp.PTP	59	0	<EMPTY>	敵単体に"動揺"効果。	；给予敌方单体动摇状态。
