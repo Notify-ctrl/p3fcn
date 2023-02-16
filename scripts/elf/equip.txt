@@ -880,7 +880,7 @@ target=ERGO式全身护甲
 ------
 offset=0x4E0750
 original=フィフスナンバ‒
-target=5号护甲
+target=五号护甲
 ------
 offset=0x4E0770
 original=パピヨンメソッド
@@ -1340,7 +1340,7 @@ target=百夫长
 ------
 offset=0x4E23B8
 original=ダミ‒ですよ!
-target=傻逼Atlus
+target=傻逼阿特拉屎
 ------
 offset=0x4E23C8
 original=パワ‒バンド
