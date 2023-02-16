@@ -81,10 +81,10 @@ AGS_msg_elevator_girl.PTP	45	2	エリザベス	私の方で、全ての依頼に
 AGS_msg_elevator_girl.PTP	45	3	エリザベス	依頼の"番号"にご注意下さい。	；请您关注一下委托“编号”。
 AGS_msg_elevator_girl.PTP	45	4	エリザベス	数字に空きがあるようでしたら、{0A}まだ依頼が隠れている証しでございます。	；如果有数字空出，{0A}那是因为还有隐藏着的委托。
 AGS_msg_elevator_girl.PTP	46	0	エリザベス	⋯⋯。	；⋯⋯
-AGS_msg_elevator_girl.PTP	46	1	エリザベス	それは⋯できませんわ。	；这个⋯我办不到啊。
-AGS_msg_elevator_girl.PTP	46	2	エリザベス	⋯申し上げたはずです。	；⋯我也曾经告诉过您的。
-AGS_msg_elevator_girl.PTP	46	3	エリザベス	私だって心苦しいのに⋯	；我也很困扰啊⋯
-AGS_msg_elevator_girl.PTP	46	4	エリザベス	ひどい人⋯	；您真过分⋯
+AGS_msg_elevator_girl.PTP	46	1	エリザベス	それは⋯できませんわ。	；这个⋯我办不到。
+AGS_msg_elevator_girl.PTP	46	2	エリザベス	⋯申し上げたはずです。	；⋯我应该跟您说过原因的。
+AGS_msg_elevator_girl.PTP	46	3	エリザベス	私だって心苦しいのに⋯	；我为此感觉很痛苦⋯
+AGS_msg_elevator_girl.PTP	46	4	エリザベス	ひどい人⋯	；您真是个过分的人⋯
 AGS_msg_elevator_girl.PTP	47	0	エリザベス	あなたの心意気、受け取りました。	；您的心意，我就收下了。
 AGS_msg_elevator_girl.PTP	48	0	エリザベス	あなたのために、私は最善の努力を{0A}いたします⋯	；我将为您尽我最大的努力⋯
 AGS_msg_elevator_girl.PTP	49	0	エリザベス	あなたの心意気、受け取りました。	；您的心意，我就收下了。
@@ -555,8 +555,8 @@ AGS_msg_elevator_girl.PTP	241	2	エリザベス	ウロコの上は、それほ�
 AGS_msg_elevator_girl.PTP	242	0	エリザベス	ミックスレイド·アルダナの{0A}発現を確認致しました。	；确认显现了{0A}“组合技·阿尔达那”。
 AGS_msg_elevator_girl.PTP	242	1	エリザベス	どのような物体も消し炭にする、{0A}強大な炎の威力でございます。	；其火炎强大的威力{0A}能点燃任何物体。
 AGS_msg_elevator_girl.PTP	242	2	エリザベス	調理などにはいささか不向きかと存じます。{0A}ご注意下さい。	；稍微不太适合用来做饭啊。{0A}这点请您注意。
-AGS_msg_elevator_girl.PTP	243	0	エリザベス	ミックスレイド·ハルマゲドンの{0A}発現を確認致しました。	；确认显现了{0A}“组合技·世界末日”。
-AGS_msg_elevator_girl.PTP	243	1	エリザベス	絶大な破壊力を誇るハルマゲドン⋯	；以绝大破坏力著称的“世界末日”⋯
+AGS_msg_elevator_girl.PTP	243	0	エリザベス	ミックスレイド·ハルマゲドンの{0A}発現を確認致しました。	；确认显现了{0A}“组合技·终末之战”。
+AGS_msg_elevator_girl.PTP	243	1	エリザベス	絶大な破壊力を誇るハルマゲドン⋯	；以绝大破坏力著称的“终末之战”⋯
 AGS_msg_elevator_girl.PTP	243	2	エリザベス	くれぐれも、ご使用の際は用法·容量を{0A}守って正しくお使い下さい。	；使用时，请务必严格遵循使用方法{0A}和负载能力。
 AGS_msg_elevator_girl.PTP	243	3	エリザベス	世界の滅亡を避けるためにも、{0A}宜しくお願い致します。	；也是为了避免世界的灭亡。{0A}拜托您了。
 AGS_msg_elevator_girl.PTP	244	0	エリザベス	なるほど、これが兜⋯{0A}古来より伝わる頭部用防具でございますね。	；原来如此，这就是头盔⋯{0A}相传自古以来，用来保护头部的防具。
