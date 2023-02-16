@@ -106,3 +106,7 @@ offset=0x5A7A20
 original=ヘキサゴン·スプレッド
 target=六芒星合体
 ------
+offset=0x4E15F8
+original=ダミ‒ですが?
+target=
+------

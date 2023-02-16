@@ -352,7 +352,7 @@ target=电车高架桥
 ------
 offset=0x57AE04
 original=1F 客室通路
-target=11F 客房过道
+target=1F 客房过道
 ------
 offset=0x57AE1E
 original=地下 13m
@@ -536,11 +536,11 @@ target=1F 走廊
 ------
 offset=0x57B2B0
 original=1F 运动场前廊下
-target=运动场前走廊
+target=1F 运动场前走廊
 ------
 offset=0x57B2CA
 original=2F 教室前廊下
-target=教室前走廊
+target=2F 教室前走廊
 ------
 offset=0x57B2E4
 original=屋上
