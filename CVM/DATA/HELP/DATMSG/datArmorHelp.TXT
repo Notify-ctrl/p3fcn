@@ -88,7 +88,7 @@ datArmorHelp.PTP	86	0	<EMPTY>	天田の夏用服。	；天田的夏装。
 datArmorHelp.PTP	87	0	<EMPTY>	天田の夏用服。	；天田的夏装。
 datArmorHelp.PTP	88	0	<EMPTY>	順平の水着。	；顺平的泳装。
 datArmorHelp.PTP	89	0	<EMPTY>	1059	；1059
-datArmorHelp.PTP	90	0	<EMPTY>	メティス用·光沢質の胴具。	；梅蒂丝用·光滑材质的的身体防具。
+datArmorHelp.PTP	90	0	<EMPTY>	メティス用·光沢質の胴具。	；梅蒂丝用·光滑材质的身体防具。
 datArmorHelp.PTP	91	0	<EMPTY>	メティス用·加工革の胴具。	；梅蒂丝用·加工过的皮革制成的身体防具。
 datArmorHelp.PTP	92	0	<EMPTY>	メティス用·螺でんの胴具。	；梅蒂丝用·螺钿的身体防具。
 datArmorHelp.PTP	93	0	<EMPTY>	メティス用·窯成型の胴具。	；梅蒂丝用·瓷制的身体防具。

@@ -127,7 +127,7 @@ datWeaponHelp.PTP	125	0	<EMPTY>	0x07D
 datWeaponHelp.PTP	126	0	<EMPTY>	0x07E	
 datWeaponHelp.PTP	127	0	<EMPTY>	0x07F	
 datWeaponHelp.PTP	128	0	<EMPTY>	オメガパワ‒を秘めた槍。	；含有欧米伽之力的枪。
-datWeaponHelp.PTP	129	0	<EMPTY>	貫通力に長けた槍。	；贯通力优秀的枪。
+datWeaponHelp.PTP	129	0	<EMPTY>	貫通力に長けた槍。	；贯穿力优秀的枪。
 datWeaponHelp.PTP	130	0	<EMPTY>	死を呼ぶと伝わる槍。	；被称作呼唤死亡的枪。
 datWeaponHelp.PTP	131	0	<EMPTY>	軽く強い万能型の槍。	；轻巧强大的万能之枪。
 datWeaponHelp.PTP	132	0	<EMPTY>	ア‒サ‒王の持った名槍。	；亚瑟王的名枪。
