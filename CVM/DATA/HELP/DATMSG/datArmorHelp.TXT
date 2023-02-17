@@ -78,7 +78,7 @@ datArmorHelp.PTP	76	0	<EMPTY>	アイギス用·鋼板全装甲。	；艾吉斯�
 datArmorHelp.PTP	77	0	<EMPTY>	アイギス用·鱗状装甲。	；艾吉斯用·鳞状装甲。
 datArmorHelp.PTP	78	0	<EMPTY>	アイギス用·特殊鋼装甲。	；艾吉斯用·特殊钢装甲。
 datArmorHelp.PTP	79	0	<EMPTY>	アイギス用·姉妹機備品。	；艾吉斯用·姐妹机体备用品。
-datArmorHelp.PTP	80	0	<EMPTY>	アイギス用·抗精神装甲。	；艾吉斯用·扛精神攻击装甲。
+datArmorHelp.PTP	80	0	<EMPTY>	アイギス用·抗精神装甲。	；艾吉斯用·抗精神攻击装甲。
 datArmorHelp.PTP	81	0	<EMPTY>	の水着。	；的泳装。
 datArmorHelp.PTP	82	0	<EMPTY>	ゆかりの水着。	；由加莉的泳装。
 datArmorHelp.PTP	83	0	<EMPTY>	真田の水着。	；真田的泳装。
