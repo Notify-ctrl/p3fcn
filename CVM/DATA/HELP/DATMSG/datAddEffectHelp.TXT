@@ -77,9 +77,9 @@ datAddEffectHelp.PTP	75	0	<EMPTY>	+打撃耐性をかなり強化	；+大幅提�
 datAddEffectHelp.PTP	76	0	<EMPTY>	+斬撃耐性をやや強化	；+稍微提高斩击耐性
 datAddEffectHelp.PTP	77	0	<EMPTY>	+斬撃耐性を強化	；+提高斩击耐性
 datAddEffectHelp.PTP	78	0	<EMPTY>	+斬撃耐性をかなり強化	；+大幅提高斩击耐性
-datAddEffectHelp.PTP	79	0	<EMPTY>	+貫通耐性をやや強化	；+稍微提高贯通耐性
-datAddEffectHelp.PTP	80	0	<EMPTY>	+貫通耐性を強化	；+提高贯通耐性
-datAddEffectHelp.PTP	81	0	<EMPTY>	+貫通耐性をかなり強化	；+大幅提高贯通耐性
+datAddEffectHelp.PTP	79	0	<EMPTY>	+貫通耐性をやや強化	；+稍微提高贯穿耐性
+datAddEffectHelp.PTP	80	0	<EMPTY>	+貫通耐性を強化	；+提高贯穿耐性
+datAddEffectHelp.PTP	81	0	<EMPTY>	+貫通耐性をかなり強化	；+大幅提高贯穿耐性
 datAddEffectHelp.PTP	82	0	<EMPTY>	+物理耐性をやや強化	；+稍微提高物理耐性
 datAddEffectHelp.PTP	83	0	<EMPTY>	+物理耐性を強化	；+提高物理耐性
 datAddEffectHelp.PTP	84	0	<EMPTY>	+物理耐性をかなり強化	；+大幅提高物理耐性
@@ -107,9 +107,9 @@ datAddEffectHelp.PTP	105	0	<EMPTY>	+打撃回避がかなり上昇	；+大幅提
 datAddEffectHelp.PTP	106	0	<EMPTY>	+斬撃回避上昇	；+提高对斩击的回避率
 datAddEffectHelp.PTP	107	0	<EMPTY>	+斬撃回避が上昇	；+提高对斩击的回避率
 datAddEffectHelp.PTP	108	0	<EMPTY>	+斬撃回避がかなり上昇	；+大幅提高对斩击的回避率
-datAddEffectHelp.PTP	109	0	<EMPTY>	+貫通回避がやや上昇	；+稍微提高对贯通的回避率
-datAddEffectHelp.PTP	110	0	<EMPTY>	+貫通回避が上昇	；+提高对贯通的回避率
-datAddEffectHelp.PTP	111	0	<EMPTY>	+貫通回避がかなり上昇	；+大幅提高对贯通的回避率
+datAddEffectHelp.PTP	109	0	<EMPTY>	+貫通回避がやや上昇	；+稍微提高对贯穿的回避率
+datAddEffectHelp.PTP	110	0	<EMPTY>	+貫通回避が上昇	；+提高对贯穿的回避率
+datAddEffectHelp.PTP	111	0	<EMPTY>	+貫通回避がかなり上昇	；+大幅提高对贯穿的回避率
 datAddEffectHelp.PTP	112	0	<EMPTY>	+物理回避がやや上昇	；+稍微提高对物理攻击的回避率
 datAddEffectHelp.PTP	113	0	<EMPTY>	+物理回避が上昇	；+提高对物理攻击的回避率
 datAddEffectHelp.PTP	114	0	<EMPTY>	+物理回避がかなり上昇	；+大幅提高对物理攻击的回避率
