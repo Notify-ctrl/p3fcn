@@ -496,11 +496,11 @@ target=万魔之铳
 ------
 offset=0x4DEA30
 original=3连装アルビオレ
-target=3连装亚路比奥尼
+target=三连装亚路比奥尼
 ------
 offset=0x4DEA50
 original=5连装メドゥ‒サ
-target=5连装美杜莎
+target=五连装美杜莎
 ------
 offset=0x4DEA70
 original=シックスショット
@@ -508,7 +508,7 @@ target=六面兽
 ------
 offset=0x4DEA90
 original=13连装メガデス
-target=13连装大屠杀
+target=十三连装大屠杀
 ------
 offset=0x4DEAA8
 original=オルギラベウス
