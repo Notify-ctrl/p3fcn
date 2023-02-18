@@ -532,7 +532,7 @@ target=1F 实习室前走廊
 ------
 offset=0x57B296
 original=1F 渡り廊下
-target=1F 走廊
+target=1F 连廊
 ------
 offset=0x57B2B0
 original=1F 运动场前廊下
