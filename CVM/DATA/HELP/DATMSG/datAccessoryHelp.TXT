@@ -137,7 +137,7 @@ datAccessoryHelp.PTP	135	0	<EMPTY>	スポ‒ツ用のリストバンド。	；�
 datAccessoryHelp.PTP	136	0	<EMPTY>	シンプルなニットキャップ。	；简约的针织帽。
 datAccessoryHelp.PTP	137	0	<EMPTY>	シンプルな銀製の指輪。	；简约的银戒指。
 datAccessoryHelp.PTP	138	0	<EMPTY>	う‒ん	；嗯⋯
-datAccessoryHelp.PTP	139	0	<EMPTY>	高価な素材でできた時計。{0A}高いだけで特に意味はない。	；昂贵的素材制成的手表。{0A}只是很贵，没有什么特殊的含义。
+datAccessoryHelp.PTP	139	0	<EMPTY>	高価な素材でできた時計。{0A}高いだけで特に意味はない。	；昂贵的素材制成的手表。{0A}只是很贵，没什么特殊含义。
 datAccessoryHelp.PTP	140	0	<EMPTY>	@accessory_308C	；@accessory_308C
 datAccessoryHelp.PTP	141	0	<EMPTY>	@accessory_308D	；@accessory_308D
 datAccessoryHelp.PTP	142	0	<EMPTY>	@accessory_308E	；@accessory_308D
