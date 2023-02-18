@@ -105,7 +105,7 @@ datWeaponHelp.PTP	103	0	<EMPTY>	十字を模した打撃武器。	；模仿十�
 datWeaponHelp.PTP	104	0	<EMPTY>	処刑用の斧。	；处刑用的斧子。
 datWeaponHelp.PTP	105	0	<EMPTY>	鎧ごとたたき割る為の斧。	；为了砍碎盔甲的斧子。
 datWeaponHelp.PTP	106	0	<EMPTY>	罪人の狂気を吸った斧。	；吸收了罪人狂气的斧子。
-datWeaponHelp.PTP	107	0	<EMPTY>	使いやすく殺傷力の高い斧。	；用起来很方便且杀伤力高的斧子。
+datWeaponHelp.PTP	107	0	<EMPTY>	使いやすく殺傷力の高い斧。	；使用方便且杀伤力高的斧子。
 datWeaponHelp.PTP	108	0	<EMPTY>	0x06C	
 datWeaponHelp.PTP	109	0	<EMPTY>	巨大な槌。	；巨大的锤。
 datWeaponHelp.PTP	110	0	<EMPTY>	地の神の加護を受けた槌。	；受到地神加护的锤。
