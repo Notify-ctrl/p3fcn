@@ -256,7 +256,7 @@ target=迷你仙人掌
 ------
 offset=0x4E3470
 original=ガラスの一轮插し
-target=玻璃制的小花瓶
+target=玻璃小花瓶
 ------
 offset=0x4E3490
 original=ブランド物の财布
