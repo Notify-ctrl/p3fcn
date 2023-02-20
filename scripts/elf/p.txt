@@ -400,7 +400,7 @@ target=扑杀丸
 ------
 offset=0x6CD708
 original=ハルク
-target=浩克
+target=巨锤
 ------
 offset=0x6CD710
 original=バス停
