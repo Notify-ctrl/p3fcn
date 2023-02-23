@@ -548,7 +548,7 @@ target=火箭飞拳
 ------
 offset=0x4DEB88
 original=メタトロニオス
-target=梅塔特隆之枪
+target=梅塔特隆炮
 ------
 offset=0x4DEBA0
 original=ファランクスB2
