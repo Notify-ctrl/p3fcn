@@ -468,7 +468,7 @@ target=自制钥匙圈
 ------
 offset=0x4E38A8
 original=宝物の金货
-target=宝物之金币
+target=宝物金币
 ------
 offset=0x4E38B8
 original=财宝の金货
