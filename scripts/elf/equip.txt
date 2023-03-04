@@ -180,7 +180,7 @@ target=音速子弹
 ------
 offset=0x4DE428
 original=怒りの铁拳
-target=怒之铁拳
+target=愤怒铁拳
 ------
 offset=0x4DE440
 original=シュプリ‒ムグラブ
@@ -684,11 +684,11 @@ target=金属防御服
 ------
 offset=0x4E02C0
 original=アメニティ‒ス‒ツ
-target=舒适的套装
+target=舒适套装
 ------
 offset=0x4E02D8
 original=达人の胴衣
-target=达人的上衣
+target=达人上衣
 ------
 offset=0x4E02F0
 original=アミ‒ゴポンチョ
@@ -1128,7 +1128,7 @@ target=战斗靴
 ------
 offset=0x4E1788
 original=真红の具足
-target=真红的足具
+target=深红足具
 ------
 offset=0x4E17A0
 original=マジックサンダル
