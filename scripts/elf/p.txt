@@ -552,7 +552,7 @@ target=匕喜
 ------
 offset=0x6CDCC0
 original=辉く鬣
-target=辉鬃毛
+target=辉胡须
 ------
 offset=0x6CDCF8
 original=巾着袋
