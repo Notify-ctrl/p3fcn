@@ -131,7 +131,7 @@ datWeaponHelp.PTP	129	0	<EMPTY>	貫通力に長けた槍。	；贯穿力优秀�
 datWeaponHelp.PTP	130	0	<EMPTY>	死を呼ぶと伝わる槍。	；被称作呼唤死亡的枪。
 datWeaponHelp.PTP	131	0	<EMPTY>	軽く強い万能型の槍。	；轻巧强大的万能之枪。
 datWeaponHelp.PTP	132	0	<EMPTY>	ア‒サ‒王の持った名槍。	；亚瑟王的名枪。
-datWeaponHelp.PTP	133	0	<EMPTY>	ク‒·フ‒リンの持つ魔槍。	；库丘林的魔枪。
+datWeaponHelp.PTP	133	0	<EMPTY>	ク‒·フ‒リンの持つ魔槍。	；库夫林的魔枪。
 datWeaponHelp.PTP	134	0	<EMPTY>	斬る事に特化した長柄武器。	；特化了斩击的长柄武器。
 datWeaponHelp.PTP	135	0	<EMPTY>	反逆者が好んで使用した槍。	；叛逆者喜欢用的枪。
 datWeaponHelp.PTP	136	0	<EMPTY>	美しい鋒は全てを魅了する。	；美丽的锋刃魅惑了一切。
