@@ -1172,7 +1172,7 @@ target=死亡行者
 ------
 offset=0x4E1888
 original=韦驮天の雪驮
-target=韦驮天的雪驮
+target=韦驮天雪屐
 ------
 offset=0x4E1898
 original=武神の具足
@@ -1208,7 +1208,7 @@ target=杀手防滑鞋
 ------
 offset=0x4E1918
 original=唐狮子の雪驮
-target=唐狮子的雪屐
+target=唐狮子雪屐
 ------
 offset=0x4E1928
 original=武人の具足
@@ -1512,11 +1512,11 @@ target=打击识破之书·极
 ------
 offset=0x4E27A8
 original=贯通见切りの书
-target=贯通识破之书
+target=贯穿识破之书
 ------
 offset=0x4E27C0
 original=贯通见切りの书·极
-target=贯通识破之书·极
+target=贯穿识破之书·极
 ------
 offset=0x4E27D8
 original=炎族のお守り
