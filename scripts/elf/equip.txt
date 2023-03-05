@@ -872,7 +872,7 @@ target=ＫＪ式Ｗ板甲
 ------
 offset=0x4E0710
 original=エルゴ式スケイル
-target=ERGO式鳞甲
+target=ＥＲＧＯ式鳞甲
 ------
 offset=0x4E0730
 original=エルゴ式フルボディ
@@ -1272,7 +1272,7 @@ target=超硬质合金腿部用具
 ------
 offset=0x4E1AB0
 original=エルゴ式脚部特甲
-target=ERGO式腿部装甲
+target=ＥＲＧＯ式腿部装甲
 ------
 offset=0x4E1AC8
 original=ク‒ゲルバイン
