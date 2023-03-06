@@ -376,7 +376,7 @@ target=学生会活动室
 ------
 offset=0x57AEA0
 original=职员室
-target=办公室
+target=职员室
 ------
 offset=0x57AEBA
 original=保健室
@@ -524,7 +524,7 @@ target=1F 玄关大厅
 ------
 offset=0x57B262
 original=1F 职员室前廊下
-target=1F 办公室前走廊
+target=1F 职员室前走廊
 ------
 offset=0x57B27C
 original=1F 实习室前廊下
@@ -1136,7 +1136,7 @@ target=天台
 ------
 offset=0x6CF548
 original=职员室
-target=办公室
+target=职员室
 ------
 offset=0x6CF550
 original=保健室
