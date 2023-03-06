@@ -976,7 +976,7 @@ target=影的存在。
 ------
 offset=0x4DAEB0
 original=第13のアルカナに属す、
-target=第十三张大阿尔卡纳的
+target=第十三张大阿尔卡那的
 ------
 offset=0x4DAED0
 original=死の宣告者。

@@ -320,7 +320,7 @@ target=月光馆学园 校门
 ------
 offset=0x57AD34
 original=ポロニアンモ‒ル
-target=桐叶商店街
+target=桐叶商业街
 ------
 offset=0x57AD4E
 original=辰巳ポ‒トアイランド駅前
@@ -816,7 +816,7 @@ target=室内泳池
 ------
 offset=0x5A4F40
 original=ポロニアンモ‒ル
-target=桐叶商店街
+target=桐叶商业街
 ------
 offset=0x5A4F60
 original=ベルベットル‒ム
