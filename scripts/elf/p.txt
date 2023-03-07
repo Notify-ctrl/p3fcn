@@ -504,7 +504,7 @@ target=苏摩
 ------
 offset=0x6CDBF0
 original=反魂香
-target=反魂香
+target=返魂香
 ------
 offset=0x6CDBF8
 original=剧药
