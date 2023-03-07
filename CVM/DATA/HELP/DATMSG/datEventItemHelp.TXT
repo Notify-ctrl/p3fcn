@@ -63,7 +63,7 @@ datEventItemHelp.PTP	61	0	<EMPTY>	超人気ヒ‒ロ‒の人形。{0A}全身40�
 datEventItemHelp.PTP	62	0	<EMPTY>	アマチュアのアスリ‒トが{0A}使うと効果絶大。	；业余运动员使用的话{0A}效果非常显著。
 datEventItemHelp.PTP	63	0	<EMPTY>	高価なドッグフ‒ド。{0A}狼や虎の餌にもなる。	；昂贵的狗粮。{0A}可以做狼和老虎的食物。
 datEventItemHelp.PTP	64	0	<EMPTY>	銃器のメンテナンスに{0A}用いる。	；维护枪械用。
-datEventItemHelp.PTP	65	0	<EMPTY>	8つ全てを合わせる事で{0A}扉を開く鍵となる。	；集齐八个，就能合成{0A}开门的钥匙。
+datEventItemHelp.PTP	65	0	<EMPTY>	8つ全てを合わせる事で{0A}扉を開く鍵となる。	；集齐8个，就能合成{0A}开门的钥匙。
 datEventItemHelp.PTP	66	0	<EMPTY>	閉ざされた扉を開き、{0A}外へ出る事ができる鍵。	；能打开关闭的门{0A}到外面去的钥匙。
 datEventItemHelp.PTP	67	0	<EMPTY>	@eventitem_067	
 datEventItemHelp.PTP	68	0	<EMPTY>	@eventitem_068	
