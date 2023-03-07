@@ -1092,11 +1092,11 @@ target=运
 ------
 offset=0x6CF498
 original=マタネ
-target=再见
+target=下次见
 ------
 offset=0x6CF4A0
 original=アバヨ
-target=再见
+target=拜拜啦
 ------
 offset=0x6CF4A8
 original=归宅
