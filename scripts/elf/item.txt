@@ -568,7 +568,7 @@ target=黑蛇鳞片
 ------
 offset=0x4E3A58
 original=偶像の欠片
-target=雕像碎片
+target=偶像碎片
 ------
 offset=0x4E3A68
 original=污れた齿车
