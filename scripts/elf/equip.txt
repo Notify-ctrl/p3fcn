@@ -900,7 +900,7 @@ target=蓝色飞镖
 ------
 offset=0x4E07E0
 original=エレガントビキニ
-target=优雅的比基尼
+target=优雅比基尼
 ------
 offset=0x4E0800
 original=スカイワンピ‒ス
