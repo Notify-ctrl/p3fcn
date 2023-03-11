@@ -30,7 +30,7 @@ DUNGEONAT04_AEGIS.PTP	12	0	山岸 風花	そろそろ敵反応に接触しそう
 DUNGEONAT04_AEGIS.PTP	13	0	山岸 風花	えっ?{0A}そんな⋯近い!	；诶？{0A}怎么⋯这么近！
 DUNGEONAT04_AEGIS.PTP	13	1	山岸 風花	72階に強い反応です!	；72层有强烈的反应！
 DUNGEONAT04_AEGIS.PTP	13	2	山岸 風花	気をつけてください。	；请注意了。
-DUNGEONAT04_AEGIS.PTP	14	0	山岸 風花	敵が上の階で待ち構えています。	；敌人在在上层严阵以待。
+DUNGEONAT04_AEGIS.PTP	14	0	山岸 風花	敵が上の階で待ち構えています。	；敌人在上层严阵以待。
 DUNGEONAT04_AEGIS.PTP	14	1	山岸 風花	注意してください。	；请注意了。
 DUNGEONAT04_AEGIS.PTP	15	0	山岸 風花	フロアの敵の雰囲気が変わりました!	；楼层中敌人的氛围改变了！
 DUNGEONAT04_AEGIS.PTP	15	1	山岸 風花	慎重に進んでください。	；还请慎重前行。
