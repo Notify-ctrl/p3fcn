@@ -1176,7 +1176,7 @@ target=韦驮天雪屐
 ------
 offset=0x4E1898
 original=武神の具足
-target=武神的足具
+target=武神足具
 ------
 offset=0x4E18A8
 original=圣王の靴
