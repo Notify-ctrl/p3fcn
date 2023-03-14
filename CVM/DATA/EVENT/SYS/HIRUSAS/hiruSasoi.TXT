@@ -220,7 +220,7 @@ hiruSasoi.PTP	74	0	平賀 慶介	あっ、{F1 0A}くん⋯{0A}奇遇⋯なのか
 hiruSasoi.PTP	74	1	平賀 慶介	今日は、部活行くの?	；今天参加社团活动吗？
 hiruSasoi.PTP	75	0	<SELECT>	出る予定	；打算参加
 hiruSasoi.PTP	75	1	<SELECT>	まだ決めてない	；还没决定
-hiruSasoi.PTP	76	0	平賀 慶介	そっか、やる気だね‒、{F1 0A}くんは⋯	；这样啊，{F1 0A}你真有干劲啊⋯
+hiruSasoi.PTP	76	0	平賀 慶介	そっか、やる気だね‒、{F1 0A}くんは⋯	；这样啊，{F1 0A}你真有干劲⋯
 hiruSasoi.PTP	76	1	平賀 慶介	⋯あっ、僕ももちろん、やる気だよ!	；⋯啊，我当然也很有干劲！
 hiruSasoi.PTP	76	2	平賀 慶介	じゃ、じゃあまた後でね!	；那，之后见哦！
 hiruSasoi.PTP	76	3	平賀 慶介	 {0A}>平賀は何か隠しているようだ⋯	； {0A}>平贺好像在隐瞒什么⋯
