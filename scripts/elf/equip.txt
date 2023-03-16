@@ -324,7 +324,7 @@ target=本源之斧
 ------
 offset=0x4DE708
 original=本源の金槌
-target=本源之金槌
+target=本源之锤
 ------
 offset=0x4DE718
 original=ミョルニル
