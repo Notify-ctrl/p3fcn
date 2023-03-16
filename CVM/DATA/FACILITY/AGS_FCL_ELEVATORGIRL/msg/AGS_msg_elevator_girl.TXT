@@ -595,12 +595,12 @@ AGS_msg_elevator_girl.PTP	250	1	エリザベス	ありがとうございます�
 AGS_msg_elevator_girl.PTP	250	2	エリザベス	健やかに、そして無限大に、{0A}育ってくれると良いのですが⋯	；希望它能健康地{0A}长到无限大啊⋯
 AGS_msg_elevator_girl.PTP	251	0	エリザベス	それが、フェ‒ザ‒マンRの人形⋯	；这是，翔羽侠R的人偶⋯
 AGS_msg_elevator_girl.PTP	251	1	エリザベス	少し、触らせて頂けますか。	；能让我触碰一下吗。
-AGS_msg_elevator_girl.PTP	251	2	エリザベス	なるほど⋯色々なポ‒ズを取らせて、{0A}遊ぶのですね。	；原来如此⋯玩赏方法是{0A}让它摆出各种姿势。
-AGS_msg_elevator_girl.PTP	251	3	エリザベス	あ⋯こんなポ‒ズまで⋯	；啊⋯连这种姿势也能⋯
-AGS_msg_elevator_girl.PTP	251	4	エリザベス	まあ⋯こんなポ‒ズまで⋯?	；不过⋯这种姿势也能⋯？
+AGS_msg_elevator_girl.PTP	251	2	エリザベス	なるほど⋯色々なポ‒ズを取らせて、{0A}遊ぶのですね。	；原来如此⋯{0A}玩赏方法是让它摆出各种姿势。
+AGS_msg_elevator_girl.PTP	251	3	エリザベス	あ⋯こんなポ‒ズまで⋯	；啊⋯这种姿势也能⋯
+AGS_msg_elevator_girl.PTP	251	4	エリザベス	まあ⋯こんなポ‒ズまで⋯?	；哎呀⋯连这种姿势也能⋯？
 AGS_msg_elevator_girl.PTP	251	5	エリザベス	えっ、そんな⋯	；诶，怎么会这样⋯
 AGS_msg_elevator_girl.PTP	251	6	エリザベス	⋯⋯。	；⋯⋯
-AGS_msg_elevator_girl.PTP	251	7	エリザベス	⋯私には少々刺激が強すぎます。{0A}この人形はどうぞお持ちください。	；⋯这对于我来说太过于刺激了。{0A}请您将这个人偶拿走。
+AGS_msg_elevator_girl.PTP	251	7	エリザベス	⋯私には少々刺激が強すぎます。{0A}この人形はどうぞお持ちください。	；⋯这对于我来说过于刺激了。{0A}请您将这个人偶拿走。
 AGS_msg_elevator_girl.PTP	252	0	エリザベス	この刀が⋯日蓮が使っていたと言われる{0A}"じゅずまるつねつぐ"ですね。	；这把刀就是⋯据说日莲曾经使用过的{0A}“数珠丸恒次”。
 AGS_msg_elevator_girl.PTP	252	1	エリザベス	なるほど、柄に数珠が掛けられているのが{0A}破邪の刀と言われる所以なのですね。	；原来如此，因为刀柄挂有数颗珠子{0A}所以被称作破邪之刀啊。
 AGS_msg_elevator_girl.PTP	252	2	エリザベス	それに、なんとも長大な刀身でございます。	；而且，刀身居然有这么长。
