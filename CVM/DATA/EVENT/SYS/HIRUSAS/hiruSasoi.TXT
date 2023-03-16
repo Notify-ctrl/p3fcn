@@ -460,7 +460,7 @@ hiruSasoi.PTP	157	4	岳羽 ゆかり	>放課後、声を掛けてみようか⋯
 hiruSasoi.PTP	158	0	岳羽 ゆかり	あ、{F1 0A}君。	；啊，{F1 0A}同学。
 hiruSasoi.PTP	158	1	岳羽 ゆかり	⋯そうだ、あのね⋯	；⋯对了，那个⋯
 hiruSasoi.PTP	158	2	岳羽 ゆかり	今度、時間ある日⋯{0A}聞いておきたいんだけど⋯	；下次你有空时⋯{0A}我有话想对你说⋯
-hiruSasoi.PTP	159	0	<SELECT>	まだ分からない	；还不清楚
+hiruSasoi.PTP	159	0	<SELECT>	まだ分からない	；不清楚什么时候有空
 hiruSasoi.PTP	159	1	<SELECT>	なんで?	；为什么？
 hiruSasoi.PTP	160	0	岳羽 ゆかり	そ、そうだよね、急にゴメン⋯	；也、也是啊，不好意思我这么突然⋯
 hiruSasoi.PTP	160	1	岳羽 ゆかり	もしヒマな時とかあるなら⋯{0A}ゆっくり、話したいなって⋯	；你要是有空的话⋯{0A}我想慢慢地和你说⋯
