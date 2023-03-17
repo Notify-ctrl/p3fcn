@@ -132,7 +132,7 @@ target=短剑
 ------
 offset=0x4DE358
 original=ギムレット
-target=手钻
+target=吉姆雷特
 ------
 offset=0x4DE368
 original=グラディウス

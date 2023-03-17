@@ -58,7 +58,7 @@ MSG_QUEST.PTP	56	0	<EMPTY>	ポロニアンモ‒ルに出かけたい。	；想�
 MSG_QUEST.PTP	57	0	<EMPTY>	巌戸台に出かけたい。	；想去岩户台。
 MSG_QUEST.PTP	58	0	<EMPTY>	長鳴神社に出かけたい。	；想去长鸣神社。
 MSG_QUEST.PTP	59	0	<EMPTY>	月光館学園に出かけたい。	；想去月光馆学园。
-MSG_QUEST.PTP	60	0	<EMPTY>	あなたの部屋に出かけたい。	；想去你的房间。
+MSG_QUEST.PTP	60	0	<EMPTY>	あなたの部屋に出かけたい。	；想去您的房间。
 MSG_QUEST.PTP	61	0	<EMPTY>	カデンツァを発現させよ。	；显现“华彩乐段”。
 MSG_QUEST.PTP	62	0	<EMPTY>	ジャックブラザ‒ズを発現させよ。	；显现“杰克兄弟”。
 MSG_QUEST.PTP	63	0	<EMPTY>	ジャスティス!を発現させよ。	；显现“正义！”。
