@@ -800,7 +800,7 @@ target=战斗紧身衣
 ------
 offset=0x4E0508
 original=スパイクブラ
-target=铁钉Bra
+target=铁钉内衣
 ------
 offset=0x4E0518
 original=悠久の铠
