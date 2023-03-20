@@ -2,7 +2,7 @@ AGS_msg_weapon.PTP	0	0	<SELECT>	はい	是
 AGS_msg_weapon.PTP	0	1	<SELECT>	いいえ	否
 AGS_msg_weapon.PTP	1	0	黑泽巡查	よう、来たな。{0A}今日は气分がいいんだ、安くしてやるよ。	哟，来了啊。{0A}我今天心情不错，算你便宜点。
 AGS_msg_weapon.PTP	2	0	黑泽巡查	dummy卖り切れです。	dummy卖完了。
-AGS_msg_weapon.PTP	3	0	黑泽巡查	新しいのを调达してきた。{0A}好きなのを选んでいけ。	有到新的武器。{0A}选你喜欢的吧。
+AGS_msg_weapon.PTP	3	0	黑泽巡查	新しいのを调达してきた。{0A}好きなのを选んでいけ。	有新的武器到了。{0A}选你喜欢的吧。
 AGS_msg_weapon.PTP	4	0	黑泽巡查	圆だが、いいか?	日元，可以吗？
 AGS_msg_weapon.PTP	5	0	黑泽巡查	役立ててくれ。	希望能派上用场。
 AGS_msg_weapon.PTP	6	0	黑泽巡查	圆で引き取ろうか?	日元，要卖掉吗？
