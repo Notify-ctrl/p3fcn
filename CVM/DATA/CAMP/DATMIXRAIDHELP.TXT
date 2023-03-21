@@ -15,4 +15,4 @@ DATMIXRAIDHELP.PTP	13	0	<EMPTY>	敵全体に打撃属性で{0A}大ダメ‒ジ�
 DATMIXRAIDHELP.PTP	14	0	<EMPTY>	敵全体に電撃属性で{0A}大ダメ‒ジ+"感電"。	；对敌方全体造成电击属性{0A}大量伤害+“感电状态”。
 DATMIXRAIDHELP.PTP	15	0	<EMPTY>	敵全体に万能属性で{0A}超大ダメ‒ジ。	；对敌方全体造成万能属性{0A}超大量伤害。
 DATMIXRAIDHELP.PTP	16	0	<EMPTY>	敵全体を中確率でダウン、{0A}さらにデカジャ効果。	；使敌方全体中等概率倒地{0A}并且抵消所有卡加系技能效果。	
-DATMIXRAIDHELP.PTP	17	0	<EMPTY>	敵全体に光属性で{0A}現在HPの50%ダメ‒ジ。	；对敌方全体造成{0A}当前HP的50%的光属性伤害。
+DATMIXRAIDHELP.PTP	17	0	<EMPTY>	敵全体に光属性で{0A}現在HPの50%ダメ‒ジ。	；对敌方全体造成当前HP的{0A}50%的光属性伤害。
