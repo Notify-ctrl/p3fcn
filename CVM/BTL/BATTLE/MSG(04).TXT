@@ -83,7 +83,7 @@ MSG(04).PTP	81	0	<EMPTY>	クリティカル率が大幅に上がった!	；暴�
 MSG(04).PTP	82	0	<EMPTY>	状态异常の付着率が上がった!	；异常状态附着率提升了！
 MSG(04).PTP	83	0	<EMPTY>	状态异常の付着率が上がった!	；异常状态附着率提升了！
 MSG(04).PTP	84	0	<EMPTY>	味方全体が无敌化した!	；我方全体无敌化了！
-MSG(04).PTP	85	0	<EMPTY>	敌は使わない	；不对能敌方使用！
+MSG(04).PTP	85	0	<EMPTY>	敌は使わない	；不能对敌方使用！
 MSG(04).PTP	86	0	<EMPTY>	は无敌状态となった!	；进入无敌状态了！
 MSG(04).PTP	87	0	<EMPTY>	あり得ない	；做不到
 MSG(04).PTP	88	0	<EMPTY>	回避率が上がり、HPが回复した!	；回避率提升了，HP回复了！
@@ -102,16 +102,16 @@ MSG(04).PTP	100	0	<EMPTY>	敌全体がダウンした!	；敌方全体被击倒�
 MSG(04).PTP	101	0	<EMPTY>	敌がダウンした!	；敌人被击倒了！
 MSG(04).PTP	102	0	<EMPTY>	味方がダウンした!	；我方同伴被击倒了！
 MSG(04).PTP	103	0	<EMPTY>	味方がダウンした!	；我方同伴被击倒了！
-MSG(04).PTP	104	0	<EMPTY>	全体がダウンした!	；我方全体被击倒了！
-MSG(04).PTP	105	0	<EMPTY>	全体がダウンした!	；我方全体被击倒了！
+MSG(04).PTP	104	0	<EMPTY>	全体がダウンした!	；全体被击倒了！
+MSG(04).PTP	105	0	<EMPTY>	全体がダウンした!	；全体被击倒了！
 MSG(04).PTP	106	0	<EMPTY>	何も起こらなかった!	；什么都没有发生！
 MSG(04).PTP	107	0	<EMPTY>	何も起こらなかった!	；什么都没有发生！
 MSG(04).PTP	108	0	<EMPTY>	味方のHP·SPが全快した!	；我方的HP·SP恢复了！
 MSG(04).PTP	109	0	<EMPTY>	味方のHP·SPが全快した!	；我方的HP·SP恢复了！
 MSG(04).PTP	110	0	<EMPTY>	敌のHP·SPが全快した!	；敌方的HP·SP恢复了！
 MSG(04).PTP	111	0	<EMPTY>	敌のHP·SPが全快した!	；敌方的HP·SP恢复了！
-MSG(04).PTP	112	0	<EMPTY>	全体のHP·SPが全快した!	；全体のHP·SP恢复了！
-MSG(04).PTP	113	0	<EMPTY>	全体のHP·SPが全快した!	；全体のHP·SP恢复了！
+MSG(04).PTP	112	0	<EMPTY>	全体のHP·SPが全快した!	；全体的HP·SP恢复了！
+MSG(04).PTP	113	0	<EMPTY>	全体のHP·SPが全快した!	；全体的HP·SP恢复了！
 MSG(04).PTP	114	0	<EMPTY>	リザ‒ブ	
 MSG(04).PTP	115	0	<EMPTY>	リザ‒ブ	
 MSG(04).PTP	116	0	<EMPTY>	リザ‒ブ	
