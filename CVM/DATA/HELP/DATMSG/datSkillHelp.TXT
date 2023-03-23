@@ -71,8 +71,8 @@ datSkillHelp.PTP	69	0	<EMPTY>	敵全体に"毒"効果。	；给予敌方全体�
 datSkillHelp.PTP	70	0	<EMPTY>	敵全体に毒属性で現在HPの{0A}25%ダメ‒ジ。	；给予敌方全体当前HP的25%{0A}毒属性伤害。
 datSkillHelp.PTP	71	0	<EMPTY>	047	
 datSkillHelp.PTP	72	0	<EMPTY>	048	
-datSkillHelp.PTP	73	0	<EMPTY>	敵単体の状態異常付着率が{0A}一定タ‒ンの間上昇。	；敌方单体一定回合内{0A}状态异常附着率上升。
-datSkillHelp.PTP	74	0	<EMPTY>	敵味方の状態異常付着率が{0A}一定タ‒ンの間上昇。	；敌我双方全体一定回合内{0A}状态异常附着率上升。
+datSkillHelp.PTP	73	0	<EMPTY>	敵単体の状態異常付着率が{0A}一定タ‒ンの間上昇。	；敌方单体一定回合内{0A}异常状态附着率上升。
+datSkillHelp.PTP	74	0	<EMPTY>	敵味方の状態異常付着率が{0A}一定タ‒ンの間上昇。	；敌我双方全体一定回合内{0A}异常状态附着率上升。
 datSkillHelp.PTP	75	0	<EMPTY>	敵単体からHPを吸収する。	；从敌方单体吸收HP。
 datSkillHelp.PTP	76	0	<EMPTY>	敵単体からSPを吸収する。	；从敌方单体吸收SP。
 datSkillHelp.PTP	77	0	<EMPTY>	04D	

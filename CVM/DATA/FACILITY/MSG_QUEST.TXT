@@ -29,7 +29,7 @@ MSG_QUEST.PTP	27	0	<EMPTY>	を{F2 03 02 01}つ入手せよ。	；，获取{F2 03
 MSG_QUEST.PTP	28	0	<EMPTY>	私の名前が付いた飲み物を探して欲しい。	；希望找来带有我名字的饮品。
 MSG_QUEST.PTP	29	0	<EMPTY>	レベル33以上のオオミツヌを創造せよ。	；创造33级以上的八束水臣津野命。
 MSG_QUEST.PTP	30	0	<EMPTY>	を{F2 03 02 01}つ入手せよ。	；，获取{F2 03 02 01}个吧。
-MSG_QUEST.PTP	31	0	<EMPTY>	謎のキレイなピ‒スを見てみたい。	；想看看迷之美丽的方块。
+MSG_QUEST.PTP	31	0	<EMPTY>	謎のキレイなピ‒スを見てみたい。	；想看看谜之美丽的方块。
 MSG_QUEST.PTP	32	0	<EMPTY>	を{F2 03 02 01}つ入手せよ。	；，获取{F2 03 02 01}个吧。
 MSG_QUEST.PTP	33	0	<EMPTY>	を{F2 03 02 01}つ入手せよ。	；，获取{F2 03 02 01}个吧。
 MSG_QUEST.PTP	34	0	<EMPTY>	を{F2 03 02 01}つ入手せよ。	；，获取{F2 03 02 01}个吧。
