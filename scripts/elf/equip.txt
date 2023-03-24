@@ -804,7 +804,7 @@ target=铁钉内衣
 ------
 offset=0x4E0518
 original=悠久の铠
-target=悠久之凯
+target=悠久之铠
 ------
 offset=0x4E0528
 original=ドッグス‒ツ
