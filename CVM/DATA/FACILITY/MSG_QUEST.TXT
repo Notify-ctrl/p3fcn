@@ -82,7 +82,7 @@ MSG_QUEST.PTP	80	0	<EMPTY>	おでんジュ‒スを飲んでみたい。	；想�
 MSG_QUEST.PTP	81	0	<EMPTY>	虎と狼の食料を持ってきて。	；带来虎与狼的饲料。
 MSG_QUEST.PTP	82	0	<EMPTY>	トイレ掃除をしてきて。	；打扫厕所。
 MSG_QUEST.PTP	83	0	<EMPTY>	花に水をあげてきて。	；去给花浇水。
-MSG_QUEST.PTP	84	0	<EMPTY>	無気力症の人を調べてきて。	；调查无力症的人。
+MSG_QUEST.PTP	84	0	<EMPTY>	無気力症の人を調べてきて。	；调查无气力症的人。
 MSG_QUEST.PTP	85	0	<EMPTY>	ネコに餌をあげてきて。	；给猫咪喂食。
 MSG_QUEST.PTP	86	0	<EMPTY>	フェザ‒マンRの人形を持ってきて。	；带来翔羽侠R的人偶。
 MSG_QUEST.PTP	87	0	<EMPTY>	数珠丸恒次を持ってきて。	；带来数珠丸恒次。
