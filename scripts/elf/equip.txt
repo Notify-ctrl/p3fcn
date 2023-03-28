@@ -1472,7 +1472,7 @@ target=大蛇之眼
 ------
 offset=0x4E26D8
 original=静寂の指轮
-target=静寂之戒指
+target=静寂戒指
 ------
 offset=0x4E26F0
 original=フロストキャップ
