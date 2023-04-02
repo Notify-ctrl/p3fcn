@@ -46,7 +46,7 @@ datItemHelp.PTP	44	0	<EMPTY>	敵全体に氷結属性で{0A}小ダメ‒ジ+"氷
 datItemHelp.PTP	45	0	<EMPTY>	敵単体に疾風属性で{0A}中ダメ‒ジ。	；对敌方单体造成{0A}疾风属性中量伤害。
 datItemHelp.PTP	46	0	<EMPTY>	敵全体に疾風属性で{0A}小ダメ‒ジ。	；对敌方全体造成{0A}疾风属性少量伤害。
 datItemHelp.PTP	47	0	<EMPTY>	敵単体に電撃属性で{0A}中ダメ‒ジ+"感電"。	；对敌方单体造成{0A}电击属性中量伤害+触电状态。
-datItemHelp.PTP	48	0	<EMPTY>	敵全体に電撃属性で{0A}小ダメ‒ジ+"感電"。	；对敌方全体造成{0A}电击属性中量伤害+触电状态。
+datItemHelp.PTP	48	0	<EMPTY>	敵全体に電撃属性で{0A}小ダメ‒ジ+"感電"。	；对敌方全体造成{0A}电击属性小量伤害+触电状态。
 datItemHelp.PTP	49	0	<EMPTY>	敵全体に万能属性で{0A}中ダメ‒ジ。	；对敌方全体造成{0A}万能属性中量伤害。
 datItemHelp.PTP	50	0	<EMPTY>	一部の戦闘を除いて{0A}確実に逃走が成功。	；除了一部分战斗以外{0A}必然成功逃跑。
 datItemHelp.PTP	51	0	<EMPTY>	リザ‒ブ	
