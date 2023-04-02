@@ -82,7 +82,7 @@ msg_quest.PTP	80	0	<EMPTY>	おでんジュ‒スを飲んでみたい。	；想�
 msg_quest.PTP	81	0	<EMPTY>	ジャックフロストの人形が欲しい。	；想要杰克霜精的人偶。
 msg_quest.PTP	82	0	<EMPTY>	トイレ掃除をしてきて。	；打扫厕所。
 msg_quest.PTP	83	0	<EMPTY>	花に水をあげてきて。	；去给花浇水。
-msg_quest.PTP	84	0	<EMPTY>	無気力症の人を調べてきて。	；调查无力症的人。
+msg_quest.PTP	84	0	<EMPTY>	無気力症の人を調べてきて。	；调查无气力症的人。
 msg_quest.PTP	85	0	<EMPTY>	ネコに餌をあげてきて。	；给猫咪喂食。
 msg_quest.PTP	86	0	<EMPTY>	劇薬を持ってきて。	；带来烈性药。
 msg_quest.PTP	87	0	<EMPTY>	数珠丸恒次を持ってきて。	；带来数珠丸恒次。
