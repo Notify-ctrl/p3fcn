@@ -13,7 +13,7 @@ DUNGEONAT_AEGIS.PTP	6	1	山岸 風花	では、次に進みましょう!{0A}残�
 DUNGEONAT_AEGIS.PTP	7	0	山岸 風花	扉の間に引き上げますか?	；要回到门扉之间吗？
 DUNGEONAT_AEGIS.PTP	8	0	山岸 風花	了解しました。{0A}⋯こちらで、待ってますね。	；我明白了。{0A}⋯我在这边等候大家啊。
 DUNGEONAT_AEGIS.PTP	9	0	岳羽 ゆかり	はい、コレ。	；来，这个给你。
-DUNGEONAT_AEGIS.PTP	10	0	桐条 美鶴	⋯{F1 0A}、これを頼む。	；⋯{F1 0A}，这个就交个你了。
+DUNGEONAT_AEGIS.PTP	10	0	桐条 美鶴	⋯{F1 0A}、これを頼む。	；⋯{F1 0A}，这个就交给你了。
 DUNGEONAT_AEGIS.PTP	11	0	伊織 順平	じゃあ、コレな⋯	；那么，这个就⋯
 DUNGEONAT_AEGIS.PTP	12	0	真田 明彦	ほらよ⋯預けとく。	；接着⋯先放你那。
 DUNGEONAT_AEGIS.PTP	13	0	天田 乾	コレ、僕の分です。	；这是我的份。
